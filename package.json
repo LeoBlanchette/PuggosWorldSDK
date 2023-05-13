@@ -1,8 +1,8 @@
 {
 	"name": "com.leoblanchette.puggosworldsdk",
-	"displayName": "PuggosWorldSDK: An Unturned Modding Tool",
+	"displayName": "PuggosWorldSDK: An Unturned Modding Tool.",
 	"version": "1.0.0",
-	"unity": "2020.3.38",
+	"unity": "2020.3",
 	"description": "A modding assistant for streamlining large mod projects for the game Unturned.",
 	"dependencies": {},
 	"homepage": "https://github.com/LeoBlanchette/PuggosWorldSDK.git",
