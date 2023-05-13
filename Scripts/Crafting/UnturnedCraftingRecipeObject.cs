@@ -60,7 +60,7 @@ namespace LB3D.PuggosWorld.Unturned
             public int amount = 1;
         }
 
-        private string bluePrintNumber = "";
+        private string bluePrintNumberString = "";
 
         [Header("Tool Used")]
         [Tooltip("Leave blank if no tool is needed.")]
@@ -79,6 +79,9 @@ namespace LB3D.PuggosWorld.Unturned
         [Tooltip("This refers to biproducts of the operation. Such as breaking down item.")]
         public Output product;
 
+        [Header("Build Animation")]
+        public int build = 27;
+
         [Header("Other Directives")]
         [Tooltip("These are other directives, such as you would find in a .dat file, such as PlacementAudioClip or other key / value entries.")]
         public UnturnedDatFileScriptableObject.KeyValEntry[] datFileValues;
@@ -93,22 +96,32 @@ namespace LB3D.PuggosWorld.Unturned
         /// Outputs the blueprint text in .dat file format. 
         /// </summary>
         /// <returns></returns>
-        public string GetText(int blueprintNumber)
+        public string GetText(int blueprintNumber, int blueprintTotalNumber)
         {
-            this.bluePrintNumber = "Blueprint_" + blueprintNumber.ToString();
+            
+            this.bluePrintNumberString = "Blueprint_" + blueprintNumber.ToString();
             string text = "";
 
+            if (blueprintNumber == 0)
+            {
+                text += GetBluePrintTotalCount(blueprintTotalNumber);
+            }
             text += GetBlueprintType();
             text += GetBlueprintTool();
             text += GetBluePrintSkill();
             text += GetBluePrintSuppliesCount();
             text += GetBlueprintSuppliesList();
-            text += GetBlueprintProductList();
+            text += GetBlueprintProduct();
             text += GetBlueOutputsCount();
             text += GetBlueprintOutputsList();
-
+            text += GetBuildAnimation();
             return text;
         }
+
+        public string GetBluePrintTotalCount(int blueprintTotalNumber) {
+            return "Blueprints " + blueprintTotalNumber.ToString() + Newline();
+        }
+
         /// <summary>
         /// Gives the total expected count of ingredients / supplies.
         /// </summary>
@@ -116,7 +129,7 @@ namespace LB3D.PuggosWorld.Unturned
         public string GetBluePrintSuppliesCount()
         {
             if (ingredients == null) return "";
-            return bluePrintNumber + "_Supplies" + " " + ingredients.Length+Newline();
+            return bluePrintNumberString + "_Supplies" + " " + ingredients.Length+Newline();
         }
         /// <summary>
         /// Provides the ingredient list text.
@@ -127,8 +140,8 @@ namespace LB3D.PuggosWorld.Unturned
             int count = 0;
             foreach (Supply ingredient in ingredients)
             {
-                text += bluePrintNumber + "_Supply_" + count + "_ID " + ingredient.item.id + Newline();
-                text += bluePrintNumber + "_Supply_" + count + "_Amount " + ingredient.amount + Newline();
+                text += bluePrintNumberString + "_Supply_" + count + "_ID " + ingredient.item.id + Newline();
+                text += bluePrintNumberString + "_Supply_" + count + "_Amount " + ingredient.amount + Newline();
                 count++;
             }
             return text;
@@ -141,17 +154,18 @@ namespace LB3D.PuggosWorld.Unturned
         public string GetBlueOutputsCount()
         {
             if (outputs == null) return "";
-            return bluePrintNumber + "_Outputs" + " " + outputs.Length + Newline();
+            if (outputs.Length == 0) return "";
+            return bluePrintNumberString + "_Outputs" + " " + outputs.Length + Newline();
         }
 
         public string GetBlueprintOutputsList()
         {
             string text = "";
             int count = 0;
-            foreach (Supply ingredient in ingredients)
+            foreach (Output ingredient in outputs)
             {
-                text += bluePrintNumber + "_Output_" + count + "_ID " + ingredient.item.id + Newline();
-                text += bluePrintNumber + "_Output_" + count + "_Amount " + ingredient.amount + Newline();
+                text += bluePrintNumberString + "_Output_" + count + "_ID " + ingredient.item.id + Newline();
+                text += bluePrintNumberString + "_Output_" + count + "_Amount " + ingredient.amount + Newline();
                 count++;
             }
             return text;
@@ -161,12 +175,14 @@ namespace LB3D.PuggosWorld.Unturned
         /// Generates the products of scrapping n' stuff.
         /// </summary>
         /// <returns></returns>
-        public string GetBlueprintProductList()
-        {
+        public string GetBlueprintProduct()
+        {            
+            if (product.item == null) return "";
+
             string text = "";
             if (product == null) return text;
-            text += bluePrintNumber + "_Product " + product.item.id + Newline();
-            text += bluePrintNumber + "_Products " + product.amount + Newline();
+            text += bluePrintNumberString + "_Product " + product.item.id + Newline();
+            text += bluePrintNumberString + "_Products " + product.amount + Newline();
             return text;
         }
 
@@ -176,7 +192,7 @@ namespace LB3D.PuggosWorld.Unturned
         /// <returns></returns>
         public string GetBlueprintType() {
             string text = "";
-            text += bluePrintNumber + "_Type " + bluePrintType.ToString() + Newline();
+            text += bluePrintNumberString + "_Type " + bluePrintType.ToString() + Newline();
             return text;
         }
         /// <summary>
@@ -187,14 +203,16 @@ namespace LB3D.PuggosWorld.Unturned
         {
             string text = "";
             if (tool == null) return text;
-            text += bluePrintNumber + "_Tool " + tool.id + Newline();
+            text += bluePrintNumberString + "_Tool " + tool.id + Newline();
             return text;
         }
 
         public string GetBluePrintSkill() {
-            string text = "";           
-            text += bluePrintNumber + "_Level " + GetSkillLevelInt().ToString() + Newline();
-            text += bluePrintNumber + "_Skill " + blueprintSkill.ToString() + Newline();
+            string text = "";
+            if (GetSkillLevelInt() < 1) return text;
+            if (blueprintSkill == BluePrintSkill.None) return text;
+            text += bluePrintNumberString + "_Level " + GetSkillLevelInt().ToString() + Newline();
+            text += bluePrintNumberString + "_Skill " + blueprintSkill.ToString() + Newline();
             return text;
         }
         public int GetSkillLevelInt() {
@@ -211,6 +229,10 @@ namespace LB3D.PuggosWorld.Unturned
                 default:
                     return 0;                   
             }
+        }
+
+        public string GetBuildAnimation() {
+            return bluePrintNumberString + "_Build " + build.ToString() + Newline();            
         }
     }
 }

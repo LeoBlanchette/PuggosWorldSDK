@@ -273,7 +273,7 @@ namespace LB3D.PuggosWorld.Unturned
             int i = 0;
             foreach (UnturnedCraftingRecipeObject craftingRecipe in craftingRecipies)
             {
-                string recipeText = craftingRecipe.GetText(i)+"\n";
+                string recipeText = craftingRecipe.GetText(i, craftingRecipies.Count) +"\n";
                 text += recipeText;
                 i++;
             }
