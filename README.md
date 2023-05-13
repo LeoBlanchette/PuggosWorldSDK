@@ -1,3 +1,3 @@
 # PuggosWorldSDK
 
-I like to build and mod games. Sometimes the process has to be automated and streamlined, especially for big projects. That is why I made the **Puggo's World SDK** for Unturned. 
+I like to build and mod games. For bigger or more detailed projects, it helps to automate some parts of the process. That is why I made the **Puggo's World SDK** for Unturned. 
