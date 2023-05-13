@@ -1,2 +1,3 @@
 # PuggosWorldSDK
-A modding SDK for various games. 
+
+I like to build and mod games. Sometimes the process has to be automated, especially for big projects. That is why I made the **Puggo's World SDK**. 
