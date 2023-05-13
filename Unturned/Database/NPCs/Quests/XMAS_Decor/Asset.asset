@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 40
+  rarity: 0
+  id: 327
+  nameEnglish: 'Festive Cheer
+
+    Description Use the Saw to harvest Candycane
+    Fragments and create some decorations.
+
+    
+
+    Condition_0 {0}/{1} Candycanes
+    Harvested
+
+    Condition_1 {0}/{1} Decorations Crafted'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Conditions
+    val: 2
+  - key: Condition_0_Type
+    val: Kills_Tree
+  - key: Condition_0_ID
+    val: 330
+  - key: Condition_0_Tree
+    val: 57c15ead4dce46b1ae5503fed72fbc8d
+  - key: Condition_0_Value
+    val: 1
+  - key: Condition_0_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: Condition_0_Reset
+    val: 
+  - key: Condition_1_Type
+    val: Flag_Short
+  - key: Condition_1_ID
+    val: 329
+  - key: Condition_1_Value
+    val: 5
+  - key: Condition_1_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: Condition_1_Reset
+    val: 
+  - key: Rewards
+    val: 3
+  - key: Reward_0_Type
+    val: Item
+  - key: Reward_0_ID
+    val: 1519
+  - key: Reward_0_Amount
+    val: 1
+  - key: Reward_1_Type
+    val: Item
+  - key: Reward_1_ID
+    val: 1518
+  - key: Reward_1_Amount
+    val: 1
+  - key: Reward_2_Type
+    val: Flag_Bool
+  - key: Reward_2_ID
+    val: 328
+  - key: Reward_2_Value
+    val: True

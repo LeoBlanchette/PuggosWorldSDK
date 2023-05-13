@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 40
+  rarity: 0
+  id: 47
+  nameEnglish: 'On Air
+
+    Description <color=legendary>Commander Laurence</color>
+    wants to get the Russian radio towers working again to broadcast to any survivors
+    still out there. You''ll need a toolkit which he says Natalie down in engineering
+    can provide.
+
+    
+
+    Condition_0 Get broadcast repair kit {0}/1
+
+    Condition_1
+    Fix Southern broadcast tower {0}/1
+
+    Condition_2 Fix North-Western broadcast
+    tower {0}/1
+
+    Condition_3 Fix North-Eastern broadcast tower {0}/1'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Conditions
+    val: 4
+  - key: //
+    val: Has_Broadcast_Repair_Kit
+  - key: Condition_0_Type
+    val: Flag_Bool
+  - key: Condition_0_ID
+    val: 40
+  - key: Condition_0_Value
+    val: True
+  - key: Condition_0_Logic
+    val: Equal
+  - key: //
+    val: Fixed_Broadcast_0
+  - key: Condition_1_Type
+    val: Flag_Bool
+  - key: Condition_1_ID
+    val: 41
+  - key: Condition_1_Value
+    val: True
+  - key: Condition_1_Logic
+    val: Equal
+  - key: //
+    val: Fixed_Broadcast_1
+  - key: Condition_2_Type
+    val: Flag_Bool
+  - key: Condition_2_ID
+    val: 42
+  - key: Condition_2_Value
+    val: True
+  - key: Condition_2_Logic
+    val: Equal
+  - key: //
+    val: Fixed_Broadcast_2
+  - key: Condition_3_Type
+    val: Flag_Bool
+  - key: Condition_3_ID
+    val: 43
+  - key: Condition_3_Value
+    val: True
+  - key: Condition_3_Logic
+    val: Equal
+  - key: Rewards
+    val: 3
+  - key: Reward_0_Type
+    val: Experience
+  - key: Reward_0_Value
+    val: 75
+  - key: Reward_1_Type
+    val: Reputation
+  - key: Reward_1_Value
+    val: 5
+  - key: //
+    val: Coalition
+  - key: Reward_2_Type
+    val: Flag_Short
+  - key: Reward_2_ID
+    val: 13
+  - key: Reward_2_Value
+    val: 1
+  - key: Reward_2_Modification
+    val: Increment

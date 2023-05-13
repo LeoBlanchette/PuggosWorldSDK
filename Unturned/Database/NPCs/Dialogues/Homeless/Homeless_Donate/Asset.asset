@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 132
+  nameEnglish: 'Message_0_Page_0 The other night I saw <color=epic>Major Len</color>
+    loading supplies into a dinghy. Looked like he was up to no good.
+
+    Message_1_Page_0
+    When you see green lights in the sky go for cover, they can''t get you if you''re
+    inside.
+
+    Message_2_Page_0 I''m keeping an eye out for them, making sure
+    nobody here gets abducted!
+
+    Message_3_Page_0 I''ve been awake for 47 days
+    now.
+
+    Message_4_Page_0 Pro tip:<pause> Their scanners don''t work through
+    tinfoil. I lined the inside of my clothes with it!'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 5
+  - key: Message_0_Pages
+    val: 1
+  - key: Message_0_Conditions
+    val: 1
+  - key: Message_0_Condition_0_Type
+    val: Flag_Short
+  - key: Message_0_Condition_0_ID
+    val: 133
+  - key: Message_0_Condition_0_Value
+    val: 1
+  - key: Message_0_Condition_0_Logic
+    val: Equal
+  - key: Message_0_Rewards
+    val: 1
+  - key: Message_0_Reward_0_Type
+    val: Flag_Bool
+  - key: Message_0_Reward_0_ID
+    val: 134
+  - key: Message_0_Reward_0_Value
+    val: True
+  - key: Message_1_Pages
+    val: 1
+  - key: Message_1_Conditions
+    val: 1
+  - key: Message_1_Condition_0_Type
+    val: Flag_Short
+  - key: Message_1_Condition_0_ID
+    val: 133
+  - key: Message_1_Condition_0_Value
+    val: 2
+  - key: Message_1_Condition_0_Logic
+    val: Equal
+  - key: Message_2_Pages
+    val: 1
+  - key: Message_2_Conditions
+    val: 1
+  - key: Message_2_Condition_0_Type
+    val: Flag_Short
+  - key: Message_2_Condition_0_ID
+    val: 133
+  - key: Message_2_Condition_0_Value
+    val: 3
+  - key: Message_2_Condition_0_Logic
+    val: Equal
+  - key: Message_3_Pages
+    val: 1
+  - key: Message_3_Conditions
+    val: 1
+  - key: Message_3_Condition_0_Type
+    val: Flag_Short
+  - key: Message_3_Condition_0_ID
+    val: 133
+  - key: Message_3_Condition_0_Value
+    val: 4
+  - key: Message_3_Condition_0_Logic
+    val: Equal
+  - key: Message_4_Pages
+    val: 1
+  - key: Message_4_Conditions
+    val: 1
+  - key: Message_4_Condition_0_Type
+    val: Flag_Short
+  - key: Message_4_Condition_0_ID
+    val: 133
+  - key: Message_4_Condition_0_Value
+    val: 5
+  - key: Message_4_Condition_0_Logic
+    val: Equal

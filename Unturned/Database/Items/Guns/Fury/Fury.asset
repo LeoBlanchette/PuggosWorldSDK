@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Fury
+  m_EditorClassIdentifier: 
+  modType: 24
+  rarity: 4
+  id: 1364
+  nameEnglish: 'Hell''s Fury
+
+    Description Russian minigun chambered in Hell''s
+    Fury ammunition.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Gun
+  - key: Slot
+    val: Primary
+  - key: Size_X
+    val: 5
+  - key: Size_Y
+    val: 3
+  - key: Size_Z
+    val: 0.475
+  - key: Size2_Z
+    val: 0.725
+  - key: Magazine
+    val: 1365
+  - key: Hook_Tactical
+    val: 
+  - key: Ammo_Min
+    val: 75
+  - key: Ammo_Max
+    val: 250
+  - key: Auto
+    val: 
+  - key: Caliber
+    val: 32
+  - key: Equipable_Movement_Speed_Multiplier
+    val: 0.9
+  - key: Range
+    val: 150
+  - key: Firerate
+    val: 3
+  - key: Replace
+    val: 0.625
+  - key: Action
+    val: Minigun
+  - key: Player_Damage
+    val: 37
+  - key: Player_Leg_Multiplier
+    val: 0.6
+  - key: Player_Arm_Multiplier
+    val: 0.6
+  - key: Player_Spine_Multiplier
+    val: 0.8
+  - key: Player_Skull_Multiplier
+    val: 1.1
+  - key: Zombie_Damage
+    val: 99
+  - key: Zombie_Leg_Multiplier
+    val: 0.3
+  - key: Zombie_Arm_Multiplier
+    val: 0.3
+  - key: Zombie_Spine_Multiplier
+    val: 0.6
+  - key: Zombie_Skull_Multiplier
+    val: 1.1
+  - key: Animal_Damage
+    val: 37
+  - key: Animal_Leg_Multiplier
+    val: 0.6
+  - key: Animal_Spine_Multiplier
+    val: 0.8
+  - key: Animal_Skull_Multiplier
+    val: 1.1
+  - key: Barricade_Damage
+    val: 25
+  - key: Structure_Damage
+    val: 20
+  - key: Vehicle_Damage
+    val: 40
+  - key: Resource_Damage
+    val: 25
+  - key: Object_Damage
+    val: 35
+  - key: Durability
+    val: 0.05
+  - key: Aim_In_Duration
+    val: 0.6
+  - key: Spread_Aim
+    val: 0.175
+  - key: Spread_Hip
+    val: 0.25
+  - key: Recoil_Min_Y
+    val: 0.3
+  - key: Recoil_Max_Y
+    val: 0.8
+  - key: Shake_Min_X
+    val: -0.01
+  - key: Shake_Min_Y
+    val: 0.01
+  - key: Shake_Min_Z
+    val: -0.025
+  - key: Shake_Max_X
+    val: 0.01
+  - key: Shake_Max_Y
+    val: -0.01
+  - key: Shake_Max_Z
+    val: -0.05
+  - key: Muzzle
+    val: 4
+  - key: Blueprints
+    val: 2
+  - key: Blueprint_0_Type
+    val: Repair
+  - key: Blueprint_0_Supply_0_ID
+    val: 67
+  - key: Blueprint_0_Supply_0_Amount
+    val: 8
+  - key: Blueprint_0_Tool
+    val: 76
+  - key: Blueprint_0_Level
+    val: 3
+  - key: Blueprint_0_Skill
+    val: Repair
+  - key: Blueprint_0_Build
+    val: 27
+  - key: Blueprint_1_Type
+    val: Tool
+  - key: Blueprint_1_Supplies
+    val: 1
+  - key: Blueprint_1_Supply_0_ID
+    val: 1364
+  - key: Blueprint_1_Product
+    val: 67
+  - key: Blueprint_1_Products
+    val: 6
+  - key: Blueprint_1_Build
+    val: 27

@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 10
+  nameEnglish: "Message_0_Page_0 Hiya!\r\n\r\nResponse_0 Need any help?\r\nResponse_1
+    I finished painting\r\nResponse_2 Need any help?\r\nResponse_3 I scraped off
+    those barnacles \r\nResponse_4 I've got this note for you\r\nResponse_5 See ya
+    around"
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 1
+  - key: Message_0_Pages
+    val: 1
+  - key: Responses
+    val: 6
+  - key: //
+    val: Need
+  - key: //
+    val: Janitor_Paint_Accepted
+  - key: Response_0_Dialogue
+    val: 11
+  - key: Response_0_Quest
+    val: 9
+  - key: Response_0_Conditions
+    val: 1
+  - key: Response_0_Condition_0_Type
+    val: Quest
+  - key: Response_0_Condition_0_Logic
+    val: Equal
+  - key: Response_0_Condition_0_ID
+    val: 9
+  - key: Response_0_Condition_0_Status
+    val: None
+  - key: Response_0_Rewards
+    val: 2
+  - key: Response_0_Reward_0_Type
+    val: Quest
+  - key: Response_0_Reward_0_ID
+    val: 9
+  - key: Response_0_Reward_1_Type
+    val: Flag_Bool
+  - key: Response_0_Reward_1_ID
+    val: 8
+  - key: Response_0_Reward_1_Value
+    val: False
+  - key: //
+    val: I
+  - key: //
+    val: Janitor_Paint_Completed
+  - key: Response_1_Dialogue
+    val: 12
+  - key: Response_1_Quest
+    val: 9
+  - key: Response_1_Conditions
+    val: 1
+  - key: Response_1_Condition_0_Type
+    val: Quest
+  - key: Response_1_Condition_0_Logic
+    val: Equal
+  - key: Response_1_Condition_0_ID
+    val: 9
+  - key: Response_1_Condition_0_Status
+    val: Ready
+  - key: Response_1_Condition_0_Reset
+    val: 
+  - key: //
+    val: Need
+  - key: //
+    val: Janitor_Barnacle_Cleanup_Accepted
+  - key: Response_2_Dialogue
+    val: 158
+  - key: Response_2_Quest
+    val: 157
+  - key: Response_2_Conditions
+    val: 2
+  - key: Response_2_Condition_0_Type
+    val: Quest
+  - key: Response_2_Condition_0_Logic
+    val: Equal
+  - key: Response_2_Condition_0_ID
+    val: 9
+  - key: Response_2_Condition_0_Status
+    val: Completed
+  - key: Response_2_Condition_1_Type
+    val: Quest
+  - key: Response_2_Condition_1_Logic
+    val: Equal
+  - key: Response_2_Condition_1_ID
+    val: 157
+  - key: Response_2_Condition_1_Status
+    val: None
+  - key: Response_2_Rewards
+    val: 1
+  - key: Response_2_Reward_0_Type
+    val: Quest
+  - key: Response_2_Reward_0_ID
+    val: 157
+  - key: //
+    val: I
+  - key: //
+    val: Janitor_Barnacle_Cleanup_Completed
+  - key: Response_3_Dialogue
+    val: 159
+  - key: Response_3_Quest
+    val: 157
+  - key: Response_3_Conditions
+    val: 1
+  - key: Response_3_Condition_0_Type
+    val: Quest
+  - key: Response_3_Condition_0_Logic
+    val: Equal
+  - key: Response_3_Condition_0_ID
+    val: 157
+  - key: Response_3_Condition_0_Status
+    val: Ready
+  - key: Response_3_Condition_0_Reset
+    val: 
+  - key: //
+    val: Janitor_Valentines_Note
+  - key: Response_4_Dialogue
+    val: 233
+  - key: Response_4_Conditions
+    val: 2
+  - key: Response_4_Condition_0_Type
+    val: Quest
+  - key: Response_4_Condition_0_Logic
+    val: Not_Equal
+  - key: Response_4_Condition_0_ID
+    val: 230
+  - key: Response_4_Condition_0_Status
+    val: None
+  - key: Response_4_Condition_1_Type
+    val: Flag_Short
+  - key: Response_4_Condition_1_Logic
+    val: Equal
+  - key: Response_4_Condition_1_ID
+    val: 231
+  - key: Response_4_Condition_1_Value
+    val: 0
+  - key: Response_4_Rewards
+    val: 1
+  - key: Response_4_Reward_0_Type
+    val: Flag_Short
+  - key: Response_4_Reward_0_ID
+    val: 231
+  - key: Response_4_Reward_0_Value
+    val: 1
+  - key: Response_4_Reward_0_Modification
+    val: Assign

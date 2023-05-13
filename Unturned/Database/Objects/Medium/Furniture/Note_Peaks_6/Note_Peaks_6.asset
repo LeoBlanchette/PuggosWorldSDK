@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Note_Peaks_6
+  m_EditorClassIdentifier: 
+  modType: 33
+  rarity: 0
+  id: 2035
+  nameEnglish: 'Peaks Note - Checkpoint
+
+    
+
+    Interactability_Text_Line_0
+    This posting is soooo boring. Even if something did come through the tunnel I
+    doubt it could climb the blockade.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Interactability
+    val: Note
+  - key: Interactability_Hint
+    val: Use
+  - key: Interactability_Text_Lines
+    val: 1
+  - key: Asset_Bundle_Version
+    val: 2
+  - key: Bundle_Override_Path
+    val: /Objects/Medium/Furniture/Note
+  - key: Has_Clip_Prefab
+    val: false

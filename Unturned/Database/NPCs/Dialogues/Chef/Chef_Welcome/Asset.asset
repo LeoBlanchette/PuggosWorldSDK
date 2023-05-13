@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 59
+  nameEnglish: 'Message_0_Page_0 Hello!
+
+    
+
+    Response_0 I''d like to trade
+
+    Response_1
+    Where do you get your supplies?
+
+    Response_2 I''ve got this note for you
+
+    Response_3
+    Goodbye'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 1
+  - key: Message_0_Pages
+    val: 1
+  - key: Responses
+    val: 4
+  - key: //
+    val: I'd
+  - key: //
+    val: Chef_Vendor_Completed
+  - key: Response_0_Dialogue
+    val: 62
+  - key: Response_0_Vendor
+    val: 63
+  - key: Response_0_Conditions
+    val: 1
+  - key: Response_0_Condition_0_Type
+    val: Flag_Bool
+  - key: Response_0_Condition_0_ID
+    val: 61
+  - key: Response_0_Condition_0_Value
+    val: True
+  - key: Response_0_Condition_0_Logic
+    val: Equal
+  - key: //
+    val: Supply
+  - key: //
+    val: Chef_Supply
+  - key: Response_1_Dialogue
+    val: 60
+  - key: Response_1_Rewards
+    val: 1
+  - key: //
+    val: Can_Sell_To_Chef
+  - key: Response_1_Reward_0_Type
+    val: Flag_Bool
+  - key: Response_1_Reward_0_ID
+    val: 61
+  - key: Response_1_Reward_0_Value
+    val: True
+  - key: //
+    val: Chef_Valentines_Note
+  - key: Response_2_Dialogue
+    val: 234
+  - key: Response_2_Conditions
+    val: 2
+  - key: Response_2_Condition_0_Type
+    val: Quest
+  - key: Response_2_Condition_0_Logic
+    val: Not_Equal
+  - key: Response_2_Condition_0_ID
+    val: 230
+  - key: Response_2_Condition_0_Status
+    val: None
+  - key: Response_2_Condition_1_Type
+    val: Flag_Short
+  - key: Response_2_Condition_1_Logic
+    val: Equal
+  - key: Response_2_Condition_1_ID
+    val: 231
+  - key: Response_2_Condition_1_Value
+    val: 1
+  - key: Response_2_Rewards
+    val: 1
+  - key: Response_2_Reward_0_Type
+    val: Flag_Short
+  - key: Response_2_Reward_0_ID
+    val: 231
+  - key: Response_2_Reward_0_Value
+    val: 2
+  - key: Response_2_Reward_0_Modification
+    val: Assign

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Grizzly_5
+  m_EditorClassIdentifier: 
+  modType: 29
+  rarity: 4
+  id: 298
+  nameEnglish: 'Grizzly Magazine
+
+    Description High caliber military grade <color=legendary>Grizzly</color>
+    magazine. Designed to fit 5 rounds.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Size_X
+    val: 1
+  - key: Size_Y
+    val: 1
+  - key: Size_Z
+    val: 0.2
+  - key: Amount
+    val: 5
+  - key: Count_Min
+    val: 2
+  - key: Count_Max
+    val: 4
+  - key: Calibers
+    val: 1
+  - key: Caliber_0
+    val: 13
+  - key: Tracer
+    val: 51
+  - key: Blueprints
+    val: 2
+  - key: Blueprint_0_Type
+    val: Ammo
+  - key: Blueprint_0_Supplies
+    val: 1
+  - key: Blueprint_0_Supply_0_ID
+    val: 1192
+  - key: Blueprint_0_Build
+    val: 30
+  - key: Blueprint_1_Type
+    val: Ammo
+  - key: Blueprint_1_Supplies
+    val: 1
+  - key: Blueprint_1_Supply_0_ID
+    val: 298
+  - key: Blueprint_1_Build
+    val: 30
+  - key: Paintable
+    val: 

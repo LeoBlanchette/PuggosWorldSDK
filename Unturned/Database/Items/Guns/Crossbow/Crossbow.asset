@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Crossbow
+  m_EditorClassIdentifier: 
+  modType: 24
+  rarity: 1
+  id: 346
+  nameEnglish: 'Crossbow
+
+    Description Crossbow chambered in Arrows.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Gun
+  - key: Slot
+    val: Primary
+  - key: Size_X
+    val: 4
+  - key: Size_Y
+    val: 2
+  - key: Size_Z
+    val: 0.4
+  - key: Size2_Z
+    val: 0.7
+  - key: Barrel
+    val: 350
+  - key: Sight
+    val: 349
+  - key: Magazine
+    val: 347
+  - key: Hook_Sight
+    val: 
+  - key: Hook_Tactical
+    val: 
+  - key: Hook_Grip
+    val: 
+  - key: Ammo_Min
+    val: 1
+  - key: Ammo_Max
+    val: 1
+  - key: Safety
+    val: 
+  - key: Semi
+    val: 
+  - key: Caliber
+    val: 15
+  - key: Range
+    val: 200
+  - key: Firerate
+    val: 50
+  - key: Replace
+    val: 0.6
+  - key: Action
+    val: String
+  - key: Player_Damage
+    val: 80
+  - key: Player_Leg_Multiplier
+    val: 0.6
+  - key: Player_Arm_Multiplier
+    val: 0.6
+  - key: Player_Spine_Multiplier
+    val: 0.8
+  - key: Player_Skull_Multiplier
+    val: 1.1
+  - key: Zombie_Damage
+    val: 99
+  - key: Zombie_Leg_Multiplier
+    val: 0.3
+  - key: Zombie_Arm_Multiplier
+    val: 0.3
+  - key: Zombie_Spine_Multiplier
+    val: 0.6
+  - key: Zombie_Skull_Multiplier
+    val: 1.1
+  - key: Animal_Damage
+    val: 99
+  - key: Animal_Leg_Multiplier
+    val: 0.6
+  - key: Animal_Spine_Multiplier
+    val: 0.8
+  - key: Animal_Skull_Multiplier
+    val: 1.1
+  - key: Durability
+    val: 1
+  - key: Wear
+    val: 3
+  - key: Spread_Aim
+    val: 0.001
+  - key: Spread_Hip
+    val: 0.2
+  - key: Ballistic_Steps
+    val: 40
+  - key: Ballistic_Travel
+    val: 5
+  - key: Ballistic_Drop
+    val: 0.00125
+  - key: Recoil_Aim
+    val: 0.25
+  - key: Recoil_Min_X
+    val: -5
+  - key: Recoil_Min_Y
+    val: 5
+  - key: Recoil_Max_X
+    val: 5
+  - key: Recoil_Max_Y
+    val: 10
+  - key: Recover_X
+    val: 0.5
+  - key: Recover_Y
+    val: 0.5
+  - key: Shake_Min_X
+    val: -0.005
+  - key: Shake_Min_Y
+    val: 0.005
+  - key: Shake_Min_Z
+    val: -0.05
+  - key: Shake_Max_X
+    val: 0.005
+  - key: Shake_Max_Y
+    val: -0.005
+  - key: Shake_Max_Z
+    val: -0.1
+  - key: Blueprints
+    val: 2
+  - key: Blueprint_0_Type
+    val: Repair
+  - key: Blueprint_0_Supplies
+    val: 1
+  - key: Blueprint_0_Supply_0_ID
+    val: 67
+  - key: Blueprint_0_Supply_0_Amount
+    val: 6
+  - key: Blueprint_0_Tool
+    val: 76
+  - key: Blueprint_0_Build
+    val: 27
+  - key: Blueprint_1_Type
+    val: Tool
+  - key: Blueprint_1_Supplies
+    val: 1
+  - key: Blueprint_1_Supply_0_ID
+    val: 346
+  - key: Blueprint_1_Product
+    val: 67
+  - key: Blueprint_1_Products
+    val: 4
+  - key: Blueprint_1_Build
+    val: 27

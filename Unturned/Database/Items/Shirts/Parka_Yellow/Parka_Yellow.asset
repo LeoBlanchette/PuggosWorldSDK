@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Parka_Yellow
+  m_EditorClassIdentifier: 
+  modType: 44
+  rarity: 0
+  id: 170
+  nameEnglish: 'Yellow Parka
+
+    Description Cold weather parka.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Clothing
+  - key: Size_X
+    val: 3
+  - key: Size_Y
+    val: 2
+  - key: Size_Z
+    val: 0.6
+  - key: Width
+    val: 6
+  - key: Height
+    val: 3
+  - key: Armor
+    val: 0.95
+  - key: Blueprints
+    val: 2
+  - key: Blueprint_0_Type
+    val: Apparel
+  - key: Blueprint_0_Supply_0_ID
+    val: 170
+  - key: Blueprint_0_Product
+    val: 66
+  - key: Blueprint_0_Products
+    val: 4
+  - key: Blueprint_0_Build
+    val: 32
+  - key: Blueprint_1_Type
+    val: Repair
+  - key: Blueprint_1_Supplies
+    val: 1
+  - key: Blueprint_1_Supply_0_ID
+    val: 66
+  - key: Blueprint_1_Supply_0_Amount
+    val: 4
+  - key: Blueprint_1_Build
+    val: 32

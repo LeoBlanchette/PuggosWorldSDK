@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 36
+  rarity: 0
+  id: 753
+  nameEnglish: 'Commander Laurence
+
+    Character <color=legendary>Commander Laurence</color>'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Shirt
+    val: 1423
+  - key: Pants
+    val: 1419
+  - key: Has_Halloween_Outfit
+    val: True
+  - key: Halloween_Backpack
+    val: 859
+  - key: Halloween_Hat
+    val: 861
+  - key: Halloween_Pants
+    val: 864
+  - key: Halloween_Shirt
+    val: 866
+  - key: Halloween_Vest
+    val: 868
+  - key: Has_Christmas_Outfit
+    val: True
+  - key: Christmas_Shirt
+    val: 1423
+  - key: Christmas_Pants
+    val: 1419
+  - key: Christmas_Hat
+    val: 741
+  - key: Face
+    val: 4
+  - key: Hair
+    val: 12
+  - key: Color_Skin
+    val: '#D9CAB4'
+  - key: Color_Hair
+    val: '#473928'
+  - key: Secondary
+    val: 488
+  - key: Dialogue
+    val: 44
+  - key: Has_Clip_Prefab
+    val: false

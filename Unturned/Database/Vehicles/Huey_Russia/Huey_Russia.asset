@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Huey_Russia
+  m_EditorClassIdentifier: 
+  modType: 58
+  rarity: 3
+  id: 144
+  nameEnglish: 'Transport Heli
+
+'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Speed_Min
+    val: -2
+  - key: Speed_Max
+    val: 16
+  - key: Steer_Min
+    val: 16
+  - key: Steer_Max
+    val: 8
+  - key: Fuel
+    val: 2000
+  - key: Health_Min
+    val: 800
+  - key: Health_Max
+    val: 900
+  - key: Health
+    val: 1000
+  - key: Exit
+    val: 3
+  - key: Cam_Follow_Distance
+    val: 7.5
+  - key: LockMouse
+    val: 
+  - key: Engine
+    val: Helicopter
+  - key: Trunk_Storage_X
+    val: 6
+  - key: Trunk_Storage_Y
+    val: 5
+  - key: Explosion
+    val: 20
+  - key: Invulnerable
+    val: 
+  - key: IgnitionAudioClip
+    val: Sounds/HelicopterIgnition.mp3
+  - key: Has_Clip_Prefab
+    val: false

@@ -1,0 +1,436 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 97
+  nameEnglish: 'Message_0_Page_0 I''ve picked up a fairly straightforward location
+    to scout out, would you be interested in taking care of it?
+
+    Message_1_Page_0
+    I''ve got another location for you to check out, but it''ll be a bit trickier.
+    Interested?
+
+    Message_2_Page_0 If you''re still interested I''ve got another
+    location for you to check out!
+
+    Message_3_Page_0 This location looks very
+    promising, but according to an old report it''s irradiated. Interested?
+
+    Message_4_Page_0
+    I think it''s time we check out the original Russian FoB. Be warned:<pause> it''s
+    very radioactive and dangerous. Interested?
+
+    Message_5_Page_0 Anything to
+    report?
+
+    
+
+    Response_0 I''ll take a look
+
+    Response_1 Not right
+    now
+
+    Response_2 I scouted out the airport!
+
+    Response_3 I''ll take a
+    look
+
+    Response_4 Not right now
+
+    Response_5 I scouted out the tank factory!
+
+    Response_6
+    I''ll take a look
+
+    Response_7 Not right now
+
+    Response_8 I scouted out
+    the military base!
+
+    Response_9 I''ll take a look
+
+    Response_10 Not right
+    now
+
+    Response_11 I scouted out the missile silo!
+
+    Response_12 I''ll
+    take a look
+
+    Response_13 Not right now
+
+    Response_14 I scouted out the
+    oil rig!
+
+    Response_15 What are you working on?
+
+    Response_16 Nothing
+    to report'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 6
+  - key: //
+    val: Airport
+  - key: Message_0_Pages
+    val: 1
+  - key: Message_0_Responses
+    val: 2
+  - key: Message_0_Response_0
+    val: 0
+  - key: Message_0_Response_1
+    val: 1
+  - key: //
+    val: Show
+  - key: Message_0_Conditions
+    val: 2
+  - key: Message_0_Condition_0_Type
+    val: Flag_Bool
+  - key: Message_0_Condition_0_Logic
+    val: Equal
+  - key: Message_0_Condition_0_ID
+    val: 2
+  - key: Message_0_Condition_0_Value
+    val: True
+  - key: Message_0_Condition_1_Type
+    val: Quest
+  - key: Message_0_Condition_1_Logic
+    val: Equal
+  - key: Message_0_Condition_1_ID
+    val: 98
+  - key: Message_0_Condition_1_Status
+    val: None
+  - key: Message_1_Pages
+    val: 1
+  - key: Message_1_Responses
+    val: 2
+  - key: Message_1_Response_0
+    val: 3
+  - key: Message_1_Response_1
+    val: 4
+  - key: //
+    val: Show
+  - key: Message_1_Conditions
+    val: 2
+  - key: Message_1_Condition_0_Type
+    val: Quest
+  - key: Message_1_Condition_0_Logic
+    val: Equal
+  - key: Message_1_Condition_0_ID
+    val: 98
+  - key: Message_1_Condition_0_Status
+    val: Completed
+  - key: Message_1_Condition_1_Type
+    val: Quest
+  - key: Message_1_Condition_1_Logic
+    val: Equal
+  - key: Message_1_Condition_1_ID
+    val: 100
+  - key: Message_1_Condition_1_Status
+    val: None
+  - key: Message_2_Pages
+    val: 1
+  - key: Message_2_Responses
+    val: 2
+  - key: Message_2_Response_0
+    val: 6
+  - key: Message_2_Response_1
+    val: 7
+  - key: //
+    val: Show
+  - key: Message_2_Conditions
+    val: 2
+  - key: Message_2_Condition_0_Type
+    val: Quest
+  - key: Message_2_Condition_0_Logic
+    val: Equal
+  - key: Message_2_Condition_0_ID
+    val: 100
+  - key: Message_2_Condition_0_Status
+    val: Completed
+  - key: Message_2_Condition_1_Type
+    val: Quest
+  - key: Message_2_Condition_1_Logic
+    val: Equal
+  - key: Message_2_Condition_1_ID
+    val: 102
+  - key: Message_2_Condition_1_Status
+    val: None
+  - key: Message_3_Pages
+    val: 1
+  - key: Message_3_Responses
+    val: 2
+  - key: Message_3_Response_0
+    val: 9
+  - key: Message_3_Response_1
+    val: 10
+  - key: //
+    val: Show
+  - key: Message_3_Conditions
+    val: 2
+  - key: Message_3_Condition_0_Type
+    val: Quest
+  - key: Message_3_Condition_0_Logic
+    val: Equal
+  - key: Message_3_Condition_0_ID
+    val: 102
+  - key: Message_3_Condition_0_Status
+    val: Completed
+  - key: Message_3_Condition_1_Type
+    val: Quest
+  - key: Message_3_Condition_1_Logic
+    val: Equal
+  - key: Message_3_Condition_1_ID
+    val: 104
+  - key: Message_3_Condition_1_Status
+    val: None
+  - key: Message_4_Pages
+    val: 1
+  - key: Message_4_Responses
+    val: 2
+  - key: Message_4_Response_0
+    val: 12
+  - key: Message_4_Response_1
+    val: 13
+  - key: //
+    val: Show
+  - key: Message_4_Conditions
+    val: 2
+  - key: Message_4_Condition_0_Type
+    val: Quest
+  - key: Message_4_Condition_0_Logic
+    val: Equal
+  - key: Message_4_Condition_0_ID
+    val: 104
+  - key: Message_4_Condition_0_Status
+    val: Completed
+  - key: Message_4_Condition_1_Type
+    val: Quest
+  - key: Message_4_Condition_1_Logic
+    val: Equal
+  - key: Message_4_Condition_1_ID
+    val: 106
+  - key: Message_4_Condition_1_Status
+    val: None
+  - key: Message_5_Pages
+    val: 1
+  - key: Responses
+    val: 17
+  - key: //
+    val: Scout_Airport_Accepted
+  - key: Response_0_Dialogue
+    val: 108
+  - key: Response_0_Quest
+    val: 98
+  - key: Response_0_Messages
+    val: 1
+  - key: Response_0_Message_0
+    val: 0
+  - key: Response_0_Rewards
+    val: 1
+  - key: Response_0_Reward_0_Type
+    val: Quest
+  - key: Response_0_Reward_0_ID
+    val: 98
+  - key: Response_1_Messages
+    val: 1
+  - key: Response_1_Message_0
+    val: 0
+  - key: //
+    val: I
+  - key: //
+    val: Scout_Airport_Completed
+  - key: Response_2_Dialogue
+    val: 109
+  - key: Response_2_Quest
+    val: 98
+  - key: Response_2_Conditions
+    val: 1
+  - key: Response_2_Condition_0_Type
+    val: Quest
+  - key: Response_2_Condition_0_Logic
+    val: Equal
+  - key: Response_2_Condition_0_ID
+    val: 98
+  - key: Response_2_Condition_0_Status
+    val: Ready
+  - key: Response_2_Condition_0_Reset
+    val: 
+  - key: //
+    val: Scout_Factory_Accepted
+  - key: Response_3_Dialogue
+    val: 110
+  - key: Response_3_Quest
+    val: 100
+  - key: Response_3_Messages
+    val: 1
+  - key: Response_3_Message_0
+    val: 1
+  - key: Response_3_Rewards
+    val: 1
+  - key: Response_3_Reward_0_Type
+    val: Quest
+  - key: Response_3_Reward_0_ID
+    val: 100
+  - key: Response_4_Messages
+    val: 1
+  - key: Response_4_Message_0
+    val: 1
+  - key: //
+    val: I
+  - key: //
+    val: Scout_Factory_Completed
+  - key: Response_5_Dialogue
+    val: 111
+  - key: Response_5_Quest
+    val: 100
+  - key: Response_5_Conditions
+    val: 1
+  - key: Response_5_Condition_0_Type
+    val: Quest
+  - key: Response_5_Condition_0_Logic
+    val: Equal
+  - key: Response_5_Condition_0_ID
+    val: 100
+  - key: Response_5_Condition_0_Status
+    val: Ready
+  - key: Response_5_Condition_0_Reset
+    val: 
+  - key: //
+    val: Scout_Military_Accepted
+  - key: Response_6_Dialogue
+    val: 112
+  - key: Response_6_Quest
+    val: 102
+  - key: Response_6_Messages
+    val: 1
+  - key: Response_6_Message_0
+    val: 2
+  - key: Response_6_Rewards
+    val: 1
+  - key: Response_6_Reward_0_Type
+    val: Quest
+  - key: Response_6_Reward_0_ID
+    val: 102
+  - key: Response_7_Messages
+    val: 1
+  - key: Response_7_Message_0
+    val: 2
+  - key: //
+    val: I
+  - key: //
+    val: Scout_Military_Completed
+  - key: Response_8_Dialogue
+    val: 113
+  - key: Response_8_Quest
+    val: 102
+  - key: Response_8_Conditions
+    val: 1
+  - key: Response_8_Condition_0_Type
+    val: Quest
+  - key: Response_8_Condition_0_Logic
+    val: Equal
+  - key: Response_8_Condition_0_ID
+    val: 102
+  - key: Response_8_Condition_0_Status
+    val: Ready
+  - key: Response_8_Condition_0_Reset
+    val: 
+  - key: //
+    val: Scout_Silo_Accepted
+  - key: Response_9_Dialogue
+    val: 114
+  - key: Response_9_Quest
+    val: 104
+  - key: Response_9_Messages
+    val: 1
+  - key: Response_9_Message_0
+    val: 3
+  - key: Response_9_Rewards
+    val: 1
+  - key: Response_9_Reward_0_Type
+    val: Quest
+  - key: Response_9_Reward_0_ID
+    val: 104
+  - key: Response_10_Messages
+    val: 1
+  - key: Response_10_Message_0
+    val: 3
+  - key: //
+    val: I
+  - key: //
+    val: Scout_Silo_Completed
+  - key: Response_11_Dialogue
+    val: 115
+  - key: Response_11_Quest
+    val: 104
+  - key: Response_11_Conditions
+    val: 1
+  - key: Response_11_Condition_0_Type
+    val: Quest
+  - key: Response_11_Condition_0_Logic
+    val: Equal
+  - key: Response_11_Condition_0_ID
+    val: 104
+  - key: Response_11_Condition_0_Status
+    val: Ready
+  - key: Response_11_Condition_0_Reset
+    val: 
+  - key: //
+    val: Scout_Rig_Accepted
+  - key: Response_12_Dialogue
+    val: 116
+  - key: Response_12_Quest
+    val: 106
+  - key: Response_12_Messages
+    val: 1
+  - key: Response_12_Message_0
+    val: 4
+  - key: Response_12_Rewards
+    val: 1
+  - key: Response_12_Reward_0_Type
+    val: Quest
+  - key: Response_12_Reward_0_ID
+    val: 106
+  - key: Response_13_Messages
+    val: 1
+  - key: Response_13_Message_0
+    val: 4
+  - key: //
+    val: I
+  - key: //
+    val: Scout_Rig_Completed
+  - key: Response_14_Dialogue
+    val: 117
+  - key: Response_14_Quest
+    val: 106
+  - key: Response_14_Conditions
+    val: 1
+  - key: Response_14_Condition_0_Type
+    val: Quest
+  - key: Response_14_Condition_0_Logic
+    val: Equal
+  - key: Response_14_Condition_0_ID
+    val: 106
+  - key: Response_14_Condition_0_Status
+    val: Ready
+  - key: Response_14_Condition_0_Reset
+    val: 
+  - key: //
+    val: Working
+  - key: //
+    val: Scout_Work
+  - key: Response_15_Dialogue
+    val: 118

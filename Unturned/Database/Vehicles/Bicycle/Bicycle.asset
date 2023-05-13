@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Bicycle
+  m_EditorClassIdentifier: 
+  modType: 58
+  rarity: 0
+  id: 185
+  nameEnglish: Bicycle
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Speed_Min
+    val: -4
+  - key: Speed_Max
+    val: 10
+  - key: Steer_Min
+    val: 20
+  - key: Steer_Max
+    val: 40
+  - key: Brake
+    val: 24
+  - key: Fuel_Min
+    val: 5000
+  - key: Fuel_Max
+    val: 5000
+  - key: Fuel
+    val: 5000
+  - key: Health_Min
+    val: 150
+  - key: Health_Max
+    val: 175
+  - key: Health
+    val: 200
+  - key: Exit
+    val: 1.5
+  - key: Explosion_Min_Force_X
+    val: -16
+  - key: Explosion_Min_Force_Y
+    val: 128
+  - key: Explosion_Min_Force_Z
+    val: -16
+  - key: Explosion_Max_Force_X
+    val: 16
+  - key: Explosion_Max_Force_Y
+    val: 128
+  - key: Explosion_Max_Force_Z
+    val: 16
+  - key: Bicycle
+    val: 
+  - key: Bicycle_Anim_Speed
+    val: 0.25
+  - key: Stamina_Boost
+    val: 0.6
+  - key: Stamina_Powered
+    val: 
+  - key: Traction
+    val: 
+  - key: Crawler
+    val: 
+  - key: Tires_Invulnerable
+    val: 
+  - key: Bumper_Multiplier
+    val: 0.25
+  - key: Should_Spawn_Seat_Capsules
+    val: true
+  - key: Has_Clip_Prefab
+    val: false

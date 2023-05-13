@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Cover_Peaks
+  m_EditorClassIdentifier: 
+  modType: 6
+  rarity: 3
+  id: 1500
+  nameEnglish: 'Ghillie Netting
+
+    Description Military foliage stealth cover.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Barricade
+  - key: Build
+    val: Freeform
+  - key: Size_X
+    val: 1
+  - key: Size_Y
+    val: 1
+  - key: Size_Z
+    val: 0.325
+  - key: Health
+    val: 50
+  - key: Range
+    val: 8
+  - key: Radius
+    val: 0.5
+  - key: Offset
+    val: 1.875
+  - key: Explosion
+    val: 43
+  - key: Vulnerable
+    val: 
+  - key: Unsalvageable
+    val: 
+  - key: Blueprints
+    val: 4
+  - key: Blueprint_0_Type
+    val: Barricade
+  - key: Blueprint_0_Supplies
+    val: 1
+  - key: Blueprint_0_Supply_0_ID
+    val: 1492
+  - key: Blueprint_0_Products
+    val: 4
+  - key: Blueprint_0_Build
+    val: 32
+  - key: Blueprint_1_Type
+    val: Barricade
+  - key: Blueprint_1_Supplies
+    val: 1
+  - key: Blueprint_1_Supply_0_ID
+    val: 1493
+  - key: Blueprint_1_Products
+    val: 4
+  - key: Blueprint_1_Build
+    val: 32
+  - key: Blueprint_2_Type
+    val: Barricade
+  - key: Blueprint_2_Supplies
+    val: 1
+  - key: Blueprint_2_Supply_0_ID
+    val: 1494
+  - key: Blueprint_2_Products
+    val: 4
+  - key: Blueprint_2_Build
+    val: 32
+  - key: Blueprint_3_Type
+    val: Barricade
+  - key: Blueprint_3_Supplies
+    val: 1
+  - key: Blueprint_3_Supply_0_ID
+    val: 1495
+  - key: Blueprint_3_Products
+    val: 4
+  - key: Blueprint_3_Build
+    val: 32
+  - key: PlacementAudioClip
+    val: Sounds/FoliagePlacement.mp3
+  - key: Has_Clip_Prefab
+    val: false

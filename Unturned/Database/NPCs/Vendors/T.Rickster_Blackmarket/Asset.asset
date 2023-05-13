@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 60
+  rarity: 0
+  id: 27
+  nameEnglish: 'T.Rickster''s <color=#323232>Blackmarket Smuggling</color>
+
+    Description
+    Everything you should be able to buy but aren''t allowed to!<br><i>There''s probably
+    a good reason you''re not allowed to, so don''t think about that!</i>'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Selling
+    val: 7
+  - key: Selling_0_ID
+    val: 115
+  - key: Selling_0_Cost
+    val: 100
+  - key: Selling_1_ID
+    val: 270
+  - key: Selling_1_Cost
+    val: 100
+  - key: Selling_2_ID
+    val: 271
+  - key: Selling_2_Cost
+    val: 100
+  - key: Selling_3_ID
+    val: 272
+  - key: Selling_3_Cost
+    val: 100
+  - key: Selling_4_ID
+    val: 273
+  - key: Selling_4_Cost
+    val: 100
+  - key: Selling_5_ID
+    val: 274
+  - key: Selling_5_Cost
+    val: 100
+  - key: Selling_6_ID
+    val: 275
+  - key: Selling_6_Cost
+    val: 100
+  - key: FaceOverride
+    val: 31

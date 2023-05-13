@@ -1,0 +1,33 @@
+{
+  "name": "com.LeoBlanchette.PuggosWorldSDK",
+  "displayName": "PuggosWorldSDK: An Unturned Modding Tool",
+  "version": "1.0.0",
+	"unity": "2020.3.38",
+  "description": "A modding assistant for streamlining large mod projects for the game Unturned.",
+  "dependencies": {},
+  "keywords": [
+    "unity",
+    "unity3d",
+    "upm",
+    "unturned",
+    "puggosworld",
+    "sdk",
+  ],
+  "homepage": "https://github.com/LeoBlanchette/PuggosWorldSDK.git",
+  "bugs": {
+    "url": "https://github.com/LeoBlanchette/PuggosWorldSDK/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/LeoBlanchette/PuggosWorldSDK.git"
+  },
+  "license": "MIT",
+  "author": {
+	   "name": "Leo Blanchette",
+	    "email": "theswitchboard@protonmail.com",
+	     "url": "https://lb3d.co/",
+     },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

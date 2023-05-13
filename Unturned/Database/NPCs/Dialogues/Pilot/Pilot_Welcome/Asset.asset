@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 87
+  nameEnglish: 'Message_0_Page_0 Hey hey!
+
+    
+
+    Response_0 Do you need any
+    pilots?
+
+    Response_1 I''ve got this note for you
+
+    Response_2 I''m ready
+    to fly the jet!
+
+    Response_3 Goodbye'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 1
+  - key: Message_0_Pages
+    val: 1
+  - key: Responses
+    val: 4
+  - key: Response_0_Dialogue
+    val: 88
+  - key: Response_0_Conditions
+    val: 1
+  - key: Response_0_Condition_0_Type
+    val: Quest
+  - key: Response_0_Condition_0_Logic
+    val: Equal
+  - key: Response_0_Condition_0_ID
+    val: 240
+  - key: Response_0_Condition_0_Status
+    val: None
+  - key: //
+    val: Pilot_Valentines_Note
+  - key: Response_1_Dialogue
+    val: 235
+  - key: Response_1_Conditions
+    val: 2
+  - key: Response_1_Condition_0_Type
+    val: Quest
+  - key: Response_1_Condition_0_Logic
+    val: Not_Equal
+  - key: Response_1_Condition_0_ID
+    val: 230
+  - key: Response_1_Condition_0_Status
+    val: None
+  - key: Response_1_Condition_1_Type
+    val: Flag_Short
+  - key: Response_1_Condition_1_Logic
+    val: Equal
+  - key: Response_1_Condition_1_ID
+    val: 231
+  - key: Response_1_Condition_1_Value
+    val: 2
+  - key: Response_1_Rewards
+    val: 1
+  - key: Response_1_Reward_0_Type
+    val: Flag_Short
+  - key: Response_1_Reward_0_ID
+    val: 231
+  - key: Response_1_Reward_0_Value
+    val: 3
+  - key: Response_1_Reward_0_Modification
+    val: Assign
+  - key: //
+    val: I
+  - key: //
+    val: Pilot_Jet_Completed
+  - key: Response_2_Dialogue
+    val: 239
+  - key: Response_2_Quest
+    val: 240
+  - key: Response_2_Conditions
+    val: 1
+  - key: Response_2_Condition_0_Type
+    val: Quest
+  - key: Response_2_Condition_0_Logic
+    val: Equal
+  - key: Response_2_Condition_0_ID
+    val: 240
+  - key: Response_2_Condition_0_Status
+    val: Ready
+  - key: Response_2_Condition_0_Reset
+    val: 

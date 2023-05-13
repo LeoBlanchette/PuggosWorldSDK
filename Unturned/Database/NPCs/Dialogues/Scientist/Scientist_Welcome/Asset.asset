@@ -1,0 +1,446 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 77
+  nameEnglish: "Message_0_Page_0 Have you ever wondered why you can't put a silencer
+    on a shotgun?\r\nMessage_1_Page_0 I don't suppose you'd be available to help
+    test a new attachment prototype I've been working on?\r\nMessage_2_Page_0 Wouldn't
+    it be neat to have a scoped pistol?\r\nMessage_3_Page_0 Just the person I wanted
+    to talk to! I've got a new weapon prototype planned out and ready to test. Interested?\r\nMessage_4_Page_0
+    <i>*he mumbles something and goes back to thinking*</i>\r\n\r\nResponse_0 I have
+    \r\nResponse_1 I'm available\r\nResponse_2 Very neat\r\nResponse_3 You bet!\r\nResponse_4
+    Maybe later\r\nResponse_5 Can I get a replacement blueprint?\r\nResponse_6 Anything
+    exciting in the works?\r\nResponse_7 What's up with the explosive snowballs?\r\nResponse_8
+    I've retrieved a sample.\r\nResponse_9 What can I use the saw for?\r\nResponse_10
+    Done and dusted.\r\nResponse_11 Can I get a new saw?\r\nResponse_12 Goodbye"
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 5
+  - key: //
+    val: Bluntforce
+  - key: Message_0_Pages
+    val: 1
+  - key: Message_0_Responses
+    val: 2
+  - key: Message_0_Response_0
+    val: 0
+  - key: Message_0_Response_1
+    val: 4
+  - key: Message_0_Conditions
+    val: 2
+  - key: //
+    val: Coalition_Quests_Completed
+  - key: Message_0_Condition_0_Type
+    val: Flag_Short
+  - key: Message_0_Condition_0_ID
+    val: 13
+  - key: Message_0_Condition_0_Value
+    val: 4
+  - key: Message_0_Condition_0_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: //
+    val: Coalition_Inventions
+  - key: Message_0_Condition_1_Type
+    val: Flag_Bool
+  - key: Message_0_Condition_1_ID
+    val: 226
+  - key: Message_0_Condition_1_Value
+    val: False
+  - key: Message_0_Condition_1_Logic
+    val: Equal
+  - key: Message_0_Condition_1_Allow_Unset
+    val: 
+  - key: //
+    val: Bayonet
+  - key: Message_1_Pages
+    val: 1
+  - key: Message_1_Responses
+    val: 2
+  - key: Message_1_Response_0
+    val: 1
+  - key: Message_1_Response_1
+    val: 4
+  - key: Message_1_Conditions
+    val: 2
+  - key: //
+    val: Coalition_Quests_Completed
+  - key: Message_1_Condition_0_Type
+    val: Flag_Short
+  - key: Message_1_Condition_0_ID
+    val: 13
+  - key: Message_1_Condition_0_Value
+    val: 7
+  - key: Message_1_Condition_0_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: //
+    val: Coalition_Inventions
+  - key: Message_1_Condition_1_Type
+    val: Flag_Bool
+  - key: Message_1_Condition_1_ID
+    val: 227
+  - key: Message_1_Condition_1_Value
+    val: False
+  - key: Message_1_Condition_1_Logic
+    val: Equal
+  - key: Message_1_Condition_1_Allow_Unset
+    val: 
+  - key: //
+    val: Ace
+  - key: Message_2_Pages
+    val: 1
+  - key: Message_2_Responses
+    val: 2
+  - key: Message_2_Response_0
+    val: 2
+  - key: Message_2_Response_1
+    val: 4
+  - key: Message_2_Conditions
+    val: 2
+  - key: //
+    val: Coalition_Quests_Completed
+  - key: Message_2_Condition_0_Type
+    val: Flag_Short
+  - key: Message_2_Condition_0_ID
+    val: 13
+  - key: Message_2_Condition_0_Value
+    val: 11
+  - key: Message_2_Condition_0_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: //
+    val: Coalition_Inventions
+  - key: Message_2_Condition_1_Type
+    val: Flag_Bool
+  - key: Message_2_Condition_1_ID
+    val: 228
+  - key: Message_2_Condition_1_Value
+    val: False
+  - key: Message_2_Condition_1_Logic
+    val: Equal
+  - key: Message_2_Condition_1_Allow_Unset
+    val: 
+  - key: //
+    val: Quadbarrel
+  - key: Message_3_Pages
+    val: 1
+  - key: Message_3_Responses
+    val: 2
+  - key: Message_3_Response_0
+    val: 3
+  - key: Message_3_Response_1
+    val: 4
+  - key: Message_3_Conditions
+    val: 2
+  - key: //
+    val: Coalition_Quests_Completed
+  - key: Message_3_Condition_0_Type
+    val: Flag_Short
+  - key: Message_3_Condition_0_ID
+    val: 13
+  - key: Message_3_Condition_0_Value
+    val: 16
+  - key: Message_3_Condition_0_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: //
+    val: Coalition_Inventions
+  - key: Message_3_Condition_1_Type
+    val: Flag_Bool
+  - key: Message_3_Condition_1_ID
+    val: 229
+  - key: Message_3_Condition_1_Value
+    val: False
+  - key: Message_3_Condition_1_Logic
+    val: Equal
+  - key: Message_3_Condition_1_Allow_Unset
+    val: 
+  - key: //
+    val: mumble
+  - key: Message_4_Pages
+    val: 1
+  - key: Responses
+    val: 13
+  - key: //
+    val: Bluntforce
+  - key: //
+    val: Scientist_Bluntforce
+  - key: Response_0_Dialogue
+    val: 225
+  - key: Response_0_Messages
+    val: 1
+  - key: Response_0_Message_0
+    val: 0
+  - key: Response_0_Rewards
+    val: 2
+  - key: //
+    val: Scientist_Inventions
+  - key: Response_0_Reward_0_Type
+    val: Flag_Bool
+  - key: Response_0_Reward_0_ID
+    val: 226
+  - key: Response_0_Reward_0_Value
+    val: True
+  - key: //
+    val: Modded
+  - key: Response_0_Reward_1_Type
+    val: Item
+  - key: Response_0_Reward_1_ID
+    val: 112
+  - key: Response_0_Reward_1_Amount
+    val: 1
+  - key: Response_0_Reward_1_Barrel
+    val: 1444
+  - key: //
+    val: Bayonet
+  - key: //
+    val: Scientist_Bayonet
+  - key: Response_1_Dialogue
+    val: 78
+  - key: Response_1_Messages
+    val: 1
+  - key: Response_1_Message_0
+    val: 1
+  - key: Response_1_Rewards
+    val: 2
+  - key: //
+    val: Scientist_Inventions
+  - key: Response_1_Reward_0_Type
+    val: Flag_Bool
+  - key: Response_1_Reward_0_ID
+    val: 227
+  - key: Response_1_Reward_0_Value
+    val: True
+  - key: //
+    val: Bayonet
+  - key: Response_1_Reward_1_Type
+    val: Item
+  - key: Response_1_Reward_1_ID
+    val: 1439
+  - key: Response_1_Reward_1_Amount
+    val: 1
+  - key: //
+    val: Ace
+  - key: //
+    val: Scientist_Ace
+  - key: Response_2_Dialogue
+    val: 224
+  - key: Response_2_Messages
+    val: 1
+  - key: Response_2_Message_0
+    val: 2
+  - key: Response_2_Rewards
+    val: 2
+  - key: //
+    val: Scientist_Inventions
+  - key: Response_2_Reward_0_Type
+    val: Flag_Bool
+  - key: Response_2_Reward_0_ID
+    val: 228
+  - key: Response_2_Reward_0_Value
+    val: True
+  - key: //
+    val: Modded
+  - key: Response_2_Reward_1_Type
+    val: Item
+  - key: Response_2_Reward_1_ID
+    val: 107
+  - key: Response_2_Reward_1_Amount
+    val: 1
+  - key: Response_2_Reward_1_Sight
+    val: 21
+  - key: //
+    val: Quadbarrel
+  - key: //
+    val: Scientist_Quadbarrel
+  - key: Response_3_Dialogue
+    val: 79
+  - key: Response_3_Messages
+    val: 1
+  - key: Response_3_Message_0
+    val: 3
+  - key: Response_3_Rewards
+    val: 2
+  - key: //
+    val: Scientist_Inventions
+  - key: Response_3_Reward_0_Type
+    val: Flag_Bool
+  - key: Response_3_Reward_0_ID
+    val: 229
+  - key: Response_3_Reward_0_Value
+    val: True
+  - key: //
+    val: Quadbarrel
+  - key: Response_3_Reward_1_Type
+    val: Item
+  - key: Response_3_Reward_1_ID
+    val: 1437
+  - key: Response_3_Reward_1_Amount
+    val: 1
+  - key: Response_4_Messages
+    val: 4
+  - key: Response_4_Message_0
+    val: 0
+  - key: Response_4_Message_1
+    val: 1
+  - key: Response_4_Message_2
+    val: 2
+  - key: Response_4_Message_3
+    val: 3
+  - key: //
+    val: Lost
+  - key: //
+    val: Captain_Replacement_Invention
+  - key: Response_5_Dialogue
+    val: 81
+  - key: Response_5_Conditions
+    val: 1
+  - key: Response_5_Condition_0_Type
+    val: Flag_Bool
+  - key: Response_5_Condition_0_ID
+    val: 226
+  - key: Response_5_Condition_0_Value
+    val: True
+  - key: Response_5_Condition_0_Logic
+    val: Equal
+  - key: //
+    val: What's
+  - key: //
+    val: Scientist_Work
+  - key: Response_6_Dialogue
+    val: 80
+  - key: //XMAS
+    val: Snow
+  - key: Response_7_Quest
+    val: 316
+  - key: Response_7_Rewards
+    val: 1
+  - key: Response_7_Reward_0_Type
+    val: Quest
+  - key: Response_7_Reward_0_ID
+    val: 316
+  - key: Response_7_Conditions
+    val: 2
+  - key: Response_7_Condition_0_Type
+    val: Quest
+  - key: Response_7_Condition_0_ID
+    val: 316
+  - key: Response_7_Condition_0_Status
+    val: None
+  - key: Response_7_Condition_0_Logic
+    val: Equal
+  - key: Response_7_Condition_1_Type
+    val: Holiday
+  - key: Response_7_Condition_1_Value
+    val: Christmas
+  - key: Response_7_Dialogue
+    val: 334
+  - key: //XMAS
+    val: Snow
+  - key: Response_8_Dialogue
+    val: 333
+  - key: Response_8_Quest
+    val: 316
+  - key: Response_8_Conditions
+    val: 2
+  - key: Response_8_Condition_0_Type
+    val: Quest
+  - key: Response_8_Condition_0_ID
+    val: 316
+  - key: Response_8_Condition_0_Status
+    val: Ready
+  - key: Response_8_Condition_0_Logic
+    val: Equal
+  - key: Response_8_Condition_0_Reset
+    val: 
+  - key: Response_8_Condition_1_Type
+    val: Holiday
+  - key: Response_8_Condition_1_Value
+    val: Christmas
+  - key: //XMAS
+    val: Craft
+  - key: Response_9_Quest
+    val: 327
+  - key: Response_9_Rewards
+    val: 1
+  - key: Response_9_Reward_0_Type
+    val: Quest
+  - key: Response_9_Reward_0_ID
+    val: 327
+  - key: Response_9_Conditions
+    val: 3
+  - key: Response_9_Condition_0_Type
+    val: Quest
+  - key: Response_9_Condition_0_ID
+    val: 327
+  - key: Response_9_Condition_0_Status
+    val: None
+  - key: Response_9_Condition_0_Logic
+    val: Equal
+  - key: Response_9_Condition_1_Type
+    val: Holiday
+  - key: Response_9_Condition_1_Value
+    val: Christmas
+  - key: Response_9_Condition_2_Type
+    val: Quest
+  - key: Response_9_Condition_2_ID
+    val: 316
+  - key: Response_9_Condition_2_Status
+    val: Completed
+  - key: Response_9_Condition_2_Logic
+    val: Equal
+  - key: Response_9_Dialogue
+    val: 337
+  - key: //XMAS
+    val: Craft
+  - key: Response_10_Dialogue
+    val: 338
+  - key: Response_10_Quest
+    val: 327
+  - key: Response_10_Conditions
+    val: 2
+  - key: Response_10_Condition_0_Type
+    val: Quest
+  - key: Response_10_Condition_0_ID
+    val: 327
+  - key: Response_10_Condition_0_Status
+    val: Ready
+  - key: Response_10_Condition_0_Logic
+    val: Equal
+  - key: Response_10_Condition_0_Reset
+    val: 
+  - key: Response_10_Condition_1_Type
+    val: Holiday
+  - key: Response_10_Condition_1_Value
+    val: Christmas
+  - key: //XMAS
+    val: Vendor
+  - key: Response_11_Dialogue
+    val: 335
+  - key: Response_11_Vendor
+    val: 336
+  - key: Response_11_Conditions
+    val: 2
+  - key: Response_11_Condition_0_Type
+    val: Flag_Bool
+  - key: Response_11_Condition_0_ID
+    val: 317
+  - key: Response_11_Condition_0_Value
+    val: True
+  - key: Response_11_Condition_0_Logic
+    val: Equal
+  - key: Response_11_Condition_1_Type
+    val: Holiday
+  - key: Response_11_Condition_1_Value
+    val: Christmas

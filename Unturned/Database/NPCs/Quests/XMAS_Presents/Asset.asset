@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 40
+  rarity: 0
+  id: 320
+  nameEnglish: 'Christmas Eve
+
+    Description Apparently there have been presents
+    scattered somewhere in Moscow, go and check it out!
+
+    
+
+    Condition_0
+    Open {0}/{1} Blue Present
+
+    Condition_1 Open {0}/{1} Orange Present
+
+    Condition_2
+    Open {0}/{1} Green Present
+
+    Condition_3 Open {0}/{1} Purple Present
+
+    Condition_4
+    Open {0}/{1} Red Present'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Conditions
+    val: 5
+  - key: Condition_0_Type
+    val: Kills_Object
+  - key: Condition_0_ID
+    val: 322
+  - key: Condition_0_Object
+    val: 1c45b10c4b414989ae1bd815ac7e7e35
+  - key: Condition_0_Value
+    val: 1
+  - key: Condition_0_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: Condition_1_Type
+    val: Kills_Object
+  - key: Condition_1_ID
+    val: 323
+  - key: Condition_1_Object
+    val: b5e4a1bbcf854ad59dc1dde9b86a6f07
+  - key: Condition_1_Value
+    val: 1
+  - key: Condition_1_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: Condition_2_Type
+    val: Kills_Object
+  - key: Condition_2_ID
+    val: 324
+  - key: Condition_2_Object
+    val: 81698500116d48798141d66e6571a83e
+  - key: Condition_2_Value
+    val: 1
+  - key: Condition_2_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: Condition_3_Type
+    val: Kills_Object
+  - key: Condition_3_ID
+    val: 325
+  - key: Condition_3_Object
+    val: 92e2c47121f8428fa5c1f71bc931d36b
+  - key: Condition_3_Value
+    val: 1
+  - key: Condition_3_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: Condition_4_Type
+    val: Kills_Object
+  - key: Condition_4_ID
+    val: 326
+  - key: Condition_4_Object
+    val: 3df136f3d13c430981ca630f11e043f4
+  - key: Condition_4_Value
+    val: 1
+  - key: Condition_4_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: Rewards
+    val: 3
+  - key: Reward_0_Type
+    val: Item
+  - key: Reward_0_ID
+    val: 1516
+  - key: Reward_0_Amount
+    val: 1
+  - key: Reward_1_Type
+    val: Item
+  - key: Reward_1_ID
+    val: 1517
+  - key: Reward_1_Amount
+    val: 1
+  - key: Reward_2_Type
+    val: Flag_Bool
+  - key: Reward_2_ID
+    val: 321
+  - key: Reward_2_Value
+    val: True

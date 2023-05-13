@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Note_3
+  m_EditorClassIdentifier: 
+  modType: 33
+  rarity: 0
+  id: 2004
+  nameEnglish: 'Note - Mission Briefing #2
+
+    
+
+    Interactability_Text_Line_0
+    Mission Briefing
+
+    Interactability_Text_Line_1 22:09
+
+    Interactability_Text_Line_2
+    ---
+
+    Interactability_Text_Line_3 Details are still sparse, but reports of
+    a highly contagious virus are coming in from across the country. Before going
+    dark the federal government ordered the destruction of Confederation Bridge to
+    prevent the virus from spreading here. Your unit is assigned the bridge, whichever
+    munitions you need are at your disposal.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Interactability
+    val: Note
+  - key: Interactability_Hint
+    val: Use
+  - key: Interactability_Text_Lines
+    val: 4
+  - key: Asset_Bundle_Version
+    val: 2
+  - key: Bundle_Override_Path
+    val: /Objects/Medium/Furniture/Note
+  - key: Has_Clip_Prefab
+    val: false

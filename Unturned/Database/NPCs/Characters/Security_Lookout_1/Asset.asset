@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 36
+  rarity: 0
+  id: 797
+  nameEnglish: 'Security Lookout Lydia
+
+    Character Lydia'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Shirt
+    val: 223
+  - key: Pants
+    val: 224
+  - key: //
+    val: Magic
+  - key: Has_Halloween_Outfit
+    val: True
+  - key: Halloween_Shirt
+    val: 563
+  - key: Halloween_Pants
+    val: 564
+  - key: Halloween_Backpack
+    val: 562
+  - key: Halloween_Hat
+    val: 561
+  - key: Has_Christmas_Outfit
+    val: True
+  - key: Christmas_Shirt
+    val: 223
+  - key: Christmas_Pants
+    val: 224
+  - key: Christmas_Hat
+    val: 278
+  - key: Face
+    val: 0
+  - key: Hair
+    val: 4
+  - key: Color_Skin
+    val: '#D9CAB4'
+  - key: Color_Hair
+    val: '#CDC08C'
+  - key: Tertiary
+    val: 333
+  - key: Equipped
+    val: Tertiary
+  - key: Dialogue
+    val: 86
+  - key: Has_Clip_Prefab
+    val: false

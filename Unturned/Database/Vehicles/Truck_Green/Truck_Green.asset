@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Truck_Green
+  m_EditorClassIdentifier: 
+  modType: 58
+  rarity: 0
+  id: 19
+  nameEnglish: Green Truck
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Speed_Min
+    val: -6
+  - key: Speed_Max
+    val: 13.5
+  - key: Steer_Min
+    val: 12
+  - key: Steer_Max
+    val: 24
+  - key: Brake
+    val: 40
+  - key: Fuel_Min
+    val: 200
+  - key: Fuel_Max
+    val: 400
+  - key: Fuel
+    val: 1750
+  - key: Health_Min
+    val: 350
+  - key: Health_Max
+    val: 450
+  - key: Health
+    val: 550
+  - key: Traction
+    val: 
+  - key: Trunk_Storage_X
+    val: 5
+  - key: Trunk_Storage_Y
+    val: 4
+  - key: Explosion
+    val: 20
+  - key: IgnitionAudioClip
+    val: Sounds/CarIgnition.mp3
+  - key: HornAudioClip
+    val: Sounds/CarHorn_01.mp3
+  - key: Has_Clip_Prefab
+    val: false

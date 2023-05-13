@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 21
+  nameEnglish: 'Message_0_Page_0 Nothing to see here!<br>Following the rules!
+
+    Message_1_Page_0
+    A sight for sore eyes!
+
+    
+
+    Response_0 P.Riso sent me
+
+    Response_1
+    Good to hear
+
+    Response_2 Need any help?
+
+    Response_3 I brought you a
+    cake
+
+    Response_4 <color=#fa3200>Password</color>
+
+    Response_5 Hang tight'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 2
+  - key: Message_0_Pages
+    val: 1
+  - key: Message_0_Responses
+    val: 2
+  - key: Message_0_Response_0
+    val: 0
+  - key: Message_0_Response_1
+    val: 1
+  - key: Message_0_Conditions
+    val: 1
+  - key: //
+    val: Met_T.Rickster
+  - key: Message_0_Condition_0_Type
+    val: Flag_Bool
+  - key: Message_0_Condition_0_ID
+    val: 23
+  - key: Message_0_Condition_0_Value
+    val: False
+  - key: Message_0_Condition_0_Logic
+    val: Equal
+  - key: Message_0_Condition_0_Allow_Unset
+    val: 
+  - key: Message_1_Pages
+    val: 1
+  - key: Responses
+    val: 6
+  - key: //
+    val: P.Riso
+  - key: //
+    val: T.Rickster_Referred
+  - key: Response_0_Dialogue
+    val: 22
+  - key: Response_0_Messages
+    val: 1
+  - key: Response_0_Message_0
+    val: 0
+  - key: Response_0_Conditions
+    val: 1
+  - key: //
+    val: Met_P.Riso
+  - key: Response_0_Condition_0_Type
+    val: Flag_Bool
+  - key: Response_0_Condition_0_ID
+    val: 15
+  - key: Response_0_Condition_0_Value
+    val: True
+  - key: Response_0_Condition_0_Logic
+    val: Equal
+  - key: Response_0_Rewards
+    val: 1
+  - key: //
+    val: Met_T.Rickster
+  - key: Response_0_Reward_0_Type
+    val: Flag_Bool
+  - key: Response_0_Reward_0_ID
+    val: 23
+  - key: Response_0_Reward_0_Value
+    val: True
+  - key: Response_1_Messages
+    val: 1
+  - key: Response_1_Message_0
+    val: 0
+  - key: //
+    val: Need
+  - key: //
+    val: T.Rickster_Cake_Accepted
+  - key: Response_2_Dialogue
+    val: 25
+  - key: Response_2_Quest
+    val: 24
+  - key: Response_2_Conditions
+    val: 1
+  - key: Response_2_Condition_0_Type
+    val: Quest
+  - key: Response_2_Condition_0_Logic
+    val: Equal
+  - key: Response_2_Condition_0_ID
+    val: 24
+  - key: Response_2_Condition_0_Status
+    val: None
+  - key: Response_2_Rewards
+    val: 2
+  - key: Response_2_Reward_0_Type
+    val: Quest
+  - key: Response_2_Reward_0_ID
+    val: 24
+  - key: //
+    val: Cake
+  - key: Response_2_Reward_1_Type
+    val: Item
+  - key: Response_2_Reward_1_ID
+    val: 1430
+  - key: Response_2_Reward_1_Amount
+    val: 1
+  - key: //
+    val: I
+  - key: //
+    val: T.Rickster_Cake_Completed
+  - key: Response_3_Dialogue
+    val: 26
+  - key: Response_3_Quest
+    val: 24
+  - key: Response_3_Conditions
+    val: 1
+  - key: Response_3_Condition_0_Type
+    val: Quest
+  - key: Response_3_Condition_0_Logic
+    val: Equal
+  - key: Response_3_Condition_0_ID
+    val: 24
+  - key: Response_3_Condition_0_Status
+    val: Ready
+  - key: Response_3_Condition_0_Reset
+    val: 
+  - key: //
+    val: Password
+  - key: //
+    val: T.Rickster_Blackmarket
+  - key: Response_4_Dialogue
+    val: 28
+  - key: Response_4_Vendor
+    val: 27
+  - key: Response_4_Conditions
+    val: 1
+  - key: Response_4_Condition_0_Type
+    val: Quest
+  - key: Response_4_Condition_0_Logic
+    val: Equal
+  - key: Response_4_Condition_0_ID
+    val: 24
+  - key: Response_4_Condition_0_Status
+    val: Completed

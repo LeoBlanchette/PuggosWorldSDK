@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: DestructionTest
+  m_EditorClassIdentifier: 
+  modType: 40
+  rarity: 0
+  id: 250
+  nameEnglish: 'Destruction Quest
+
+    Description Desc
+
+    
+
+    Condition_0
+    Destroy {0}/{1} Fences'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Conditions
+    val: 1
+  - key: Condition_0_Type
+    val: Kills_Object
+  - key: Condition_0_ID
+    val: 251
+  - key: Condition_0_Value
+    val: 5
+  - key: Condition_0_Nav
+    val: 255
+  - key: Condition_0_Object
+    val: 40921a1a3cd742f69cc25cc25b856572
+  - key: Condition_0_Logic
+    val: Greater_Than_Or_Equal_To

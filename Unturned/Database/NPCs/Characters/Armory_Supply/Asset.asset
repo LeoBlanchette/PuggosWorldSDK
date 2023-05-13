@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 36
+  rarity: 0
+  id: 816
+  nameEnglish: 'Armory Supply Kyle
+
+    Character <color=rare>Lieutenant Kyle</color>'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Shirt
+    val: 1421
+  - key: Pants
+    val: 1419
+  - key: //
+    val: Samurai
+  - key: Has_Halloween_Outfit
+    val: True
+  - key: Halloween_Shirt
+    val: 717
+  - key: Halloween_Pants
+    val: 718
+  - key: Halloween_Hat
+    val: 719
+  - key: Halloween_Vest
+    val: 720
+  - key: Halloween_Mask
+    val: 721
+  - key: Has_Christmas_Outfit
+    val: True
+  - key: Christmas_Shirt
+    val: 1421
+  - key: Christmas_Pants
+    val: 1419
+  - key: Christmas_Hat
+    val: 278
+  - key: Face
+    val: 5
+  - key: Hair
+    val: 1
+  - key: Color_Skin
+    val: '#AA916E'
+  - key: Color_Hair
+    val: '#464646'
+  - key: Secondary
+    val: 99
+  - key: Dialogue
+    val: 143
+  - key: Has_Clip_Prefab
+    val: false

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 36
+  rarity: 0
+  id: 813
+  nameEnglish: 'Coalition Soldier Simon
+
+    Character <color=uncommon>Ensign Simon</color>'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Shirt
+    val: 1420
+  - key: Pants
+    val: 1419
+  - key: Vest
+    val: 1425
+  - key: //
+    val: Squid
+  - key: Has_Halloween_Outfit
+    val: True
+  - key: Halloween_Backpack
+    val: 787
+  - key: Halloween_Hat
+    val: 788
+  - key: Halloween_Mask
+    val: 789
+  - key: Halloween_Pants
+    val: 790
+  - key: Halloween_Shirt
+    val: 791
+  - key: Halloween_Vest
+    val: 792
+  - key: Has_Christmas_Outfit
+    val: True
+  - key: Christmas_Shirt
+    val: 1420
+  - key: Christmas_Pants
+    val: 1419
+  - key: Christmas_Hat
+    val: 278
+  - key: Face
+    val: 1
+  - key: Hair
+    val: 9
+  - key: Color_Skin
+    val: '#BEA582'
+  - key: Color_Hair
+    val: '#353A5C'
+  - key: Primary
+    val: 1447
+  - key: Equipped
+    val: Primary
+  - key: Dialogue
+    val: 90
+  - key: Has_Clip_Prefab
+    val: false

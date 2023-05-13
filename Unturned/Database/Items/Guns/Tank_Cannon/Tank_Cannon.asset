@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Tank_Cannon
+  m_EditorClassIdentifier: 
+  modType: 24
+  rarity: 4
+  id: 1300
+  nameEnglish: 'Tank Cannon
+
+    Description Tank rocket launcher chambered in Missiles.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Gun
+  - key: Slot
+    val: Primary
+  - key: Sight
+    val: 1301
+  - key: Magazine
+    val: 1302
+  - key: Ammo_Min
+    val: 1
+  - key: Ammo_Max
+    val: 1
+  - key: Semi
+    val: 
+  - key: Caliber
+    val: 29
+  - key: Firerate
+    val: 50
+  - key: Action
+    val: Rocket
+  - key: Player_Damage
+    val: 200
+  - key: Zombie_Damage
+    val: 200
+  - key: Animal_Damage
+    val: 200
+  - key: Barricade_Damage
+    val: 1000
+  - key: Structure_Damage
+    val: 1000
+  - key: Vehicle_Damage
+    val: 1000
+  - key: Resource_Damage
+    val: 2000
+  - key: Object_Damage
+    val: 1000
+  - key: Range
+    val: 14
+  - key: Explosion
+    val: 45
+  - key: Aim_In_Duration
+    val: 0.3
+  - key: Spread_Aim
+    val: 0.2
+  - key: Spread_Hip
+    val: 0.05
+  - key: Ballistic_Force
+    val: 3000
+  - key: Recoil_Min_X
+    val: -3
+  - key: Recoil_Min_Y
+    val: 3
+  - key: Recoil_Max_X
+    val: 3
+  - key: Recoil_Max_Y
+    val: 5
+  - key: Recover_X
+    val: 0.7
+  - key: Recover_Y
+    val: 0.7
+  - key: Muzzle
+    val: 42
+  - key: Reload_Time
+    val: 2
+  - key: Turret
+    val: 

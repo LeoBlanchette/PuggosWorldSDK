@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Luggage_Purple
+  m_EditorClassIdentifier: 
+  modType: 33
+  rarity: 0
+  id: 674
+  nameEnglish: Purple Luggage
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Rubble
+    val: Destroy
+  - key: Rubble_Reset
+    val: 60
+  - key: Rubble_Health
+    val: 1
+  - key: Rubble_Effect
+    val: 58
+  - key: Rubble_Editor
+    val: Dead
+  - key: Has_Clip_Prefab
+    val: false

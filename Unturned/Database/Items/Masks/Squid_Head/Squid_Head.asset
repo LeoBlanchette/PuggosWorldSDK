@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Squid_Head
+  m_EditorClassIdentifier: 
+  modType: 31
+  rarity: 0
+  id: 789
+  nameEnglish: 'Squid Captain Head
+
+    Description The captain of the dead sea.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Clothing
+  - key: Size_X
+    val: 2
+  - key: Size_Y
+    val: 2
+  - key: Size_Z
+    val: 0.55
+  - key: Pro
+    val: 
+  - key: Bypass_ID_Limit
+    val: 

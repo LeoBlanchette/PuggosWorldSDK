@@ -1,0 +1,479 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 1
+  nameEnglish: 'Message_0_Page_0 Ah hello! I heard there was someone new on-board.
+    I''m <name_npc>, in charge of this vessel and aiding any survivors we come across.
+    You''re one of the first we''ve met, what''s your name?
+
+    Message_1_Page_0
+    By all accounts you''ve shown yourself to be the embodiment of what we look for
+    in an <color=uncommon>Ensign</color>. The rank is yours if you want it!
+
+    Message_2_Page_0
+    You''ve been an exemplary <color=uncommon>Ensign</color>, and it''s about time
+    you were promoted! If you''re ready I''m prepared to make you a <color=rare>Lieutenant</color>!
+
+    Message_3_Page_0
+    I''m very proud of you <name_char>... <pause>You''ve done a stellar job and I
+    think you''re ready to lead a squad of your own as a <color=epic>Major</color>.
+    What do you say?
+
+    Message_4_Page_0 Anything to report?
+
+    
+
+    Response_0
+    My name is <name_char>
+
+    Response_1 I''m ready to serve
+
+    Response_2
+    Thank you, I won''t let you down
+
+    Response_3 I''m honored, I''ll stand by
+    your side <color=legendary>Captain</color>
+
+    Response_4 I need some time
+    to think about it
+
+    Response_5 Can I join the Coalition?
+
+    Response_6
+    What ranks are there?
+
+    Response_7 Can I get a replacement uniform?
+
+    Response_8
+    <color=epic>Major Len</color> is a traitor!
+
+    Response_9 <color=uncommon>Ensign
+    Darren</color> is the real traitor!
+
+    Response_10 I''ve got this note for
+    you
+
+    Response_11 Nothing to report'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 5
+  - key: //
+    val: Welcome
+  - key: Message_0_Pages
+    val: 1
+  - key: Message_0_Responses
+    val: 1
+  - key: Message_0_Response_0
+    val: 0
+  - key: Message_0_Conditions
+    val: 1
+  - key: //
+    val: Met_Captain
+  - key: Message_0_Condition_0_Type
+    val: Flag_Bool
+  - key: Message_0_Condition_0_ID
+    val: 2
+  - key: Message_0_Condition_0_Value
+    val: False
+  - key: Message_0_Condition_0_Logic
+    val: Equal
+  - key: Message_0_Condition_0_Allow_Unset
+    val: 
+  - key: //
+    val: Ensign
+  - key: Message_1_Pages
+    val: 1
+  - key: Message_1_Responses
+    val: 2
+  - key: Message_1_Response_0
+    val: 1
+  - key: Message_1_Response_1
+    val: 4
+  - key: Message_1_Conditions
+    val: 2
+  - key: //
+    val: Coalition_Quests_Completed
+  - key: Message_1_Condition_0_Type
+    val: Flag_Short
+  - key: Message_1_Condition_0_ID
+    val: 13
+  - key: Message_1_Condition_0_Value
+    val: 3
+  - key: Message_1_Condition_0_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: //
+    val: Coalition_Rank
+  - key: Message_1_Condition_1_Type
+    val: Flag_Short
+  - key: Message_1_Condition_1_ID
+    val: 29
+  - key: Message_1_Condition_1_Value
+    val: 0
+  - key: Message_1_Condition_1_Logic
+    val: Equal
+  - key: Message_1_Condition_1_Allow_Unset
+    val: 
+  - key: //
+    val: Lieutenant
+  - key: Message_2_Pages
+    val: 1
+  - key: Message_2_Responses
+    val: 2
+  - key: Message_2_Response_0
+    val: 2
+  - key: Message_2_Response_1
+    val: 4
+  - key: Message_2_Conditions
+    val: 2
+  - key: //
+    val: Coalition_Quests_Completed
+  - key: Message_2_Condition_0_Type
+    val: Flag_Short
+  - key: Message_2_Condition_0_ID
+    val: 13
+  - key: Message_2_Condition_0_Value
+    val: 9
+  - key: Message_2_Condition_0_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: //
+    val: Coalition_Rank
+  - key: Message_2_Condition_1_Type
+    val: Flag_Short
+  - key: Message_2_Condition_1_ID
+    val: 29
+  - key: Message_2_Condition_1_Value
+    val: 1
+  - key: Message_2_Condition_1_Logic
+    val: Equal
+  - key: //
+    val: Major
+  - key: Message_3_Pages
+    val: 1
+  - key: Message_3_Responses
+    val: 2
+  - key: Message_3_Response_0
+    val: 3
+  - key: Message_3_Response_1
+    val: 4
+  - key: Message_3_Conditions
+    val: 2
+  - key: //
+    val: Coalition_Quests_Completed
+  - key: Message_3_Condition_0_Type
+    val: Flag_Short
+  - key: Message_3_Condition_0_ID
+    val: 13
+  - key: Message_3_Condition_0_Value
+    val: 21
+  - key: Message_3_Condition_0_Logic
+    val: Greater_Than_Or_Equal_To
+  - key: //
+    val: Coalition_Rank
+  - key: Message_3_Condition_1_Type
+    val: Flag_Short
+  - key: Message_3_Condition_1_ID
+    val: 29
+  - key: Message_3_Condition_1_Value
+    val: 2
+  - key: Message_3_Condition_1_Logic
+    val: Equal
+  - key: //
+    val: Anything
+  - key: Message_4_Pages
+    val: 1
+  - key: Responses
+    val: 12
+  - key: //
+    val: Hello
+  - key: //
+    val: Captain_Introduce
+  - key: Response_0_Dialogue
+    val: 3
+  - key: Response_0_Messages
+    val: 1
+  - key: Response_0_Message_0
+    val: 0
+  - key: Response_0_Rewards
+    val: 1
+  - key: //
+    val: Met_Captain
+  - key: Response_0_Reward_0_Type
+    val: Flag_Bool
+  - key: Response_0_Reward_0_ID
+    val: 2
+  - key: Response_0_Reward_0_Value
+    val: True
+  - key: //
+    val: Ensign
+  - key: //
+    val: Captain_Ensign
+  - key: Response_1_Dialogue
+    val: 30
+  - key: Response_1_Messages
+    val: 1
+  - key: Response_1_Message_0
+    val: 1
+  - key: Response_1_Rewards
+    val: 4
+  - key: //
+    val: Coalition_Rank
+  - key: Response_1_Reward_0_Type
+    val: Flag_Short
+  - key: Response_1_Reward_0_ID
+    val: 29
+  - key: Response_1_Reward_0_Value
+    val: 1
+  - key: Response_1_Reward_0_Modification
+    val: Increment
+  - key: //
+    val: Bottom
+  - key: Response_1_Reward_1_Type
+    val: Item
+  - key: Response_1_Reward_1_ID
+    val: 1419
+  - key: Response_1_Reward_1_Amount
+    val: 1
+  - key: //
+    val: Top
+  - key: Response_1_Reward_2_Type
+    val: Item
+  - key: Response_1_Reward_2_ID
+    val: 1420
+  - key: Response_1_Reward_2_Amount
+    val: 1
+  - key: //
+    val: Cap
+  - key: Response_1_Reward_3_Type
+    val: Item
+  - key: Response_1_Reward_3_ID
+    val: 1426
+  - key: Response_1_Reward_3_Amount
+    val: 1
+  - key: //
+    val: Lieutenant
+  - key: //
+    val: Captain_Lieutenant
+  - key: Response_2_Dialogue
+    val: 31
+  - key: Response_2_Messages
+    val: 1
+  - key: Response_2_Message_0
+    val: 2
+  - key: Response_2_Rewards
+    val: 4
+  - key: //
+    val: Coalition_Rank
+  - key: Response_2_Reward_0_Type
+    val: Flag_Short
+  - key: Response_2_Reward_0_ID
+    val: 29
+  - key: Response_2_Reward_0_Value
+    val: 1
+  - key: Response_2_Reward_0_Modification
+    val: Increment
+  - key: //
+    val: Top
+  - key: Response_2_Reward_1_Type
+    val: Item
+  - key: Response_2_Reward_1_ID
+    val: 1421
+  - key: Response_2_Reward_1_Amount
+    val: 1
+  - key: //
+    val: Vest
+  - key: Response_2_Reward_2_Type
+    val: Item
+  - key: Response_2_Reward_2_ID
+    val: 1425
+  - key: Response_2_Reward_2_Amount
+    val: 1
+  - key: //
+    val: Helmet
+  - key: Response_2_Reward_3_Type
+    val: Item
+  - key: Response_2_Reward_3_ID
+    val: 1427
+  - key: Response_2_Reward_3_Amount
+    val: 1
+  - key: //
+    val: Major
+  - key: //
+    val: Captain_Major
+  - key: Response_3_Dialogue
+    val: 32
+  - key: Response_3_Messages
+    val: 1
+  - key: Response_3_Message_0
+    val: 3
+  - key: Response_3_Rewards
+    val: 3
+  - key: //
+    val: Coalition_Rank
+  - key: Response_3_Reward_0_Type
+    val: Flag_Short
+  - key: Response_3_Reward_0_ID
+    val: 29
+  - key: Response_3_Reward_0_Value
+    val: 1
+  - key: Response_3_Reward_0_Modification
+    val: Increment
+  - key: //
+    val: Top
+  - key: Response_3_Reward_1_Type
+    val: Item
+  - key: Response_3_Reward_1_ID
+    val: 1422
+  - key: Response_3_Reward_1_Amount
+    val: 1
+  - key: //
+    val: Beret
+  - key: Response_3_Reward_2_Type
+    val: Item
+  - key: Response_3_Reward_2_ID
+    val: 1428
+  - key: Response_3_Reward_2_Amount
+    val: 1
+  - key: Response_4_Messages
+    val: 3
+  - key: Response_4_Message_0
+    val: 3
+  - key: Response_4_Message_1
+    val: 3
+  - key: Response_4_Message_2
+    val: 3
+  - key: //
+    val: Ask
+  - key: //
+    val: Captain_Join_Request
+  - key: Response_5_Dialogue
+    val: 4
+  - key: Response_5_Conditions
+    val: 1
+  - key: Response_5_Condition_0_Type
+    val: Flag_Short
+  - key: Response_5_Condition_0_ID
+    val: 29
+  - key: Response_5_Condition_0_Value
+    val: 0
+  - key: Response_5_Condition_0_Logic
+    val: Equal
+  - key: Response_5_Condition_0_Allow_Unset
+    val: 
+  - key: //
+    val: Ask
+  - key: //
+    val: Captain_Ranks_Query
+  - key: Response_6_Dialogue
+    val: 5
+  - key: //
+    val: Lost
+  - key: //
+    val: Captain_Uniform_Replacement
+  - key: Response_7_Dialogue
+    val: 72
+  - key: Response_7_Conditions
+    val: 1
+  - key: Response_7_Condition_0_Type
+    val: Flag_Short
+  - key: Response_7_Condition_0_ID
+    val: 29
+  - key: Response_7_Condition_0_Value
+    val: 0
+  - key: Response_7_Condition_0_Logic
+    val: Greater_Than
+  - key: //
+    val: Report
+  - key: //
+    val: Captain_Traitor
+  - key: Response_8_Dialogue
+    val: 193
+  - key: Response_8_Conditions
+    val: 2
+  - key: Response_8_Condition_0_Type
+    val: Flag_Bool
+  - key: Response_8_Condition_0_ID
+    val: 192
+  - key: Response_8_Condition_0_Value
+    val: False
+  - key: Response_8_Condition_0_Logic
+    val: Equal
+  - key: Response_8_Condition_0_Allow_Unset
+    val: 
+  - key: Response_8_Condition_1_Type
+    val: Quest
+  - key: Response_8_Condition_1_Logic
+    val: Equal
+  - key: Response_8_Condition_1_ID
+    val: 180
+  - key: Response_8_Condition_1_Status
+    val: Completed
+  - key: Response_8_Rewards
+    val: 1
+  - key: Response_8_Reward_0_Type
+    val: Flag_Bool
+  - key: Response_8_Reward_0_ID
+    val: 192
+  - key: Response_8_Reward_0_Value
+    val: True
+  - key: //
+    val: I
+  - key: //
+    val: Captain_Find_Relay_Evidence_Completed
+  - key: Response_9_Dialogue
+    val: 200
+  - key: Response_9_Quest
+    val: 194
+  - key: Response_9_Conditions
+    val: 1
+  - key: Response_9_Condition_0_Type
+    val: Quest
+  - key: Response_9_Condition_0_Logic
+    val: Equal
+  - key: Response_9_Condition_0_ID
+    val: 194
+  - key: Response_9_Condition_0_Status
+    val: Ready
+  - key: Response_9_Condition_0_Reset
+    val: 
+  - key: Response_9_Rewards
+    val: 1
+  - key: Response_9_Reward_0_Type
+    val: Flag_Bool
+  - key: Response_9_Reward_0_ID
+    val: 197
+  - key: Response_9_Reward_0_Value
+    val: True
+  - key: //
+    val: I've
+  - key: //
+    val: Captain_Valentines_Note_Completed
+  - key: Response_10_Dialogue
+    val: 236
+  - key: Response_10_Quest
+    val: 230
+  - key: Response_10_Conditions
+    val: 1
+  - key: Response_10_Condition_0_Type
+    val: Quest
+  - key: Response_10_Condition_0_Logic
+    val: Equal
+  - key: Response_10_Condition_0_ID
+    val: 230
+  - key: Response_10_Condition_0_Status
+    val: Ready
+  - key: Response_10_Condition_0_Reset
+    val: 

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Note_23
+  m_EditorClassIdentifier: 
+  modType: 33
+  rarity: 0
+  id: 2024
+  nameEnglish: 'Russia Note - Coalition
+
+    
+
+    Interactability_Text_Line_0
+    General Roman''s Diary
+
+    Interactability_Text_Line_1 ---
+
+    Interactability_Text_Line_2
+    It''s been a flurry of activity the past few days so I haven''t had the chance
+    to write an entry - Russia has joined the Coalition, and I''ve been assigned
+    to set up a forward operating base. After surveying the coastline we picked a
+    relatively accessible oil rig to secure and begin helping survivors. Scouts are
+    reporting that a large region North of Moscow is completely irradiated, so we''ll
+    have to be careful of the fallout. Reinforcements are already on their way to
+    help us take a headquarters on the mainland, and several nuclear submarines in
+    the area are rendezvousing with us here.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Interactability
+    val: Note
+  - key: Interactability_Hint
+    val: Use
+  - key: Interactability_Text_Lines
+    val: 3
+  - key: Asset_Bundle_Version
+    val: 2
+  - key: Bundle_Override_Path
+    val: /Objects/Medium/Furniture/Note
+  - key: Has_Clip_Prefab
+    val: false

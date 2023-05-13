@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: XMAS_Present_00
+  m_EditorClassIdentifier: 
+  modType: 49
+  rarity: 2
+  id: 1695
+  nameEnglish: 'Present
+
+    Description A colorful box for storing gifts.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Barricade
+  - key: Build
+    val: Storage
+  - key: Size_X
+    val: 1
+  - key: Size_Y
+    val: 1
+  - key: Size_Z
+    val: 0.5
+  - key: Health
+    val: 200
+  - key: Range
+    val: 4
+  - key: Radius
+    val: 0.35
+  - key: Offset
+    val: 0.5
+  - key: Storage_X
+    val: 2
+  - key: Storage_Y
+    val: 2
+  - key: Explosion
+    val: 84
+  - key: Vulnerable
+    val: 
+  - key: Blueprints
+    val: 1
+  - key: Blueprint_0_Type
+    val: Furniture
+  - key: Blueprint_0_Supplies
+    val: 1
+  - key: Blueprint_0_Supply_0_ID
+    val: 1694
+  - key: Blueprint_0_Supply_0_Amount
+    val: 2
+  - key: Blueprint_0_Build
+    val: 27
+  - key: Blueprint_0_Rewards
+    val: 1
+  - key: Blueprint_0_Reward_0_Type
+    val: Flag_Short
+  - key: Blueprint_0_Reward_0_ID
+    val: 329
+  - key: Blueprint_0_Reward_0_Value
+    val: 1
+  - key: Blueprint_0_Reward_0_Modification
+    val: Increment
+  - key: Should_Close_When_Outside_Range
+    val: true
+  - key: PlacementAudioClip
+    val: Sounds/WoodenPlacement.mp3
+  - key: Has_Clip_Prefab
+    val: false

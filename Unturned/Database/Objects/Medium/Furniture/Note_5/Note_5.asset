@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Note_5
+  m_EditorClassIdentifier: 
+  modType: 33
+  rarity: 0
+  id: 2006
+  nameEnglish: 'Note - Dr. Behan #2
+
+    
+
+    Interactability_Text_Line_0 EVICTION
+
+    Interactability_Text_Line_1
+    NOTICE
+
+    Interactability_Text_Line_2 ---
+
+    Interactability_Text_Line_3
+    Date: January 2nd
+
+    Interactability_Text_Line_4 Tenant: Dr. Behan
+
+    Interactability_Text_Line_5
+    ---
+
+    Interactability_Text_Line_6 Tenants and members of the household will
+    have thirty days to vacate the premises or will face fines and/or jail time.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Interactability
+    val: Note
+  - key: Interactability_Hint
+    val: Use
+  - key: Interactability_Text_Lines
+    val: 7
+  - key: Asset_Bundle_Version
+    val: 2
+  - key: Bundle_Override_Path
+    val: /Objects/Medium/Furniture/Note
+  - key: Has_Clip_Prefab
+    val: false

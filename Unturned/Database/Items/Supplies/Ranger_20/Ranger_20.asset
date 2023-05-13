@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Ranger_20
+  m_EditorClassIdentifier: 
+  modType: 51
+  rarity: 3
+  id: 1193
+  nameEnglish: 'High Caliber Ranger Ammunition Box
+
+    Description High caliber
+    ranger grade ammunition box. Designed to fit 20 rounds.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Size_X
+    val: 2
+  - key: Size_Y
+    val: 2
+  - key: Size_Z
+    val: 0.45
+  - key: Amount
+    val: 20
+  - key: Count_Min
+    val: 13
+  - key: Count_Max
+    val: 18
+  - key: Blueprints
+    val: 1
+  - key: Blueprint_0_Type
+    val: Ammo
+  - key: Blueprint_0_Supplies
+    val: 1
+  - key: Blueprint_0_Supply_0_ID
+    val: 1193
+  - key: Blueprint_0_Build
+    val: 30
+  - key: InventoryAudio
+    val: Sounds/Inventory/SmallGunAttachment.asset

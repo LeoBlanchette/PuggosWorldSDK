@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Birch_3
+  m_EditorClassIdentifier: 
+  modType: 42
+  rarity: 0
+  id: 33
+  nameEnglish: Russia Birch #2
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Health
+    val: 800
+  - key: Radius
+    val: 4
+  - key: Scale
+    val: 0.3
+  - key: Explosion
+    val: 102
+  - key: Reward_ID
+    val: 515
+  - key: Reward_XP
+    val: 4
+  - key: Reward_Min
+    val: 7
+  - key: Reward_Max
+    val: 10
+  - key: Reset
+    val: 450
+  - key: Auto_Skybox
+    val: 
+  - key: SpeedTree
+    val: 
+  - key: SpeedTree_Default_LOD_Weights
+    val: 
+  - key: Christmas_Redirect
+    val: 99848480a28f41ebb3d752a47fd5b023
+  - key: Has_Clip_Prefab
+    val: false

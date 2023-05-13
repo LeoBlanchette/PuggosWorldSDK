@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 36
+  rarity: 0
+  id: 759
+  nameEnglish: 'Pirate Wallace
+
+    Character Wallace'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Shirt
+    val: 546
+  - key: Pants
+    val: 547
+  - key: Hat
+    val: 545
+  - key: //
+    val: Swashbuckler
+  - key: Has_Halloween_Outfit
+    val: True
+  - key: Halloween_Shirt
+    val: 613
+  - key: Halloween_Pants
+    val: 612
+  - key: Halloween_Hat
+    val: 611
+  - key: Has_Christmas_Outfit
+    val: True
+  - key: Christmas_Shirt
+    val: 819
+  - key: Christmas_Pants
+    val: 817
+  - key: Christmas_Hat
+    val: 818
+  - key: Christmas_Backpack
+    val: 820
+  - key: Face
+    val: 25
+  - key: Beard
+    val: 11
+  - key: Color_Skin
+    val: '#94764B'
+  - key: Color_Hair
+    val: '#473928'
+  - key: Tertiary
+    val: 503
+  - key: Equipped
+    val: Tertiary
+  - key: Backward
+    val: 
+  - key: Dialogue
+    val: 33
+  - key: Has_Clip_Prefab
+    val: false

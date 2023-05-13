@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 40
+  rarity: 0
+  id: 24
+  nameEnglish: 'The Great Escape
+
+    Description T.Rickster is supposedly wrongly
+    imprisoned, but insists you don''t ask the security team about him. He''s given
+    you a blueprint for his favourite kind of cake and would really appreciate if
+    you can bake it for him. He can''t give you much now, but says he''ll pay you
+    back later.
+
+    
+
+    Condition_0 Bake {0}/{1} {2}'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Conditions
+    val: 1
+  - key: Condition_0_Type
+    val: Item
+  - key: Condition_0_ID
+    val: 1431
+  - key: Condition_0_Amount
+    val: 1
+  - key: Condition_0_Reset
+    val: 
+  - key: Rewards
+    val: 1
+  - key: Reward_0_Type
+    val: Experience
+  - key: Reward_0_Value
+    val: 10

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Note_8
+  m_EditorClassIdentifier: 
+  modType: 33
+  rarity: 0
+  id: 2009
+  nameEnglish: 'Note - Military #3
+
+    
+
+    Interactability_Text_Line_0 128-bit
+    AES Key for May 23rd
+
+    Interactability_Text_Line_1 8f79f7d754c6494798c16dce8f44a1cf'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Interactability
+    val: Note
+  - key: Interactability_Hint
+    val: Use
+  - key: Interactability_Text_Lines
+    val: 2
+  - key: Asset_Bundle_Version
+    val: 2
+  - key: Bundle_Override_Path
+    val: /Objects/Medium/Furniture/Note
+  - key: Has_Clip_Prefab
+    val: false

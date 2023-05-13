@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 39
+  nameEnglish: 'Message_0_Page_0 Blimey that''s a big one! Good work matey, you take
+    this plaque and display it proudly!
+
+    Message_0_Page_1 Me? There''s plenty
+    of fish in the sea. To be honest I find this relaxing, and a fresh catch gives
+    Leonard some variety to work with. I''ll find a new nemisis! <i>*eyes smile*</i>'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 1
+  - key: Message_0_Pages
+    val: 2

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Dirtbike_Purple
+  m_EditorClassIdentifier: 
+  modType: 58
+  rarity: 0
+  id: 180
+  nameEnglish: Purple Dirtbike
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Speed_Min
+    val: -5
+  - key: Speed_Max
+    val: 13.5
+  - key: Steer_Min
+    val: 16
+  - key: Steer_Max
+    val: 32
+  - key: Brake
+    val: 24
+  - key: Fuel_Min
+    val: 200
+  - key: Fuel_Max
+    val: 400
+  - key: Fuel
+    val: 1000
+  - key: Health_Min
+    val: 200
+  - key: Health_Max
+    val: 300
+  - key: Health
+    val: 400
+  - key: Exit
+    val: 1.5
+  - key: Zip
+    val: 
+  - key: Traction
+    val: 
+  - key: Crawler
+    val: 
+  - key: Tires_Invulnerable
+    val: 
+  - key: Trunk_Storage_X
+    val: 3
+  - key: Trunk_Storage_Y
+    val: 2
+  - key: Explosion
+    val: 20
+  - key: Should_Spawn_Seat_Capsules
+    val: true
+  - key: IgnitionAudioClip
+    val: Sounds/CarIgnition.mp3
+  - key: HornAudioClip
+    val: Sounds/CarHorn_01.mp3
+  - key: Has_Clip_Prefab
+    val: false

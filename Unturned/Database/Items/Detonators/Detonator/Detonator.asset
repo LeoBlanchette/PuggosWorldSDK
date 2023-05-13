@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Detonator
+  m_EditorClassIdentifier: 
+  modType: 12
+  rarity: 2
+  id: 1240
+  nameEnglish: "Detonator \r\nDescription Tool for detonating explosives remotely."
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Detonator
+  - key: Size_X
+    val: 2
+  - key: Size_Y
+    val: 2
+  - key: Size_Z
+    val: 0.45
+  - key: Size2_Z
+    val: 0.45
+  - key: Backward
+    val: 
+  - key: Blueprints
+    val: 1
+  - key: Blueprint_0_Type
+    val: Tool
+  - key: Blueprint_0_Supply_0_ID
+    val: 1240
+  - key: Blueprint_0_Product
+    val: 67
+  - key: Blueprint_0_Products
+    val: 2
+  - key: Blueprint_0_Build
+    val: 27

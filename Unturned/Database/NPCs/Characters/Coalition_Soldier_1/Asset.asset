@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 36
+  rarity: 0
+  id: 810
+  nameEnglish: 'Coalition Soldier Vicky
+
+    Character <color=uncommon>Ensign Vicky</color>'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Shirt
+    val: 1420
+  - key: Pants
+    val: 1419
+  - key: Vest
+    val: 1425
+  - key: //
+    val: Blueknight
+  - key: Has_Halloween_Outfit
+    val: True
+  - key: Halloween_Pants
+    val: 771
+  - key: Halloween_Shirt
+    val: 772
+  - key: Halloween_Hat
+    val: 773
+  - key: Halloween_Vest
+    val: 774
+  - key: Halloween_Backpack
+    val: 775
+  - key: Has_Christmas_Outfit
+    val: True
+  - key: Christmas_Shirt
+    val: 1420
+  - key: Christmas_Pants
+    val: 1419
+  - key: Christmas_Hat
+    val: 278
+  - key: Face
+    val: 20
+  - key: Hair
+    val: 15
+  - key: Color_Skin
+    val: '#4B3D31'
+  - key: Color_Hair
+    val: '#191919'
+  - key: Primary
+    val: 1447
+  - key: Equipped
+    val: Primary
+  - key: Dialogue
+    val: 90
+  - key: Has_Clip_Prefab
+    val: false

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Bridge_Line_Broken_3
+  m_EditorClassIdentifier: 
+  modType: 27
+  rarity: 0
+  id: 319
+  nameEnglish: Bridge Line Broken #2 Europe
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Snowshoe
+    val: 
+  - key: Soft
+    val: 
+  - key: Chart
+    val: Highway
+  - key: Collision_Important
+    val: 
+  - key: Has_Clip_Prefab
+    val: false

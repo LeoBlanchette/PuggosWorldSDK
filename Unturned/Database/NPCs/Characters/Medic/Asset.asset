@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 36
+  rarity: 0
+  id: 758
+  nameEnglish: 'Medic Swanson
+
+    Character Dr. Swanson'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Shirt
+    val: 311
+  - key: Pants
+    val: 312
+  - key: //
+    val: Skeleton
+  - key: Has_Halloween_Outfit
+    val: True
+  - key: Halloween_Shirt
+    val: 587
+  - key: Halloween_Pants
+    val: 588
+  - key: Has_Christmas_Outfit
+    val: True
+  - key: Christmas_Shirt
+    val: 311
+  - key: Christmas_Pants
+    val: 312
+  - key: Christmas_Hat
+    val: 278
+  - key: Chirstmas_Vest
+    val: 828
+  - key: Hair
+    val: 15
+  - key: Color_Skin
+    val: '#BEA582'
+  - key: Color_Hair
+    val: '#8A4A90'
+  - key: Dialogue
+    val: 74
+  - key: Has_Clip_Prefab
+    val: false

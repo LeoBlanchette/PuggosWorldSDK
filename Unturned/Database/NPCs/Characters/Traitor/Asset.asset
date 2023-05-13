@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 36
+  rarity: 0
+  id: 763
+  nameEnglish: 'Traitor Major Len
+
+    Character <color=epic>Major Len</color>'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Shirt
+    val: 1422
+  - key: Pants
+    val: 1419
+  - key: Hat
+    val: 1428
+  - key: //
+    val: Necromancer
+  - key: Has_Halloween_Outfit
+    val: True
+  - key: Halloween_Shirt
+    val: 735
+  - key: Halloween_Pants
+    val: 736
+  - key: Halloween_Mask
+    val: 737
+  - key: Face
+    val: 11
+  - key: Beard
+    val: 7
+  - key: Color_Skin
+    val: '#9D886B'
+  - key: Color_Hair
+    val: '#1A5C26'
+  - key: Secondary
+    val: 97
+  - key: Dialogue
+    val: 6
+  - key: Conditions
+    val: 1
+  - key: Condition_0_Type
+    val: Flag_Bool
+  - key: Condition_0_ID
+    val: 197
+  - key: Condition_0_Value
+    val: False
+  - key: Condition_0_Logic
+    val: Equal
+  - key: Condition_0_Allow_Unset
+    val: 
+  - key: Has_Clip_Prefab
+    val: false

@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 92
+  nameEnglish: 'Message_0_Page_0 Hello! I help Chef Leonard with all the cooking
+    around here.
+
+    
+
+    Response_0 When are the mealtimes?
+
+    Response_1
+    Have you noticed anything weird about <color=epic>Major Len</color>?
+
+    Response_2
+    Do you have any festive recipes?
+
+    Response_3 I gave your new recipe a try!
+
+    Response_4
+    Goodbye'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 1
+  - key: Message_0_Pages
+    val: 1
+  - key: Responses
+    val: 5
+  - key: Response_0_Dialogue
+    val: 93
+  - key: //
+    val: Evidence?
+  - key: //
+    val: Chef_Sous_Len_Evidence
+  - key: Response_1_Dialogue
+    val: 188
+  - key: Response_1_Conditions
+    val: 1
+  - key: Response_1_Condition_0_Type
+    val: Flag_Bool
+  - key: Response_1_Condition_0_Logic
+    val: Equal
+  - key: Response_1_Condition_0_ID
+    val: 184
+  - key: Response_1_Condition_0_Value
+    val: False
+  - key: Response_1_Rewards
+    val: 1
+  - key: Response_1_Reward_0_Type
+    val: Flag_Bool
+  - key: Response_1_Reward_0_ID
+    val: 184
+  - key: Response_1_Reward_0_Value
+    val: True
+  - key: Response_1_Reward_0_Modification
+    val: Assign
+  - key: //XMAS
+    val: Cooking
+  - key: Response_2_Quest
+    val: 318
+  - key: Response_2_Rewards
+    val: 1
+  - key: Response_2_Reward_0_Type
+    val: Quest
+  - key: Response_2_Reward_0_ID
+    val: 318
+  - key: Response_2_Conditions
+    val: 2
+  - key: Response_2_Condition_0_Type
+    val: Quest
+  - key: Response_2_Condition_0_ID
+    val: 318
+  - key: Response_2_Condition_0_Status
+    val: None
+  - key: Response_2_Condition_0_Logic
+    val: Equal
+  - key: Response_2_Condition_1_Type
+    val: Holiday
+  - key: Response_2_Condition_1_Value
+    val: Christmas
+  - key: Response_2_Dialogue
+    val: 332
+  - key: //XMAS
+    val: Cooking
+  - key: Response_3_Dialogue
+    val: 331
+  - key: Response_3_Quest
+    val: 318
+  - key: Response_3_Conditions
+    val: 2
+  - key: Response_3_Condition_0_Type
+    val: Quest
+  - key: Response_3_Condition_0_ID
+    val: 318
+  - key: Response_3_Condition_0_Status
+    val: Ready
+  - key: Response_3_Condition_0_Logic
+    val: Equal
+  - key: Response_3_Condition_0_Reset
+    val: 
+  - key: Response_3_Condition_1_Type
+    val: Holiday
+  - key: Response_3_Condition_1_Value
+    val: Christmas

@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 48
+  nameEnglish: 'Message_0_Page_0 Hello!
+
+    
+
+    Response_0 Can I have a broadcast
+    repair kit please?
+
+    Response_1 Need any help?
+
+    Response_2 I''ve got
+    everything you need to repair the engine!
+
+    Response_3 Have you noticed anything
+    weird about <color=epic>Major Len</color>?
+
+    Response_4 Goodbye'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 1
+  - key: Message_0_Pages
+    val: 1
+  - key: Responses
+    val: 5
+  - key: //
+    val: I
+  - key: //
+    val: Mechanic_Broadcast_Repair
+  - key: Response_0_Dialogue
+    val: 49
+  - key: Response_0_Conditions
+    val: 2
+  - key: Response_0_Condition_0_Type
+    val: Quest
+  - key: Response_0_Condition_0_Logic
+    val: Equal
+  - key: Response_0_Condition_0_ID
+    val: 47
+  - key: Response_0_Condition_0_Status
+    val: Active
+  - key: Response_0_Condition_1_Type
+    val: Flag_Bool
+  - key: Response_0_Condition_1_ID
+    val: 40
+  - key: Response_0_Condition_1_Value
+    val: False
+  - key: Response_0_Condition_1_Logic
+    val: Equal
+  - key: Response_0_Condition_1_Allow_Unset
+    val: 
+  - key: Response_0_Rewards
+    val: 1
+  - key: //
+    val: Has_Broadcast_Repair_Kit
+  - key: Response_0_Reward_0_Type
+    val: Flag_Bool
+  - key: Response_0_Reward_0_ID
+    val: 40
+  - key: Response_0_Reward_0_Value
+    val: True
+  - key: //
+    val: Need
+  - key: //
+    val: Mechanic_Engine_Accepted
+  - key: Response_1_Dialogue
+    val: 129
+  - key: Response_1_Quest
+    val: 128
+  - key: Response_1_Conditions
+    val: 1
+  - key: Response_1_Condition_0_Type
+    val: Quest
+  - key: Response_1_Condition_0_Logic
+    val: Equal
+  - key: Response_1_Condition_0_ID
+    val: 128
+  - key: Response_1_Condition_0_Status
+    val: None
+  - key: Response_1_Rewards
+    val: 1
+  - key: Response_1_Reward_0_Type
+    val: Quest
+  - key: Response_1_Reward_0_ID
+    val: 128
+  - key: //
+    val: I
+  - key: //
+    val: Mechanic_Engine_Completed
+  - key: Response_2_Dialogue
+    val: 130
+  - key: Response_2_Quest
+    val: 128
+  - key: Response_2_Conditions
+    val: 1
+  - key: Response_2_Condition_0_Type
+    val: Quest
+  - key: Response_2_Condition_0_Logic
+    val: Equal
+  - key: Response_2_Condition_0_ID
+    val: 128
+  - key: Response_2_Condition_0_Status
+    val: Ready
+  - key: Response_2_Condition_0_Reset
+    val: 
+  - key: //
+    val: Evidence?
+  - key: //
+    val: Mechanic_Len_Evidence
+  - key: Response_3_Dialogue
+    val: 187
+  - key: Response_3_Conditions
+    val: 1
+  - key: Response_3_Condition_0_Type
+    val: Flag_Bool
+  - key: Response_3_Condition_0_Logic
+    val: Equal
+  - key: Response_3_Condition_0_ID
+    val: 183
+  - key: Response_3_Condition_0_Value
+    val: False
+  - key: Response_3_Rewards
+    val: 1
+  - key: Response_3_Reward_0_Type
+    val: Flag_Bool
+  - key: Response_3_Reward_0_ID
+    val: 183
+  - key: Response_3_Reward_0_Value
+    val: True
+  - key: Response_3_Reward_0_Modification
+    val: Assign

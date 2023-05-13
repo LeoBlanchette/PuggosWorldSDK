@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Quest_Present_05_Off
+  m_EditorClassIdentifier: 
+  modType: 47
+  rarity: 0
+  id: 1
+  nameEnglish: 'Quest Present #6 Off
+
+    
+
+    Interact Place [{0}]'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Conditions
+    val: 1
+  - key: Condition_0_Type
+    val: Flag_Bool
+  - key: Condition_0_ID
+    val: 292
+  - key: Condition_0_Value
+    val: True
+  - key: Condition_0_Logic
+    val: Equal
+  - key: Interactability
+    val: Quest
+  - key: Interactability_Effect
+    val: 7
+  - key: Interactability_Rewards
+    val: 3
+  - key: Interactability_Reward_0_Type
+    val: Flag_Bool
+  - key: Interactability_Reward_0_ID
+    val: 292
+  - key: Interactability_Reward_0_Value
+    val: False
+  - key: Interactability_Reward_1_Type
+    val: Flag_Bool
+  - key: Interactability_Reward_1_ID
+    val: 293
+  - key: Interactability_Reward_1_Value
+    val: False
+  - key: Interactability_Reward_2_Type
+    val: Flag_Short
+  - key: Interactability_Reward_2_ID
+    val: 297
+  - key: Interactability_Reward_2_Value
+    val: 1
+  - key: Interactability_Reward_2_Modification
+    val: Increment
+  - key: Holiday_Restriction
+    val: CHRISTMAS
+  - key: Has_Clip_Prefab
+    val: false

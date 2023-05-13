@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 14
+  nameEnglish: 'Message_0_Page_0 Hey dude! It''s me your old pal <name_npc>!
+
+    Message_1_Page_0
+    Hey my man! Say the word if you want me to hook you up.<br>I''ve got all the
+    best deals!
+
+    
+
+    Response_0 Is that a prison outfit?
+
+    Response_1
+    Show me what you''ve got
+
+    Response_2 Why are you hiding down here?
+
+    Response_3
+    Catch you later!'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 2
+  - key: //
+    val: Hey
+  - key: Message_0_Pages
+    val: 1
+  - key: Message_0_Responses
+    val: 1
+  - key: Message_0_Response_0
+    val: 0
+  - key: Message_0_Conditions
+    val: 1
+  - key: //
+    val: Met_P.Riso
+  - key: Message_0_Condition_0_Type
+    val: Flag_Bool
+  - key: Message_0_Condition_0_ID
+    val: 15
+  - key: Message_0_Condition_0_Value
+    val: False
+  - key: Message_0_Condition_0_Logic
+    val: Equal
+  - key: Message_0_Condition_0_Allow_Unset
+    val: 
+  - key: //
+    val: Greeting
+  - key: Message_1_Pages
+    val: 1
+  - key: Responses
+    val: 4
+  - key: //
+    val: Is
+  - key: //
+    val: P.Riso_Outfit
+  - key: Response_0_Dialogue
+    val: 16
+  - key: Response_0_Messages
+    val: 1
+  - key: Response_0_Message_0
+    val: 0
+  - key: Response_0_Rewards
+    val: 1
+  - key: //
+    val: Met_P.Riso
+  - key: Response_0_Reward_0_Type
+    val: Flag_Bool
+  - key: Response_0_Reward_0_ID
+    val: 15
+  - key: Response_0_Reward_0_Value
+    val: True
+  - key: //
+    val: Show
+  - key: //
+    val: P.Riso_Hot_Stuff
+  - key: Response_1_Dialogue
+    val: 18
+  - key: Response_1_Vendor
+    val: 17
+  - key: //
+    val: Why
+  - key: //
+    val: P.Riso_Hiding
+  - key: Response_2_Dialogue
+    val: 19

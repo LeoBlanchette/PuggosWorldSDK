@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 60
+  rarity: 0
+  id: 71
+  nameEnglish: '<color=legendary>Coalition</color> Uniforms
+
+    Description Crisp
+    and clean.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Selling
+    val: 8
+  - key: //
+    val: Coalition_Bottom
+  - key: Selling_0_ID
+    val: 1419
+  - key: Selling_0_Cost
+    val: 15
+  - key: //
+    val: Coalition_Top_Ensign
+  - key: Selling_1_ID
+    val: 1420
+  - key: Selling_1_Cost
+    val: 15
+  - key: //
+    val: Coalition_Top_Lieutenant
+  - key: Selling_2_ID
+    val: 1421
+  - key: Selling_2_Cost
+    val: 25
+  - key: Selling_2_Conditions
+    val: 1
+  - key: Selling_2_Condition_0_Type
+    val: Flag_Short
+  - key: Selling_2_Condition_0_ID
+    val: 29
+  - key: Selling_2_Condition_0_Value
+    val: 1
+  - key: Selling_2_Condition_0_Logic
+    val: Greater_Than
+  - key: //
+    val: Coalition_Top_Major
+  - key: Selling_3_ID
+    val: 1422
+  - key: Selling_3_Cost
+    val: 35
+  - key: Selling_3_Conditions
+    val: 1
+  - key: Selling_3_Condition_0_Type
+    val: Flag_Short
+  - key: Selling_3_Condition_0_ID
+    val: 29
+  - key: Selling_3_Condition_0_Value
+    val: 2
+  - key: Selling_3_Condition_0_Logic
+    val: Greater_Than
+  - key: //
+    val: Coalition_Vest
+  - key: Selling_4_ID
+    val: 1425
+  - key: Selling_4_Cost
+    val: 90
+  - key: Selling_4_Conditions
+    val: 1
+  - key: Selling_4_Condition_0_Type
+    val: Flag_Short
+  - key: Selling_4_Condition_0_ID
+    val: 29
+  - key: Selling_4_Condition_0_Value
+    val: 1
+  - key: Selling_4_Condition_0_Logic
+    val: Greater_Than
+  - key: //
+    val: Cap_Coalition
+  - key: Selling_5_ID
+    val: 1426
+  - key: Selling_5_Cost
+    val: 15
+  - key: //
+    val: Coalition_Helmet
+  - key: Selling_6_ID
+    val: 1427
+  - key: Selling_6_Cost
+    val: 90
+  - key: Selling_6_Conditions
+    val: 1
+  - key: Selling_6_Condition_0_Type
+    val: Flag_Short
+  - key: Selling_6_Condition_0_ID
+    val: 29
+  - key: Selling_6_Condition_0_Value
+    val: 1
+  - key: Selling_6_Condition_0_Logic
+    val: Greater_Than
+  - key: //
+    val: Coalition_Beret
+  - key: Selling_7_ID
+    val: 1428
+  - key: Selling_7_Cost
+    val: 110
+  - key: Selling_7_Conditions
+    val: 1
+  - key: Selling_7_Condition_0_Type
+    val: Flag_Short
+  - key: Selling_7_Condition_0_ID
+    val: 29
+  - key: Selling_7_Condition_0_Value
+    val: 2
+  - key: Selling_7_Condition_0_Logic
+    val: Greater_Than

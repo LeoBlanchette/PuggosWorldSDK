@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Spikes_Pine
+  m_EditorClassIdentifier: 
+  modType: 57
+  rarity: 2
+  id: 385
+  nameEnglish: 'Pine Spikes
+
+    Description Spiky trap.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Barricade
+  - key: Build
+    val: Spike
+  - key: Size_X
+    val: 1
+  - key: Size_Y
+    val: 2
+  - key: Size_Z
+    val: 0.35
+  - key: Health
+    val: 40
+  - key: Range
+    val: 4
+  - key: Radius
+    val: 0.2
+  - key: Offset
+    val: 0.25
+  - key: Player_Damage
+    val: 30
+  - key: Zombie_Damage
+    val: 60
+  - key: Animal_Damage
+    val: 60
+  - key: Explosion
+    val: 29
+  - key: Vulnerable
+    val: 
+  - key: Unrepairable
+    val: 
+  - key: Blueprints
+    val: 1
+  - key: Blueprint_0_Type
+    val: Barricade
+  - key: Blueprint_0_Supply_0_ID
+    val: 42
+  - key: Blueprint_0_Supply_0_Amount
+    val: 6
+  - key: Blueprint_0_Build
+    val: 27
+  - key: PlacementAudioClip
+    val: Sounds/WoodenPlacement.mp3
+  - key: Has_Clip_Prefab
+    val: false

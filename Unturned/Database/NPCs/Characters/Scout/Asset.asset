@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 36
+  rarity: 0
+  id: 753
+  nameEnglish: 'Scout Oswald
+
+    Character <color=rare>Lieutenant Oswald</color>'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Shirt
+    val: 1421
+  - key: Pants
+    val: 1419
+  - key: Hat
+    val: 1426
+  - key: Has_Christmas_Outfit
+    val: True
+  - key: Christmas_Shirt
+    val: 1421
+  - key: Christmas_Pants
+    val: 1419
+  - key: Christmas_Hat
+    val: 278
+  - key: Face
+    val: 20
+  - key: Color_Skin
+    val: '#BEA582'
+  - key: Backward
+    val: 
+  - key: Secondary
+    val: 99
+  - key: Dialogue
+    val: 97
+  - key: Has_Clip_Prefab
+    val: false

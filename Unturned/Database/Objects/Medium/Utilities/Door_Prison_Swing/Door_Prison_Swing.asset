@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Door_Prison_Swing
+  m_EditorClassIdentifier: 
+  modType: 33
+  rarity: 0
+  id: 1016
+  nameEnglish: 'Prison Swing Door
+
+    
+
+    Interactability_Condition_0 Missing
+    Warden''s Key'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Interactability_Conditions
+    val: 1
+  - key: Interactability_Condition_0_Type
+    val: Flag_Bool
+  - key: Interactability_Condition_0_ID
+    val: 243
+  - key: Interactability_Condition_0_Value
+    val: True
+  - key: Interactability_Condition_0_Logic
+    val: Equal
+  - key: Interactability
+    val: Binary_State
+  - key: Interactability_Delay
+    val: 1
+  - key: Interactability_Hint
+    val: Door
+  - key: Interactability_Nav
+    val: Off
+  - key: Has_Clip_Prefab
+    val: false

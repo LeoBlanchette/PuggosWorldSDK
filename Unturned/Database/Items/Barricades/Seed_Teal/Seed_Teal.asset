@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Seed_Teal
+  m_EditorClassIdentifier: 
+  modType: 15
+  rarity: 0
+  id: 1109
+  nameEnglish: 'Teal Berry Seed
+
+    Description Ready for planting and eating.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Barricade
+  - key: Build
+    val: Farm
+  - key: Size_X
+    val: 1
+  - key: Size_Y
+    val: 1
+  - key: Size_Z
+    val: 0.2
+  - key: Health
+    val: 1
+  - key: Range
+    val: 4
+  - key: Radius
+    val: 0.25
+  - key: Offset
+    val: 0.375
+  - key: Growth
+    val: 10800
+  - key: Grow
+    val: 274
+  - key: Explosion
+    val: 43
+  - key: Vulnerable
+    val: 
+  - key: Blueprints
+    val: 1
+  - key: Blueprint_0_Type
+    val: Utilities
+  - key: Blueprint_0_Supply_0_ID
+    val: 274
+  - key: Blueprint_0_Build
+    val: 27
+  - key: PlacementAudioClip
+    val: Sounds/FoliagePlacement.mp3
+  - key: Has_Clip_Prefab
+    val: false

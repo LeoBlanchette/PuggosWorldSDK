@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 172
+  nameEnglish: 'Message_0_Page_0 I''m very happy to be aboard!
+
+    
+
+    Response_0
+    Seen anything weird lately?
+
+    Response_1 I killed that boss zombie!
+
+    Response_2
+    Glad to hear it'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 1
+  - key: Message_0_Pages
+    val: 1
+  - key: Responses
+    val: 3
+  - key: //
+    val: Seen
+  - key: //
+    val: Boss_Fire_Accepted
+  - key: Response_0_Dialogue
+    val: 173
+  - key: Response_0_Quest
+    val: 164
+  - key: Response_0_Conditions
+    val: 1
+  - key: Response_0_Condition_0_Type
+    val: Quest
+  - key: Response_0_Condition_0_Logic
+    val: Equal
+  - key: Response_0_Condition_0_ID
+    val: 164
+  - key: Response_0_Condition_0_Status
+    val: None
+  - key: Response_0_Rewards
+    val: 1
+  - key: Response_0_Reward_0_Type
+    val: Quest
+  - key: Response_0_Reward_0_ID
+    val: 164
+  - key: //
+    val: I
+  - key: //
+    val: Boss_Fire_Completed
+  - key: Response_1_Dialogue
+    val: 174
+  - key: Response_1_Quest
+    val: 164
+  - key: Response_1_Conditions
+    val: 1
+  - key: Response_1_Condition_0_Type
+    val: Quest
+  - key: Response_1_Condition_0_Logic
+    val: Equal
+  - key: Response_1_Condition_0_ID
+    val: 164
+  - key: Response_1_Condition_0_Status
+    val: Ready
+  - key: Response_1_Condition_0_Reset
+    val: 

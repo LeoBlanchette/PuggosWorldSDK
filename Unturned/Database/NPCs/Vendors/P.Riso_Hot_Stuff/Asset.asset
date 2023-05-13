@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 60
+  rarity: 0
+  id: 17
+  nameEnglish: 'P.Riso''s <color=#fa3200>Hot</color> Stuff
+
+    Description Not
+    like stolen stuff, good stuff everyone wants! 97.5% satisfaction guarantee!'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Buying
+    val: 1
+  - key: Buying_0_ID
+    val: 1353
+  - key: Buying_0_Cost
+    val: 25
+  - key: Selling
+    val: 5
+  - key: Selling_0_ID
+    val: 1046
+  - key: Selling_0_Cost
+    val: 60
+  - key: Selling_1_ID
+    val: 1048
+  - key: Selling_1_Cost
+    val: 50
+  - key: Selling_2_ID
+    val: 1130
+  - key: Selling_2_Cost
+    val: 30
+  - key: Selling_3_ID
+    val: 105
+  - key: Selling_3_Cost
+    val: 90
+  - key: Selling_4_ID
+    val: 1132
+  - key: Selling_4_Cost
+    val: 160
+  - key: Currency
+    val: 5150ca8f765d4a68bfe54912146da410

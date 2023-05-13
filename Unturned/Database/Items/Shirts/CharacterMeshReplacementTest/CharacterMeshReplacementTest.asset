@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: CharacterMeshReplacementTest
+  m_EditorClassIdentifier: 
+  modType: 44
+  rarity: 3
+  id: 1522
+  nameEnglish: 'CharacterMeshReplacementTest
+
+    Description Replaces mesh with
+    Character_Mesh_Override_# and material with Character_Material_Override.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Clothing
+  - key: Size_X
+    val: 2
+  - key: Size_Y
+    val: 2
+  - key: Size_Z
+    val: 0.35
+  - key: Has_1P_Character_Mesh_Override
+    val: True
+  - key: Character_Mesh_3P_Override_LODs
+    val: 1
+  - key: Has_Character_Material_Override
+    val: True
+  - key: Beard_Visible
+    val: False

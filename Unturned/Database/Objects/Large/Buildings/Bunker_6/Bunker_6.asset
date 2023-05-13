@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Bunker_6
+  m_EditorClassIdentifier: 
+  modType: 27
+  rarity: 0
+  id: 1007
+  nameEnglish: Bunker #7
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: LOD
+    val: Mesh
+  - key: LOD_Center_Y
+    val: -13
+  - key: LOD_Size_X
+    val: 2
+  - key: LOD_Size_Y
+    val: -22
+  - key: LOD_Size_Z
+    val: -6
+  - key: Collision_Important
+    val: 
+  - key: Has_Clip_Prefab
+    val: false

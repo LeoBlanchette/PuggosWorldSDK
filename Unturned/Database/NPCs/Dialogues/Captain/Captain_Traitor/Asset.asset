@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 193
+  nameEnglish: 'Message_0_Page_0 Thank you for bringing this to my attention!<br><i>*she
+    pulls you aside*</i>
+
+    Message_0_Page_1 It''s time you should know:<pause>
+    Len''s working for me. After they kidnapped Harry I asked him to go undercover
+    and try to infiltrate their gang <pause>- his recent behaviour is all a ruse
+    to convince the real traitor he''s on their side.
+
+    Message_0_Page_2 Due
+    to his high rank and therefore access to rare supplies they were willing to work
+    with him, even if they were suspicious of a trap. So far they haven''t trusted
+    him enough to reveal his accomplice on the ship, but thanks to your investigation
+    I suspect the mole will let his guard down and contact the smugglers to rescue
+    Len.
+
+    Message_0_Page_3 You''ve done a great job so far. If you''re discrete
+    you have my permission to work with Len and form a plan to catch the real traitor!'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 1
+  - key: Message_0_Pages
+    val: 4

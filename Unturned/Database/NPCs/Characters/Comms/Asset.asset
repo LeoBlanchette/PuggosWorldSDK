@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 36
+  rarity: 0
+  id: 831
+  nameEnglish: 'Comms Darren
+
+    Character Darren'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Shirt
+    val: 303
+  - key: Pants
+    val: 304
+  - key: Has_Christmas_Outfit
+    val: True
+  - key: Christmas_Shirt
+    val: 303
+  - key: Christmas_Pants
+    val: 304
+  - key: Christmas_Hat
+    val: 278
+  - key: Face
+    val: 28
+  - key: Hair
+    val: 17
+  - key: Color_Skin
+    val: '#D9CAB4'
+  - key: Color_Hair
+    val: '#473928'
+  - key: Dialogue
+    val: 198
+  - key: Conditions
+    val: 1
+  - key: Condition_0_Type
+    val: Flag_Bool
+  - key: Condition_0_ID
+    val: 197
+  - key: Condition_0_Value
+    val: True
+  - key: Condition_0_Logic
+    val: Equal
+  - key: Has_Clip_Prefab
+    val: false

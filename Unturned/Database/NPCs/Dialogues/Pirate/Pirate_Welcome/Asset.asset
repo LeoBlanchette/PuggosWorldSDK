@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 33
+  nameEnglish: 'Message_0_Page_0 Yarrrr!!
+
+    
+
+    Response_0 Any luck?
+
+    Response_1
+    Need any help?
+
+    Response_2 I crafted the ultimate fishing rod!
+
+    Response_3
+    I caught it!!
+
+    Response_4 I want to try again and help catch your nemesis
+
+    Response_5
+    Until next time
+
+'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 1
+  - key: Message_0_Pages
+    val: 1
+  - key: Responses
+    val: 5
+  - key: Response_0_Dialogue
+    val: 34
+  - key: //
+    val: Need
+  - key: //
+    val: Pirate_Rod_Accepted
+  - key: Response_1_Dialogue
+    val: 35
+  - key: Response_1_Quest
+    val: 37
+  - key: Response_1_Conditions
+    val: 1
+  - key: Response_1_Condition_0_Type
+    val: Quest
+  - key: Response_1_Condition_0_Logic
+    val: Equal
+  - key: Response_1_Condition_0_ID
+    val: 37
+  - key: Response_1_Condition_0_Status
+    val: None
+  - key: Response_1_Rewards
+    val: 2
+  - key: Response_1_Reward_0_Type
+    val: Quest
+  - key: Response_1_Reward_0_ID
+    val: 37
+  - key: //
+    val: Fishing
+  - key: Response_1_Reward_1_Type
+    val: Item
+  - key: Response_1_Reward_1_ID
+    val: 1433
+  - key: Response_1_Reward_1_Amount
+    val: 1
+  - key: //
+    val: I
+  - key: //
+    val: Pirate_Rod_Completed
+  - key: Response_2_Dialogue
+    val: 36
+  - key: Response_2_Quest
+    val: 37
+  - key: Response_2_Conditions
+    val: 1
+  - key: Response_2_Condition_0_Type
+    val: Quest
+  - key: Response_2_Condition_0_Logic
+    val: Equal
+  - key: Response_2_Condition_0_ID
+    val: 37
+  - key: Response_2_Condition_0_Status
+    val: Ready
+  - key: Response_2_Condition_0_Reset
+    val: 
+  - key: //
+    val: I
+  - key: //
+    val: Pirate_Catch_Completed
+  - key: Response_3_Dialogue
+    val: 39
+  - key: Response_3_Quest
+    val: 38
+  - key: Response_3_Conditions
+    val: 1
+  - key: Response_3_Condition_0_Type
+    val: Quest
+  - key: Response_3_Condition_0_Logic
+    val: Equal
+  - key: Response_3_Condition_0_ID
+    val: 38
+  - key: Response_3_Condition_0_Status
+    val: Ready
+  - key: Response_3_Condition_0_Reset
+    val: 
+  - key: //
+    val: Abandoned
+  - key: //
+    val: Pirate_Rod_Completed
+  - key: Response_4_Dialogue
+    val: 36
+  - key: Response_4_Quest
+    val: 38
+  - key: Response_4_Conditions
+    val: 2
+  - key: Response_4_Condition_0_Type
+    val: Quest
+  - key: Response_4_Condition_0_Logic
+    val: Equal
+  - key: Response_4_Condition_0_ID
+    val: 37
+  - key: Response_4_Condition_0_Status
+    val: Completed
+  - key: Response_4_Condition_1_Type
+    val: Quest
+  - key: Response_4_Condition_1_Logic
+    val: Equal
+  - key: Response_4_Condition_1_ID
+    val: 38
+  - key: Response_4_Condition_1_Status
+    val: None
+  - key: Response_4_Rewards
+    val: 1
+  - key: Response_4_Reward_0_Type
+    val: Quest
+  - key: Response_4_Reward_0_ID
+    val: 38

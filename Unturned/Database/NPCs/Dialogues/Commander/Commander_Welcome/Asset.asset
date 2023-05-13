@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 44
+  nameEnglish: 'Message_0_Page_0 Good to have you with us! I''ve got a voluntary
+    mission for you if you''ll take it.
+
+    Message_1_Page_0 Following up on the
+    radio towers I''ve got a new mission for you if you''ll take it.
+
+    Message_2_Page_0
+    Could you do me a favor and deliver this important note?
+
+    Message_3_Page_0
+    Anything to report?
+
+    
+
+    Response_0 I''ll take a look
+
+    Response_1
+    Not right now
+
+    Response_2 The broadcast network is up and running!
+
+    Response_3
+    I''ll take a look
+
+    Response_4 Not right now
+
+    Response_5 I plastered
+    up those posters!
+
+    Response_6 Right on it
+
+    Response_7 Not yet
+
+    Response_8
+    Nothing to report'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 4
+  - key: Message_0_Pages
+    val: 1
+  - key: Message_0_Responses
+    val: 2
+  - key: Message_0_Response_0
+    val: 0
+  - key: Message_0_Response_1
+    val: 1
+  - key: //
+    val: Show
+  - key: Message_0_Conditions
+    val: 2
+  - key: Message_0_Condition_0_Type
+    val: Flag_Bool
+  - key: Message_0_Condition_0_Logic
+    val: Equal
+  - key: Message_0_Condition_0_ID
+    val: 2
+  - key: Message_0_Condition_0_Value
+    val: True
+  - key: Message_0_Condition_1_Type
+    val: Quest
+  - key: Message_0_Condition_1_Logic
+    val: Equal
+  - key: Message_0_Condition_1_ID
+    val: 47
+  - key: Message_0_Condition_1_Status
+    val: None
+  - key: Message_1_Pages
+    val: 1
+  - key: Message_1_Responses
+    val: 2
+  - key: Message_1_Response_0
+    val: 3
+  - key: Message_1_Response_1
+    val: 4
+  - key: //
+    val: Show
+  - key: Message_1_Conditions
+    val: 2
+  - key: Message_1_Condition_0_Type
+    val: Quest
+  - key: Message_1_Condition_0_Logic
+    val: Equal
+  - key: Message_1_Condition_0_ID
+    val: 47
+  - key: Message_1_Condition_0_Status
+    val: Completed
+  - key: Message_1_Condition_1_Type
+    val: Quest
+  - key: Message_1_Condition_1_Logic
+    val: Equal
+  - key: Message_1_Condition_1_ID
+    val: 56
+  - key: Message_1_Condition_1_Status
+    val: None
+  - key: Message_2_Pages
+    val: 1
+  - key: Message_2_Responses
+    val: 2
+  - key: Message_2_Response_0
+    val: 6
+  - key: Message_2_Response_1
+    val: 7
+  - key: //
+    val: Show
+  - key: Message_2_Conditions
+    val: 3
+  - key: Message_2_Condition_0_Type
+    val: Quest
+  - key: Message_2_Condition_0_Logic
+    val: Equal
+  - key: Message_2_Condition_0_ID
+    val: 56
+  - key: Message_2_Condition_0_Status
+    val: Completed
+  - key: Message_2_Condition_1_Type
+    val: Quest
+  - key: Message_2_Condition_1_Logic
+    val: Equal
+  - key: Message_2_Condition_1_ID
+    val: 230
+  - key: Message_2_Condition_1_Status
+    val: None
+  - key: Message_2_Condition_2_Type
+    val: Holiday
+  - key: Message_2_Condition_2_Value
+    val: Valentines
+  - key: Message_3_Pages
+    val: 1
+  - key: Responses
+    val: 9
+  - key: //
+    val: I'll
+  - key: //
+    val: Commander_Broadcast_Repair_Accepted
+  - key: Response_0_Dialogue
+    val: 45
+  - key: Response_0_Quest
+    val: 47
+  - key: Response_0_Messages
+    val: 1
+  - key: Response_0_Message_0
+    val: 0
+  - key: Response_0_Rewards
+    val: 1
+  - key: Response_0_Reward_0_Type
+    val: Quest
+  - key: Response_0_Reward_0_ID
+    val: 47
+  - key: Response_1_Messages
+    val: 1
+  - key: Response_1_Message_0
+    val: 0
+  - key: //
+    val: I
+  - key: //
+    val: Commander_Broadcast_Repair_Completed
+  - key: Response_2_Dialogue
+    val: 46
+  - key: Response_2_Quest
+    val: 47
+  - key: Response_2_Conditions
+    val: 1
+  - key: Response_2_Condition_0_Type
+    val: Quest
+  - key: Response_2_Condition_0_Logic
+    val: Equal
+  - key: Response_2_Condition_0_ID
+    val: 47
+  - key: Response_2_Condition_0_Status
+    val: Ready
+  - key: Response_2_Condition_0_Reset
+    val: 
+  - key: //
+    val: I'll
+  - key: //
+    val: Commander_Coalition_Propaganda_Accepted
+  - key: Response_3_Dialogue
+    val: 57
+  - key: Response_3_Quest
+    val: 56
+  - key: Response_3_Messages
+    val: 1
+  - key: Response_3_Message_0
+    val: 1
+  - key: Response_3_Rewards
+    val: 2
+  - key: Response_3_Reward_0_Type
+    val: Quest
+  - key: Response_3_Reward_0_ID
+    val: 56
+  - key: Response_3_Reward_1_Type
+    val: Flag_Bool
+  - key: Response_3_Reward_1_ID
+    val: 50
+  - key: Response_3_Reward_1_Value
+    val: True
+  - key: Response_4_Messages
+    val: 1
+  - key: Response_4_Message_0
+    val: 1
+  - key: //
+    val: I
+  - key: //
+    val: Commander_Coalition_Propaganda_Completed
+  - key: Response_5_Dialogue
+    val: 58
+  - key: Response_5_Quest
+    val: 56
+  - key: Response_5_Conditions
+    val: 1
+  - key: Response_5_Condition_0_Type
+    val: Quest
+  - key: Response_5_Condition_0_Logic
+    val: Equal
+  - key: Response_5_Condition_0_ID
+    val: 56
+  - key: Response_5_Condition_0_Status
+    val: Ready
+  - key: Response_5_Condition_0_Reset
+    val: 
+  - key: //
+    val: Right
+  - key: //
+    val: Commander_Valentines_Note_Accepted
+  - key: Response_6_Dialogue
+    val: 232
+  - key: Response_6_Quest
+    val: 230
+  - key: Response_6_Messages
+    val: 1
+  - key: Response_6_Message_0
+    val: 2
+  - key: Response_6_Rewards
+    val: 2
+  - key: Response_6_Reward_0_Type
+    val: Quest
+  - key: Response_6_Reward_0_ID
+    val: 230
+  - key: Response_6_Reward_1_Type
+    val: Flag_Short
+  - key: Response_6_Reward_1_ID
+    val: 231
+  - key: Response_6_Reward_1_Value
+    val: 0
+  - key: Response_6_Reward_1_Modification
+    val: Assign
+  - key: Response_7_Messages
+    val: 1
+  - key: Response_7_Message_0
+    val: 1

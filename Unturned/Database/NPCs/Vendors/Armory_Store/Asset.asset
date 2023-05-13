@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 60
+  rarity: 0
+  id: 142
+  nameEnglish: '<color=legendary>Coalition</color> Armory
+
+    Description Looking
+    for military/ranger ammunition and trading surplus gear.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Buying
+    val: 8
+  - key: //
+    val: Highcal
+  - key: Buying_0_ID
+    val: 1192
+  - key: Buying_0_Amount
+    val: 20
+  - key: Buying_0_Cost
+    val: 40
+  - key: //
+    val: Lowcal
+  - key: Buying_1_ID
+    val: 43
+  - key: Buying_1_Amount
+    val: 20
+  - key: Buying_1_Cost
+    val: 30
+  - key: //
+    val: Highcal
+  - key: Buying_2_ID
+    val: 1193
+  - key: Buying_2_Amount
+    val: 20
+  - key: Buying_2_Cost
+    val: 40
+  - key: //
+    val: Lowcal
+  - key: Buying_3_ID
+    val: 119
+  - key: Buying_3_Amount
+    val: 20
+  - key: Buying_3_Cost
+    val: 30
+  - key: //
+    val: Military
+  - key: Buying_4_ID
+    val: 6
+  - key: Buying_4_Amount
+    val: 20
+  - key: Buying_4_Cost
+    val: 30
+  - key: //
+    val: Military
+  - key: Buying_5_ID
+    val: 17
+  - key: Buying_5_Amount
+    val: 20
+  - key: Buying_5_Cost
+    val: 30
+  - key: //
+    val: Ranger
+  - key: Buying_6_ID
+    val: 123
+  - key: Buying_6_Amount
+    val: 20
+  - key: Buying_6_Cost
+    val: 30
+  - key: //
+    val: Ranger
+  - key: Buying_7_ID
+    val: 125
+  - key: Buying_7_Amount
+    val: 20
+  - key: Buying_7_Cost
+    val: 30
+  - key: Selling
+    val: 3
+  - key: //
+    val: Military
+  - key: Selling_0_ID
+    val: 121
+  - key: Selling_0_Amount
+    val: 1
+  - key: Selling_0_Cost
+    val: 50
+  - key: //
+    val: Binocs
+  - key: Selling_1_ID
+    val: 333
+  - key: Selling_1_Amount
+    val: 1
+  - key: Selling_1_Cost
+    val: 40
+  - key: //
+    val: Rangefinder
+  - key: Selling_2_ID
+    val: 1008
+  - key: Selling_2_Amount
+    val: 1
+  - key: Selling_2_Cost
+    val: 600

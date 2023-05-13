@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Note_Peaks_11
+  m_EditorClassIdentifier: 
+  modType: 33
+  rarity: 0
+  id: 2040
+  nameEnglish: 'Peaks Note - Syndicate Plan
+
+    
+
+    Interactability_Text_Line_0
+    Coalition Compound Raid Outline
+
+    Interactability_Text_Line_1 ---
+
+    Interactability_Text_Line_2
+    Enough is enough. We''re going to launch a three pronged strike into the heart
+    of the Coalition presence here kicking them out for good.
+
+    Interactability_Text_Line_3
+    ---
+
+    Interactability_Text_Line_4 Team A
+
+    Interactability_Text_Line_5
+    Due to dense walker presence in the city they leave their blast doors closed
+    so we''re not getting in there. The bridge entrances are a different story, however
+    - they''re left open the majority of the time. Your team will drive through both
+    entrances simultaneously before they can react and provide covering fire from
+    the overpass.
+
+    Interactability_Text_Line_6 ---
+
+    Interactability_Text_Line_7
+    Team B
+
+    Interactability_Text_Line_8 The sewer system is unguarded so your
+    team can slip in and attack heavily armed with the element of surprise.
+
+    Interactability_Text_Line_9
+    ---
+
+    Interactability_Text_Line_10 Team C
+
+    Interactability_Text_Line_11
+    You''ll be posing as survivors taking refuge through the main city entrances.
+    You won''t be able to smuggle in many weapons, but when the chaos starts you''ll
+    be able to begin the offensive from the inside.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Interactability
+    val: Note
+  - key: Interactability_Hint
+    val: Use
+  - key: Interactability_Text_Lines
+    val: 12
+  - key: Asset_Bundle_Version
+    val: 2
+  - key: Bundle_Override_Path
+    val: /Objects/Medium/Furniture/Note
+  - key: Has_Clip_Prefab
+    val: false

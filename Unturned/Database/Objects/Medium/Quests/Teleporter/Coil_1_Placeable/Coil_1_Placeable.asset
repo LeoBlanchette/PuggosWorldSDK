@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Coil_1_Placeable
+  m_EditorClassIdentifier: 
+  modType: 33
+  rarity: 0
+  id: 1027
+  nameEnglish: 'Teleporter Coil #2 Placeable
+
+    
+
+    Interact Place Teleporter
+    Coil [{0}]'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Conditions
+    val: 1
+  - key: Condition_0_Type
+    val: Flag_Short
+  - key: Condition_0_ID
+    val: 246
+  - key: Condition_0_Value
+    val: 1
+  - key: Condition_0_Logic
+    val: Equal
+  - key: Interactability
+    val: Quest
+  - key: Interactability_Effect
+    val: 6
+  - key: Interactability_Rewards
+    val: 1
+  - key: Interactability_Reward_0_Type
+    val: Flag_Short
+  - key: Interactability_Reward_0_ID
+    val: 246
+  - key: Interactability_Reward_0_Value
+    val: 1
+  - key: Interactability_Reward_0_Modification
+    val: Increment
+  - key: Has_Clip_Prefab
+    val: false

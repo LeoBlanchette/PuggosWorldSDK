@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Cloth
+  m_EditorClassIdentifier: 
+  modType: 51
+  rarity: 0
+  id: 66
+  nameEnglish: 'Cloth
+
+    Description Thick, warm fabric and thread.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Size_X
+    val: 1
+  - key: Size_Y
+    val: 1
+  - key: Size_Z
+    val: 0.45
+  - key: Blueprints
+    val: 6
+  - key: Blueprint_0_Type
+    val: Gear
+  - key: Blueprint_0_Supply_0_ID
+    val: 516
+  - key: Blueprint_0_Supply_0_Amount
+    val: 2
+  - key: Blueprint_0_Build
+    val: 27
+  - key: Blueprint_1_Type
+    val: Gear
+  - key: Blueprint_1_Supplies
+    val: 1
+  - key: Blueprint_1_Supply_0_ID
+    val: 1051
+  - key: Blueprint_1_Supply_0_Amount
+    val: 3
+  - key: Blueprint_1_Build
+    val: 27
+  - key: Blueprint_2_Type
+    val: Gear
+  - key: Blueprint_2_Supply_0_ID
+    val: 1052
+  - key: Blueprint_2_Supply_0_Amount
+    val: 3
+  - key: Blueprint_2_Build
+    val: 27
+  - key: Blueprint_3_Type
+    val: Gear
+  - key: Blueprint_3_Supply_0_ID
+    val: 1053
+  - key: Blueprint_3_Supply_0_Amount
+    val: 3
+  - key: Blueprint_3_Build
+    val: 27
+  - key: Blueprint_4_Type
+    val: Gear
+  - key: Blueprint_4_Supply_0_ID
+    val: 1054
+  - key: Blueprint_4_Supply_0_Amount
+    val: 3
+  - key: Blueprint_4_Build
+    val: 27
+  - key: Blueprint_5_Type
+    val: Gear
+  - key: Blueprint_5_Supply_0_ID
+    val: 1055
+  - key: Blueprint_5_Supply_0_Amount
+    val: 3
+  - key: Blueprint_5_Build
+    val: 27
+  - key: Actions
+    val: 1
+  - key: Action_0_Type
+    val: Blueprint
+  - key: Action_0_Source
+    val: 393
+  - key: Action_0_Blueprints
+    val: 1
+  - key: Action_0_Blueprint_0_Index
+    val: 0
+  - key: Action_0_Key
+    val: Craft_Rag
+  - key: InventoryAudio
+    val: Sounds/Inventory/LightCloth.asset

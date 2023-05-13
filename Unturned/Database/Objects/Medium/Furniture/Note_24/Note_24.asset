@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Note_24
+  m_EditorClassIdentifier: 
+  modType: 33
+  rarity: 0
+  id: 2025
+  nameEnglish: 'Russia Note - Mafia
+
+    
+
+    Interactability_Text_Line_0 Artyom''s
+    Notes
+
+    Interactability_Text_Line_1 ---
+
+    Interactability_Text_Line_2
+    Word on the street is that the military''s in a frenzy with some sort of disease
+    going round, and they''re completely spread out trying to quarantine it. The
+    boss has given the command to capitalize on this chaos... These are going to
+    be a crazy few days.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Interactability
+    val: Note
+  - key: Interactability_Hint
+    val: Use
+  - key: Interactability_Text_Lines
+    val: 3
+  - key: Asset_Bundle_Version
+    val: 2
+  - key: Bundle_Override_Path
+    val: /Objects/Medium/Furniture/Note
+  - key: Has_Clip_Prefab
+    val: false

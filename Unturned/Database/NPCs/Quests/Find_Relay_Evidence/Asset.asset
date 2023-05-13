@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 40
+  rarity: 0
+  id: 194
+  nameEnglish: 'The Conspiracy''s Conclusion
+
+    Description <color=epic>Major
+    Len</color> just received a transmission from the smugglers that seems to have
+    originated from Silo 22 in the far North, but he suspects they actually used
+    it as a relay station. If that''s correct there should be a log in the command
+    center which might reveal who sent it, and from where.
+
+    
+
+    Condition_0
+    Find Relay Log {0}/1'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Conditions
+    val: 1
+  - key: Condition_0_Type
+    val: Flag_Bool
+  - key: Condition_0_ID
+    val: 195
+  - key: Condition_0_Value
+    val: True
+  - key: Condition_0_Logic
+    val: Equal
+  - key: Rewards
+    val: 3
+  - key: Reward_0_Type
+    val: Experience
+  - key: Reward_0_Value
+    val: 50
+  - key: Reward_1_Type
+    val: Reputation
+  - key: Reward_1_Value
+    val: 10
+  - key: //
+    val: Coalition
+  - key: Reward_2_Type
+    val: Flag_Short
+  - key: Reward_2_ID
+    val: 13
+  - key: Reward_2_Value
+    val: 1
+  - key: Reward_2_Modification
+    val: Increment

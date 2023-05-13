@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 60
+  rarity: 0
+  id: 63
+  nameEnglish: 'Leonard''s Fresh Food Market
+
+    Description Part fresh, part stale
+    army rations.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Buying
+    val: 15
+  - key: //
+    val: MRE
+  - key: Buying_0_ID
+    val: 81
+  - key: Buying_0_Cost
+    val: 50
+  - key: //
+    val: Raw
+  - key: Buying_1_ID
+    val: 1351
+  - key: Buying_1_Cost
+    val: 40
+  - key: //
+    val: Raw
+  - key: Buying_2_ID
+    val: 1120
+  - key: Buying_2_Cost
+    val: 30
+  - key: //
+    val: Canned
+  - key: Buying_3_ID
+    val: 88
+  - key: Buying_3_Cost
+    val: 30
+  - key: //
+    val: Canned
+  - key: Buying_4_ID
+    val: 13
+  - key: Buying_4_Cost
+    val: 30
+  - key: //
+    val: Canned
+  - key: Buying_5_ID
+    val: 89
+  - key: Buying_5_Cost
+    val: 30
+  - key: //
+    val: Canned
+  - key: Buying_6_ID
+    val: 469
+  - key: Buying_6_Cost
+    val: 30
+  - key: //
+    val: Canned
+  - key: Buying_7_ID
+    val: 87
+  - key: Buying_7_Cost
+    val: 30
+  - key: //
+    val: Canned
+  - key: Buying_8_ID
+    val: 90
+  - key: Buying_8_Cost
+    val: 10
+  - key: //
+    val: Canned
+  - key: Buying_9_ID
+    val: 78
+  - key: Buying_9_Cost
+    val: 30
+  - key: //
+    val: Canned
+  - key: Buying_10_ID
+    val: 77
+  - key: Buying_10_Cost
+    val: 30
+  - key: //
+    val: Canned
+  - key: Buying_11_ID
+    val: 79
+  - key: Buying_11_Cost
+    val: 30
+  - key: //
+    val: Raw
+  - key: Buying_12_ID
+    val: 1117
+  - key: Buying_12_Cost
+    val: 30
+  - key: //
+    val: Raw
+  - key: Buying_13_ID
+    val: 505
+  - key: Buying_13_Cost
+    val: 30
+  - key: //
+    val: Raw
+  - key: Buying_14_ID
+    val: 514
+  - key: Buying_14_Cost
+    val: 40
+  - key: Selling
+    val: 9
+  - key: //
+    val: Maple
+  - key: Selling_0_ID
+    val: 1159
+  - key: Selling_0_Cost
+    val: 85
+  - key: //
+    val: Dough
+  - key: Selling_1_ID
+    val: 1162
+  - key: Selling_1_Cost
+    val: 65
+  - key: //
+    val: Apple
+  - key: Selling_2_ID
+    val: 91
+  - key: Selling_2_Cost
+    val: 50
+  - key: //
+    val: Grape
+  - key: Selling_3_ID
+    val: 92
+  - key: Selling_3_Cost
+    val: 50
+  - key: //
+    val: Chips
+  - key: Selling_4_ID
+    val: 82
+  - key: Selling_4_Cost
+    val: 65
+  - key: //
+    val: Chocolate
+  - key: Selling_5_ID
+    val: 83
+  - key: Selling_5_Cost
+    val: 50
+  - key: //
+    val: Candy
+  - key: Selling_6_ID
+    val: 84
+  - key: Selling_6_Cost
+    val: 50
+  - key: //
+    val: Granola
+  - key: Selling_7_ID
+    val: 85
+  - key: Selling_7_Cost
+    val: 65
+  - key: //
+    val: Energy
+  - key: Selling_8_ID
+    val: 86
+  - key: Selling_8_Cost
+    val: 65

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 40
+  rarity: 0
+  id: 98
+  nameEnglish: 'The Hunt for Jet Fuel
+
+    Description <color=rare>Lieutenant Oswald</color>
+    is willing to give you a try scouting out a location, in this case an airport
+    North-East of Moscow. This usually involves clearing out quite a few zombies,
+    and then analyzing the environment to prepare a report determining which areas
+    are worth securing.
+
+    
+
+    Condition_0 Clear Airport <color=legendary>Horde
+    Beacon</color> {0}/{1}'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Conditions
+    val: 1
+  - key: Condition_0_Type
+    val: Kills_Horde
+  - key: Condition_0_ID
+    val: 99
+  - key: Condition_0_Value
+    val: 1
+  - key: Condition_0_Nav
+    val: 0
+  - key: Rewards
+    val: 3
+  - key: Reward_0_Type
+    val: Experience
+  - key: Reward_0_Value
+    val: 75
+  - key: Reward_1_Type
+    val: Reputation
+  - key: Reward_1_Value
+    val: 5
+  - key: //
+    val: Coalition
+  - key: Reward_2_Type
+    val: Flag_Short
+  - key: Reward_2_ID
+    val: 13
+  - key: Reward_2_Value
+    val: 1
+  - key: Reward_2_Modification
+    val: Increment

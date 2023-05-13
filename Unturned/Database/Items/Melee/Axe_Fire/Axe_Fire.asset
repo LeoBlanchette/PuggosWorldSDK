@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Axe_Fire
+  m_EditorClassIdentifier: 
+  modType: 34
+  rarity: 0
+  id: 104
+  nameEnglish: 'Fire Axe
+
+    Description High power axe used by firefighters.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Melee
+  - key: Slot
+    val: Secondary
+  - key: Size_X
+    val: 2
+  - key: Size_Y
+    val: 3
+  - key: Size_Z
+    val: 0.6
+  - key: Size2_Z
+    val: 0.6
+  - key: Range
+    val: 2.25
+  - key: Strength
+    val: 1.5
+  - key: Stamina
+    val: 20
+  - key: Player_Damage
+    val: 34
+  - key: Player_Leg_Multiplier
+    val: 0.6
+  - key: Player_Arm_Multiplier
+    val: 0.6
+  - key: Player_Spine_Multiplier
+    val: 0.8
+  - key: Player_Skull_Multiplier
+    val: 1.1
+  - key: Zombie_Damage
+    val: 34
+  - key: Zombie_Leg_Multiplier
+    val: 0.3
+  - key: Zombie_Arm_Multiplier
+    val: 0.3
+  - key: Zombie_Spine_Multiplier
+    val: 0.6
+  - key: Zombie_Skull_Multiplier
+    val: 1.1
+  - key: Animal_Damage
+    val: 34
+  - key: Animal_Leg_Multiplier
+    val: 0.3
+  - key: Animal_Spine_Multiplier
+    val: 0.6
+  - key: Animal_Skull_Multiplier
+    val: 1.1
+  - key: Barricade_Damage
+    val: 25
+  - key: Structure_Damage
+    val: 20
+  - key: Vehicle_Damage
+    val: 35
+  - key: Resource_Damage
+    val: 75
+  - key: Object_Damage
+    val: 35
+  - key: Durability
+    val: 0.2
+  - key: Blueprints
+    val: 2
+  - key: Blueprint_0_Type
+    val: Repair
+  - key: Blueprint_0_Supplies
+    val: 1
+  - key: Blueprint_0_Supply_0_ID
+    val: 67
+  - key: Blueprint_0_Supply_0_Amount
+    val: 3
+  - key: Blueprint_0_Build
+    val: 27
+  - key: Blueprint_1_Type
+    val: Tool
+  - key: Blueprint_1_Supplies
+    val: 1
+  - key: Blueprint_1_Supply_0_ID
+    val: 104
+  - key: Blueprint_1_Product
+    val: 67
+  - key: Blueprint_1_Products
+    val: 2
+  - key: Blueprint_1_Build
+    val: 27
+  - key: AttackAudioClip
+    val: Sounds/MeleeAttack_01.mp3

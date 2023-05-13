@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  modType: 13
+  rarity: 0
+  id: 90
+  nameEnglish: "Message_0_Page_0 Welcome aboard! You should probably go talk to <color=legendary>Captain
+    Sydney</color> on the bridge for orientation.\r\nMessage_1_Page_0 Good to see
+    you <color=uncommon>Ensign <name_char></color>!\r\nMessage_2_Page_0 Good to see
+    you <color=rare>Lieutenant <name_char></color>!\r\nMessage_3_Page_0 Good to see
+    you <color=epic>Major <name_char></color>!\r\nMessage_4_Page_0 Move along, bandit
+    scum.\r\nMessage_5_Page_0 Stay where I can see you.\r\nMessage_6_Page_0 Good
+    to see you <name_char>!\r\n\r\nResponse_0 Thanks\r\nResponse_1 You too <name_npc>!
+    \r\nResponse_2 Okay okay\r\nResponse_3 I'm not here to cause trouble"
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Messages
+    val: 7
+  - key: //
+    val: Welcome
+  - key: Message_0_Pages
+    val: 1
+  - key: Message_0_Responses
+    val: 1
+  - key: Message_0_Response_0
+    val: 0
+  - key: Message_0_Conditions
+    val: 1
+  - key: //
+    val: Met_Captain
+  - key: Message_0_Condition_0_Type
+    val: Flag_Bool
+  - key: Message_0_Condition_0_ID
+    val: 2
+  - key: Message_0_Condition_0_Value
+    val: False
+  - key: Message_0_Condition_0_Logic
+    val: Equal
+  - key: Message_0_Condition_0_Allow_Unset
+    val: 
+  - key: //
+    val: Ensign
+  - key: Message_1_Pages
+    val: 1
+  - key: Message_1_Responses
+    val: 1
+  - key: Message_1_Response_0
+    val: 1
+  - key: Message_1_Conditions
+    val: 1
+  - key: //
+    val: Ensign
+  - key: Message_1_Condition_0_Type
+    val: Flag_Short
+  - key: Message_1_Condition_0_ID
+    val: 29
+  - key: Message_1_Condition_0_Value
+    val: 1
+  - key: Message_1_Condition_0_Logic
+    val: Equal
+  - key: //
+    val: Lieutenant
+  - key: Message_2_Pages
+    val: 1
+  - key: Message_2_Responses
+    val: 1
+  - key: Message_2_Response_0
+    val: 1
+  - key: Message_2_Conditions
+    val: 1
+  - key: //
+    val: Lieutenant
+  - key: Message_2_Condition_0_Type
+    val: Flag_Short
+  - key: Message_2_Condition_0_ID
+    val: 29
+  - key: Message_2_Condition_0_Value
+    val: 2
+  - key: Message_2_Condition_0_Logic
+    val: Equal
+  - key: //
+    val: Major
+  - key: Message_3_Pages
+    val: 1
+  - key: Message_3_Responses
+    val: 1
+  - key: Message_3_Response_0
+    val: 1
+  - key: Message_3_Conditions
+    val: 1
+  - key: //
+    val: Major
+  - key: Message_3_Condition_0_Type
+    val: Flag_Short
+  - key: Message_3_Condition_0_ID
+    val: 29
+  - key: Message_3_Condition_0_Value
+    val: 3
+  - key: Message_3_Condition_0_Logic
+    val: Equal
+  - key: //
+    val: Bandit
+  - key: Message_4_Pages
+    val: 1
+  - key: Message_4_Responses
+    val: 1
+  - key: Message_4_Response_0
+    val: 2
+  - key: Message_4_Conditions
+    val: 1
+  - key: Message_4_Condition_0_Type
+    val: Reputation
+  - key: Message_4_Condition_0_Value
+    val: -5
+  - key: Message_4_Condition_0_Logic
+    val: Less_Than
+  - key: //
+    val: Questionable
+  - key: Message_5_Pages
+    val: 1
+  - key: Message_5_Responses
+    val: 1
+  - key: Message_5_Response_0
+    val: 3
+  - key: Message_5_Conditions
+    val: 1
+  - key: Message_5_Condition_0_Type
+    val: Reputation
+  - key: Message_5_Condition_0_Value
+    val: 5
+  - key: Message_5_Condition_0_Logic
+    val: Less_Than_Or_Equal_To
+  - key: //
+    val: Hero
+  - key: Message_6_Pages
+    val: 1
+  - key: Message_6_Responses
+    val: 1
+  - key: Message_6_Response_0
+    val: 1
+  - key: Responses
+    val: 4

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Train_Cargo_1
+  m_EditorClassIdentifier: 
+  modType: 58
+  rarity: 3
+  id: 187
+  nameEnglish: Cargo Train
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Speed_Min
+    val: -40
+  - key: Speed_Max
+    val: 40
+  - key: Fuel
+    val: 2000
+  - key: Health_Min
+    val: 10000
+  - key: Health_Max
+    val: 10000
+  - key: Health
+    val: 10000
+  - key: Exit
+    val: 3
+  - key: Cam_Follow_Distance
+    val: 7.5
+  - key: Engine
+    val: Train
+  - key: Train_Track_Offset
+    val: 1.3
+  - key: Train_Wheel_Offset
+    val: 3.5
+  - key: Train_Car_Length
+    val: 11
+  - key: Pitch_Idle
+    val: 0.625
+  - key: Pitch_Drive
+    val: 0.01
+  - key: //
+    val: Allowing
+  - key: //
+    val: Supports_Mobile_Buildables
+  - key: Trunk_Storage_X
+    val: 8
+  - key: Trunk_Storage_Y
+    val: 7
+  - key: Explosion
+    val: 20
+  - key: Invulnerable
+    val: 
+  - key: Explosions_Invulnerable
+    val: 
+  - key: Environment_Invulnerable
+    val: 
+  - key: Bumper_Invulnerable
+    val: 
+  - key: IgnitionAudioClip
+    val: Sounds/CarIgnition.mp3
+  - key: Has_Clip_Prefab
+    val: false

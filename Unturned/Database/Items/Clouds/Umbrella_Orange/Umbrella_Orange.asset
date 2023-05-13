@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Umbrella_Orange
+  m_EditorClassIdentifier: 
+  modType: 9
+  rarity: 1
+  id: 1124
+  nameEnglish: 'Orange Umbrella
+
+    Description Drift softly down from the heavens.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Cloud
+  - key: Size_X
+    val: 2
+  - key: Size_Y
+    val: 2
+  - key: Size_Z
+    val: 0.7
+  - key: Use_Auto_Icon_Measurements
+    val: false
+  - key: Gravity
+    val: 0.25
+  - key: Blueprints
+    val: 1
+  - key: Blueprint_0_Type
+    val: Apparel
+  - key: Blueprint_0_Supply_0_ID
+    val: 1124
+  - key: Blueprint_0_Product
+    val: 66
+  - key: Blueprint_0_Build
+    val: 32

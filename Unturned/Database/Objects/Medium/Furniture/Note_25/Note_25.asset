@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Note_25
+  m_EditorClassIdentifier: 
+  modType: 33
+  rarity: 0
+  id: 2026
+  nameEnglish: 'Russia Note - Kilroy''s Journal
+
+    
+
+    Interactability_Text_Line_0
+    Kilroy''s Journal
+
+    Interactability_Text_Line_1 ---
+
+    Interactability_Text_Line_2
+    Fascinating... Once we cracked the first several symbols the rest came very easily.
+    From what we can tell so far these etchings seem to be a recording of the tribe''s
+    history, of particular note is this large faded icon. It''s composed of runes
+    representing nighttime, whispers, a harvest and what they describe in the text
+    as a "soulcrystal" of immense power activated by some sort of ritual. It was
+    so powerful that even the most pure-hearted exposed would gradually be swayed
+    to ruthless ambition. After a horrible incident the tribes were forced to unite
+    and fracture it, each secretly encasing a piece in stone such that no one person
+    should know the location of all the fragments. This tribe buried their part in
+    a tomb guarded by their spirit ancestor "Anastasia". I''m interested to see if
+    we can find this relic, however I''m sure it was purely of superstitious or traditional
+    importance.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Interactability
+    val: Note
+  - key: Interactability_Hint
+    val: Use
+  - key: Interactability_Text_Lines
+    val: 3
+  - key: Asset_Bundle_Version
+    val: 2
+  - key: Bundle_Override_Path
+    val: /Objects/Medium/Furniture/Note
+  - key: Has_Clip_Prefab
+    val: false

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Pine_1
+  m_EditorClassIdentifier: 
+  modType: 42
+  rarity: 0
+  id: 5
+  nameEnglish: Pine #2
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Health
+    val: 1200
+  - key: Radius
+    val: 5
+  - key: Scale
+    val: 0.3
+  - key: Explosion
+    val: 26
+  - key: Reward_ID
+    val: 517
+  - key: Reward_XP
+    val: 6
+  - key: Reward_Min
+    val: 5
+  - key: Reward_Max
+    val: 8
+  - key: Reset
+    val: 750
+  - key: Auto_Skybox
+    val: 
+  - key: SpeedTree
+    val: 
+  - key: SpeedTree_Default_LOD_Weights
+    val: 
+  - key: Christmas_Redirect
+    val: ba311a4ddbe34121acd6899fd424813b
+  - key: Has_Clip_Prefab
+    val: false

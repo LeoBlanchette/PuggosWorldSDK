@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Military_100
+  m_EditorClassIdentifier: 
+  modType: 29
+  rarity: 3
+  id: 17
+  nameEnglish: 'Military Drum
+
+    Description Low caliber military grade drum.
+    Designed to fit 100 rounds.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Size_X
+    val: 2
+  - key: Size_Y
+    val: 2
+  - key: Size_Z
+    val: 0.25
+  - key: Amount
+    val: 100
+  - key: Count_Min
+    val: 10
+  - key: Count_Max
+    val: 90
+  - key: Calibers
+    val: 1
+  - key: Caliber_0
+    val: 1
+  - key: Tracer
+    val: 48
+  - key: Speed
+    val: 0.85
+  - key: Aim_Duration_Multiplier
+    val: 1.25
+  - key: Blueprints
+    val: 4
+  - key: Blueprint_0_Type
+    val: Ammo
+  - key: Blueprint_0_Supplies
+    val: 1
+  - key: Blueprint_0_Supply_0_ID
+    val: 43
+  - key: Blueprint_0_Build
+    val: 30
+  - key: Blueprint_1_Type
+    val: Ammo
+  - key: Blueprint_1_Supplies
+    val: 1
+  - key: Blueprint_1_Supply_0_ID
+    val: 6
+  - key: Blueprint_1_Build
+    val: 30
+  - key: Blueprint_2_Type
+    val: Ammo
+  - key: Blueprint_2_Supplies
+    val: 1
+  - key: Blueprint_2_Supply_0_ID
+    val: 17
+  - key: Blueprint_2_Build
+    val: 30
+  - key: Blueprint_3_Type
+    val: Ammo
+  - key: Blueprint_3_Supplies
+    val: 1
+  - key: Blueprint_3_Supply_0_ID
+    val: 1490
+  - key: Blueprint_3_Build
+    val: 30
+  - key: Paintable
+    val: 

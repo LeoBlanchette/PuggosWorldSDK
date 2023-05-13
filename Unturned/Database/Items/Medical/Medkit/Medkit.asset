@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Medkit
+  m_EditorClassIdentifier: 
+  modType: 32
+  rarity: 4
+  id: 15
+  nameEnglish: 'Medkit
+
+    Description A box of hospital medical equipment suited
+    for healing a wide variety of injuries.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Consumeable
+  - key: Size_X
+    val: 2
+  - key: Size_Y
+    val: 2
+  - key: Size_Z
+    val: 0.4
+  - key: Aid
+    val: 
+  - key: Bleeding
+    val: 
+  - key: Broken
+    val: 
+  - key: Health
+    val: 75

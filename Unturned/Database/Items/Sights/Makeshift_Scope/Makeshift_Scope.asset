@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Makeshift_Scope
+  m_EditorClassIdentifier: 
+  modType: 45
+  rarity: 0
+  id: 476
+  nameEnglish: 'Makeshift Scope
+
+    Description Rail mounted 6x zoom scope.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Size_X
+    val: 2
+  - key: Size_Y
+    val: 1
+  - key: Size_Z
+    val: 0.2
+  - key: Spread
+    val: 0.8
+  - key: Zoom
+    val: 6
+  - key: Blueprints
+    val: 1
+  - key: Blueprint_0_Type
+    val: Tool
+  - key: Blueprint_0_Supplies
+    val: 2
+  - key: Blueprint_0_Supply_0_ID
+    val: 333
+  - key: Blueprint_0_Supply_0_Amount
+    val: 1
+  - key: Blueprint_0_Supply_1_ID
+    val: 69
+  - key: Blueprint_0_Supply_1_Amount
+    val: 1
+  - key: Blueprint_0_Level
+    val: 1
+  - key: Blueprint_0_Skill
+    val: Craft
+  - key: Blueprint_0_Build
+    val: 27

@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Ace
+  m_EditorClassIdentifier: 
+  modType: 24
+  rarity: 1
+  id: 107
+  nameEnglish: 'Ace
+
+    Description American revolver chambered in Ace ammunition.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Gun
+  - key: Slot
+    val: Secondary
+  - key: Size_X
+    val: 2
+  - key: Size_Y
+    val: 2
+  - key: Size_Z
+    val: 0.35
+  - key: Size2_Z
+    val: 0.35
+  - key: Magazine
+    val: 108
+  - key: Hook_Barrel
+    val: 
+  - key: Ammo_Min
+    val: 2
+  - key: Ammo_Max
+    val: 6
+  - key: Safety
+    val: 
+  - key: Semi
+    val: 
+  - key: Caliber
+    val: 6
+  - key: Range
+    val: 100
+  - key: Firerate
+    val: 10
+  - key: Action
+    val: Trigger
+  - key: Player_Damage
+    val: 50
+  - key: Player_Leg_Multiplier
+    val: 0.6
+  - key: Player_Arm_Multiplier
+    val: 0.6
+  - key: Player_Spine_Multiplier
+    val: 0.8
+  - key: Player_Skull_Multiplier
+    val: 1.1
+  - key: Zombie_Damage
+    val: 99
+  - key: Zombie_Leg_Multiplier
+    val: 0.3
+  - key: Zombie_Arm_Multiplier
+    val: 0.3
+  - key: Zombie_Spine_Multiplier
+    val: 0.6
+  - key: Zombie_Skull_Multiplier
+    val: 1.1
+  - key: Animal_Damage
+    val: 50
+  - key: Animal_Leg_Multiplier
+    val: 0.6
+  - key: Animal_Spine_Multiplier
+    val: 0.8
+  - key: Animal_Skull_Multiplier
+    val: 1.1
+  - key: Barricade_Damage
+    val: 25
+  - key: Structure_Damage
+    val: 20
+  - key: Vehicle_Damage
+    val: 30
+  - key: Resource_Damage
+    val: 20
+  - key: Object_Damage
+    val: 25
+  - key: Durability
+    val: 0.1
+  - key: Aim_In_Duration
+    val: 0.15
+  - key: Spread_Aim
+    val: 0.05
+  - key: Spread_Hip
+    val: 0.1
+  - key: Recoil_Min_X
+    val: -4
+  - key: Recoil_Min_Y
+    val: 15
+  - key: Recoil_Max_X
+    val: -8
+  - key: Recoil_Max_Y
+    val: 20
+  - key: Recover_X
+    val: 0.5
+  - key: Recover_Y
+    val: 0.5
+  - key: Shake_Min_X
+    val: -0.01
+  - key: Shake_Min_Y
+    val: 0.01
+  - key: Shake_Min_Z
+    val: -0.1
+  - key: Shake_Max_X
+    val: 0.01
+  - key: Shake_Max_Y
+    val: -0.01
+  - key: Shake_Max_Z
+    val: -0.15
+  - key: Muzzle
+    val: 3
+  - key: Blueprints
+    val: 2
+  - key: Blueprint_0_Type
+    val: Repair
+  - key: Blueprint_0_Supplies
+    val: 1
+  - key: Blueprint_0_Supply_0_ID
+    val: 67
+  - key: Blueprint_0_Supply_0_Amount
+    val: 3
+  - key: Blueprint_0_Tool
+    val: 76
+  - key: Blueprint_0_Build
+    val: 27
+  - key: Blueprint_1_Type
+    val: Tool
+  - key: Blueprint_1_Supplies
+    val: 1
+  - key: Blueprint_1_Supply_0_ID
+    val: 107
+  - key: Blueprint_1_Product
+    val: 67
+  - key: Blueprint_1_Products
+    val: 2
+  - key: Blueprint_1_Build
+    val: 27

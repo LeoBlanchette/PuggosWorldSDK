@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Bulldog
+  m_EditorClassIdentifier: 
+  modType: 24
+  rarity: 2
+  id: 1369
+  nameEnglish: 'Bulldog
+
+    Description Israeli carbine chambered in Bulldog ammunition.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Gun
+  - key: Slot
+    val: Secondary
+  - key: Size_X
+    val: 3
+  - key: Size_Y
+    val: 2
+  - key: Size_Z
+    val: 0.35
+  - key: Size2_Z
+    val: 0.45
+  - key: Sight
+    val: 1370
+  - key: Magazine
+    val: 1371
+  - key: Hook_Sight
+    val: 
+  - key: Hook_Grip
+    val: 
+  - key: Hook_Barrel
+    val: 
+  - key: Ammo_Min
+    val: 20
+  - key: Ammo_Max
+    val: 45
+  - key: Safety
+    val: 
+  - key: Semi
+    val: 
+  - key: Auto
+    val: 
+  - key: Caliber
+    val: 34
+  - key: Range
+    val: 90
+  - key: Firerate
+    val: 2
+  - key: Action
+    val: Trigger
+  - key: Player_Damage
+    val: 20
+  - key: Player_Leg_Multiplier
+    val: 0.6
+  - key: Player_Arm_Multiplier
+    val: 0.6
+  - key: Player_Spine_Multiplier
+    val: 0.8
+  - key: Player_Skull_Multiplier
+    val: 1.1
+  - key: Zombie_Damage
+    val: 75
+  - key: Zombie_Leg_Multiplier
+    val: 0.3
+  - key: Zombie_Arm_Multiplier
+    val: 0.3
+  - key: Zombie_Spine_Multiplier
+    val: 0.6
+  - key: Zombie_Skull_Multiplier
+    val: 1.1
+  - key: Animal_Damage
+    val: 20
+  - key: Animal_Leg_Multiplier
+    val: 0.6
+  - key: Animal_Spine_Multiplier
+    val: 0.8
+  - key: Animal_Skull_Multiplier
+    val: 1.1
+  - key: Barricade_Damage
+    val: 10
+  - key: Structure_Damage
+    val: 10
+  - key: Vehicle_Damage
+    val: 23
+  - key: Resource_Damage
+    val: 12
+  - key: Object_Damage
+    val: 15
+  - key: Durability
+    val: 0.5
+  - key: Spread_Aim
+    val: 0.25
+  - key: Spread_Hip
+    val: 0.2
+  - key: Recoil_Min_X
+    val: -2
+  - key: Recoil_Min_Y
+    val: 2
+  - key: Recoil_Max_X
+    val: 2
+  - key: Recoil_Max_Y
+    val: 3
+  - key: Recover_X
+    val: 0.5
+  - key: Recover_Y
+    val: 0.8
+  - key: Shake_Min_X
+    val: -0.001
+  - key: Shake_Min_Y
+    val: 0.001
+  - key: Shake_Min_Z
+    val: -0.005
+  - key: Shake_Max_X
+    val: 0.001
+  - key: Shake_Max_Y
+    val: -0.001
+  - key: Shake_Max_Z
+    val: -0.01
+  - key: Muzzle
+    val: 3
+  - key: Blueprints
+    val: 2
+  - key: Blueprint_0_Type
+    val: Repair
+  - key: Blueprint_0_Supplies
+    val: 1
+  - key: Blueprint_0_Supply_0_ID
+    val: 67
+  - key: Blueprint_0_Supply_0_Amount
+    val: 3
+  - key: Blueprint_0_Tool
+    val: 76
+  - key: Blueprint_0_Build
+    val: 27
+  - key: Blueprint_1_Type
+    val: Tool
+  - key: Blueprint_1_Supplies
+    val: 1
+  - key: Blueprint_1_Supply_0_ID
+    val: 1369
+  - key: Blueprint_1_Product
+    val: 67
+  - key: Blueprint_1_Products
+    val: 2
+  - key: Blueprint_1_Build
+    val: 27

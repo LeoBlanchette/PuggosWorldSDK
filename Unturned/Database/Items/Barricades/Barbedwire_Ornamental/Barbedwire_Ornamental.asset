@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0745f62af16b494f9c22226c3a72870, type: 3}
+  m_Name: Barbedwire_Ornamental
+  m_EditorClassIdentifier: 
+  modType: 57
+  rarity: 1
+  id: 1130
+  nameEnglish: 'Ornamental Barbed Wire
+
+    Description Spiky, well-lit trap.'
+  cloneFrom: {fileID: 0}
+  datFileValues:
+  - key: Useable
+    val: Barricade
+  - key: Build
+    val: Wire
+  - key: Size_X
+    val: 2
+  - key: Size_Y
+    val: 1
+  - key: Size_Z
+    val: 0.2
+  - key: Health
+    val: 70
+  - key: Range
+    val: 4
+  - key: Radius
+    val: 0.15
+  - key: Offset
+    val: 0.2
+  - key: Player_Damage
+    val: 40
+  - key: Zombie_Damage
+    val: 80
+  - key: Animal_Damage
+    val: 80
+  - key: Explosion
+    val: 36
+  - key: Vulnerable
+    val: 
+  - key: Unrepairable
+    val: 
+  - key: Blueprints
+    val: 1
+  - key: Blueprint_0_Type
+    val: Barricade
+  - key: Blueprint_0_Supply_0_ID
+    val: 65
+  - key: Blueprint_0_Supply_0_Amount
+    val: 2
+  - key: Blueprint_0_Build
+    val: 27
+  - key: Blueprint_0_Conditions
+    val: 1
+  - key: Blueprint_0_Condition_0_Type
+    val: Holiday
+  - key: Blueprint_0_Condition_0_Value
+    val: Christmas
+  - key: Has_Clip_Prefab
+    val: false
