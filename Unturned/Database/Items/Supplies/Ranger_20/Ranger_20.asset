@@ -45,3 +45,4 @@ MonoBehaviour:
     val: 30
   - key: InventoryAudio
     val: Sounds/Inventory/SmallGunAttachment.asset
+  craftingRecipies: []

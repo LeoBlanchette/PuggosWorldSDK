@@ -49,3 +49,4 @@ MonoBehaviour:
     val: 27
   - key: ConsumeAudioClip
     val: Sounds/EatSquishy.mp3
+  craftingRecipies: []

@@ -58,3 +58,4 @@ MonoBehaviour:
     val: 27
   - key: Proof_Fire
     val: 
+  craftingRecipies: []

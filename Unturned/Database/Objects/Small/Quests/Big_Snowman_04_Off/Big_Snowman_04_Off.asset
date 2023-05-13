@@ -84,3 +84,4 @@ MonoBehaviour:
     val: Festive2021_Snowman
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []

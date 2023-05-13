@@ -36,3 +36,4 @@ MonoBehaviour:
     val: 3
   - key: Panics
     val: 3
+  craftingRecipies: []

@@ -34,3 +34,4 @@ MonoBehaviour:
     val: /Objects/Small/Quests/Battery_00
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []

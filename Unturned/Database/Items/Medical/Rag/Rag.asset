@@ -58,3 +58,4 @@ MonoBehaviour:
     val: Craft_Bandage
   - key: InventoryAudio
     val: Sounds/Inventory/LightCloth.asset
+  craftingRecipies: []

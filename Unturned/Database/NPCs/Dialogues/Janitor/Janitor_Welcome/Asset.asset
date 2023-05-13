@@ -161,3 +161,4 @@ MonoBehaviour:
     val: 1
   - key: Response_4_Reward_0_Modification
     val: Assign
+  craftingRecipies: []

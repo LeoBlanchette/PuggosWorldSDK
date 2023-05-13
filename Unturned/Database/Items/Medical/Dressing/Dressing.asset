@@ -47,3 +47,4 @@ MonoBehaviour:
     val: 32
   - key: InventoryAudio
     val: Sounds/Inventory/LightCloth.asset
+  craftingRecipies: []

@@ -56,3 +56,4 @@ MonoBehaviour:
     val: /Objects/Small/Quests/Tray_00_Off
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []

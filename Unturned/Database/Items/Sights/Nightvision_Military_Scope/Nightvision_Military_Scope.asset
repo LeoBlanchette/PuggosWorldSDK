@@ -35,3 +35,4 @@ MonoBehaviour:
     val: Military
   - key: Paintable
     val: 
+  craftingRecipies: []

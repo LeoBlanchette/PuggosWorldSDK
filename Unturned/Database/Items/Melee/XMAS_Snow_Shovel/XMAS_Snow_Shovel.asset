@@ -108,3 +108,4 @@ MonoBehaviour:
     val: 0
   - key: BladeID_1
     val: 4
+  craftingRecipies: []

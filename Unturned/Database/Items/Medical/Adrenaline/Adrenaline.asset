@@ -35,3 +35,4 @@ MonoBehaviour:
     val: 5
   - key: Energy
     val: 100
+  craftingRecipies: []

@@ -22,3 +22,4 @@ MonoBehaviour:
     val: Area
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []

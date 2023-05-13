@@ -84,3 +84,4 @@ MonoBehaviour:
     val: Ready
   - key: Response_1_Condition_0_Reset
     val: 
+  craftingRecipies: []

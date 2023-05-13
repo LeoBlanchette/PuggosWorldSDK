@@ -51,3 +51,4 @@ MonoBehaviour:
     val: 34
   - key: Explosive
     val: 
+  craftingRecipies: []

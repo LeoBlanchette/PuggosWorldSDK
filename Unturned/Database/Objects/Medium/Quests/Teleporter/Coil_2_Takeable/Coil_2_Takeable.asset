@@ -51,3 +51,4 @@ MonoBehaviour:
     val: Increment
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []

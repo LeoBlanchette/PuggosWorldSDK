@@ -40,3 +40,4 @@ MonoBehaviour:
     val: Completed
   - key: Message_1_Pages
     val: 1
+  craftingRecipies: []

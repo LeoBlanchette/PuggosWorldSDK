@@ -30,3 +30,4 @@ MonoBehaviour:
     val: 0.6
   - key: Fuel
     val: 500
+  craftingRecipies: []

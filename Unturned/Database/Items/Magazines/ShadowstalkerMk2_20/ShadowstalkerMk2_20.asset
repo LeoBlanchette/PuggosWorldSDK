@@ -73,3 +73,4 @@ MonoBehaviour:
     val: 30
   - key: Delete_Empty
     val: 
+  craftingRecipies: []

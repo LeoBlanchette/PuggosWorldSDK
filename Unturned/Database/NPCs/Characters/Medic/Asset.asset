@@ -52,3 +52,4 @@ MonoBehaviour:
     val: 74
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []

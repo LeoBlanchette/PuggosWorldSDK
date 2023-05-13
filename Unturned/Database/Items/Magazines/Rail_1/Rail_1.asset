@@ -57,3 +57,4 @@ MonoBehaviour:
     val: 
   - key: Tracer
     val: 50
+  craftingRecipies: []

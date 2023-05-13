@@ -121,3 +121,4 @@ MonoBehaviour:
     val: 2
   - key: Selling_7_Condition_0_Logic
     val: Greater_Than
+  craftingRecipies: []

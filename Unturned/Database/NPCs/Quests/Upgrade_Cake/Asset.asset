@@ -44,3 +44,4 @@ MonoBehaviour:
     val: Experience
   - key: Reward_0_Value
     val: 10
+  craftingRecipies: []

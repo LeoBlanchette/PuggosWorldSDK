@@ -60,3 +60,4 @@ MonoBehaviour:
     val: Quest
   - key: Reward_3_ID
     val: 38
+  craftingRecipies: []

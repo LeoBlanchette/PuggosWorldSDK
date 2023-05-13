@@ -102,3 +102,4 @@ MonoBehaviour:
     val: 
   - key: Repeated
     val: 
+  craftingRecipies: []

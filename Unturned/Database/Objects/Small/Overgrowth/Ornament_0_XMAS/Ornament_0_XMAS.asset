@@ -24,3 +24,4 @@ MonoBehaviour:
     val: /Objects/Small/Overgrowth/Ornament_0
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []

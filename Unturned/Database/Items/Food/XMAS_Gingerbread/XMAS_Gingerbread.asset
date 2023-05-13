@@ -42,3 +42,4 @@ MonoBehaviour:
     val: 341
   - key: Quest_Reward_0_Value
     val: True
+  craftingRecipies: []

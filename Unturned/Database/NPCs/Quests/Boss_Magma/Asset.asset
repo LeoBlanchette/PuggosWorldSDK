@@ -49,3 +49,4 @@ MonoBehaviour:
     val: Reputation
   - key: Reward_1_Value
     val: 20
+  craftingRecipies: []

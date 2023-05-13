@@ -61,3 +61,4 @@ MonoBehaviour:
     val: 27
   - key: ConsumeAudioClip
     val: Sounds/EatCrunchy.mp3
+  craftingRecipies: []

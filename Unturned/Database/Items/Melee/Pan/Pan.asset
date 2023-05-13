@@ -107,3 +107,4 @@ MonoBehaviour:
     val: Sounds/MeleeAttack_01.mp3
   - key: ImpactAudioDef
     val: Effects/Physics/MeleeImpact/Pan/MeleeImpact_Pan.asset
+  craftingRecipies: []

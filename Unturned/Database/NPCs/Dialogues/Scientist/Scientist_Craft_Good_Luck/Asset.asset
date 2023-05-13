@@ -30,3 +30,4 @@ MonoBehaviour:
     val: 1
   - key: Response_0_Dialogue
     val: 77
+  craftingRecipies: []

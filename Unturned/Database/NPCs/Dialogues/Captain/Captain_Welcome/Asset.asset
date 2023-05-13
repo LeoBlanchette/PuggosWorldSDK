@@ -477,3 +477,4 @@ MonoBehaviour:
     val: Ready
   - key: Response_10_Condition_0_Reset
     val: 
+  craftingRecipies: []

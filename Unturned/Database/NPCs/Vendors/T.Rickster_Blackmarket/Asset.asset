@@ -54,3 +54,4 @@ MonoBehaviour:
     val: 100
   - key: FaceOverride
     val: 31
+  craftingRecipies: []

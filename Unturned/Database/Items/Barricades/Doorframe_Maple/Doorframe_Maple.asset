@@ -56,3 +56,4 @@ MonoBehaviour:
     val: Sounds/WoodenPlacement.mp3
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []

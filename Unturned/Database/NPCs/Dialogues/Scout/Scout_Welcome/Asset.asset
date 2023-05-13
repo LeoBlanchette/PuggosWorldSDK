@@ -434,3 +434,4 @@ MonoBehaviour:
     val: Scout_Work
   - key: Response_15_Dialogue
     val: 118
+  craftingRecipies: []

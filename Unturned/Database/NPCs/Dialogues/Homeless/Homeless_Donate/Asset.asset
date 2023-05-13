@@ -102,3 +102,4 @@ MonoBehaviour:
     val: 5
   - key: Message_4_Condition_0_Logic
     val: Equal
+  craftingRecipies: []

@@ -106,3 +106,4 @@ MonoBehaviour:
     val: 2
   - key: Turret
     val: 
+  craftingRecipies: []

@@ -98,3 +98,4 @@ MonoBehaviour:
     val: P.Riso_Hiding
   - key: Response_2_Dialogue
     val: 19
+  craftingRecipies: []

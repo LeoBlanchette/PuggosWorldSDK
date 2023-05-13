@@ -41,3 +41,4 @@ MonoBehaviour:
     val: CHRISTMAS
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []

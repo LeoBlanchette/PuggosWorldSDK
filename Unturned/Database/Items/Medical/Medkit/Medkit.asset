@@ -37,3 +37,4 @@ MonoBehaviour:
     val: 
   - key: Health
     val: 75
+  craftingRecipies: []

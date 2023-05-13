@@ -116,3 +116,4 @@ MonoBehaviour:
     val: Holiday
   - key: Response_3_Condition_1_Value
     val: Christmas
+  craftingRecipies: []

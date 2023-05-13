@@ -88,3 +88,4 @@ MonoBehaviour:
     val: 140
   - key: Reward_4_Spawnpoint
     val: Liberator_Jet
+  craftingRecipies: []

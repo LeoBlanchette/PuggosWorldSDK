@@ -114,3 +114,4 @@ MonoBehaviour:
     val: 27
   - key: AttackAudioClip
     val: Sounds/MeleeAttack_02.mp3
+  craftingRecipies: []

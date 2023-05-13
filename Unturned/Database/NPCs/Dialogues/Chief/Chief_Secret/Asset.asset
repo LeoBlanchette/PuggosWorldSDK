@@ -61,3 +61,4 @@ MonoBehaviour:
     val: Police_Welcome
   - key: Response_1_Dialogue
     val: 65
+  craftingRecipies: []

@@ -68,3 +68,4 @@ MonoBehaviour:
     val: /Objects/Small/Quests/Snowman_Carrot_00
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []

@@ -33,3 +33,4 @@ MonoBehaviour:
     val: 1
   - key: Caliber_0
     val: 29
+  craftingRecipies: []

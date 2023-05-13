@@ -26,3 +26,4 @@ MonoBehaviour:
     val: Highway
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []

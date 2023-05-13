@@ -61,3 +61,4 @@ MonoBehaviour:
     val: 319
   - key: Reward_1_Value
     val: True
+  craftingRecipies: []

@@ -70,3 +70,4 @@ MonoBehaviour:
     val: Teleporter_A
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []

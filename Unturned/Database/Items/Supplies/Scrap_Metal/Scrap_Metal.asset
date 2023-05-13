@@ -64,3 +64,4 @@ MonoBehaviour:
     val: 27
   - key: InventoryAudio
     val: Sounds/Inventory/SmallMetal.asset
+  craftingRecipies: []

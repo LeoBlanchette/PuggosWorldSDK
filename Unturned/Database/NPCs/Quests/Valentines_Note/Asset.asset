@@ -56,3 +56,4 @@ MonoBehaviour:
     val: 1
   - key: Reward_2_Modification
     val: Increment
+  craftingRecipies: []

@@ -25,3 +25,4 @@ MonoBehaviour:
     val: 1
   - key: Message_0_Pages
     val: 1
+  craftingRecipies: []

@@ -57,3 +57,4 @@ MonoBehaviour:
     val: 32
   - key: Proof_Water
     val: 
+  craftingRecipies: []

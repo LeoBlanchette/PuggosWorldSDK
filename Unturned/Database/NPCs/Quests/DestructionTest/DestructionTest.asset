@@ -39,3 +39,4 @@ MonoBehaviour:
     val: 40921a1a3cd742f69cc25cc25b856572
   - key: Condition_0_Logic
     val: Greater_Than_Or_Equal_To
+  craftingRecipies: []

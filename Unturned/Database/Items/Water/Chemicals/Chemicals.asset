@@ -33,3 +33,4 @@ MonoBehaviour:
     val: 100
   - key: ConsumeAudioClip
     val: Sounds/DrinkSwallow.mp3
+  craftingRecipies: []

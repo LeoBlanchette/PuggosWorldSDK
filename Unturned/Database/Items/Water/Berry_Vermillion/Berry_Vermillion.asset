@@ -50,3 +50,4 @@ MonoBehaviour:
     val: Craft_Seed
   - key: ConsumeAudioClip
     val: Sounds/EatSquishy.mp3
+  craftingRecipies: []

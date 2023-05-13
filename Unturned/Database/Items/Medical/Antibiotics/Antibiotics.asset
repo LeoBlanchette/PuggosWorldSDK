@@ -35,3 +35,4 @@ MonoBehaviour:
     val: 35
   - key: Disinfectant
     val: 35
+  craftingRecipies: []

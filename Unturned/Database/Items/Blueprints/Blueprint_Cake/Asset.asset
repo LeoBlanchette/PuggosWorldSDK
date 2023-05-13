@@ -27,3 +27,4 @@ MonoBehaviour:
     val: 1
   - key: Size_Z
     val: 0.2
+  craftingRecipies: []

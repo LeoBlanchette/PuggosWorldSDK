@@ -24,3 +24,4 @@ MonoBehaviour:
     val: 1
   - key: Message_0_Prev
     val: 87
+  craftingRecipies: []

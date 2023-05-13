@@ -34,3 +34,4 @@ MonoBehaviour:
     val: /Objects/Small/Furniture/Present_3
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []

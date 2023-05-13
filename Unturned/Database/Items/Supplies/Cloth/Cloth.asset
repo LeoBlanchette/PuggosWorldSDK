@@ -92,3 +92,4 @@ MonoBehaviour:
     val: Craft_Rag
   - key: InventoryAudio
     val: Sounds/Inventory/LightCloth.asset
+  craftingRecipies: []

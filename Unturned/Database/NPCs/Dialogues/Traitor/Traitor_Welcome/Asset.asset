@@ -101,3 +101,4 @@ MonoBehaviour:
     val: 195
   - key: Response_1_Reward_1_Value
     val: False
+  craftingRecipies: []

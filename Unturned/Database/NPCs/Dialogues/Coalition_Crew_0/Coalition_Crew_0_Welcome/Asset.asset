@@ -29,3 +29,4 @@ MonoBehaviour:
     val: 1
   - key: Responses
     val: 1
+  craftingRecipies: []

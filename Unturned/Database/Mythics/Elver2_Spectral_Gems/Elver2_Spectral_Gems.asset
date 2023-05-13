@@ -20,3 +20,4 @@ MonoBehaviour:
 '
   cloneFrom: {fileID: 0}
   datFileValues: []
+  craftingRecipies: []

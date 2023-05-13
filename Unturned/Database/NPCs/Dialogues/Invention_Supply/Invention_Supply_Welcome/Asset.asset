@@ -57,3 +57,4 @@ MonoBehaviour:
     val: Invention_Supply_Help
   - key: Response_1_Dialogue
     val: 85
+  craftingRecipies: []

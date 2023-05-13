@@ -51,3 +51,4 @@ MonoBehaviour:
     val: 160
   - key: Currency
     val: 5150ca8f765d4a68bfe54912146da410
+  craftingRecipies: []

@@ -71,3 +71,4 @@ MonoBehaviour:
     val: Craft
   - key: Blueprint_2_Build
     val: 27
+  craftingRecipies: []

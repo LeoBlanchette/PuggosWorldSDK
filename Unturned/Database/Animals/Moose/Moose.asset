@@ -34,3 +34,4 @@ MonoBehaviour:
     val: 2
   - key: Reward_Max
     val: 3
+  craftingRecipies: []

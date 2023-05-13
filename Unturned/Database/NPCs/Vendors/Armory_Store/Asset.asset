@@ -113,3 +113,4 @@ MonoBehaviour:
     val: 1
   - key: Selling_2_Cost
     val: 600
+  craftingRecipies: []

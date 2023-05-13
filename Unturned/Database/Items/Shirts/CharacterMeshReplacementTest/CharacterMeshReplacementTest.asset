@@ -37,3 +37,4 @@ MonoBehaviour:
     val: True
   - key: Beard_Visible
     val: False
+  craftingRecipies: []

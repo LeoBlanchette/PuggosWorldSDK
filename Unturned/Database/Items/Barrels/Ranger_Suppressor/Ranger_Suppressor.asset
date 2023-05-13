@@ -75,3 +75,4 @@ MonoBehaviour:
     val: Repair
   - key: Blueprint_0_Build
     val: 27
+  craftingRecipies: []

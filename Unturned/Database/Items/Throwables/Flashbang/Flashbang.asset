@@ -31,3 +31,4 @@ MonoBehaviour:
     val: 0.375
   - key: Flash
     val: 
+  craftingRecipies: []

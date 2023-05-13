@@ -107,3 +107,4 @@ MonoBehaviour:
     val: Sounds/MeleeAttack_01.mp3
   - key: ImpactAudioDef
     val: Effects/Physics/MeleeImpact/Golf/MeleeImpact_Golf.asset
+  craftingRecipies: []

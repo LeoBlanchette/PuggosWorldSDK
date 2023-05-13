@@ -20,3 +20,4 @@ MonoBehaviour:
   datFileValues:
   - key: Zoom
     val: 2
+  craftingRecipies: []

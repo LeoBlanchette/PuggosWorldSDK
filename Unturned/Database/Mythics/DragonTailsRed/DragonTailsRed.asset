@@ -18,3 +18,4 @@ MonoBehaviour:
   nameEnglish: Particle_Tag_Name Fire Dragon
   cloneFrom: {fileID: 0}
   datFileValues: []
+  craftingRecipies: []

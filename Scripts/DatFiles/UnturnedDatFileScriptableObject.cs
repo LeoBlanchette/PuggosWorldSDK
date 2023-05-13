@@ -101,6 +101,7 @@ namespace LB3D.PuggosWorld.Unturned
 
         public List<KeyValEntry> datFileValues = new List<KeyValEntry>();
 
+        public List<UnturnedCraftingRecipeObject> craftingRecipies = new List<UnturnedCraftingRecipeObject>();
 
         public string CleanText(string text)
         {

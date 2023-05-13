@@ -63,3 +63,4 @@ MonoBehaviour:
     val: 1
   - key: Response_0_Reward_0_Modification
     val: Increment
+  craftingRecipies: []

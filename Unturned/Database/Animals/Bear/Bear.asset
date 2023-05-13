@@ -40,3 +40,4 @@ MonoBehaviour:
     val: 4
   - key: Roars
     val: 3
+  craftingRecipies: []

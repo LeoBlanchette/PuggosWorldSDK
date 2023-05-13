@@ -32,3 +32,4 @@ MonoBehaviour:
     val: 
   - key: Bypass_ID_Limit
     val: 
+  craftingRecipies: []

@@ -149,3 +149,4 @@ MonoBehaviour:
     val: Quest
   - key: Response_4_Reward_0_ID
     val: 38
+  craftingRecipies: []

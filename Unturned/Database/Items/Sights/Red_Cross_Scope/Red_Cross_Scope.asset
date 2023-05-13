@@ -33,3 +33,4 @@ MonoBehaviour:
     val: 6
   - key: Paintable
     val: 
+  craftingRecipies: []

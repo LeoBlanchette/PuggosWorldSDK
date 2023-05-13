@@ -62,3 +62,4 @@ MonoBehaviour:
     val: Sounds/CarHorn_01.mp3
   - key: Has_Clip_Prefab
     val: false
+  craftingRecipies: []
