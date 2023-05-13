@@ -93,7 +93,7 @@ namespace LB3D.PuggosWorld.Unturned
         /// Outputs the blueprint text in .dat file format. 
         /// </summary>
         /// <returns></returns>
-        public string GetBluePrintText(int blueprintNumber)
+        public string GetText(int blueprintNumber)
         {
             this.bluePrintNumber = "Blueprint_" + blueprintNumber.ToString();
             string text = "";

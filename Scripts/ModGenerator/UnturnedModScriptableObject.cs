@@ -52,7 +52,7 @@ namespace LB3D.PuggosWorld.Unturned
         public void GenerateDataFolder(UnturnedDatFileScriptableObject datFile)
         {
             #if UNITY_EDITOR
-            string text = datFile.GetDataText();
+            string text = datFile.GetText();
             string nameEnglish = datFile.GetNameEnglish();
             string folderName = datFile.GetFolderName();
 

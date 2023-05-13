@@ -234,13 +234,11 @@ namespace LB3D.PuggosWorld.Unturned
         }
 
         public void Test()
-        {
-            Debug.Log(GetNameEnglish());
-            Debug.Log(GetFolderName());
-            Debug.Log(GetDataText());
+        {  
+            Debug.Log(GetText());
         }
 
-        public string GetDataText()
+        public string GetText()
         {
             string datText = "";
             datText += "Type " + modType.ToString() + "\n";
@@ -256,7 +254,30 @@ namespace LB3D.PuggosWorld.Unturned
                 datText += keyValEntry.key + " " + keyValEntry.val + "\n";
             }
 
+            datText += GetBlueprintsText();
+
             return datText;
+        }
+
+
+        /// <summary>
+        /// If you read the method, it will tell you what it does. 
+        /// I don't know why I write comments. Maybe its because 
+        /// writing can be fun some times. 
+        /// </summary>
+        /// <returns></returns>
+        public string GetBlueprintsText() {
+            if (craftingRecipies == null) return "";
+            if (craftingRecipies.Count == 0) return "";
+            string text = "\n";
+            int i = 0;
+            foreach (UnturnedCraftingRecipeObject craftingRecipe in craftingRecipies)
+            {
+                string recipeText = craftingRecipe.GetText(i)+"\n";
+                text += recipeText;
+                i++;
+            }
+            return text;
         }
 
         public string GetNameEnglish()

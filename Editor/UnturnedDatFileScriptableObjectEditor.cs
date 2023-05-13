@@ -18,10 +18,15 @@ namespace LB3D.PuggosWorld.Unturned
             {
                 script.CloneFromDatFileObject();
             }
+            if (GUILayout.Button("Test", GUILayout.Height(40)))
+            {
+                script.Test();
+            }
             if (GUILayout.Button("Clear", GUILayout.Height(20)))
             {
                 script.Clear();
             }
+
         }
     }
 }

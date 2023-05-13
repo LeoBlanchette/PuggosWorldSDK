@@ -15,7 +15,7 @@ namespace LB3D.PuggosWorld.Unturned
             UnturnedCraftingRecipeObject script = (UnturnedCraftingRecipeObject)target;
             if (GUILayout.Button("Text Text Output", GUILayout.Height(40)))
             {
-                string text = script.GetBluePrintText(0);
+                string text = script.GetText(0);
                 Debug.LogWarning(text);
             }
         }
