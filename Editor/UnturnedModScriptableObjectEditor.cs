@@ -11,7 +11,6 @@ namespace LB3D.PuggosWorld.Unturned
     [CustomEditor(typeof(UnturnedModScriptableObject))]
     public class UnturnedModScriptableObjectEditor : Editor
     {
-
         public override void OnInspectorGUI()
         {     
             base.OnInspectorGUI();

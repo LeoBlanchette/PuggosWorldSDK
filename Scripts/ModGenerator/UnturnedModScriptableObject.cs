@@ -26,6 +26,7 @@ namespace LB3D.PuggosWorld.Unturned
         [HideInInspector]
         public string[] masterBundleChoices = null;
 
+        [Tooltip("If the modname is ExampleMod then make sure the masterbundle is called examplemod.masterbundle.")]
         public string modName;
 
         public UnturnedDatFileScriptableObject[] datFiles;
@@ -101,7 +102,22 @@ namespace LB3D.PuggosWorld.Unturned
             string assetBundleVersion = "Asset_Bundle_Version " + GetAssetBundleVersion().ToString();
             string data = assetBundleName + "\n" + assetPrefix + "\n" + assetBundleVersion;
             File.WriteAllText(Path.Combine(modDirectory, "MasterBundle.dat"), data);
+            GenerateReadMe();
         }
+
+        public void GenerateReadMe() {
+            string text = "";
+            text += "ID List:\n\n";
+            string modDirectory = GetModDirectory();
+            foreach (UnturnedDatFileScriptableObject datFile in datFiles)
+            {
+                string modRecord = datFile.id + " - " + datFile.nameEnglish.Trim() + "\n";
+                text += modRecord;
+            }
+            text += "\n\nMod generated using PuggosWorldSDK:  tinyurl.com/2p9sy29r";
+            File.WriteAllText(Path.Combine(modDirectory, "README.txt"), text);
+        }
+
         public int GetAssetBundleVersion()
         {
             switch (assetBundleVersion)

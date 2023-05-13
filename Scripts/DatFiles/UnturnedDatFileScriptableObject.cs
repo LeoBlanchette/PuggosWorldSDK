@@ -145,7 +145,7 @@ namespace LB3D.PuggosWorld.Unturned
                     datFileValues.Add(keyValEntry);
                 }
             }
-
+            cloneFrom = null;
         }
 
         public void AddFromTextFile(string datFile = null)
