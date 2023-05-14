@@ -42,8 +42,11 @@ namespace LB3D.PuggosWorld.Unturned
             SkillLevel_2,
             SkillLevel_3,
         }
+        [Tooltip("This refers to the category of blueprint.")]
         public BluePrintType bluePrintType = BluePrintType.Repair;
+        [Tooltip("Skill needed for blueprint.")]
         public BluePrintSkill blueprintSkill = BluePrintSkill.None;
+        [Tooltip("Skill level needed for skill (based on skill selected above)")]
         public BluePrintSkillLevel bluePrintSkillLevel = BluePrintSkillLevel.None;
 
         [System.Serializable]
@@ -82,6 +85,10 @@ namespace LB3D.PuggosWorld.Unturned
         [Header("Build Animation")]
         public int build = 27;
 
+        [Header("Spawned on Deployment")]
+        [Tooltip("This causes a spawn to occur when an object is placed. It is used, for instance, in placing the Makeshift Vehicle.")]
+        public UnturnedDatFileScriptableObject explosion;
+
         [Header("Other Directives")]
         [Tooltip("These are other directives, such as you would find in a .dat file, such as PlacementAudioClip or other key / value entries.")]
         public UnturnedDatFileScriptableObject.KeyValEntry[] datFileValues;
@@ -114,7 +121,9 @@ namespace LB3D.PuggosWorld.Unturned
             text += GetBlueprintProduct();
             text += GetBlueOutputsCount();
             text += GetBlueprintOutputsList();
+            text += GetExplosionID();
             text += GetBuildAnimation();
+            text += GetMiscValues();
             return text;
         }
 
@@ -186,6 +195,16 @@ namespace LB3D.PuggosWorld.Unturned
             return text;
         }
 
+        public string GetExplosionID()
+        {
+            if (explosion == null) return "";
+            if (explosion.id < 1) return "";             
+            string text = "";
+            text += "Explosion " + explosion.id.ToString() + Newline();
+            return text;
+        }
+
+
         /// <summary>
         /// Gives the blueprint type
         /// </summary>
@@ -233,6 +252,18 @@ namespace LB3D.PuggosWorld.Unturned
 
         public string GetBuildAnimation() {
             return bluePrintNumberString + "_Build " + build.ToString() + Newline();            
+        }
+
+        public string GetMiscValues() {
+            string text = "";
+
+            foreach (UnturnedDatFileScriptableObject.KeyValEntry keyValEntry in datFileValues)
+            {
+                string entry = keyValEntry.key.Trim() + " " + keyValEntry.val.Trim() + Newline();
+                text += entry;
+            }
+
+            return text;
         }
     }
 }
