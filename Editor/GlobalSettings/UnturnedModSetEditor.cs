@@ -20,7 +20,7 @@ namespace LB3D.PuggosWorld.Unturned
                 foreach (UnturnedModScriptableObject script in modSet.unturnedMods)
                 {
                     script.GenerateMod();
-                    EditorAssetBundleHelper.Build(script.masterBundleChoices[script.masterBundleSelected], script.GetModDirectory(), false);
+                    EditorAssetBundleHelper.Build(script.GetMasterBundleName(), script.GetModDirectory(), false);
                     script.GenerateMasterBundleEntry();
                 }
             }

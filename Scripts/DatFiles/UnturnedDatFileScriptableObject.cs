@@ -287,7 +287,7 @@ namespace LB3D.PuggosWorld.Unturned
 
         public string GetFolderName()
         {
-            return this.name;
+            return this.name.Trim();
         }
 
     }

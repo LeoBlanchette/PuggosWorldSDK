@@ -17,15 +17,8 @@ namespace LB3D.PuggosWorld.Unturned
             Asset_Bundle_Version_2,
             Asset_Bundle_Version_1,
         }
-
-        [Header("Main Configurations")]
-
-        [HideInInspector]
-        public int masterBundleSelected = 0;
-
-        [HideInInspector]
-        public string[] masterBundleChoices = null;
-
+                
+        [Header("Mod Name (no spaces)")]
         [Tooltip("If the modname is ExampleMod then make sure the masterbundle is called examplemod.masterbundle.")]
         public string modName;
 
@@ -97,7 +90,7 @@ namespace LB3D.PuggosWorld.Unturned
         {
             string modDirectory = GetModDirectory();
             Debug.Log(modDirectory);
-            string assetBundleName = "Asset_Bundle_Name " + masterBundleChoices[masterBundleSelected];
+            string assetBundleName = "Asset_Bundle_Name " + GetMasterBundleName();
             string assetPrefix = "Asset_Prefix " + Path.Combine("Assets", "UnturnedMods", modName.Trim());
             string assetBundleVersion = "Asset_Bundle_Version " + GetAssetBundleVersion().ToString();
             string data = assetBundleName + "\n" + assetPrefix + "\n" + assetBundleVersion;
@@ -137,6 +130,10 @@ namespace LB3D.PuggosWorld.Unturned
         public string GetUnturnedInstallationDirectory()
         {
             return UnturnedModsGlobalSettingsObject.Instance.unturnedInstallationPath;
+        }
+
+        public string GetMasterBundleName() {
+            return modName.ToLower() + ".masterbundle";
         }
     }
 }
