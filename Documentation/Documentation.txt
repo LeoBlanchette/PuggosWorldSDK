@@ -1,0 +1,3 @@
+If you have found this folder, then you are worthy...
+
+Docs can be found here: https://github.com/LeoBlanchette/PuggosWorldSDK/wiki
