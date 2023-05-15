@@ -1,4 +1,4 @@
-# PuggosWorldSDK 
+# PuggosWorldSDK for Unity 3d
 ## A Modding Assistant for Unturned 
 
 Documentation: https://github.com/LeoBlanchette/PuggosWorldSDK/wiki
