@@ -1,5 +1,7 @@
-# PuggosWorldSDK
+# PuggosWorldSDK 
 ## A Modding Assistant for Unturned 
+
+See the documentation https://github.com/LeoBlanchette/PuggosWorldSDK/wiki
 
 The PuggosWorldSDK aims to help in some of the more laborious tasks of mod-making, such as:
 
