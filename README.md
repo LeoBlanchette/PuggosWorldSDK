@@ -3,7 +3,7 @@
 
 The PuggosWorldSDK aims to help in some of the more laborious tasks of mod-making, such as:
 
-1. Automatic .dat file creation, and simplified item design.
+1. Automatic .dat file creation, and simplified mod-related data management.
 2. Blueprint / crafting mods. 
 3. Simplified mod generation.
 4. Extracting game data from Unturned.
