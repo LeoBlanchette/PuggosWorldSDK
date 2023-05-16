@@ -22,6 +22,14 @@ namespace LB3D.PuggosWorld.Unturned
         [Tooltip("If the modname is ExampleMod then make sure the masterbundle is called examplemod.masterbundle.")]
         public string modName;
 
+        [Header("Steam Workshop Description")]
+        public TextAsset steamDescription;
+
+
+        public bool includeIdList = true;
+
+        [Header("Items / Folders Included")]
+        [Tooltip("These are the dat file scriptable objects that you include in every folder that contains the item assets.")]
         public UnturnedDatFileScriptableObject[] datFiles;
 
         [Header("Master Bundle Attributes")]
@@ -100,6 +108,14 @@ namespace LB3D.PuggosWorld.Unturned
 
         public void GenerateReadMe() {
             string text = "";
+      
+            if (steamDescription != null && !string.IsNullOrEmpty(steamDescription.text)) {
+                text += steamDescription.text.Trim();               
+                text += "\n\n";
+            }
+            
+            if (!includeIdList) return;
+
             text += "ID List:\n\n";
             string modDirectory = GetModDirectory();
             foreach (UnturnedDatFileScriptableObject datFile in datFiles)
