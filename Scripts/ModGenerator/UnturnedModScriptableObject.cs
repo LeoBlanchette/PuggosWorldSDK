@@ -107,7 +107,7 @@ namespace LB3D.PuggosWorld.Unturned
                 string modRecord = datFile.id + " - " + datFile.nameEnglish.Trim() + "\n";
                 text += modRecord;
             }
-            text += "\n\nMod generated using PuggosWorldSDK:  tinyurl.com/2p9sy29r";
+            text += "\n\nMod generated using PuggosWorldSDK:  https://github.com/LeoBlanchette/PuggosWorldSDK";
             File.WriteAllText(Path.Combine(modDirectory, "README.txt"), text);
         }
 
