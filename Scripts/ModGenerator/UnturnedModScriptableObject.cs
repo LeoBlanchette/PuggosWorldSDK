@@ -106,6 +106,10 @@ namespace LB3D.PuggosWorld.Unturned
             GenerateReadMe();
         }
 
+        /// <summary>
+        /// Generates the README.txt present in the mod download. Also you can copy/paste the README.txt 
+        /// into the steam description.
+        /// </summary>
         public void GenerateReadMe() {
             string text = "";
       
