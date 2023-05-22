@@ -32,12 +32,18 @@ namespace LB3D.PuggosWorld.Unturned
                 {
                     foreach (UnturnedDatFileScriptableObject datFile in unturnedModScriptableObject.datFiles)
                     {
+                        if (datFile.IsIdLocked()) {
+                            currentId += 1;
+                            continue;
+                        }
+
                         if (currentId > modSet.idRangeMax)
                         {
                             Debug.LogWarning("IDs have surpassed max range of " + modSet.idRangeMax + ". Id not assigned to " + datFile.nameEnglish);
                             continue;
                         }
                         datFile.id = currentId;
+                        datFile.LockId();
                         Debug.Log("ID " + currentId + " assigned to " + datFile.nameEnglish);
                         EditorUtility.SetDirty(datFile);
                         currentId += 1;

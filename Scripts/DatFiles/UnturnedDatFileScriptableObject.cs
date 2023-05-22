@@ -86,7 +86,9 @@ namespace LB3D.PuggosWorld.Unturned
 
         public ModType modType;
         public Rarity rarity;
-        public int id;   
+        public int id;
+        [Tooltip("Protect ID from being changed.")]
+        public bool idLock = false;
         public string nameEnglish;
         public UnturnedDatFileScriptableObject cloneFrom;
 
@@ -231,6 +233,14 @@ namespace LB3D.PuggosWorld.Unturned
             modType = ModType.None;
             rarity = Rarity.Common;
             nameEnglish = null;
+        }
+
+        public void LockId(bool lockId = true) {
+            idLock = lockId;
+        }
+
+        public bool IsIdLocked() {
+            return idLock;
         }
 
         public void Test()
