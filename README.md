@@ -3,6 +3,8 @@
 ## A Modding Assistant for Unturned 
 Documentation: https://github.com/LeoBlanchette/PuggosWorldSDK/wiki
 
+Video tutorials: https://www.youtube.com/watch?v=I9Im_UFfoPM&list=PLudU__BG5BNsGnENzvocB-UysATsihs7w
+
 The PuggosWorldSDK aims to help in some of the more laborious tasks of mod-making, such as:
 
 1. Automatic .dat file creation, and simplified mod-related data management.
