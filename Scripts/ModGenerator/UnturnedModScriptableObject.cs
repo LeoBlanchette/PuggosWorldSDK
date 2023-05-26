@@ -99,7 +99,7 @@ namespace LB3D.PuggosWorld.Unturned
             string modDirectory = GetModDirectory();
             Debug.Log(modDirectory);
             string assetBundleName = "Asset_Bundle_Name " + GetMasterBundleName();
-            string assetPrefix = "Asset_Prefix " + Path.Combine("Assets", "UnturnedMods", modName.Trim());
+            string assetPrefix = "Asset_Prefix " + Path.Combine("Assets", "UnturnedMods", modName.Trim()).Replace("\\", "/");
             string assetBundleVersion = "Asset_Bundle_Version " + GetAssetBundleVersion().ToString();
             string data = assetBundleName + "\n" + assetPrefix + "\n" + assetBundleVersion;
             File.WriteAllText(Path.Combine(modDirectory, "MasterBundle.dat"), data);
