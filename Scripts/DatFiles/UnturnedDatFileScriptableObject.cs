@@ -83,6 +83,9 @@ namespace LB3D.PuggosWorld.Unturned
             Vest,
             Water
         }
+        [HideInInspector]
+        [SerializeField]
+        public string guid;
 
         public ModType modType;
         public Rarity rarity;
@@ -104,6 +107,11 @@ namespace LB3D.PuggosWorld.Unturned
         public List<KeyValEntry> datFileValues = new List<KeyValEntry>();
 
         public List<UnturnedCraftingRecipeObject> craftingRecipies = new List<UnturnedCraftingRecipeObject>();
+
+        private void Awake()
+        {
+            GenerateGuid();
+        }
 
         public string CleanText(string text)
         {
@@ -251,6 +259,7 @@ namespace LB3D.PuggosWorld.Unturned
         public string GetText()
         {
             string datText = "";
+            datText += "GUID " + GetGuid() + "\n";
             datText += "Type " + modType.ToString() + "\n";
             datText += "Rarity " + rarity.ToString() + "\n";
             datText += "ID " + id.ToString() + "\n";
@@ -298,6 +307,17 @@ namespace LB3D.PuggosWorld.Unturned
         public string GetFolderName()
         {
             return this.name.Trim();
+        }
+
+        public void GenerateGuid() {
+            if (string.IsNullOrEmpty(guid)) { 
+                guid = Guid.NewGuid().ToString("N");                
+            }
+        }
+
+        public string GetGuid() {
+            GenerateGuid();
+            return guid;
         }
 
     }

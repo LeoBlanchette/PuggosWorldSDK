@@ -28,12 +28,14 @@ namespace LB3D.PuggosWorld.Unturned
             if (GUILayout.Button("Generate Ids", GUILayout.Height(40)))
             {
                 int currentId = modSet.idRangeMin;
+
                 foreach (UnturnedModScriptableObject unturnedModScriptableObject in modSet.unturnedMods)
                 {
+                    
                     foreach (UnturnedDatFileScriptableObject datFile in unturnedModScriptableObject.datFiles)
                     {
                         if (datFile.IsIdLocked()) {
-                            currentId += 1;
+                            currentId += 1;                        
                             continue;
                         }
 
@@ -42,7 +44,7 @@ namespace LB3D.PuggosWorld.Unturned
                             Debug.LogWarning("IDs have surpassed max range of " + modSet.idRangeMax + ". Id not assigned to " + datFile.nameEnglish);
                             continue;
                         }
-                        datFile.id = currentId;
+                        datFile.id = currentId;           
                         datFile.LockId();
                         Debug.Log("ID " + currentId + " assigned to " + datFile.nameEnglish);
                         EditorUtility.SetDirty(datFile);

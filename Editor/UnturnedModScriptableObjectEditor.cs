@@ -25,6 +25,7 @@ namespace LB3D.PuggosWorld.Unturned
                 script.GenerateMod();
                 EditorAssetBundleHelper.Build(script.GetMasterBundleName(), script.GetModDirectory(), false);
                 script.GenerateMasterBundleEntry();
+                
             }
         }
     }
