@@ -31,11 +31,12 @@ namespace LB3D.PuggosWorld.Unturned
 
                 foreach (UnturnedModScriptableObject unturnedModScriptableObject in modSet.unturnedMods)
                 {
-                    
+
                     foreach (UnturnedDatFileScriptableObject datFile in unturnedModScriptableObject.datFiles)
                     {
-                        if (datFile.IsIdLocked()) {
-                            currentId += 1;                        
+                        if (datFile.IsIdLocked())
+                        {
+                            currentId += 1;
                             continue;
                         }
 
@@ -44,11 +45,25 @@ namespace LB3D.PuggosWorld.Unturned
                             Debug.LogWarning("IDs have surpassed max range of " + modSet.idRangeMax + ". Id not assigned to " + datFile.nameEnglish);
                             continue;
                         }
-                        datFile.id = currentId;           
+                        datFile.id = currentId;
                         datFile.LockId();
                         Debug.Log("ID " + currentId + " assigned to " + datFile.nameEnglish);
                         EditorUtility.SetDirty(datFile);
                         currentId += 1;
+                    }
+                }
+            }
+            if (GUILayout.Button("Re-Generate GUIDs", GUILayout.Height(40)))
+            {
+                foreach (UnturnedModScriptableObject unturnedModScriptableObject in modSet.unturnedMods)
+                {
+
+                    foreach (UnturnedDatFileScriptableObject datFile in unturnedModScriptableObject.datFiles)
+                    {
+                        
+                        datFile.GenerateGuid(true);
+                        EditorUtility.SetDirty(datFile);
+                        Debug.LogWarning("GUIDS regenerated. Save project now.");
                     }
                 }
             }

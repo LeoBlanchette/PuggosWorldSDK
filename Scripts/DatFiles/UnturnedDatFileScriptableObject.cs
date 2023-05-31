@@ -309,8 +309,8 @@ namespace LB3D.PuggosWorld.Unturned
             return this.name.Trim();
         }
 
-        public void GenerateGuid() {
-            if (string.IsNullOrEmpty(guid)) { 
+        public void GenerateGuid(bool regenerate = false) {            
+            if (string.IsNullOrEmpty(guid) || regenerate) { 
                 guid = Guid.NewGuid().ToString("N");                
             }
         }
