@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Quarry_0
   m_EditorClassIdentifier: 
+  guid: e0cf170cb81143f6a37508327fc1f09f
+  coreMasterBundlePath: /Objects/Large/Scenery/Quarry_0/
   modType: 27
   rarity: 0
   id: 872
+  idLock: 0
   nameEnglish: Quarry #1
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Apartment_2
   m_EditorClassIdentifier: 
+  guid: 2a8de9ece43a4d34a90d9959eb5fc13b
+  coreMasterBundlePath: /Objects/Large/Buildings/Apartment_2/
   modType: 27
   rarity: 0
   id: 274
+  idLock: 0
   nameEnglish: Apartment #3
   cloneFrom: {fileID: 0}
   datFileValues:

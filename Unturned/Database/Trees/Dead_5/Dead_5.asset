@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dead_5
   m_EditorClassIdentifier: 
+  guid: 0b90cc441a4f4ecb9d86bb01df97b210
+  coreMasterBundlePath: /Trees/Dead_5/
   modType: 42
   rarity: 0
   id: 41
+  idLock: 0
   nameEnglish: Maple Burned #2
   cloneFrom: {fileID: 0}
   datFileValues:

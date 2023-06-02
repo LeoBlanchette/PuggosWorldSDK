@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Compound_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: 77509fcde44240e6a4a1d3c47ee34dc9
+  coreMasterBundlePath: /Items/Sights/Compound_Iron_Sights/
   modType: 45
   rarity: 0
   id: 358
+  idLock: 0
   nameEnglish: 'Compound Iron Sights
 
     Description Rail mounted iron sights.'

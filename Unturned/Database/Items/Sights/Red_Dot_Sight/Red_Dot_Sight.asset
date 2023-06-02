@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Red_Dot_Sight
   m_EditorClassIdentifier: 
+  guid: 493c87ae0da1482fbf86d7df4a1ddbf2
+  coreMasterBundlePath: /Items/Sights/Red_Dot_Sight/
   modType: 45
   rarity: 1
   id: 146
+  idLock: 0
   nameEnglish: 'Dot Sight
 
     Description Rail mounted sight with electronic aiming

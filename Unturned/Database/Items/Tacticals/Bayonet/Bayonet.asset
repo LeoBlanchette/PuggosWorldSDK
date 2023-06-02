@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bayonet
   m_EditorClassIdentifier: 
+  guid: 8ad8a4fab3ac43559f97267e08030bb1
+  coreMasterBundlePath: /Items/Tacticals/Bayonet/
   modType: 52
   rarity: 2
   id: 1438
+  idLock: 0
   nameEnglish: 'Bayonet
 
     Description Side mounted sword.'

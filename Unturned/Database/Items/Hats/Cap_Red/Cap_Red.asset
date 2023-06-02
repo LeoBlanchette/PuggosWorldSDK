@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cap_Red
   m_EditorClassIdentifier: 
+  guid: 874d8bf109484ab8851c0095897add5e
+  coreMasterBundlePath: /Items/Hats/Cap_Red/
   modType: 25
   rarity: 0
   id: 430
+  idLock: 0
   nameEnglish: 'Red Cap
 
     Description Shade providing American hat for watching

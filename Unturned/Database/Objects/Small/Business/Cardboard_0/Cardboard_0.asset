@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cardboard_0
   m_EditorClassIdentifier: 
+  guid: 5cc9704f710644b18531fdb9980e31cc
+  coreMasterBundlePath: /Objects/Small/Business/Cardboard_0/
   modType: 47
   rarity: 0
   id: 57
+  idLock: 0
   nameEnglish: Cardboard #1
   cloneFrom: {fileID: 0}
   datFileValues:

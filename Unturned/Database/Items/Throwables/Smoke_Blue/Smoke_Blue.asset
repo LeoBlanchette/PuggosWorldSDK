@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Smoke_Blue
   m_EditorClassIdentifier: 
+  guid: 52ce3aa81ce642d888dfdb6db944c570
+  coreMasterBundlePath: /Items/Throwables/Smoke_Blue/
   modType: 54
   rarity: 1
   id: 262
+  idLock: 0
   nameEnglish: 'Blue Smoke
 
     Description Military grade throwable smokescreen.'

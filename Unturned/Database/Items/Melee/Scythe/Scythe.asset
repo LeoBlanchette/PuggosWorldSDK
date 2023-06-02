@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Scythe
   m_EditorClassIdentifier: 
+  guid: c03d9c2f1735452e9398b8c5b8385f6d
+  coreMasterBundlePath: /Items/Melee/Scythe/
   modType: 34
   rarity: 1
   id: 1174
+  idLock: 0
   nameEnglish: 'Scythe
 
     Description Gardening tool for trimming grass.'

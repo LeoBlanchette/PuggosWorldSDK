@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Carrot
   m_EditorClassIdentifier: 
+  guid: 66790feb99474f0b8dc1c0b7cccae52c
+  coreMasterBundlePath: /Items/Food/Carrot/
   modType: 18
   rarity: 0
   id: 329
+  idLock: 0
   nameEnglish: 'Carrot
 
     Description Orange vegetable.'

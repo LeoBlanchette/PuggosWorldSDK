@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Shutter_Pine
   m_EditorClassIdentifier: 
+  guid: 1879b67fb00a4a56991d8dfe1bdeea72
+  coreMasterBundlePath: /Items/Barricades/Shutter_Pine/
   modType: 6
   rarity: 2
   id: 1225
+  idLock: 0
   nameEnglish: 'Pine Shutter
 
     Description Pine shutter ideal for keeping out

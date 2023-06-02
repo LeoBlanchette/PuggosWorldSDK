@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ekho_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: 4d7006e87f6e40cba79861eec305c45e
+  coreMasterBundlePath: /Items/Sights/Ekho_Iron_Sights/
   modType: 45
   rarity: 0
   id: 1383
+  idLock: 0
   nameEnglish: 'Ekho Iron Sights
 
     Description Rail mounted iron sights.'

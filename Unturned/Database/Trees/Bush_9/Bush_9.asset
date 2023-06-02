@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bush_9
   m_EditorClassIdentifier: 
+  guid: 35c9288cca2e47959eae3ec43a1df501
+  coreMasterBundlePath: /Trees/Bush_9/
   modType: 42
   rarity: 0
   id: 48
+  idLock: 0
   nameEnglish: Peaks Bush #2
   cloneFrom: {fileID: 0}
   datFileValues:

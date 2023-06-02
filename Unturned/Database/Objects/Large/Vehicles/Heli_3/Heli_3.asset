@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Heli_3
   m_EditorClassIdentifier: 
+  guid: 1903e68d8699424583b1ed819130f440
+  coreMasterBundlePath: /Objects/Large/Vehicles/Heli_3/
   modType: 27
   rarity: 0
   id: 667
+  idLock: 0
   nameEnglish: Heli #4
   cloneFrom: {fileID: 0}
   datFileValues:

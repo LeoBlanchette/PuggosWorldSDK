@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pie_Russet
   m_EditorClassIdentifier: 
+  guid: 69054992bf274c50bcf2555e851b7d56
+  coreMasterBundlePath: /Items/Food/Pie_Russet/
   modType: 18
   rarity: 3
   id: 1080
+  idLock: 0
   nameEnglish: 'Russet Pie
 
     Description Baked to perfection.'

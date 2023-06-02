@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Locker
   m_EditorClassIdentifier: 
+  guid: 24c769f5b6964a4893d86af37453540e
+  coreMasterBundlePath: /Items/Barricades/Locker/
   modType: 49
   rarity: 3
   id: 328
+  idLock: 0
   nameEnglish: 'Locker
 
     Description Locker for storing items.'

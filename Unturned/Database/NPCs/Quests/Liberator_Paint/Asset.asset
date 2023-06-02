@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 7f860c7d048944fa8e537311d94061c1
+  coreMasterBundlePath: /NPCs/Quests/Liberator_Paint/
   modType: 40
   rarity: 0
   id: 9
+  idLock: 0
   nameEnglish: 'A Fresh Coat of Paint
 
     Description Rusty thinks the Liberator''s

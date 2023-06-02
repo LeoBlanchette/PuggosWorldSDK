@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plate_00
   m_EditorClassIdentifier: 
+  guid: 7f1d9fdb921841b08da22fee3e4587c1
+  coreMasterBundlePath: /Objects/Small/Furniture/Plate_00/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: Plate #1
   cloneFrom: {fileID: 0}
   datFileValues:

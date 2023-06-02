@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Couch_Blue
   m_EditorClassIdentifier: 
+  guid: 533fa6e07a564ede8acba406de6a8d9f
+  coreMasterBundlePath: /Items/Barricades/Couch_Blue/
   modType: 6
   rarity: 0
   id: 1303
+  idLock: 0
   nameEnglish: 'Blue Couch
 
     Description Comfy spot to hangout and unwind.'

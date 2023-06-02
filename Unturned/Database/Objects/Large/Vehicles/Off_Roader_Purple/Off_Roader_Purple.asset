@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Off_Roader_Purple
   m_EditorClassIdentifier: 
+  guid: 58b4b58434c74bfdabbef63a1093b21b
+  coreMasterBundlePath: /Objects/Large/Vehicles/Off_Roader_Purple/
   modType: 27
   rarity: 0
   id: 157
+  idLock: 0
   nameEnglish: Purple Offroader
   cloneFrom: {fileID: 0}
   datFileValues:

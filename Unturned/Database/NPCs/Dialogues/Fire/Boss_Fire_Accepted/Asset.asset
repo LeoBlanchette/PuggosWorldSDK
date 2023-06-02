@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: e4b079af43c648a99b6f4ae32b2d21f7
+  coreMasterBundlePath: /NPCs/Dialogues/Fire/Boss_Fire_Accepted/
   modType: 13
   rarity: 0
   id: 173
+  idLock: 0
   nameEnglish: Message_0_Page_0 Good luck! If you run into it stay away or you'll
     get charred!
   cloneFrom: {fileID: 0}

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ural_Forest
   m_EditorClassIdentifier: 
+  guid: 2bc7950b2b834059ad31cbe1d87a1ff5
+  coreMasterBundlePath: /Objects/Large/Vehicles/Ural_Forest/
   modType: 27
   rarity: 0
   id: 374
+  idLock: 0
   nameEnglish: Forest Ural
   cloneFrom: {fileID: 0}
   datFileValues:

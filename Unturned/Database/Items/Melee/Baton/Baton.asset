@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Baton
   m_EditorClassIdentifier: 
+  guid: bb71a734d8334af9be7d936183a1c555
+  coreMasterBundlePath: /Items/Melee/Baton/
   modType: 34
   rarity: 0
   id: 1023
+  idLock: 0
   nameEnglish: 'Baton
 
     Description Law enforcement tool used for self defense.'

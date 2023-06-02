@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Treasure_On
   m_EditorClassIdentifier: 
+  guid: 309259dac90d4a81bc5bb8584af01f61
+  coreMasterBundlePath: /Objects/Medium/Quests/Treasure/Treasure_On/
   modType: 33
   rarity: 0
   id: 843
+  idLock: 0
   nameEnglish: Treasure On
   cloneFrom: {fileID: 0}
   datFileValues:

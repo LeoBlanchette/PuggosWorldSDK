@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crate_Maple
   m_EditorClassIdentifier: 
+  guid: 65096200673c4a92b61f823da40497a0
+  coreMasterBundlePath: /Items/Barricades/Crate_Maple/
   modType: 49
   rarity: 1
   id: 366
+  idLock: 0
   nameEnglish: 'Maple Crate
 
     Description Maple crate for storing items.'

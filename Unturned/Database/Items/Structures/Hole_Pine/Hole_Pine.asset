@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hole_Pine
   m_EditorClassIdentifier: 
+  guid: ad8f886313134f6abf13f39b4c9a699c
+  coreMasterBundlePath: /Items/Structures/Hole_Pine/
   modType: 50
   rarity: 2
   id: 320
+  idLock: 0
   nameEnglish: 'Pine Hole
 
     Description Pine hole. Beware of termites.'

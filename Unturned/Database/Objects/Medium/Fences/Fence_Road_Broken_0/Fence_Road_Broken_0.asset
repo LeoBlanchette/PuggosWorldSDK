@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fence_Road_Broken_0
   m_EditorClassIdentifier: 
+  guid: 5e98df42a094478fb89c87c8993d52ef
+  coreMasterBundlePath: /Objects/Medium/Fences/Fence_Road_Broken_0/
   modType: 33
   rarity: 0
   id: 35
+  idLock: 0
   nameEnglish: Fence Road Broken #1
   cloneFrom: {fileID: 0}
   datFileValues:

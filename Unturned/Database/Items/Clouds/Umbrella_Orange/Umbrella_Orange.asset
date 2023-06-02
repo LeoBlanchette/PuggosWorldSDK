@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Umbrella_Orange
   m_EditorClassIdentifier: 
+  guid: a669f57737be4259ad84078cb1edcd93
+  coreMasterBundlePath: /Items/Clouds/Umbrella_Orange/
   modType: 9
   rarity: 1
   id: 1124
+  idLock: 0
   nameEnglish: 'Orange Umbrella
 
     Description Drift softly down from the heavens.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sweatervest_Yellow
   m_EditorClassIdentifier: 
+  guid: 68bc53f89741482dbc943a8bbe249fa7
+  coreMasterBundlePath: /Items/Vests/Sweatervest_Yellow/
   modType: 61
   rarity: 0
   id: 222
+  idLock: 0
   nameEnglish: 'Yellow Sweatervest
 
     Description Intellectual outer clothing.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Seed_Potato
   m_EditorClassIdentifier: 
+  guid: 8ca8dcf866b54144b1a3b4853d59722c
+  coreMasterBundlePath: /Items/Barricades/Seed_Potato/
   modType: 15
   rarity: 0
   id: 343
+  idLock: 0
   nameEnglish: 'Potato Seed
 
     Description Ready for planting and eating.'

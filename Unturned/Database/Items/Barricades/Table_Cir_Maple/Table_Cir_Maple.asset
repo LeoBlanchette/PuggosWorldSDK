@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Table_Cir_Maple
   m_EditorClassIdentifier: 
+  guid: e8d1f180563441d0a1127682cddf21df
+  coreMasterBundlePath: /Items/Barricades/Table_Cir_Maple/
   modType: 6
   rarity: 1
   id: 1288
+  idLock: 0
   nameEnglish: 'Maple Circular Table
 
     Description Maple table for fine dining.'

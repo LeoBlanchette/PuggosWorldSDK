@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cot_Red
   m_EditorClassIdentifier: 
+  guid: 983b0fbeaff14c7484c1275fdcbefb3d
+  coreMasterBundlePath: /Items/Barricades/Cot_Red/
   modType: 6
   rarity: 0
   id: 1313
+  idLock: 0
   nameEnglish: 'Red Cot
 
     Description Warm bed perfect for a home.'

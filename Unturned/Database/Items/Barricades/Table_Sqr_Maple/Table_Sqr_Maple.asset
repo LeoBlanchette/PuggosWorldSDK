@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Table_Sqr_Maple
   m_EditorClassIdentifier: 
+  guid: c334a0c7154944499c2b01d2b9320270
+  coreMasterBundlePath: /Items/Barricades/Table_Sqr_Maple/
   modType: 6
   rarity: 1
   id: 1292
+  idLock: 0
   nameEnglish: 'Maple Square Table
 
     Description Maple table for fine dining.'

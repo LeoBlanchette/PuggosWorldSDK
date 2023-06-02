@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 9423034e224742b19aad7b97e2581e69
+  coreMasterBundlePath: /NPCs/Dialogues/Medic/Medic_Patient/
   modType: 13
   rarity: 0
   id: 75
+  idLock: 0
   nameEnglish: Message_0_Page_0 He had a bit of a tumble off one of these Russian
     cliffs and bonked his head, but I expect he'll make a full recovery. Been mumbling
     about settlements and "minutemen".

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Skeleton_Off
   m_EditorClassIdentifier: 
+  guid: 45fa943516834ee0a1a1d38668eb3507
+  coreMasterBundlePath: /Objects/Medium/Quests/Skeleton/Skeleton_Off/
   modType: 33
   rarity: 0
   id: 844
+  idLock: 0
   nameEnglish: 'Skeleton Off
 
     

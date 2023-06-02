@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cover
   m_EditorClassIdentifier: 
+  guid: f1422c12b6294af1af3a4af1bfa92a7a
+  coreMasterBundlePath: /Items/Barricades/Cover/
   modType: 6
   rarity: 3
   id: 1396
+  idLock: 0
   nameEnglish: 'Ghillie Netting
 
     Description Military foliage stealth cover.'

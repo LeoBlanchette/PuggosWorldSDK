@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rampart_Birch
   m_EditorClassIdentifier: 
+  guid: a013b0f966ba403cb9e6a4ff7868469d
+  coreMasterBundlePath: /Items/Structures/Rampart_Birch/
   modType: 50
   rarity: 0
   id: 444
+  idLock: 0
   nameEnglish: 'Birch Rampart
 
     Description Birch rampart. Beware of termites.'

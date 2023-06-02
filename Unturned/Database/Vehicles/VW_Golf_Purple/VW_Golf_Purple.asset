@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: VW_Golf_Purple
   m_EditorClassIdentifier: 
+  guid: 4d187438b27846a1afeb3126e881a1b5
+  coreMasterBundlePath: /Vehicles/VW_Golf_Purple/
   modType: 58
   rarity: 0
   id: 153
+  idLock: 0
   nameEnglish: 'Purple Rally Car
 
 '

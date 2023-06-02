@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bass_Raw
   m_EditorClassIdentifier: 
+  guid: 2fc91d44969b413e89eef5d1c91111d0
+  coreMasterBundlePath: /Items/Food/Bass_Raw/
   modType: 18
   rarity: 2
   id: 1351
+  idLock: 0
   nameEnglish: 'Raw Bass
 
     Description Rather smelly and fishy.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Police_Bottom
   m_EditorClassIdentifier: 
+  guid: 6a2d16d1b68746b09c7a08a6b4e055b2
+  coreMasterBundlePath: /Items/Pants/Police_Bottom/
   modType: 39
   rarity: 1
   id: 224
+  idLock: 0
   nameEnglish: 'Police Bottom
 
     Description Law enforcement uniform pants.'

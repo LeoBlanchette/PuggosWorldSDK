@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Toque_Black
   m_EditorClassIdentifier: 
+  guid: a5640cc92df64d39aa395e897d176b9c
+  coreMasterBundlePath: /Items/Hats/Toque_Black/
   modType: 25
   rarity: 0
   id: 192
+  idLock: 0
   nameEnglish: 'Black Toque
 
     Description Warm Canadian hat for the stormy winters.'

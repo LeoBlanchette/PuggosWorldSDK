@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Antibiotics
   m_EditorClassIdentifier: 
+  guid: 34936e37113e464b85961f57669daf70
+  coreMasterBundlePath: /Items/Medical/Antibiotics/
   modType: 32
   rarity: 2
   id: 389
+  idLock: 0
   nameEnglish: 'Antibiotics
 
     Description Magic pills for preventing disease

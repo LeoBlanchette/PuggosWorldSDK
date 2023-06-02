@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Canned_Soup_Chicken
   m_EditorClassIdentifier: 
+  guid: d25a61bc01f84e1b8d97853a18b6b960
+  coreMasterBundlePath: /Items/Food/Canned_Soup_Chicken/
   modType: 18
   rarity: 0
   id: 78
+  idLock: 0
   nameEnglish: 'Canned Chicken Soup
 
     Description Carefully sealed chicken and

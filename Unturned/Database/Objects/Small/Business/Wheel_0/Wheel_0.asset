@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wheel_0
   m_EditorClassIdentifier: 
+  guid: 67c92c47074c4a579b987fa9543e4513
+  coreMasterBundlePath: /Objects/Small/Business/Wheel_0/
   modType: 47
   rarity: 0
   id: 138
+  idLock: 0
   nameEnglish: Wheel #1
   cloneFrom: {fileID: 0}
   datFileValues:

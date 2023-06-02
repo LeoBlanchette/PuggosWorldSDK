@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Boulder_05
   m_EditorClassIdentifier: 
+  guid: 3f7b47f86f564750971b7c68e2105e4e
+  coreMasterBundlePath: /Objects/Large/Scenery/Boulder_05/
   modType: 27
   rarity: 0
   id: 520
+  idLock: 0
   nameEnglish: Russia Boulder #03
   cloneFrom: {fileID: 0}
   datFileValues:

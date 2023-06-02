@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cooler_Beach_0
   m_EditorClassIdentifier: 
+  guid: f74f8389d9d54c38b8083f8c4bf45b6d
+  coreMasterBundlePath: /Objects/Medium/Parks/Cooler_Beach_0/
   modType: 33
   rarity: 0
   id: 378
+  idLock: 0
   nameEnglish: Cooler Beach #1
   cloneFrom: {fileID: 0}
   datFileValues:

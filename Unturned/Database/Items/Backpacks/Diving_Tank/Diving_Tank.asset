@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Diving_Tank
   m_EditorClassIdentifier: 
+  guid: c2dac3e9dfda4832a1d75e8947e9f210
+  coreMasterBundlePath: /Items/Backpacks/Diving_Tank/
   modType: 4
   rarity: 2
   id: 1178
+  idLock: 0
   nameEnglish: 'Diving Tank
 
     Description Packed full of oxygen.'

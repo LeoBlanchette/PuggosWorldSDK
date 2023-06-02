@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Nightvision_Military_Scope
   m_EditorClassIdentifier: 
+  guid: 09dfd5ea737544f7821badabec94f0df
+  coreMasterBundlePath: /Items/Sights/Nightvision_Military_Scope/
   modType: 45
   rarity: 4
   id: 1201
+  idLock: 0
   nameEnglish: 'Military Nightvision Scope
 
     Description Rail mounted 6x zoom

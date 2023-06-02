@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Augewehr_Scope
   m_EditorClassIdentifier: 
+  guid: 3d5b6b6776584bff8511f5f77aec492d
+  coreMasterBundlePath: /Items/Sights/Augewehr_Scope/
   modType: 45
   rarity: 3
   id: 1363
+  idLock: 0
   nameEnglish: 'Augewehr Scope
 
     Description Rail mounted 4x zoom scope.'

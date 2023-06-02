@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Frost_Snowflake
   m_EditorClassIdentifier: 
+  guid: 2650785b04c44a8c9e57ae560eda359e
+  coreMasterBundlePath: /Mythics/Frost_Snowflake/
   modType: 35
   rarity: 0
   id: 50
+  idLock: 0
   nameEnglish: 'Particle_Tag_Name Snowflake
 
 '

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sportshot_10
   m_EditorClassIdentifier: 
+  guid: 2f64c4c133a0405190b3fa640e4fe4b1
+  coreMasterBundlePath: /Items/Magazines/Sportshot_10/
   modType: 29
   rarity: 1
   id: 485
+  idLock: 0
   nameEnglish: 'Sportshot Magazine
 
     Description Low caliber civilian grade <color=uncommon>Sportshot</color>

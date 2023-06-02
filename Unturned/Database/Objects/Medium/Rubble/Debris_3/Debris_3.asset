@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Debris_3
   m_EditorClassIdentifier: 
+  guid: b175320c9a5d402c903f5221a8b8148a
+  coreMasterBundlePath: /Objects/Medium/Rubble/Debris_3/
   modType: 33
   rarity: 0
   id: 942
+  idLock: 0
   nameEnglish: Debris #4
   cloneFrom: {fileID: 0}
   datFileValues:

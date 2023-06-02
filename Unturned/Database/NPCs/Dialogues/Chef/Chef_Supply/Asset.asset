@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 1236a7649a3e404d946f8385ce6ba89a
+  coreMasterBundlePath: /NPCs/Dialogues/Chef/Chef_Supply/
   modType: 13
   rarity: 0
   id: 60
+  idLock: 0
   nameEnglish: 'Message_0_Page_0 Some comes from farming in the locations we''ve
     cleared, others are rations and what our scavengers recover, and occasionally
     a visitor trades with me. For example Wallace - the pirate on the top deck -

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Big_Snowman_04_Off
   m_EditorClassIdentifier: 
+  guid: 475658beaa004a32a8b26839db4721ac
+  coreMasterBundlePath: /Objects/Small/Quests/Big_Snowman_04_Off/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: 'Big Snowman #5 Off
 
     

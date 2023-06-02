@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Bottom_Forest
   m_EditorClassIdentifier: 
+  guid: a9f6e2e0ebb2488f912b76ac3ab3b6e7
+  coreMasterBundlePath: /Items/Pants/Military_Bottom_Forest/
   modType: 39
   rarity: 2
   id: 308
+  idLock: 0
   nameEnglish: 'Forest Military Bottom
 
     Description Military uniform pants.'

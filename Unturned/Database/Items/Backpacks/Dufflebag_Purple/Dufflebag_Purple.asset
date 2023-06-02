@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dufflebag_Purple
   m_EditorClassIdentifier: 
+  guid: 9fff92529ea841d380ad0a228aa6d1a9
+  coreMasterBundlePath: /Items/Backpacks/Dufflebag_Purple/
   modType: 4
   rarity: 0
   id: 1186
+  idLock: 0
   nameEnglish: 'Purple Dufflebag
 
     Description Medium sized synthetic gym bag.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Gas_0
   m_EditorClassIdentifier: 
+  guid: 702e9658d5784c73a397e5e71b3a93cd
+  coreMasterBundlePath: /Objects/Large/Buildings/Gas_0/
   modType: 27
   rarity: 0
   id: 63
+  idLock: 0
   nameEnglish: Gas Station #1
   cloneFrom: {fileID: 0}
   datFileValues:

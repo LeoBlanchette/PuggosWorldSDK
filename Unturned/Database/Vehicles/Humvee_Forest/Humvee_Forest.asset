@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Humvee_Forest
   m_EditorClassIdentifier: 
+  guid: 98a60ffe238b4c8aaa941acd91a2e1da
+  coreMasterBundlePath: /Vehicles/Humvee_Forest/
   modType: 58
   rarity: 2
   id: 52
+  idLock: 0
   nameEnglish: 'Forest Armored Offroader
 
 '

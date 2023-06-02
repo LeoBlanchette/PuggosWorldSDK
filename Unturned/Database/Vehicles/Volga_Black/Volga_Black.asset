@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Volga_Black
   m_EditorClassIdentifier: 
+  guid: 2261b212ac874e9786f06cdc2dca13d4
+  coreMasterBundlePath: /Vehicles/Volga_Black/
   modType: 58
   rarity: 0
   id: 110
+  idLock: 0
   nameEnglish: Black Auto
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Vest_Forest
   m_EditorClassIdentifier: 
+  guid: b0e361c35b48496ab0127ed676519ce0
+  coreMasterBundlePath: /Items/Vests/Military_Vest_Forest/
   modType: 61
   rarity: 2
   id: 310
+  idLock: 0
   nameEnglish: 'Forest Military Vest
 
     Description Bullet proof military gear.'

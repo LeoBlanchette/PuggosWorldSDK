@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Nightvision_Military
   m_EditorClassIdentifier: 
+  guid: de62a6adf84944de88fe37b08dab8a94
+  coreMasterBundlePath: /Items/Glasses/Nightvision_Military/
   modType: 21
   rarity: 3
   id: 334
+  idLock: 0
   nameEnglish: 'Military Nightvision
 
     Description Brightness enhancing military

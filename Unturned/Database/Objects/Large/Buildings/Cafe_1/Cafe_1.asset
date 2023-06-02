@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cafe_1
   m_EditorClassIdentifier: 
+  guid: 1d6d745d74a24b0aa4fcf792a31c40be
+  coreMasterBundlePath: /Objects/Large/Buildings/Cafe_1/
   modType: 27
   rarity: 0
   id: 92
+  idLock: 0
   nameEnglish: Cafe #2
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_2
   m_EditorClassIdentifier: 
+  guid: b5839b7f80d94a87a2b5113a38e22182
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_2/
   modType: 33
   rarity: 0
   id: 2003
+  idLock: 0
   nameEnglish: 'Note - Mission Briefing #1
 
     

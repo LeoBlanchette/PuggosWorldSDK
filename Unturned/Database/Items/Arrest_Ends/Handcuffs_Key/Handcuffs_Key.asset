@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Handcuffs_Key
   m_EditorClassIdentifier: 
+  guid: d5a664e06c124e4a92ebd124356e4fa3
+  coreMasterBundlePath: /Items/Arrest_Ends/Handcuffs_Key/
   modType: 2
   rarity: 1
   id: 1196
+  idLock: 0
   nameEnglish: 'Handcuffs Key
 
     Description Unlock a handcuffed prisoner.'

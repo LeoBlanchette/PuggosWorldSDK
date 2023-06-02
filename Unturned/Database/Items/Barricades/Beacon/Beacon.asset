@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Beacon
   m_EditorClassIdentifier: 
+  guid: 5728828efda4459aab80ce7d95598189
+  coreMasterBundlePath: /Items/Barricades/Beacon/
   modType: 7
   rarity: 4
   id: 1194
+  idLock: 0
   nameEnglish: 'Horde Beacon
 
     Description Emits signals that draw in a zombie

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Thief_Bottom
   m_EditorClassIdentifier: 
+  guid: 0b7b5ce70a8f492786a8e8e0f73c63ea
+  coreMasterBundlePath: /Items/Pants/Thief_Bottom/
   modType: 39
   rarity: 1
   id: 1157
+  idLock: 0
   nameEnglish: 'Thief Bottom
 
     Description Thieves guild pants.'

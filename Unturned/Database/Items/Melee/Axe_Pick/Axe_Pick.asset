@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Axe_Pick
   m_EditorClassIdentifier: 
+  guid: a967d0ee117047f69caaa733d4c413c7
+  coreMasterBundlePath: /Items/Melee/Axe_Pick/
   modType: 34
   rarity: 0
   id: 1198
+  idLock: 0
   nameEnglish: 'Pickaxe
 
     Description Simple mining axe.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Oven
   m_EditorClassIdentifier: 
+  guid: e7d4a2c560374a76b97f581fcb4bb994
+  coreMasterBundlePath: /Items/Barricades/Oven/
   modType: 6
   rarity: 2
   id: 1250
+  idLock: 0
   nameEnglish: 'Oven
 
     Description Heat source for cooking and providing a medium

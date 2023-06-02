@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hatch_Pine
   m_EditorClassIdentifier: 
+  guid: facc7f1bcd074a1091c80b27fab0c7ae
+  coreMasterBundlePath: /Items/Barricades/Hatch_Pine/
   modType: 6
   rarity: 2
   id: 1331
+  idLock: 0
   nameEnglish: 'Pine Hatch
 
     Description Pine trapdoor ideal for keeping out

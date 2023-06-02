@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fence_Metal_3
   m_EditorClassIdentifier: 
+  guid: 12e211dec09d47be96e56db220003127
+  coreMasterBundlePath: /Objects/Medium/Fences/Fence_Metal_3/
   modType: 33
   rarity: 0
   id: 962
+  idLock: 0
   nameEnglish: Fence Metal #4
   cloneFrom: {fileID: 0}
   datFileValues:

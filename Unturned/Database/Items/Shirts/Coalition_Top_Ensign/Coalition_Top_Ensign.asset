@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coalition_Top_Ensign
   m_EditorClassIdentifier: 
+  guid: 9477233386d34601b56c192a992c2c40
+  coreMasterBundlePath: /Items/Shirts/Coalition_Top_Ensign/
   modType: 44
   rarity: 1
   id: 1420
+  idLock: 0
   nameEnglish: 'Ensign Coalition Top
 
     Description Coalition Ensign rank uniform

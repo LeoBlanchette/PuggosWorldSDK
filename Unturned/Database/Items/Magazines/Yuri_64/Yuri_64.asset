@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Yuri_64
   m_EditorClassIdentifier: 
+  guid: d80e38ab50aa4a51b14ece0e36a7b086
+  coreMasterBundlePath: /Items/Magazines/Yuri_64/
   modType: 29
   rarity: 2
   id: 1042
+  idLock: 0
   nameEnglish: 'Yuri Magazine
 
     Description Low caliber ranger grade <color=rare>Yuri</color>

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hummingbird_Police
   m_EditorClassIdentifier: 
+  guid: 5f1297c746b84c4eb02ec438d6923f0e
+  coreMasterBundlePath: /Vehicles/Hummingbird_Police/
   modType: 58
   rarity: 3
   id: 106
+  idLock: 0
   nameEnglish: Police Helicopter
   cloneFrom: {fileID: 0}
   datFileValues:

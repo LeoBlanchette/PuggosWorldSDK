@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Arrow_Explosive_1
   m_EditorClassIdentifier: 
+  guid: d3903ef5215d47d5952f230c967cb6ef
+  coreMasterBundlePath: /Items/Magazines/Arrow_Explosive_1/
   modType: 29
   rarity: 3
   id: 1209
+  idLock: 0
   nameEnglish: 'Explosive Arrow
 
     Description Explodes on impact.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plate_Large_Birch_Equilateral
   m_EditorClassIdentifier: 
+  guid: 4ee448d339f4405aa6ea93b5afefc555
+  coreMasterBundlePath: /Items/Barricades/Plate_Large_Birch_Equilateral/
   modType: 6
   rarity: 0
   id: 1144
+  idLock: 0
   nameEnglish: 'Large Birch Plate
 
     Description Birch plate. Beware of termites.'

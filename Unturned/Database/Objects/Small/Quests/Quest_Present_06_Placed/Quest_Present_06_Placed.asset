@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Quest_Present_06_Placed
   m_EditorClassIdentifier: 
+  guid: 08c5cc1f86274ab29ce19c2cc1ab8c9b
+  coreMasterBundlePath: /Objects/Small/Quests/Quest_Present_06_Placed/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: Quest Present #7 Placed
   cloneFrom: {fileID: 0}
   datFileValues:

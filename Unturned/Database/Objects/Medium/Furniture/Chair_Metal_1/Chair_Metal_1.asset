@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Chair_Metal_1
   m_EditorClassIdentifier: 
+  guid: 619228cdcf1349159253b30238505eaa
+  coreMasterBundlePath: /Objects/Medium/Furniture/Chair_Metal_1/
   modType: 33
   rarity: 0
   id: 897
+  idLock: 0
   nameEnglish: Chair Metal #2
   cloneFrom: {fileID: 0}
   datFileValues:

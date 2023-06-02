@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hesco_2
   m_EditorClassIdentifier: 
+  guid: ab9505db7659452389dcb333693259e7
+  coreMasterBundlePath: /Objects/Medium/Military/Hesco_2/
   modType: 27
   rarity: 0
   id: 224
+  idLock: 0
   nameEnglish: Hesco #3
   cloneFrom: {fileID: 0}
   datFileValues:

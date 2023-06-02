@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flare_Orange
   m_EditorClassIdentifier: 
+  guid: c708b5b261cf415ba0aa70b08203a079
+  coreMasterBundlePath: /Items/Throwables/Flare_Orange/
   modType: 54
   rarity: 0
   id: 257
+  idLock: 0
   nameEnglish: 'Orange Flare
 
     Description Road flare for quickly lighting up

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Beef_Cooked
   m_EditorClassIdentifier: 
+  guid: ba842e8b72b54674b8ea898574902929
+  coreMasterBundlePath: /Items/Food/Beef_Cooked/
   modType: 18
   rarity: 0
   id: 1121
+  idLock: 0
   nameEnglish: 'Cooked Beef
 
     Description Lean and juicy.'

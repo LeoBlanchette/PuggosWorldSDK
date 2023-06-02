@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Grenade
   m_EditorClassIdentifier: 
+  guid: f959b8d317be4beea18d180049c20e05
+  coreMasterBundlePath: /Items/Throwables/Grenade/
   modType: 54
   rarity: 2
   id: 254
+  idLock: 0
   nameEnglish: 'Fragmentation Grenade
 
     Description Military grade throwable

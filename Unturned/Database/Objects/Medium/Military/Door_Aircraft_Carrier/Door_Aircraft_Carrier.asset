@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Door_Aircraft_Carrier
   m_EditorClassIdentifier: 
+  guid: 3ebc1f1f4c284adfacb100928001352a
+  coreMasterBundlePath: /Objects/Medium/Military/Door_Aircraft_Carrier/
   modType: 33
   rarity: 0
   id: 745
+  idLock: 0
   nameEnglish: Aircraft Carrier Door
   cloneFrom: {fileID: 0}
   datFileValues:

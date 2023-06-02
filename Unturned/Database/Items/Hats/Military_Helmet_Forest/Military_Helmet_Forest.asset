@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Helmet_Forest
   m_EditorClassIdentifier: 
+  guid: ce10706e881847daa7354ff5ca573e65
+  coreMasterBundlePath: /Items/Hats/Military_Helmet_Forest/
   modType: 25
   rarity: 2
   id: 309
+  idLock: 0
   nameEnglish: 'Forest Military Helmet
 
     Description Military headwear to prevent

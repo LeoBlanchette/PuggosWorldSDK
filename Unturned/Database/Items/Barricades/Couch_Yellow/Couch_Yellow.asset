@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Couch_Yellow
   m_EditorClassIdentifier: 
+  guid: 1a1514217e6d478d9c5b4a7d3f53d8ad
+  coreMasterBundlePath: /Items/Barricades/Couch_Yellow/
   modType: 6
   rarity: 0
   id: 1308
+  idLock: 0
   nameEnglish: 'Yellow Couch
 
     Description Comfy spot to hangout and unwind.'

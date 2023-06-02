@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 0f26f35418994587a8807c813d98761c
+  coreMasterBundlePath: /NPCs/Quests/XMAS_Presents/
   modType: 40
   rarity: 0
   id: 320
+  idLock: 0
   nameEnglish: 'Christmas Eve
 
     Description Apparently there have been presents

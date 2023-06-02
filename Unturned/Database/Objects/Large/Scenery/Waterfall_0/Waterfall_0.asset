@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Waterfall_0
   m_EditorClassIdentifier: 
+  guid: 30426ae93322490eaeca01e383366948
+  coreMasterBundlePath: /Objects/Large/Scenery/Waterfall_0/
   modType: 27
   rarity: 0
   id: 948
+  idLock: 0
   nameEnglish: Waterfall #1
   cloneFrom: {fileID: 0}
   datFileValues:

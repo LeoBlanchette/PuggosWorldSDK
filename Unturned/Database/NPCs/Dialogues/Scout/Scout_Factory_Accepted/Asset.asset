@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 4bd210ebac3a4c999f48554843d4ea38
+  coreMasterBundlePath: /NPCs/Dialogues/Scout/Scout_Factory_Accepted/
   modType: 13
   rarity: 0
   id: 110
+  idLock: 0
   nameEnglish: Message_0_Page_0 Stay safe! Watch out for any salvageable tank machinery.
   cloneFrom: {fileID: 0}
   datFileValues:

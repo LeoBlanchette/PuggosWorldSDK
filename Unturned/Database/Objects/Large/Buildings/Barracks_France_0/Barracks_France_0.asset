@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Barracks_France_0
   m_EditorClassIdentifier: 
+  guid: 187e23d4657848558873f3cbbe775578
+  coreMasterBundlePath: /Objects/Large/Buildings/Barracks_France_0/
   modType: 27
   rarity: 0
   id: 1044
+  idLock: 0
   nameEnglish: France Barracks #1
   cloneFrom: {fileID: 0}
   datFileValues:

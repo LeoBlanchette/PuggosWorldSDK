@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Jetski_Blue
   m_EditorClassIdentifier: 
+  guid: 2323c49b2f424adf970b6da5148c4d3c
+  coreMasterBundlePath: /Vehicles/Jetski_Blue/
   modType: 58
   rarity: 0
   id: 99
+  idLock: 0
   nameEnglish: Blue Jetski
   cloneFrom: {fileID: 0}
   datFileValues:

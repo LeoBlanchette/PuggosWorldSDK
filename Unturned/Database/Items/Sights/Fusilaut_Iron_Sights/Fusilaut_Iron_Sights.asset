@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fusilaut_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: 469e00704994456c9afada43056deb25
+  coreMasterBundlePath: /Items/Sights/Fusilaut_Iron_Sights/
   modType: 45
   rarity: 0
   id: 1376
+  idLock: 0
   nameEnglish: 'Fusilaut Iron Sights
 
     Description Rail mounted iron sights.'

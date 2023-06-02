@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Matamorez
   m_EditorClassIdentifier: 
+  guid: 8f8efd74a0e54a52839f6eaed951f23a
+  coreMasterBundlePath: /Items/Guns/Matamorez/
   modType: 24
   rarity: 4
   id: 1000
+  idLock: 0
   nameEnglish: 'Matamorez
 
     Description Russian assault rifle chambered in Matamorez

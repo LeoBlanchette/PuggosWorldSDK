@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: a810c542070e4d4ebe1d7bafd08e39cd
+  coreMasterBundlePath: /NPCs/Vendors/Armory_Store/
   modType: 60
   rarity: 0
   id: 142
+  idLock: 0
   nameEnglish: '<color=legendary>Coalition</color> Armory
 
     Description Looking

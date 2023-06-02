@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Snowman_Scaffhold_00
   m_EditorClassIdentifier: 
+  guid: c1e25f3fe0c2439e9523b88dfda21a42
+  coreMasterBundlePath: /Objects/Large/Scenery/Snowman_Scaffhold_00/
   modType: 27
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: Snowman Scaffhold #1
   cloneFrom: {fileID: 0}
   datFileValues:

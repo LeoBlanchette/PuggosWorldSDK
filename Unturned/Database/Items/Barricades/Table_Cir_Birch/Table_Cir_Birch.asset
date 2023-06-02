@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Table_Cir_Birch
   m_EditorClassIdentifier: 
+  guid: 361b32c5285241eb8ea82e24aa89239e
+  coreMasterBundlePath: /Items/Barricades/Table_Cir_Birch/
   modType: 6
   rarity: 0
   id: 1289
+  idLock: 0
   nameEnglish: 'Birch Circular Table
 
     Description Birch table for fine dining.'

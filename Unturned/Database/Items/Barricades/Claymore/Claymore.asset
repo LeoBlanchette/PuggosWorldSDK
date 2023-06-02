@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Claymore
   m_EditorClassIdentifier: 
+  guid: 085bff616ff040b59cbf85eded68f4f8
+  coreMasterBundlePath: /Items/Barricades/Claymore/
   modType: 57
   rarity: 3
   id: 1102
+  idLock: 0
   nameEnglish: 'Claymore
 
     Description Explosive trap.'

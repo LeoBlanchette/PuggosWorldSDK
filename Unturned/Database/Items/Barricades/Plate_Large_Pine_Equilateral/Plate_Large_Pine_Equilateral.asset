@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plate_Large_Pine_Equilateral
   m_EditorClassIdentifier: 
+  guid: 9d5ab08cbb0044c1a7ff393232672f2e
+  coreMasterBundlePath: /Items/Barricades/Plate_Large_Pine_Equilateral/
   modType: 6
   rarity: 2
   id: 1148
+  idLock: 0
   nameEnglish: 'Large Pine Plate
 
     Description Pine plate. Beware of termites.'

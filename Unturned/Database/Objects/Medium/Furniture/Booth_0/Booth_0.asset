@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Booth_0
   m_EditorClassIdentifier: 
+  guid: 72f6f930f1714ccdb8fdb238c047bda0
+  coreMasterBundlePath: /Objects/Medium/Furniture/Booth_0/
   modType: 33
   rarity: 0
   id: 98
+  idLock: 0
   nameEnglish: Booth #1
   cloneFrom: {fileID: 0}
   datFileValues:

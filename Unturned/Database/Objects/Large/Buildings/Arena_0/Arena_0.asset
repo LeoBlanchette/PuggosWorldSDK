@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Arena_0
   m_EditorClassIdentifier: 
+  guid: 95cca41413d848358a96a47957499526
+  coreMasterBundlePath: /Objects/Large/Buildings/Arena_0/
   modType: 27
   rarity: 0
   id: 587
+  idLock: 0
   nameEnglish: Arena #1
   cloneFrom: {fileID: 0}
   datFileValues:

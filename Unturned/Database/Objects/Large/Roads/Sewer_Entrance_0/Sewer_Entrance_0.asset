@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sewer_Entrance_0
   m_EditorClassIdentifier: 
+  guid: a832923d772c43bfb85277d30db1e37a
+  coreMasterBundlePath: /Objects/Large/Roads/Sewer_Entrance_0/
   modType: 27
   rarity: 0
   id: 964
+  idLock: 0
   nameEnglish: Sewer Entrance #1
   cloneFrom: {fileID: 0}
   datFileValues:

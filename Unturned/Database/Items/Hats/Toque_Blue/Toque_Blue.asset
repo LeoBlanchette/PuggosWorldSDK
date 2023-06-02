@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Toque_Blue
   m_EditorClassIdentifier: 
+  guid: 76df1b0c3c994ad184b3d16dbb03ea09
+  coreMasterBundlePath: /Items/Hats/Toque_Blue/
   modType: 25
   rarity: 0
   id: 193
+  idLock: 0
   nameEnglish: 'Blue Toque
 
     Description Warm Canadian hat for the stormy winters.'

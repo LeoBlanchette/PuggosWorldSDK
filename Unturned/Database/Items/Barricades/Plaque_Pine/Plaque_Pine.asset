@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plaque_Pine
   m_EditorClassIdentifier: 
+  guid: e7140834bfb3443382c2eb06140d19b1
+  coreMasterBundlePath: /Items/Barricades/Plaque_Pine/
   modType: 49
   rarity: 2
   id: 1412
+  idLock: 0
   nameEnglish: 'Pine Plaque
 
     Description Pine plaque for storing trophies.'

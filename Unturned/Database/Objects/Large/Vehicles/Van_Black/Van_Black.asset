@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Van_Black
   m_EditorClassIdentifier: 
+  guid: ececaa0df0634e0d817866fd895e4fb9
+  coreMasterBundlePath: /Objects/Large/Vehicles/Van_Black/
   modType: 27
   rarity: 0
   id: 173
+  idLock: 0
   nameEnglish: Black Van
   cloneFrom: {fileID: 0}
   datFileValues:

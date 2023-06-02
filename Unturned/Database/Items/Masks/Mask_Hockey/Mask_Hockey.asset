@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Mask_Hockey
   m_EditorClassIdentifier: 
+  guid: afee5cfcf210487792ea0ad294f7019c
+  coreMasterBundlePath: /Items/Masks/Mask_Hockey/
   modType: 31
   rarity: 0
   id: 1048
+  idLock: 0
   nameEnglish: 'Hockey Mask
 
     Description Protective gear for playing Canada''s

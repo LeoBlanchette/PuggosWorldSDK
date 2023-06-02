@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Daypack_Orange
   m_EditorClassIdentifier: 
+  guid: c54339bd4099405c8f44879ded8e9dc3
+  coreMasterBundlePath: /Items/Backpacks/Daypack_Orange/
   modType: 4
   rarity: 0
   id: 203
+  idLock: 0
   nameEnglish: 'Orange Daypack
 
     Description Medium sized synthetic backpack.'

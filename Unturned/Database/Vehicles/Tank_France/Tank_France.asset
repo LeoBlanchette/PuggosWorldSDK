@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tank_France
   m_EditorClassIdentifier: 
+  guid: b69c7efa148a496cb0ad06be70f087c3
+  coreMasterBundlePath: /Vehicles/Tank_France/
   modType: 58
   rarity: 4
   id: 173
+  idLock: 0
   nameEnglish: Tank
   cloneFrom: {fileID: 0}
   datFileValues:

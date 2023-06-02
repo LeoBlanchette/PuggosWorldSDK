@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Trophy_Pine
   m_EditorClassIdentifier: 
+  guid: 2dec62561b2949bd93924aa1db0fe6f6
+  coreMasterBundlePath: /Items/Barricades/Trophy_Pine/
   modType: 49
   rarity: 2
   id: 1207
+  idLock: 0
   nameEnglish: 'Pine Trophy Case
 
     Description Pine case for storing trophies.'

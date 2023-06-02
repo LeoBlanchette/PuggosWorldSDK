@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bush_6
   m_EditorClassIdentifier: 
+  guid: 89b4360407d6407a8ba21d3d5455864a
+  coreMasterBundlePath: /Trees/Bush_6/
   modType: 42
   rarity: 0
   id: 27
+  idLock: 0
   nameEnglish: Russia Bush #5
   cloneFrom: {fileID: 0}
   datFileValues:

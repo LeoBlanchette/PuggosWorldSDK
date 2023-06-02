@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Can
   m_EditorClassIdentifier: 
+  guid: 43721e1e25bc494fb253753cf12daf91
+  coreMasterBundlePath: /Items/Supplies/Can/
   modType: 51
   rarity: 0
   id: 72
+  idLock: 0
   nameEnglish: 'Metal Can
 
     Description Formerly used for storing preserved food.'

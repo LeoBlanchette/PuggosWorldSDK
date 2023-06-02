@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: bea46e021030437d985e6cc2bc8a74b0
+  coreMasterBundlePath: /NPCs/Quests/Boss_Electric/
   modType: 40
   rarity: 0
   id: 160
+  idLock: 0
   nameEnglish: '<color=mythical>Sparks</color>
 
     Description While flying South

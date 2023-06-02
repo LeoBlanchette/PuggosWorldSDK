@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Gate_Pine
   m_EditorClassIdentifier: 
+  guid: b8b6d0a842134d7ca882f8654fee58ef
+  coreMasterBundlePath: /Items/Barricades/Gate_Pine/
   modType: 6
   rarity: 2
   id: 456
+  idLock: 0
   nameEnglish: 'Pine Gate
 
     Description Pine gate ideal for keeping out unwanted

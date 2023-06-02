@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Desert_Falcon
   m_EditorClassIdentifier: 
+  guid: aac3e9bf043b47728366588e8c7530fd
+  coreMasterBundlePath: /Items/Guns/Desert_Falcon/
   modType: 24
   rarity: 3
   id: 488
+  idLock: 0
   nameEnglish: 'Desert Falcon
 
     Description American cannon chambered in Desert

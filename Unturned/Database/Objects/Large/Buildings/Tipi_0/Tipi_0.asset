@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tipi_0
   m_EditorClassIdentifier: 
+  guid: 19e653b025b74566baeb35d802988f01
+  coreMasterBundlePath: /Objects/Large/Buildings/Tipi_0/
   modType: 27
   rarity: 0
   id: 323
+  idLock: 0
   nameEnglish: Tipi #1
   cloneFrom: {fileID: 0}
   datFileValues:

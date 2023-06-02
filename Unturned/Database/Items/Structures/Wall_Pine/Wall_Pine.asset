@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wall_Pine
   m_EditorClassIdentifier: 
+  guid: 822e01335d864d95990bf348630f0f3e
+  coreMasterBundlePath: /Items/Structures/Wall_Pine/
   modType: 50
   rarity: 2
   id: 58
+  idLock: 0
   nameEnglish: 'Pine Wall
 
     Description Pine wall. Beware of termites.'

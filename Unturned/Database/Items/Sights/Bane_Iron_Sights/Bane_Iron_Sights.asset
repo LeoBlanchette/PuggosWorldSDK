@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bane_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: e38bfd4cced646ba91c106f5aa0115b6
+  coreMasterBundlePath: /Items/Sights/Bane_Iron_Sights/
   modType: 45
   rarity: 0
   id: 1486
+  idLock: 0
   nameEnglish: 'Devil''s Bane Iron Sights
 
     Description Rail mounted iron sights.'

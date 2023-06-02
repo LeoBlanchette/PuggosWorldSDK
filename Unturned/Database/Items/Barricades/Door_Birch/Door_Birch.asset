@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Door_Birch
   m_EditorClassIdentifier: 
+  guid: d46d9740aa064ae89e496aff20bd43e9
+  coreMasterBundlePath: /Items/Barricades/Door_Birch/
   modType: 6
   rarity: 0
   id: 282
+  idLock: 0
   nameEnglish: 'Birch Door
 
     Description Birch door ideal for keeping out unwanted

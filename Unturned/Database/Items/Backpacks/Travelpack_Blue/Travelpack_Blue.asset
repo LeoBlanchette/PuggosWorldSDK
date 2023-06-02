@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Travelpack_Blue
   m_EditorClassIdentifier: 
+  guid: 0dcf1b5481e24588aae8997ee3cf7ced
+  coreMasterBundlePath: /Items/Backpacks/Travelpack_Blue/
   modType: 4
   rarity: 0
   id: 246
+  idLock: 0
   nameEnglish: 'Blue Travelpack
 
     Description Medium sized synthetic travel bag.'

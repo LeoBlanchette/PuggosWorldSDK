@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Caltrop
   m_EditorClassIdentifier: 
+  guid: f8600624087c4d8e81610926e1fd7967
+  coreMasterBundlePath: /Items/Barricades/Caltrop/
   modType: 57
   rarity: 1
   id: 382
+  idLock: 0
   nameEnglish: 'Caltrop
 
     Description Spiky trap.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Knife_Kitchen
   m_EditorClassIdentifier: 
+  guid: acf1229b4b5949e39beb54c8d39ff3a1
+  coreMasterBundlePath: /Items/Melee/Knife_Kitchen/
   modType: 34
   rarity: 0
   id: 120
+  idLock: 0
   nameEnglish: 'Kitchen Knife
 
     Description Cooking knife for chopping food.'

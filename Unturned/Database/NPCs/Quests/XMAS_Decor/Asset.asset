@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: f5544adbbfd546b5b6e0d02830b3b5d9
+  coreMasterBundlePath: /NPCs/Quests/XMAS_Decor/
   modType: 40
   rarity: 0
   id: 327
+  idLock: 0
   nameEnglish: 'Festive Cheer
 
     Description Use the Saw to harvest Candycane

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flag_Coalition
   m_EditorClassIdentifier: 
+  guid: e04aa6e6ee554b1eb695b8ff911b0e62
+  coreMasterBundlePath: /Objects/Medium/Parks/Flag_Coalition/
   modType: 33
   rarity: 0
   id: 751
+  idLock: 0
   nameEnglish: Coalition Flag
   cloneFrom: {fileID: 0}
   datFileValues:

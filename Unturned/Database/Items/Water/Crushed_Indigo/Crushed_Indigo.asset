@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crushed_Indigo
   m_EditorClassIdentifier: 
+  guid: a4621b54a5a34901866594e04658d821
+  coreMasterBundlePath: /Items/Water/Crushed_Indigo/
   modType: 62
   rarity: 0
   id: 398
+  idLock: 0
   nameEnglish: 'Refined Indigo Berries
 
     Description Slightly less suspicious

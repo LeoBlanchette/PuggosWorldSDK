@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Charge_Bounce
   m_EditorClassIdentifier: 
+  guid: e856b674edca4ddeb9bb901a86b8a313
+  coreMasterBundlePath: /Items/Barricades/Charge_Bounce/
   modType: 8
   rarity: 3
   id: 1691
+  idLock: 0
   nameEnglish: 'Bounce Charge
 
     Description Remotely detonated jumping explosive.

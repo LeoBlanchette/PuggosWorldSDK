@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Squid_Head
   m_EditorClassIdentifier: 
+  guid: 703e29ff880c477fa95d994e3bddac59
+  coreMasterBundlePath: /Items/Masks/Squid_Head/
   modType: 31
   rarity: 0
   id: 789
+  idLock: 0
   nameEnglish: 'Squid Captain Head
 
     Description The captain of the dead sea.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Huey_Russia
   m_EditorClassIdentifier: 
+  guid: b49d70aee8ad497d8bffe6ac4d5a4758
+  coreMasterBundlePath: /Vehicles/Huey_Russia/
   modType: 58
   rarity: 3
   id: 144
+  idLock: 0
   nameEnglish: 'Transport Heli
 
 '

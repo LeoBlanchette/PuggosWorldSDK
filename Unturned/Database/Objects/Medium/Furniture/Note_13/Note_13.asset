@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_13
   m_EditorClassIdentifier: 
+  guid: f233459a5f9c4aa6a4f9f6bb4a3ac7a5
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_13/
   modType: 33
   rarity: 0
   id: 2014
+  idLock: 0
   nameEnglish: "Note - Military #4\r\n\r\nInteractability_Text_Line_0 Journal\r\nInteractability_Text_Line_1
     Page 61\r\nInteractability_Text_Line_2 --- \r\nInteractability_Text_Line_3 Somebody
     has to keep a record of what actually happened, otherwise anything can become

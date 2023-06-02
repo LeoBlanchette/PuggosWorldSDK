@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ace_6
   m_EditorClassIdentifier: 
+  guid: 5819995952a147f3867a6580f58e8d18
+  coreMasterBundlePath: /Items/Magazines/Ace_6/
   modType: 29
   rarity: 1
   id: 108
+  idLock: 0
   nameEnglish: 'Ace Clip
 
     Description Low caliber civilian grade <color=uncommon>Ace</color>

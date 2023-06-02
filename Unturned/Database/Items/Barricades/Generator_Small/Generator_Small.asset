@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Generator_Small
   m_EditorClassIdentifier: 
+  guid: b6c2880fa96e4985911d17acf4c65f17
+  coreMasterBundlePath: /Items/Barricades/Generator_Small/
   modType: 20
   rarity: 2
   id: 458
+  idLock: 0
   nameEnglish: 'Portable Generator
 
     Description Electricity generator covering

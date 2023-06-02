@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Huey_Forest
   m_EditorClassIdentifier: 
+  guid: fb15d81d58544c2d952f9fe61945b4a7
+  coreMasterBundlePath: /Vehicles/Huey_Forest/
   modType: 58
   rarity: 3
   id: 93
+  idLock: 0
   nameEnglish: 'Forest Transport Heli
 
 '

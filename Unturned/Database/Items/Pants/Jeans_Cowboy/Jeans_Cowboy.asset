@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Jeans_Cowboy
   m_EditorClassIdentifier: 
+  guid: 3b5f0b14c1d5472b836b84d92aff18b9
+  coreMasterBundlePath: /Items/Pants/Jeans_Cowboy/
   modType: 39
   rarity: 0
   id: 208
+  idLock: 0
   nameEnglish: 'Cowboy Jeans
 
     Description Denim wild west pants.'

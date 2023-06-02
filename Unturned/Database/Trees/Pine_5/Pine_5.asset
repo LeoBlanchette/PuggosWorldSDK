@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pine_5
   m_EditorClassIdentifier: 
+  guid: 36e45e46bc0b4b80ac9235e2058422e8
+  coreMasterBundlePath: /Trees/Pine_5/
   modType: 42
   rarity: 0
   id: 30
+  idLock: 0
   nameEnglish: Russia Pine #2
   cloneFrom: {fileID: 0}
   datFileValues:

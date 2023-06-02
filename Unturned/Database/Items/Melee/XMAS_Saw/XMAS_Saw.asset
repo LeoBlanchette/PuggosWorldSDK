@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: XMAS_Saw
   m_EditorClassIdentifier: 
+  guid: 7ea7e72a9769446382b39c75e0f02d2d
+  coreMasterBundlePath: /Items/Melee/XMAS_Saw/
   modType: 34
   rarity: 3
   id: 1704
+  idLock: 0
   nameEnglish: 'Saw
 
     Description Candy cane chewing machine of death.'

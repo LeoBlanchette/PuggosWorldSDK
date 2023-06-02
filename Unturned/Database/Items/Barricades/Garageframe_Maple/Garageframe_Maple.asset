@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Garageframe_Maple
   m_EditorClassIdentifier: 
+  guid: 8ddf43d20be94a6c89f15473db4f5249
+  coreMasterBundlePath: /Items/Barricades/Garageframe_Maple/
   modType: 6
   rarity: 1
   id: 1084
+  idLock: 0
   nameEnglish: 'Maple Garageframe
 
     Description Maple garageframe. Beware of

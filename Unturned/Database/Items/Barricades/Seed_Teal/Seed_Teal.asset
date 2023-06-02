@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Seed_Teal
   m_EditorClassIdentifier: 
+  guid: 30525104a964474ab110478227b64b0e
+  coreMasterBundlePath: /Items/Barricades/Seed_Teal/
   modType: 15
   rarity: 0
   id: 1109
+  idLock: 0
   nameEnglish: 'Teal Berry Seed
 
     Description Ready for planting and eating.'

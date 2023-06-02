@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Mechanic_Top
   m_EditorClassIdentifier: 
+  guid: 73fd4a04fa144b5fb0ffaf29127a0b87
+  coreMasterBundlePath: /Items/Shirts/Mechanic_Top/
   modType: 44
   rarity: 1
   id: 405
+  idLock: 0
   nameEnglish: 'Mechanic Top
 
     Description Repairing uniform shirt.'

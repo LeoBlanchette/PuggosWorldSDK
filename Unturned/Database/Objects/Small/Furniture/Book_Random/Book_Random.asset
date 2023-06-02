@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Book_Random
   m_EditorClassIdentifier: 
+  guid: cfdc86d7521042cc9222b64de2506f72
+  coreMasterBundlePath: /Objects/Small/Furniture/Book_Random/
   modType: 47
   rarity: 0
   id: 995
+  idLock: 0
   nameEnglish: Random Book
   cloneFrom: {fileID: 0}
   datFileValues:

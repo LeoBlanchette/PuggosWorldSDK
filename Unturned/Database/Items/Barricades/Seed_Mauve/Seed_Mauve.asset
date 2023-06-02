@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Seed_Mauve
   m_EditorClassIdentifier: 
+  guid: d2c4b8b9a39f4813864aba9f8c81c059
+  coreMasterBundlePath: /Items/Barricades/Seed_Mauve/
   modType: 15
   rarity: 0
   id: 1107
+  idLock: 0
   nameEnglish: 'Mauve Berry Seed
 
     Description Ready for planting and eating.'

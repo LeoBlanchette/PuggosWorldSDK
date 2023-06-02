@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: PinePilot
   m_EditorClassIdentifier: 
+  guid: 645fc11471744559bbb3110ded5d0863
+  coreMasterBundlePath: /Items/Tools/PinePilot/
   modType: 56
   rarity: 1
   id: 1764
+  idLock: 0
   nameEnglish: 'Housing Planner
 
     Description Using the latest and greatest PinePilot

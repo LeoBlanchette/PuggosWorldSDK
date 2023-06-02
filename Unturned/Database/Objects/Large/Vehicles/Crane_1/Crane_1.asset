@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crane_1
   m_EditorClassIdentifier: 
+  guid: fbe9012041af4777b7d451cb1eaa318c
+  coreMasterBundlePath: /Objects/Large/Vehicles/Crane_1/
   modType: 27
   rarity: 0
   id: 722
+  idLock: 0
   nameEnglish: Crane #2
   cloneFrom: {fileID: 0}
   datFileValues:

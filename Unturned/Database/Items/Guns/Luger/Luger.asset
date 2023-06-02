@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Luger
   m_EditorClassIdentifier: 
+  guid: 3e050b1919f84e97a1f57a77c14db9f7
+  coreMasterBundlePath: /Items/Guns/Luger/
   modType: 24
   rarity: 1
   id: 1476
+  idLock: 0
   nameEnglish: 'Luger
 
     Description German pistol chambered in Luger ammunition.'

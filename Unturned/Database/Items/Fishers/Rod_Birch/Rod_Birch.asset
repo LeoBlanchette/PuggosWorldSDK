@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rod_Birch
   m_EditorClassIdentifier: 
+  guid: 43cdb123e22e46a4a6df251dbd383cc6
+  coreMasterBundlePath: /Items/Fishers/Rod_Birch/
   modType: 17
   rarity: 0
   id: 506
+  idLock: 0
   nameEnglish: 'Birch Rod
 
     Description Long range fish generator.'

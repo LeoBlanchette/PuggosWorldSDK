@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Volga_Purple
   m_EditorClassIdentifier: 
+  guid: bb773e7dc3334b2299a8c15a1dafe5c4
+  coreMasterBundlePath: /Objects/Large/Vehicles/Volga_Purple/
   modType: 27
   rarity: 0
   id: 650
+  idLock: 0
   nameEnglish: Purple Auto
   cloneFrom: {fileID: 0}
   datFileValues:

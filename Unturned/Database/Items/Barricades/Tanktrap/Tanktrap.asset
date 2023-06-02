@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tanktrap
   m_EditorClassIdentifier: 
+  guid: 1f303ed0371841c6b838e5d934c41452
+  coreMasterBundlePath: /Items/Barricades/Tanktrap/
   modType: 6
   rarity: 2
   id: 1227
+  idLock: 0
   nameEnglish: 'Tanktrap
 
     Description Difficult for traffic to get around.'

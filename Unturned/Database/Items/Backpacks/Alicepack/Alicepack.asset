@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Alicepack
   m_EditorClassIdentifier: 
+  guid: d549d244a90449e58ae9ff4ab52b4a1f
+  coreMasterBundlePath: /Items/Backpacks/Alicepack/
   modType: 4
   rarity: 3
   id: 253
+  idLock: 0
   nameEnglish: 'Alicepack
 
     Description Large sized military cargo backpack.'

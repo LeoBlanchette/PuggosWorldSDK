@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flag_Canadian
   m_EditorClassIdentifier: 
+  guid: 7bd2b7f5958c421bb2b1652aafc2bc1b
+  coreMasterBundlePath: /Objects/Medium/Parks/Flag_Canadian/
   modType: 33
   rarity: 0
   id: 145
+  idLock: 0
   nameEnglish: Canadian Flag
   cloneFrom: {fileID: 0}
   datFileValues:

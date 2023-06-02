@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Floor_Birch_Triangle
   m_EditorClassIdentifier: 
+  guid: 330f2c7288fc49438d3029677c3b94ac
+  coreMasterBundlePath: /Items/Structures/Floor_Birch_Triangle/
   modType: 50
   rarity: 0
   id: 1263
+  idLock: 0
   nameEnglish: 'Triangular Birch Floor
 
     Description Birch triangular floor.

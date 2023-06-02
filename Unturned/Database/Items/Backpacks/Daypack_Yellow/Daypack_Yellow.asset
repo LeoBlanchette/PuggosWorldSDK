@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Daypack_Yellow
   m_EditorClassIdentifier: 
+  guid: 92f055def2724152a9cc4c066fdf4b29
+  coreMasterBundlePath: /Items/Backpacks/Daypack_Yellow/
   modType: 4
   rarity: 0
   id: 206
+  idLock: 0
   nameEnglish: 'Yellow Daypack
 
     Description Medium sized synthetic backpack.'

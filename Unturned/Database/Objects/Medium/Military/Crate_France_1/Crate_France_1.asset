@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crate_France_1
   m_EditorClassIdentifier: 
+  guid: 4a9f855924194a30871d0845781a4262
+  coreMasterBundlePath: /Objects/Medium/Military/Crate_France_1/
   modType: 33
   rarity: 0
   id: 1048
+  idLock: 0
   nameEnglish: France Crate #2
   cloneFrom: {fileID: 0}
   datFileValues:

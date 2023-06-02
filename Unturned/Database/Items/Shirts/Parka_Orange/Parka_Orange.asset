@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Parka_Orange
   m_EditorClassIdentifier: 
+  guid: 3f8d941312e74c6081d9c942bc3d75f5
+  coreMasterBundlePath: /Items/Shirts/Parka_Orange/
   modType: 44
   rarity: 0
   id: 156
+  idLock: 0
   nameEnglish: 'Orange Parka
 
     Description Cold weather parka.'

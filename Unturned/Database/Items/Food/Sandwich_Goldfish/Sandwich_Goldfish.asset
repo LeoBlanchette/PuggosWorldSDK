@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sandwich_Goldfish
   m_EditorClassIdentifier: 
+  guid: 50f4a490055b4db1b9431ca46f4f8a8b
+  coreMasterBundlePath: /Items/Food/Sandwich_Goldfish/
   modType: 18
   rarity: 2
   id: 1401
+  idLock: 0
   nameEnglish: 'Goldfish Sandwich
 
     Description Tasty goldfish in a blanket of

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Shirt_Yellow
   m_EditorClassIdentifier: 
+  guid: 116b4ed5beb94e51a049f0b0ce07ee46
+  coreMasterBundlePath: /Items/Shirts/Shirt_Yellow/
   modType: 44
   rarity: 0
   id: 171
+  idLock: 0
   nameEnglish: 'Yellow Shirt
 
     Description Moderate weather shirt.'

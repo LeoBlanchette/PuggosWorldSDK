@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Jeep_Coalition
   m_EditorClassIdentifier: 
+  guid: 05f47525d34f43b0b19493df8e3f91f2
+  coreMasterBundlePath: /Vehicles/Jeep_Coalition/
   modType: 58
   rarity: 2
   id: 146
+  idLock: 0
   nameEnglish: 'Military Offroader
 
 '

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pipe_Birch
   m_EditorClassIdentifier: 
+  guid: 33c4fc5e50444328a471d46601a8ca35
+  coreMasterBundlePath: /Items/Barricades/Pipe_Birch/
   modType: 6
   rarity: 0
   id: 1069
+  idLock: 0
   nameEnglish: 'Birch Pipe
 
     Description Birch pipe. Beware of termites.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Umbrella_Red
   m_EditorClassIdentifier: 
+  guid: 1a8e74e259d4412798d739e9dc31cf1c
+  coreMasterBundlePath: /Items/Clouds/Umbrella_Red/
   modType: 9
   rarity: 1
   id: 1126
+  idLock: 0
   nameEnglish: 'Red Umbrella
 
     Description Drift softly down from the heavens.'

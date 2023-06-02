@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Balaclava_Black
   m_EditorClassIdentifier: 
+  guid: 52c5c6b298214e9b81176f3ad44c4c6a
+  coreMasterBundlePath: /Items/Masks/Balaclava_Black/
   modType: 31
   rarity: 0
   id: 434
+  idLock: 0
   nameEnglish: 'Black Balaclava
 
     Description Sneakybeaky ninja hood.'

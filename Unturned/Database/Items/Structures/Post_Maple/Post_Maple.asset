@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Post_Maple
   m_EditorClassIdentifier: 
+  guid: 7b7b9a9dc1b54a08bc17e2e991382513
+  coreMasterBundlePath: /Items/Structures/Post_Maple/
   modType: 50
   rarity: 1
   id: 443
+  idLock: 0
   nameEnglish: 'Maple Post
 
     Description Maple post. Beware of termites.'

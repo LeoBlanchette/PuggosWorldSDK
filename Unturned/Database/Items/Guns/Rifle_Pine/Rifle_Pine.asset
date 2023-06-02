@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rifle_Pine
   m_EditorClassIdentifier: 
+  guid: 5e9d5109521a4346bc9de7e8bd1b1547
+  coreMasterBundlePath: /Items/Guns/Rifle_Pine/
   modType: 24
   rarity: 0
   id: 480
+  idLock: 0
   nameEnglish: 'Pine Rifle
 
     Description Pine rifle chambered in Rifle ammunition.'

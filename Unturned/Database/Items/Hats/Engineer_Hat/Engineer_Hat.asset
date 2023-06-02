@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Engineer_Hat
   m_EditorClassIdentifier: 
+  guid: 22591ae5241949019df1beee35b352d5
+  coreMasterBundlePath: /Items/Hats/Engineer_Hat/
   modType: 25
   rarity: 1
   id: 423
+  idLock: 0
   nameEnglish: 'Engineer Hat
 
     Description Trusty cap for driving trains.'

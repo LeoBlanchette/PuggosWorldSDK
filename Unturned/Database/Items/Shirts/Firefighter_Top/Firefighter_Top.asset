@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Firefighter_Top
   m_EditorClassIdentifier: 
+  guid: 780db6515c9a4898822fb84f9a3d4b2b
+  coreMasterBundlePath: /Items/Shirts/Firefighter_Top/
   modType: 44
   rarity: 1
   id: 233
+  idLock: 0
   nameEnglish: 'Firefighter Top
 
     Description Firefighting uniform shirt.'

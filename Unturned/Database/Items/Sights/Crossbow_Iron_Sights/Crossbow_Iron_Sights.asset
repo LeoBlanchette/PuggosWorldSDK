@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crossbow_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: 5b4bcf154efd45a894451c75dfa840d4
+  coreMasterBundlePath: /Items/Sights/Crossbow_Iron_Sights/
   modType: 45
   rarity: 0
   id: 349
+  idLock: 0
   nameEnglish: 'Crossbow Iron Sights
 
     Description Rail mounted iron sights.'

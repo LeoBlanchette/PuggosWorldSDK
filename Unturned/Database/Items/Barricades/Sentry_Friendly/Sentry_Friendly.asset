@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sentry_Friendly
   m_EditorClassIdentifier: 
+  guid: e499784d7e724ef38fc8553c732628f3
+  coreMasterBundlePath: /Items/Barricades/Sentry_Friendly/
   modType: 43
   rarity: 3
   id: 1372
+  idLock: 0
   nameEnglish: 'Friendly Sentry
 
     Description Covers an area by automatically

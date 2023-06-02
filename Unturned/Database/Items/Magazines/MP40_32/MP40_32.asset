@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: MP40_32
   m_EditorClassIdentifier: 
+  guid: cec2c9ecc465403cbf6d7a47454a148b
+  coreMasterBundlePath: /Items/Magazines/MP40_32/
   modType: 29
   rarity: 3
   id: 1479
+  idLock: 0
   nameEnglish: 'Maschinengewehr Magazine
 
     Description Low caliber ranger grade

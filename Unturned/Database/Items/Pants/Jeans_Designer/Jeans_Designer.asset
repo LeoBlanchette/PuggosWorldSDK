@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Jeans_Designer
   m_EditorClassIdentifier: 
+  guid: 43b5dea57e504af491bc3d83a8aa337c
+  coreMasterBundlePath: /Items/Pants/Jeans_Designer/
   modType: 39
   rarity: 0
   id: 548
+  idLock: 0
   nameEnglish: 'Designer Jeans
 
     Description Highly fashionable denim.'

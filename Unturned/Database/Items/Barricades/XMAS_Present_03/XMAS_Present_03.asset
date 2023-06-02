@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: XMAS_Present_03
   m_EditorClassIdentifier: 
+  guid: aa8d83e919474fc19b8d091f0b3f8882
+  coreMasterBundlePath: /Items/Barricades/XMAS_Present_03/
   modType: 49
   rarity: 2
   id: 1698
+  idLock: 0
   nameEnglish: 'Present
 
     Description A colorful box for storing gifts.'

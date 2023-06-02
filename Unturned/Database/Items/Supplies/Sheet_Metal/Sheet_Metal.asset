@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sheet_Metal
   m_EditorClassIdentifier: 
+  guid: 8011324940f0444494e80413efd9937d
+  coreMasterBundlePath: /Items/Supplies/Sheet_Metal/
   modType: 51
   rarity: 1
   id: 68
+  idLock: 0
   nameEnglish: 'Metal Sheet
 
     Description Refined metal pounded into a sheet.'

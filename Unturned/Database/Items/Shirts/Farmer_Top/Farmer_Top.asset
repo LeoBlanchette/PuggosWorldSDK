@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Farmer_Top
   m_EditorClassIdentifier: 
+  guid: 42facd23820d4fd7af286ac68e70091e
+  coreMasterBundlePath: /Items/Shirts/Farmer_Top/
   modType: 44
   rarity: 1
   id: 242
+  idLock: 0
   nameEnglish: 'Farmer Top
 
     Description Trusty overalls for farming.'

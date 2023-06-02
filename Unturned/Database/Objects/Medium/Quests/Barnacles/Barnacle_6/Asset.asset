@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 69249e947f6f47ff9d3ede25d7a88800
+  coreMasterBundlePath: /Objects/Medium/Quests/Barnacles/Barnacle_6/
   modType: 33
   rarity: 0
   id: 823
+  idLock: 0
   nameEnglish: 'Barnacle #7
 
     

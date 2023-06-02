@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Puzzle_Snowman_00
   m_EditorClassIdentifier: 
+  guid: ca32d87735b9478ba795123d975f19b2
+  coreMasterBundlePath: /Objects/Medium/Parks/Puzzle_Snowman_00/
   modType: 33
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: Puzzle Snowman #1
   cloneFrom: {fileID: 0}
   datFileValues:

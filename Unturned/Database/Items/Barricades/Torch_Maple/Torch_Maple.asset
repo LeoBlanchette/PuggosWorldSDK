@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Torch_Maple
   m_EditorClassIdentifier: 
+  guid: e0bb6e541fb142218d1d82f3ce1ca605
+  coreMasterBundlePath: /Items/Barricades/Torch_Maple/
   modType: 6
   rarity: 1
   id: 359
+  idLock: 0
   nameEnglish: 'Maple Torch
 
     Description Maple torch to provide a little bit

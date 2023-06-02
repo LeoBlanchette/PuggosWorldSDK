@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Chemicals
   m_EditorClassIdentifier: 
+  guid: 7246fbd97e2a40848423c7d518a94773
+  coreMasterBundlePath: /Items/Water/Chemicals/
   modType: 62
   rarity: 0
   id: 75
+  idLock: 0
   nameEnglish: 'Chemicals
 
     Description Bottle containing a potent mix of uranium

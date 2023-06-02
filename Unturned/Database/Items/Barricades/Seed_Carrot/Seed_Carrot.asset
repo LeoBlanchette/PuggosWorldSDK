@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Seed_Carrot
   m_EditorClassIdentifier: 
+  guid: f5d0b0a4f4ad4d7ea37a897ebb82b64f
+  coreMasterBundlePath: /Items/Barricades/Seed_Carrot/
   modType: 15
   rarity: 0
   id: 330
+  idLock: 0
   nameEnglish: 'Carrot Seed
 
     Description Ready for planting and eating.'

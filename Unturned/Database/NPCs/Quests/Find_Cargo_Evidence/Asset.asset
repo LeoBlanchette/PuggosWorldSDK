@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 4fc0604734474d4882ec22b8a2386a90
+  coreMasterBundlePath: /NPCs/Quests/Find_Cargo_Evidence/
   modType: 40
   rarity: 0
   id: 176
+  idLock: 0
   nameEnglish: 'Smuggler''s Cove
 
     Description If you think it''s worth checking

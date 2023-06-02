@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plank_Pine
   m_EditorClassIdentifier: 
+  guid: e5d3134f52fd4d4f96b7b9739c265956
+  coreMasterBundlePath: /Items/Supplies/Plank_Pine/
   modType: 51
   rarity: 2
   id: 63
+  idLock: 0
   nameEnglish: 'Pine Plank
 
     Description Recently cut, high quality pine.'

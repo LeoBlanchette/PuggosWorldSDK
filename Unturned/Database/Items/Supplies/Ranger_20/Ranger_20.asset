@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ranger_20
   m_EditorClassIdentifier: 
+  guid: a02be5a44a4e4d7b9d652d8bcd90427a
+  coreMasterBundlePath: /Items/Supplies/Ranger_20/
   modType: 51
   rarity: 3
   id: 1193
+  idLock: 0
   nameEnglish: 'High Caliber Ranger Ammunition Box
 
     Description High caliber

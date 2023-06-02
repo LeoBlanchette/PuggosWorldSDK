@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Muzzle
   m_EditorClassIdentifier: 
+  guid: 74e21427bf6247adbb32d916dfb56e24
+  coreMasterBundlePath: /Items/Barrels/Military_Muzzle/
   modType: 5
   rarity: 2
   id: 150
+  idLock: 0
   nameEnglish: 'Military Muzzle
 
     Description Military grade muzzle. Hides muzzle

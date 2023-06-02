@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hammer
   m_EditorClassIdentifier: 
+  guid: 8715eedc3ec5477cb6ad74fa3ba22711
+  coreMasterBundlePath: /Items/Melee/Hammer/
   modType: 34
   rarity: 0
   id: 138
+  idLock: 0
   nameEnglish: 'Hammer
 
     Description Construction tool for work around the house.'

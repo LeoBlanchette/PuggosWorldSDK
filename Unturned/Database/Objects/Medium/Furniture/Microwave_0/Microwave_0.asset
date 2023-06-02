@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Microwave_0
   m_EditorClassIdentifier: 
+  guid: a869aeae4d774fda92a9cfa4f931965d
+  coreMasterBundlePath: /Objects/Medium/Furniture/Microwave_0/
   modType: 33
   rarity: 0
   id: 53
+  idLock: 0
   nameEnglish: Microwave #1
   cloneFrom: {fileID: 0}
   datFileValues:

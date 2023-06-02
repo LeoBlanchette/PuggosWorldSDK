@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Minnow_Cooked
   m_EditorClassIdentifier: 
+  guid: 1d105c191c69481eba650e5060bba774
+  coreMasterBundlePath: /Items/Food/Minnow_Cooked/
   modType: 18
   rarity: 0
   id: 1348
+  idLock: 0
   nameEnglish: 'Cooked Minnow
 
     Description Rather smelly and fishy.'

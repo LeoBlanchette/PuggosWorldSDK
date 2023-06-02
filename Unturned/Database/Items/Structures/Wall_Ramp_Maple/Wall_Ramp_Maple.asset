@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wall_Ramp_Maple
   m_EditorClassIdentifier: 
+  guid: c81e0414f0464ef3b9edac0f1bce8357
+  coreMasterBundlePath: /Items/Structures/Wall_Ramp_Maple/
   modType: 50
   rarity: 1
   id: 1414
+  idLock: 0
   nameEnglish: 'Maple Ramp Wall
 
     Description Maple ramp wall. Beware of termites.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pie_Amber
   m_EditorClassIdentifier: 
+  guid: 57d011f357d6461d874315d48d30af91
+  coreMasterBundlePath: /Items/Food/Pie_Amber/
   modType: 18
   rarity: 3
   id: 1076
+  idLock: 0
   nameEnglish: 'Amber Pie
 
     Description Baked to perfection.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Present_3_XMAS
   m_EditorClassIdentifier: 
+  guid: 749eba3fa747456fbce1bda16361f9d7
+  coreMasterBundlePath: /Objects/Small/Furniture/Present_3_XMAS/
   modType: 47
   rarity: 0
   id: 485
+  idLock: 0
   nameEnglish: Present #4
   cloneFrom: {fileID: 0}
   datFileValues:

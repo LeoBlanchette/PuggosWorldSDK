@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pumpkin
   m_EditorClassIdentifier: 
+  guid: a35f9ab4ceac48e8b46eb80bb4207f39
+  coreMasterBundlePath: /Items/Food/Pumpkin/
   modType: 18
   rarity: 0
   id: 1046
+  idLock: 0
   nameEnglish: 'Pumpkin
 
     Description Orange vegetable.'

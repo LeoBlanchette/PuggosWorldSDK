@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Volga_Orange
   m_EditorClassIdentifier: 
+  guid: 2a9cf6b3e75845d585f31344eef32a71
+  coreMasterBundlePath: /Vehicles/Volga_Orange/
   modType: 58
   rarity: 0
   id: 113
+  idLock: 0
   nameEnglish: Orange Auto
   cloneFrom: {fileID: 0}
   datFileValues:

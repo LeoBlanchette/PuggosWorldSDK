@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Medic_Cover_0
   m_EditorClassIdentifier: 
+  guid: ddfb074854d24ad48c7377c1d65eab38
+  coreMasterBundlePath: /Objects/Large/Utilities/Medic_Cover_0/
   modType: 27
   rarity: 0
   id: 308
+  idLock: 0
   nameEnglish: Medic Cover #1
   cloneFrom: {fileID: 0}
   datFileValues:

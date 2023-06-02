@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Firefighter_Helmet
   m_EditorClassIdentifier: 
+  guid: b5fefe4ea23e486b89fcd11076179c5b
+  coreMasterBundlePath: /Items/Hats/Firefighter_Helmet/
   modType: 25
   rarity: 1
   id: 241
+  idLock: 0
   nameEnglish: 'Firefighter Helmet
 
     Description Firefighting uniform hat.'

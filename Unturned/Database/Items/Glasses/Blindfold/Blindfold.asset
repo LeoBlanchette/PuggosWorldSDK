@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Blindfold
   m_EditorClassIdentifier: 
+  guid: 450d723ba4fa423d95e08d20f6cb4c91
+  coreMasterBundlePath: /Items/Glasses/Blindfold/
   modType: 21
   rarity: 1
   id: 1464
+  idLock: 0
   nameEnglish: 'Blindfold
 
     Description Block out your vision.'

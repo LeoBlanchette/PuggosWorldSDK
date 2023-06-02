@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Medic_Top
   m_EditorClassIdentifier: 
+  guid: 37773a948b1c4e87a0668ca400c5f7fe
+  coreMasterBundlePath: /Items/Shirts/Medic_Top/
   modType: 44
   rarity: 1
   id: 311
+  idLock: 0
   nameEnglish: 'Medic Top
 
     Description Medic uniform shirt.'

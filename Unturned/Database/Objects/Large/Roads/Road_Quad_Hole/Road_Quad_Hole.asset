@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Road_Quad_Hole
   m_EditorClassIdentifier: 
+  guid: 0029c995c0b14c36b75d6a2f176e64c1
+  coreMasterBundlePath: /Objects/Large/Roads/Road_Quad_Hole/
   modType: 27
   rarity: 0
   id: 600
+  idLock: 0
   nameEnglish: Road Quad Hole #1
   cloneFrom: {fileID: 0}
   datFileValues:

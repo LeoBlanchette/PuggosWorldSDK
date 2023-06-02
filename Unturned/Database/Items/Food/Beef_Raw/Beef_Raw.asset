@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Beef_Raw
   m_EditorClassIdentifier: 
+  guid: 212bf4bb58f94ad6a36ff2533e8d04b0
+  coreMasterBundlePath: /Items/Food/Beef_Raw/
   modType: 18
   rarity: 0
   id: 1120
+  idLock: 0
   nameEnglish: 'Raw Beef
 
     Description Lean and juicy.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Window_Metal
   m_EditorClassIdentifier: 
+  guid: ccefe735fe7b42679354a42e4838f74d
+  coreMasterBundlePath: /Items/Structures/Window_Metal/
   modType: 50
   rarity: 3
   id: 372
+  idLock: 0
   nameEnglish: 'Metal Window
 
     Description Metal window. Beware of robotic termites.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Door_Chamber
   m_EditorClassIdentifier: 
+  guid: 9d73e4ec2d174de6b03df31935da7296
+  coreMasterBundlePath: /Objects/Large/Military/Door_Chamber/
   modType: 27
   rarity: 0
   id: 739
+  idLock: 0
   nameEnglish: Chamber Door
   cloneFrom: {fileID: 0}
   datFileValues:

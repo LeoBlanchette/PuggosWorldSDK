@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Doorway_Metal
   m_EditorClassIdentifier: 
+  guid: 14f5751f8e0f44feb6e3d62fe3be09f9
+  coreMasterBundlePath: /Items/Structures/Doorway_Metal/
   modType: 50
   rarity: 3
   id: 370
+  idLock: 0
   nameEnglish: 'Metal Doorway
 
     Description Metal doorway. Beware of robotic

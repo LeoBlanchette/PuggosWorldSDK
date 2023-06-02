@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ghillie_Top_Arctic
   m_EditorClassIdentifier: 
+  guid: 169f90a47edf4ea38ffc7fc291a4a5ca
+  coreMasterBundlePath: /Items/Shirts/Ghillie_Top_Arctic/
   modType: 44
   rarity: 3
   id: 1512
+  idLock: 0
   nameEnglish: 'Arctic Ghillie Top
 
     Description Military snow stealth shirt.

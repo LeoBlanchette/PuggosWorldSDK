@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crate_10
   m_EditorClassIdentifier: 
+  guid: 1ac42390b1f647f2bf916827220a9961
+  coreMasterBundlePath: /Objects/Medium/Military/Crate_10/
   modType: 33
   rarity: 0
   id: 956
+  idLock: 0
   nameEnglish: Coalition Crate #1
   cloneFrom: {fileID: 0}
   datFileValues:

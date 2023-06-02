@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ghillie_Bottom_Russia
   m_EditorClassIdentifier: 
+  guid: f3b9aaa1d75741b79ab71b0f133fbf7c
+  coreMasterBundlePath: /Items/Pants/Ghillie_Bottom_Russia/
   modType: 39
   rarity: 3
   id: 1355
+  idLock: 0
   nameEnglish: 'Ghillie Bottom
 
     Description Military foliage stealth pants.'

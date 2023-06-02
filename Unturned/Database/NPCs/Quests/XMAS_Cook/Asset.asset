@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: dce15fc1bd04440cb54d0016e4ee1b87
+  coreMasterBundlePath: /NPCs/Quests/XMAS_Cook/
   modType: 40
   rarity: 0
   id: 318
+  idLock: 0
   nameEnglish: 'Gingerbread Army
 
     Description Try out Sous-Chef Roman''s new

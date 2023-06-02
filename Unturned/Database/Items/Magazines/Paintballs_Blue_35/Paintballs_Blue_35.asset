@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Paintballs_Blue_35
   m_EditorClassIdentifier: 
+  guid: 9711b32a5c5849c7998b7fcbfe6e834a
+  coreMasterBundlePath: /Items/Magazines/Paintballs_Blue_35/
   modType: 29
   rarity: 1
   id: 1339
+  idLock: 0
   nameEnglish: 'Blue Paintball Hopper
 
     Description Painting grade <color=uncommon>Paintball

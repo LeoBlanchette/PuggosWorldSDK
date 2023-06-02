@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Post_Pine
   m_EditorClassIdentifier: 
+  guid: 70eb585d89d74384898a72491df63e51
+  coreMasterBundlePath: /Items/Structures/Post_Pine/
   modType: 50
   rarity: 2
   id: 448
+  idLock: 0
   nameEnglish: 'Pine Post
 
     Description Pine post. Beware of termites.'

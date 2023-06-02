@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Traffic_Light_0
   m_EditorClassIdentifier: 
+  guid: 1db37d594c53487fbc71edf291a75261
+  coreMasterBundlePath: /Objects/Medium/Traffic/Traffic_Light_0/
   modType: 33
   rarity: 0
   id: 38
+  idLock: 0
   nameEnglish: Traffic Light #1
   cloneFrom: {fileID: 0}
   datFileValues:

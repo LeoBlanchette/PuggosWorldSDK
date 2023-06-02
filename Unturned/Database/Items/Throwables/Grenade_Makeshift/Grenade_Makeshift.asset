@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Grenade_Makeshift
   m_EditorClassIdentifier: 
+  guid: 364bebbb3c9e42a1a04d678f7d6e3164
+  coreMasterBundlePath: /Items/Throwables/Grenade_Makeshift/
   modType: 54
   rarity: 0
   id: 1242
+  idLock: 0
   nameEnglish: 'Makeshift Grenade
 
     Description A wicked throwable explosive.'

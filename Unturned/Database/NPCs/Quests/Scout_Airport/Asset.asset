@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 0d684cbcdcff4556bc5d9f7c573bf9b0
+  coreMasterBundlePath: /NPCs/Quests/Scout_Airport/
   modType: 40
   rarity: 0
   id: 98
+  idLock: 0
   nameEnglish: 'The Hunt for Jet Fuel
 
     Description <color=rare>Lieutenant Oswald</color>

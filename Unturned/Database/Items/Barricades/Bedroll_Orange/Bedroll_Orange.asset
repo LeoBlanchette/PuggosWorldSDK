@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bedroll_Orange
   m_EditorClassIdentifier: 
+  guid: dfae4b9fe30d4974a594e00b86e89beb
+  coreMasterBundlePath: /Items/Barricades/Bedroll_Orange/
   modType: 6
   rarity: 0
   id: 291
+  idLock: 0
   nameEnglish: 'Orange Bedroll
 
     Description Warm bed perfect for a campsite.'

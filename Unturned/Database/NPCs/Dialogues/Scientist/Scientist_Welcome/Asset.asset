@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 7052a182fc6c4edbb06abc6884719bb4
+  coreMasterBundlePath: /NPCs/Dialogues/Scientist/Scientist_Welcome/
   modType: 13
   rarity: 0
   id: 77
+  idLock: 0
   nameEnglish: "Message_0_Page_0 Have you ever wondered why you can't put a silencer
     on a shotgun?\r\nMessage_1_Page_0 I don't suppose you'd be available to help
     test a new attachment prototype I've been working on?\r\nMessage_2_Page_0 Wouldn't

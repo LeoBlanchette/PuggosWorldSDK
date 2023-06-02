@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dumptruck
   m_EditorClassIdentifier: 
+  guid: baf480fa0fd5484a9a00ed45021a09e3
+  coreMasterBundlePath: /Vehicles/Dumptruck/
   modType: 58
   rarity: 2
   id: 141
+  idLock: 0
   nameEnglish: Dumptruck
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: bf45db5c012642e99f29c34bbccdc959
+  coreMasterBundlePath: /NPCs/Characters/Medic/
   modType: 36
   rarity: 0
   id: 758
+  idLock: 0
   nameEnglish: 'Medic Swanson
 
     Character Dr. Swanson'

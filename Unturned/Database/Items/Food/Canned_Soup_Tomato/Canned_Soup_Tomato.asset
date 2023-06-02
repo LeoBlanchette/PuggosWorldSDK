@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Canned_Soup_Tomato
   m_EditorClassIdentifier: 
+  guid: 83b3188d5930467f98d712e4a354bf26
+  coreMasterBundlePath: /Items/Food/Canned_Soup_Tomato/
   modType: 18
   rarity: 0
   id: 77
+  idLock: 0
   nameEnglish: 'Canned Tomato Soup
 
     Description Carefully sealed tomato paste.'

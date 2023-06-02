@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Quad_Purple
   m_EditorClassIdentifier: 
+  guid: fe2626d89a1942238c3c3dbc3db3eea5
+  coreMasterBundlePath: /Objects/Large/Vehicles/Quad_Purple/
   modType: 27
   rarity: 0
   id: 447
+  idLock: 0
   nameEnglish: Purple Quad
   cloneFrom: {fileID: 0}
   datFileValues:

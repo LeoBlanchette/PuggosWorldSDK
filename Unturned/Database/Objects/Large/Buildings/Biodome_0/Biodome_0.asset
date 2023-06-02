@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Biodome_0
   m_EditorClassIdentifier: 
+  guid: 170fbf6440f144be9c1a6cdb506233ed
+  coreMasterBundlePath: /Objects/Large/Buildings/Biodome_0/
   modType: 27
   rarity: 0
   id: 422
+  idLock: 0
   nameEnglish: Biodome #1
   cloneFrom: {fileID: 0}
   datFileValues:

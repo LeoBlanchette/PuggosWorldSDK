@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pork_Cooked
   m_EditorClassIdentifier: 
+  guid: b699f082ce5a4432a995f848150550e0
+  coreMasterBundlePath: /Items/Food/Pork_Cooked/
   modType: 18
   rarity: 0
   id: 1118
+  idLock: 0
   nameEnglish: 'Bacon
 
     Description Extra greasy!'

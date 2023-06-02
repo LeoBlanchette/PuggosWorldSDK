@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hawkhound_8
   m_EditorClassIdentifier: 
+  guid: 190080e1fd0d4587aeca7c8e4194c1d9
+  coreMasterBundlePath: /Items/Magazines/Hawkhound_8/
   modType: 29
   rarity: 1
   id: 111
+  idLock: 0
   nameEnglish: 'Hawkhound Magazine
 
     Description Low caliber civilian grade <color=uncommon>Hawkhound</color>

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Elevator_1
   m_EditorClassIdentifier: 
+  guid: 39c4acb8cec0414189bff01ab68c8f6e
+  coreMasterBundlePath: /Objects/Medium/Business/Elevator_1/
   modType: 33
   rarity: 0
   id: 913
+  idLock: 0
   nameEnglish: Elevator #2
   cloneFrom: {fileID: 0}
   datFileValues:

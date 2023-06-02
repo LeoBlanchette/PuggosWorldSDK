@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rangefinder
   m_EditorClassIdentifier: 
+  guid: 8d405ee87e15401a99338b05c50f3a0c
+  coreMasterBundlePath: /Items/Tacticals/Rangefinder/
   modType: 52
   rarity: 3
   id: 1008
+  idLock: 0
   nameEnglish: 'Rangefinder
 
     Description Side mounted distance laser.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Test_Auto_Decal
   m_EditorClassIdentifier: 
+  guid: 1874cbd88b334c559240b4548c26a0da
+  coreMasterBundlePath: /Objects/Small/Decals/Test_Auto_Decal/
   modType: 11
   rarity: 0
   id: 1042
+  idLock: 0
   nameEnglish: Test Auto Decal
   cloneFrom: {fileID: 0}
   datFileValues:

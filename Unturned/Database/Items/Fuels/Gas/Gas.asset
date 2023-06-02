@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Gas
   m_EditorClassIdentifier: 
+  guid: a47aed61ea9e4dcb880ece4b17a4e58b
+  coreMasterBundlePath: /Items/Fuels/Gas/
   modType: 19
   rarity: 1
   id: 28
+  idLock: 0
   nameEnglish: 'Portable Gas Can
 
     Description Sizeable can of gasoline.'

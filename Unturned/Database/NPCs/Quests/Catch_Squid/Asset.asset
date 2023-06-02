@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 7912d58435f149b9894287767550e23b
+  coreMasterBundlePath: /NPCs/Quests/Catch_Squid/
   modType: 40
   rarity: 0
   id: 38
+  idLock: 0
   nameEnglish: 'The One That Got Away
 
     Description If you happen to catch Wallace''s

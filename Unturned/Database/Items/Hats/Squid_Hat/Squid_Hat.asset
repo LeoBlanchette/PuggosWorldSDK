@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Squid_Hat
   m_EditorClassIdentifier: 
+  guid: 07a6191f6dd040a2883976089421c514
+  coreMasterBundlePath: /Items/Hats/Squid_Hat/
   modType: 25
   rarity: 2
   id: 788
+  idLock: 0
   nameEnglish: 'Squid Captains Hat
 
     Description A large pirate hat worn by the

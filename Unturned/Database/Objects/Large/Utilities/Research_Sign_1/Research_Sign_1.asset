@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Research_Sign_1
   m_EditorClassIdentifier: 
+  guid: 51f910420ff74099b5f3ac48c0eb20e8
+  coreMasterBundlePath: /Objects/Large/Utilities/Research_Sign_1/
   modType: 27
   rarity: 0
   id: 424
+  idLock: 0
   nameEnglish: Research Sign #2
   cloneFrom: {fileID: 0}
   datFileValues:

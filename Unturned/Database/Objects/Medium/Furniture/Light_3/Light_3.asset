@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Light_3
   m_EditorClassIdentifier: 
+  guid: 433c56ed43dc4a8794330a323f26334e
+  coreMasterBundlePath: /Objects/Medium/Furniture/Light_3/
   modType: 33
   rarity: 0
   id: 772
+  idLock: 0
   nameEnglish: Light #4
   cloneFrom: {fileID: 0}
   datFileValues:

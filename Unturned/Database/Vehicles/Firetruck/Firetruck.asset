@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Firetruck
   m_EditorClassIdentifier: 
+  guid: 738657ca07c240749684c0ef91d52a43
+  coreMasterBundlePath: /Vehicles/Firetruck/
   modType: 58
   rarity: 1
   id: 34
+  idLock: 0
   nameEnglish: Firetruck
   cloneFrom: {fileID: 0}
   datFileValues:

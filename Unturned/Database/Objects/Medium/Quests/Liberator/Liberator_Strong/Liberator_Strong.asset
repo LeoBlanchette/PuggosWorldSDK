@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Liberator_Strong
   m_EditorClassIdentifier: 
+  guid: fb4f87df44244d448861d1718d0824d1
+  coreMasterBundlePath: /Objects/Medium/Quests/Liberator/Liberator_Strong/
   modType: 33
   rarity: 0
   id: 771
+  idLock: 0
   nameEnglish: Liberator Strong
   cloneFrom: {fileID: 0}
   datFileValues:

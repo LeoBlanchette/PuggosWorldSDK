@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sandbag
   m_EditorClassIdentifier: 
+  guid: 72f208d1eb854c879b50659046c239a5
+  coreMasterBundlePath: /Items/Barricades/Sandbag/
   modType: 6
   rarity: 1
   id: 365
+  idLock: 0
   nameEnglish: 'Sandbag
 
     Description Sand bags for blocking bullets.'

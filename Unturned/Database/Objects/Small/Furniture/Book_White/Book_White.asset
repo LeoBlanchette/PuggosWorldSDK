@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Book_White
   m_EditorClassIdentifier: 
+  guid: 37022bcf313a4850a3bea2ac4d6bff49
+  coreMasterBundlePath: /Objects/Small/Furniture/Book_White/
   modType: 47
   rarity: 0
   id: 354
+  idLock: 0
   nameEnglish: White Book
   cloneFrom: {fileID: 0}
   datFileValues:

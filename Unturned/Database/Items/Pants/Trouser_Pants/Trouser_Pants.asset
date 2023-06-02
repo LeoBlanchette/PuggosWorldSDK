@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Trouser_Pants
   m_EditorClassIdentifier: 
+  guid: b549781a9ca44c968fa4ba223a2845b0
+  coreMasterBundlePath: /Items/Pants/Trouser_Pants/
   modType: 39
   rarity: 0
   id: 214
+  idLock: 0
   nameEnglish: 'Trouser Pants
 
     Description Grey pants for any occasion.'

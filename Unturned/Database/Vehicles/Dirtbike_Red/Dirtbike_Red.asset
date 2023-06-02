@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dirtbike_Red
   m_EditorClassIdentifier: 
+  guid: 4a641d88ad934510b56461ac0886388d
+  coreMasterBundlePath: /Vehicles/Dirtbike_Red/
   modType: 58
   rarity: 0
   id: 181
+  idLock: 0
   nameEnglish: Red Dirtbike
   cloneFrom: {fileID: 0}
   datFileValues:

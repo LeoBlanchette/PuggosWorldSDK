@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Canned_Sardines
   m_EditorClassIdentifier: 
+  guid: f48a04ec76504077a6e4d4d7c0ef75b4
+  coreMasterBundlePath: /Items/Food/Canned_Sardines/
   modType: 18
   rarity: 0
   id: 90
+  idLock: 0
   nameEnglish: 'Canned Sardines
 
     Description Carefully sealed sardine fish.'

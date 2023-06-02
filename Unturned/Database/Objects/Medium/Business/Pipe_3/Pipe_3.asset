@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pipe_3
   m_EditorClassIdentifier: 
+  guid: 3cf2e09708d74781ab1dade3f8e7f265
+  coreMasterBundlePath: /Objects/Medium/Business/Pipe_3/
   modType: 33
   rarity: 0
   id: 750
+  idLock: 0
   nameEnglish: Pipe #4
   cloneFrom: {fileID: 0}
   datFileValues:

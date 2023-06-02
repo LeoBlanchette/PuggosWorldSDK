@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Empire
   m_EditorClassIdentifier: 
+  guid: 05b74337afe84bfb91ceabc33e441812
+  coreMasterBundlePath: /Items/Guns/Empire/
   modType: 24
   rarity: 2
   id: 1481
+  idLock: 0
   nameEnglish: 'Empire
 
     Description German submachine gun chambered in Empire

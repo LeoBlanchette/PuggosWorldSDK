@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Artifact_2
   m_EditorClassIdentifier: 
+  guid: 54fb6767c567455f9fa1645028664a99
+  coreMasterBundlePath: /Objects/Small/Quests/Artifacts/Artifact_2/
   modType: 47
   rarity: 0
   id: 848
+  idLock: 0
   nameEnglish: 'Artifact #3
 
     

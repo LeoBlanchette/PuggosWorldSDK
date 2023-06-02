@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 0fdedc940d834e69ba90ccb8913a279a
+  coreMasterBundlePath: /NPCs/Dialogues/T.Rickster/T.Rickster_Referred/
   modType: 13
   rarity: 0
   id: 22
+  idLock: 0
   nameEnglish: Message_0_Page_0 Ooohohoho he's out and about! Wait I mean like yeah
     he should be, I don't suppose he mentioned I'm not supposed to be in here? Either
     way good to meet you <name_char>, I'm T.Rickster short for Terry Rickster.

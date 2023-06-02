@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tank_Forest_Body
   m_EditorClassIdentifier: 
+  guid: b29fb3027b9f4da486d2d102a39f060c
+  coreMasterBundlePath: /Objects/Large/Vehicles/Tank_Forest_Body/
   modType: 27
   rarity: 0
   id: 372
+  idLock: 0
   nameEnglish: Forest Tank Body
   cloneFrom: {fileID: 0}
   datFileValues:

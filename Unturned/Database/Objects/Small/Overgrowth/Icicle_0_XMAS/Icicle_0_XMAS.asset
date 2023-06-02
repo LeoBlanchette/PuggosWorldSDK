@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Icicle_0_XMAS
   m_EditorClassIdentifier: 
+  guid: 0df547a6caba4bbab3fb17b1dab58a9a
+  coreMasterBundlePath: /Objects/Small/Overgrowth/Icicle_0_XMAS/
   modType: 47
   rarity: 0
   id: 198
+  idLock: 0
   nameEnglish: Icicle #1
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_23
   m_EditorClassIdentifier: 
+  guid: 164ac7785cc44808b077b666aae666a1
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_23/
   modType: 33
   rarity: 0
   id: 2024
+  idLock: 0
   nameEnglish: 'Russia Note - Coalition
 
     

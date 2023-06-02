@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: XMAS_Stocking
   m_EditorClassIdentifier: 
+  guid: 2392375eafce4394bccbf4c8d56174cf
+  coreMasterBundlePath: /Items/Barricades/XMAS_Stocking/
   modType: 49
   rarity: 2
   id: 1705
+  idLock: 0
   nameEnglish: 'Stocking
 
     Description Large red sock used for storing gifts.'

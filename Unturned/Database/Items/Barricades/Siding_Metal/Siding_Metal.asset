@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Siding_Metal
   m_EditorClassIdentifier: 
+  guid: 7bb2df43c9b74bc0906a2bbb9cb7431d
+  coreMasterBundlePath: /Items/Barricades/Siding_Metal/
   modType: 6
   rarity: 3
   id: 1093
+  idLock: 0
   nameEnglish: 'Metal Siding
 
     Description Metal siding. Beware of robotic termites.'

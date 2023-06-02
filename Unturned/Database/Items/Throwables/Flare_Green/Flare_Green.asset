@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flare_Green
   m_EditorClassIdentifier: 
+  guid: 6e22af43c5174171856e2122dbcddca7
+  coreMasterBundlePath: /Items/Throwables/Flare_Green/
   modType: 54
   rarity: 0
   id: 256
+  idLock: 0
   nameEnglish: 'Green Flare
 
     Description Road flare for quickly lighting up

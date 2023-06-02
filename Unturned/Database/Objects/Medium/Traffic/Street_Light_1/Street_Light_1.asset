@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Street_Light_1
   m_EditorClassIdentifier: 
+  guid: 96a57c2b84344a40a81fe941c214994e
+  coreMasterBundlePath: /Objects/Medium/Traffic/Street_Light_1/
   modType: 33
   rarity: 0
   id: 706
+  idLock: 0
   nameEnglish: Street Light #2
   cloneFrom: {fileID: 0}
   datFileValues:

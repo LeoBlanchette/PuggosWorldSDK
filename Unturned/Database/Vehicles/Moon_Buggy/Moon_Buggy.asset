@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Moon_Buggy
   m_EditorClassIdentifier: 
+  guid: 3cde72ef86334bdd8af6aa5af699a670
+  coreMasterBundlePath: /Vehicles/Moon_Buggy/
   modType: 58
   rarity: 2
   id: 139
+  idLock: 0
   nameEnglish: Moon Buggy
   cloneFrom: {fileID: 0}
   datFileValues:

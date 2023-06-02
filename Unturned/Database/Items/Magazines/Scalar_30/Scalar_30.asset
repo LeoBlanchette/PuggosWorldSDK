@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Scalar_30
   m_EditorClassIdentifier: 
+  guid: 29ee2674c5b34536b222977bf58bccdb
+  coreMasterBundlePath: /Items/Magazines/Scalar_30/
   modType: 29
   rarity: 3
   id: 1449
+  idLock: 0
   nameEnglish: 'Scalar Magazine
 
     Description Low caliber military grade <color=rare>Scalar</color>

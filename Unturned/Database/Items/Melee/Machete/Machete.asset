@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Machete
   m_EditorClassIdentifier: 
+  guid: a6a510da7d494700b89b238d1b2570fb
+  coreMasterBundlePath: /Items/Melee/Machete/
   modType: 34
   rarity: 2
   id: 1035
+  idLock: 0
   nameEnglish: 'Machete
 
     Description High quality bushwhacking tool.'

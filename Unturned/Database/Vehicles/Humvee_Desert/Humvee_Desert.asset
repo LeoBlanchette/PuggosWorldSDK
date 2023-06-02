@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Humvee_Desert
   m_EditorClassIdentifier: 
+  guid: a8fe49b8c1c6490e9d1ae387ca1b9205
+  coreMasterBundlePath: /Vehicles/Humvee_Desert/
   modType: 58
   rarity: 2
   id: 56
+  idLock: 0
   nameEnglish: 'Desert Armored Offroader
 
 '

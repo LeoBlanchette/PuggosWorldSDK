@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Paintballgun_Barrel
   m_EditorClassIdentifier: 
+  guid: cc4f2ab604324c6a9b8650f1d0883d50
+  coreMasterBundlePath: /Items/Barrels/Paintballgun_Barrel/
   modType: 5
   rarity: 0
   id: 1338
+  idLock: 0
   nameEnglish: 
   cloneFrom: {fileID: 0}
   datFileValues:

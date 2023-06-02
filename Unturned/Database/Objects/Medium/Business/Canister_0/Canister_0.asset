@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Canister_0
   m_EditorClassIdentifier: 
+  guid: 78df646248284555a77a35758ff5002a
+  coreMasterBundlePath: /Objects/Medium/Business/Canister_0/
   modType: 33
   rarity: 0
   id: 509
+  idLock: 0
   nameEnglish: Canister #1
   cloneFrom: {fileID: 0}
   datFileValues:

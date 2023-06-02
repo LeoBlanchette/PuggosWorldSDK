@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Schofield_5
   m_EditorClassIdentifier: 
+  guid: 51028b1597ee47ff896354ffd2880f27
+  coreMasterBundlePath: /Items/Magazines/Schofield_5/
   modType: 29
   rarity: 1
   id: 103
+  idLock: 0
   nameEnglish: 'Schofield Clip
 
     Description Low caliber civilian grade <color=uncommon>Schofield</color>

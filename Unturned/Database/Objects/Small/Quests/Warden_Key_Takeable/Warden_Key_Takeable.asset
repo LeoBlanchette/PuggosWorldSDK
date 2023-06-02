@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Warden_Key_Takeable
   m_EditorClassIdentifier: 
+  guid: c24dec8438304de68f4c9b38aaedebc8
+  coreMasterBundlePath: /Objects/Small/Quests/Warden_Key_Takeable/
   modType: 47
   rarity: 0
   id: 1014
+  idLock: 0
   nameEnglish: 'Warden Key Takeable
 
     

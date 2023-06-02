@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Snayperskya
   m_EditorClassIdentifier: 
+  guid: 892e1b4b1b5240edbe75e7e668de895b
+  coreMasterBundlePath: /Items/Guns/Snayperskya/
   modType: 24
   rarity: 2
   id: 129
+  idLock: 0
   nameEnglish: 'Snayperskya
 
     Description Russian sharpshooter rifle chambered

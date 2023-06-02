@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fusilaut
   m_EditorClassIdentifier: 
+  guid: 53735d1bbb494d7ca1fc02f3747dbe56
+  coreMasterBundlePath: /Items/Guns/Fusilaut/
   modType: 24
   rarity: 3
   id: 1375
+  idLock: 0
   nameEnglish: 'Fusilaut
 
     Description French assault rifle chambered in Ranger

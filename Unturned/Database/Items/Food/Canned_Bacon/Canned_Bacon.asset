@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Canned_Bacon
   m_EditorClassIdentifier: 
+  guid: 09400201a37c4495a12c695fc6ab4d08
+  coreMasterBundlePath: /Items/Food/Canned_Bacon/
   modType: 18
   rarity: 0
   id: 88
+  idLock: 0
   nameEnglish: 'Canned Bacon
 
     Description Greasy and somehow cooked.'

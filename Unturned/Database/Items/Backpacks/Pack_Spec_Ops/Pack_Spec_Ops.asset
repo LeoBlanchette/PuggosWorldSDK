@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pack_Spec_Ops
   m_EditorClassIdentifier: 
+  guid: 01eec4d860954a10bf559c97f855fbef
+  coreMasterBundlePath: /Items/Backpacks/Pack_Spec_Ops/
   modType: 4
   rarity: 4
   id: 1170
+  idLock: 0
   nameEnglish: 'Spec Ops Rucksack
 
     Description Medium sized tactical backpack.'

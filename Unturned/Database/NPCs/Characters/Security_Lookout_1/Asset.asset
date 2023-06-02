@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: e08676c88831402f8faf35c9acf3075a
+  coreMasterBundlePath: /NPCs/Characters/Security_Lookout_1/
   modType: 36
   rarity: 0
   id: 797
+  idLock: 0
   nameEnglish: 'Security Lookout Lydia
 
     Character Lydia'

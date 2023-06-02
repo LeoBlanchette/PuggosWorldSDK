@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Compass
   m_EditorClassIdentifier: 
+  guid: c487ec61a1e141818192e0626a2a89e2
+  coreMasterBundlePath: /Items/Maps/Compass/
   modType: 10
   rarity: 3
   id: 1508
+  idLock: 0
   nameEnglish: 'Compass
 
     Description Check the magnetic direction.'

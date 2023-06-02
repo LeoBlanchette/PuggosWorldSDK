@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Battery_00
   m_EditorClassIdentifier: 
+  guid: c7058fab9cdd4d48abcb32290b01a174
+  coreMasterBundlePath: /Objects/Small/Quests/Battery_00/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: 'Battery #1
 
     

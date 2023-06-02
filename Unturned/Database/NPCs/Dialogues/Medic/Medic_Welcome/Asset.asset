@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: a0c7068ab388409ba9a8032c266ac6e2
+  coreMasterBundlePath: /NPCs/Dialogues/Medic/Medic_Welcome/
   modType: 13
   rarity: 0
   id: 74
+  idLock: 0
   nameEnglish: "Message_0_Page_0 Hello!\r\n\r\nResponse_0 Need any help?\r\nResponse_1
     I found those research capsules! \r\nResponse_2 Have you found anything in those
     capsules yet?\r\nResponse_3 Is he going to be alright?\r\nResponse_4 Goodbye"

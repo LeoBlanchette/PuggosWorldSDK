@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flag_American
   m_EditorClassIdentifier: 
+  guid: fb7b9ae8ebea4f8387e2cf39b8e21c0b
+  coreMasterBundlePath: /Objects/Medium/Parks/Flag_American/
   modType: 33
   rarity: 0
   id: 404
+  idLock: 0
   nameEnglish: American Flag
   cloneFrom: {fileID: 0}
   datFileValues:

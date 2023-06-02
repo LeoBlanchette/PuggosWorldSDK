@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Snow_3
   m_EditorClassIdentifier: 
+  guid: fe59b79350b647598d4b7a998b3b6b09
+  coreMasterBundlePath: /Objects/Large/Scenery/Snow_3/
   modType: 27
   rarity: 0
   id: 418
+  idLock: 0
   nameEnglish: Snow #3
   cloneFrom: {fileID: 0}
   datFileValues:

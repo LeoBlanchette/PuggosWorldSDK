@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: House_10
   m_EditorClassIdentifier: 
+  guid: 5d361220df77495d87f2731c492de417
+  coreMasterBundlePath: /Objects/Mooki/House_10/
   modType: 27
   rarity: 0
   id: 523
+  idLock: 0
   nameEnglish: House #11
   cloneFrom: {fileID: 0}
   datFileValues:

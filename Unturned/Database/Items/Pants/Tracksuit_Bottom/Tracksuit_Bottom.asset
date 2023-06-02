@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tracksuit_Bottom
   m_EditorClassIdentifier: 
+  guid: 80cad1db9e6a445d9f85a3ba1cd5b6ae
+  coreMasterBundlePath: /Items/Pants/Tracksuit_Bottom/
   modType: 39
   rarity: 0
   id: 1392
+  idLock: 0
   nameEnglish: 'Tracksuit Bottom
 
     Description Keep warm while exercising.'

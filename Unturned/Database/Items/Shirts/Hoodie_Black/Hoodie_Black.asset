@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hoodie_Black
   m_EditorClassIdentifier: 
+  guid: 4320a312455e4e8784bdab031e305136
+  coreMasterBundlePath: /Items/Shirts/Hoodie_Black/
   modType: 44
   rarity: 0
   id: 181
+  idLock: 0
   nameEnglish: 'Black Hoodie
 
     Description Chilly weather hoodie.'

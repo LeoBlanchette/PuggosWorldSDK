@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Daypack_Green
   m_EditorClassIdentifier: 
+  guid: 34d02b30e8464ed78477e068bc60bc5f
+  coreMasterBundlePath: /Items/Backpacks/Daypack_Green/
   modType: 4
   rarity: 0
   id: 202
+  idLock: 0
   nameEnglish: 'Green Daypack
 
     Description Medium sized synthetic backpack.'

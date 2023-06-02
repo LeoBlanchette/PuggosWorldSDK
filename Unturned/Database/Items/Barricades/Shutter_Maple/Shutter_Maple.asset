@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Shutter_Maple
   m_EditorClassIdentifier: 
+  guid: 04be9ef2195347f6818e3135c7f70645
+  coreMasterBundlePath: /Items/Barricades/Shutter_Maple/
   modType: 6
   rarity: 1
   id: 1223
+  idLock: 0
   nameEnglish: 'Maple Shutter
 
     Description Maple shutter ideal for keeping out

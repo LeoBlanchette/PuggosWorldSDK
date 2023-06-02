@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Roof_Birch_Triangle
   m_EditorClassIdentifier: 
+  guid: 13740d87fc1543ee9fc8b47d9d7141a1
+  coreMasterBundlePath: /Items/Structures/Roof_Birch_Triangle/
   modType: 50
   rarity: 0
   id: 1267
+  idLock: 0
   nameEnglish: 'Triangular Birch Roof
 
     Description Birch triangular roof. Beware

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Minnow_Raw
   m_EditorClassIdentifier: 
+  guid: 91b1a71752414505983edc03d3e92646
+  coreMasterBundlePath: /Items/Food/Minnow_Raw/
   modType: 18
   rarity: 0
   id: 1347
+  idLock: 0
   nameEnglish: 'Raw Minnow
 
     Description Rather smelly and fishy.'

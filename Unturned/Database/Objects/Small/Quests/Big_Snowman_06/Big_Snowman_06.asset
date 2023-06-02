@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Big_Snowman_06
   m_EditorClassIdentifier: 
+  guid: d6f6d716e13147dd8889d80c94ed6d96
+  coreMasterBundlePath: /Objects/Small/Quests/Big_Snowman_06/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: Big Snowman #7
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bodybag_0
   m_EditorClassIdentifier: 
+  guid: 3ab529988b8a44be9c10075d186d5222
+  coreMasterBundlePath: /Objects/Medium/Rubble/Bodybag_0/
   modType: 33
   rarity: 0
   id: 921
+  idLock: 0
   nameEnglish: Bodybag #1
   cloneFrom: {fileID: 0}
   datFileValues:

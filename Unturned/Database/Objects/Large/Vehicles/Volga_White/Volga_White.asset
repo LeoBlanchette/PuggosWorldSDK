@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Volga_White
   m_EditorClassIdentifier: 
+  guid: e9d96964abdf463e94251ed30add34cd
+  coreMasterBundlePath: /Objects/Large/Vehicles/Volga_White/
   modType: 27
   rarity: 0
   id: 652
+  idLock: 0
   nameEnglish: White Auto
   cloneFrom: {fileID: 0}
   datFileValues:

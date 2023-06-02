@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Barricade_Maple
   m_EditorClassIdentifier: 
+  guid: f589a62f20584d568e4b239ef2fbbdda
+  coreMasterBundlePath: /Items/Barricades/Barricade_Maple/
   modType: 6
   rarity: 1
   id: 30
+  idLock: 0
   nameEnglish: 'Maple Barricade
 
     Description Maple shield ideal for barricading

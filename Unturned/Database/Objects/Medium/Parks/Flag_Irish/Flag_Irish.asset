@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flag_Irish
   m_EditorClassIdentifier: 
+  guid: 331e71de7a98473dab6ad37d1ecbcf4b
+  coreMasterBundlePath: /Objects/Medium/Parks/Flag_Irish/
   modType: 33
   rarity: 0
   id: 518
+  idLock: 0
   nameEnglish: 'Irish Flag
 
 '

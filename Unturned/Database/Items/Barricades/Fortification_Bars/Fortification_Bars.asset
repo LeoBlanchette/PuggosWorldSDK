@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fortification_Bars
   m_EditorClassIdentifier: 
+  guid: fc85052a459c4736a141f571607485b9
+  coreMasterBundlePath: /Items/Barricades/Fortification_Bars/
   modType: 6
   rarity: 3
   id: 287
+  idLock: 0
   nameEnglish: 'Bars Fortification
 
     Description Metal bars ideal for fortifying

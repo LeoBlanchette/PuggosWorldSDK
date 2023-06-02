@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Quarry_Catwalk_1
   m_EditorClassIdentifier: 
+  guid: ee6e19eef67c44b3b46e73ee1e67f2f6
+  coreMasterBundlePath: /Objects/Medium/Business/Quarry_Catwalk_1/
   modType: 33
   rarity: 0
   id: 874
+  idLock: 0
   nameEnglish: Quarry Catwalk Bracket
   cloneFrom: {fileID: 0}
   datFileValues:

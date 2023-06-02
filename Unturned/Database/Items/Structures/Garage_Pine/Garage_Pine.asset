@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Garage_Pine
   m_EditorClassIdentifier: 
+  guid: b04d56587fa1491a8a520444ccf2852b
+  coreMasterBundlePath: /Items/Structures/Garage_Pine/
   modType: 50
   rarity: 2
   id: 453
+  idLock: 0
   nameEnglish: 'Pine Garage
 
     Description Pine garage. Beware of termites.'

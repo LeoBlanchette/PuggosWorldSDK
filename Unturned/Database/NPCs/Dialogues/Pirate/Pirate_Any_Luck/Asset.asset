@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: a82342e4793e4894bbf8d939ae2489f3
+  coreMasterBundlePath: /NPCs/Dialogues/Pirate/Pirate_Any_Luck/
   modType: 13
   rarity: 0
   id: 34
+  idLock: 0
   nameEnglish: 'Message_0_Page_0 The usual small ones...<pause> I''m keeping an eye
     out for a new nemesis!
 

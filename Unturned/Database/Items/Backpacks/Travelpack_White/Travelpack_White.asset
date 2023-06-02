@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Travelpack_White
   m_EditorClassIdentifier: 
+  guid: 71bd7932c5c94632ad2fd10ae6aa68d8
+  coreMasterBundlePath: /Items/Backpacks/Travelpack_White/
   modType: 4
   rarity: 0
   id: 251
+  idLock: 0
   nameEnglish: 'White Travelpack
 
     Description Medium sized synthetic travel

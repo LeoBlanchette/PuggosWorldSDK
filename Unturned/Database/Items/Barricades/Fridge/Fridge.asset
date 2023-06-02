@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fridge
   m_EditorClassIdentifier: 
+  guid: 4436d32f5bce4ac4a647245d92482bde
+  coreMasterBundlePath: /Items/Barricades/Fridge/
   modType: 49
   rarity: 2
   id: 1249
+  idLock: 0
   nameEnglish: 'Fridge
 
     Description Metal counter for food and drinks.'

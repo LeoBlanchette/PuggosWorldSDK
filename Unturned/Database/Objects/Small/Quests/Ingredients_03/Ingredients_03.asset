@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ingredients_03
   m_EditorClassIdentifier: 
+  guid: 672a58d12d5248aa884829f81673bbec
+  coreMasterBundlePath: /Objects/Small/Quests/Ingredients_03/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: 'Ingredients #4
 
     

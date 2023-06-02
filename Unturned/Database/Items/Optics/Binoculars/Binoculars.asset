@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Binoculars
   m_EditorClassIdentifier: 
+  guid: 87590b813b8b4302912ab60123c999d3
+  coreMasterBundlePath: /Items/Optics/Binoculars/
   modType: 38
   rarity: 1
   id: 333
+  idLock: 0
   nameEnglish: "Binoculars \r\nDescription Long range optics for keeping an eye out."
   cloneFrom: {fileID: 0}
   datFileValues:

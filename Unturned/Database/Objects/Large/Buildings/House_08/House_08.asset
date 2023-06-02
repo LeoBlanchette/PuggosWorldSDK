@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: House_08
   m_EditorClassIdentifier: 
+  guid: d72178489b9248e387cf95cf37811c53
+  coreMasterBundlePath: /Objects/Large/Buildings/House_08/
   modType: 27
   rarity: 0
   id: 80
+  idLock: 0
   nameEnglish: House #09
   cloneFrom: {fileID: 0}
   datFileValues:

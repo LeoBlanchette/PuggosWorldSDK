@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: a16b7c74730d4b22beaf550fa6c1d63e
+  coreMasterBundlePath: /NPCs/Characters/Commander/
   modType: 36
   rarity: 0
   id: 753
+  idLock: 0
   nameEnglish: 'Commander Laurence
 
     Character <color=legendary>Commander Laurence</color>'

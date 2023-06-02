@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Statue_4
   m_EditorClassIdentifier: 
+  guid: 816461c740ed419ab085d55ad0078989
+  coreMasterBundlePath: /Objects/Medium/Parks/Statue_4/
   modType: 33
   rarity: 0
   id: 711
+  idLock: 0
   nameEnglish: Statue #5
   cloneFrom: {fileID: 0}
   datFileValues:

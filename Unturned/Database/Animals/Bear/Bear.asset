@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bear
   m_EditorClassIdentifier: 
+  guid: d796d64255f143cd84585ffdd1fbb364
+  coreMasterBundlePath: /Animals/Bear/
   modType: 1
   rarity: 0
   id: 5
+  idLock: 0
   nameEnglish: Bear
   cloneFrom: {fileID: 0}
   datFileValues:

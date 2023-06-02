@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Warden_Key_Returnable
   m_EditorClassIdentifier: 
+  guid: 35879ee14a99491697859c4a793f3d13
+  coreMasterBundlePath: /Objects/Small/Quests/Warden_Key_Returnable/
   modType: 47
   rarity: 0
   id: 1015
+  idLock: 0
   nameEnglish: 'Warden Key Returnable
 
     

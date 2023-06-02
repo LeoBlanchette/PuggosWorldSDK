@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Couch
   m_EditorClassIdentifier: 
+  guid: 0924eedb0d2347baa80450327b849425
+  coreMasterBundlePath: /Items/Barricades/Couch/
   modType: 6
   rarity: 0
   id: 1256
+  idLock: 0
   nameEnglish: 'Couch
 
     Description Comfy spot to hangout and unwind.'

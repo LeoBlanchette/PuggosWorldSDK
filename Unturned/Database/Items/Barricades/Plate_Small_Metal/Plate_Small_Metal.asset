@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plate_Small_Metal
   m_EditorClassIdentifier: 
+  guid: dccdb796257e4300981e050ef6539639
+  coreMasterBundlePath: /Items/Barricades/Plate_Small_Metal/
   modType: 6
   rarity: 3
   id: 1092
+  idLock: 0
   nameEnglish: 'Small Metal Plate
 
     Description Metal plate. Beware of robotic

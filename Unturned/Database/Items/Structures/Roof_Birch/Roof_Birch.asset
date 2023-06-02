@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Roof_Birch
   m_EditorClassIdentifier: 
+  guid: 00e189f5436d4a2db78d1d603f58b8d1
+  coreMasterBundlePath: /Items/Structures/Roof_Birch/
   modType: 50
   rarity: 0
   id: 55
+  idLock: 0
   nameEnglish: 'Birch Roof
 
     Description Birch roof. Beware of termites.'

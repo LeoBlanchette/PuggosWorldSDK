@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Shuttle_Launch_1
   m_EditorClassIdentifier: 
+  guid: b965228405894b6989ec07f335c6eaf0
+  coreMasterBundlePath: /Objects/Large/Buildings/Shuttle_Launch_1/
   modType: 27
   rarity: 0
   id: 899
+  idLock: 0
   nameEnglish: Shuttle Launch #2
   cloneFrom: {fileID: 0}
   datFileValues:

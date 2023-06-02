@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dragonfang_150
   m_EditorClassIdentifier: 
+  guid: 92fdba07b4d44ef786935eeb21749f4b
+  coreMasterBundlePath: /Items/Magazines/Dragonfang_150/
   modType: 29
   rarity: 3
   id: 133
+  idLock: 0
   nameEnglish: 'Dragonfang Box
 
     Description High caliber military grade <color=epic>Dragonfang</color>

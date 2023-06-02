@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ural_Desert
   m_EditorClassIdentifier: 
+  guid: 2f4f2d6be19a46a087ddb826a770f364
+  coreMasterBundlePath: /Objects/Large/Vehicles/Ural_Desert/
   modType: 27
   rarity: 0
   id: 408
+  idLock: 0
   nameEnglish: Desert Ural
   cloneFrom: {fileID: 0}
   datFileValues:

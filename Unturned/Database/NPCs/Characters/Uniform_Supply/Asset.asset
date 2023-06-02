@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: eca3ebd7762b4bbeaea5e83c9995ab1d
+  coreMasterBundlePath: /NPCs/Characters/Uniform_Supply/
   modType: 36
   rarity: 0
   id: 790
+  idLock: 0
   nameEnglish: 'Uniform Supply Franklin
 
     Character <color=uncommon>Ensign Franklin</color>'

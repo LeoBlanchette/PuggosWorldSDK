@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sandwich_Minnow
   m_EditorClassIdentifier: 
+  guid: 01959aaebbb646a680538f558241e31b
+  coreMasterBundlePath: /Items/Food/Sandwich_Minnow/
   modType: 18
   rarity: 2
   id: 1400
+  idLock: 0
   nameEnglish: 'Minnow Sandwich
 
     Description Tasty minnow in a blanket of bread.'

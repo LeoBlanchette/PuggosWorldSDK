@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Bottom_Russia
   m_EditorClassIdentifier: 
+  guid: 14f811fc6bd74b18b9d5437f1105bbf9
+  coreMasterBundlePath: /Items/Pants/Military_Bottom_Russia/
   modType: 39
   rarity: 2
   id: 1334
+  idLock: 0
   nameEnglish: 'Military Bottom
 
     Description Military uniform pants.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Spotlight_0
   m_EditorClassIdentifier: 
+  guid: 11a1c52e8ca043bab587dd6fc02c58d3
+  coreMasterBundlePath: /Objects/Medium/Military/Spotlight_0/
   modType: 33
   rarity: 0
   id: 900
+  idLock: 0
   nameEnglish: Spotlight
   cloneFrom: {fileID: 0}
   datFileValues:

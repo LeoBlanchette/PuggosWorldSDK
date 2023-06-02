@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bottled_Energy
   m_EditorClassIdentifier: 
+  guid: 1b83942ef7d247c293acf2f831609e93
+  coreMasterBundlePath: /Items/Water/Bottled_Energy/
   modType: 62
   rarity: 0
   id: 93
+  idLock: 0
   nameEnglish: 'Bottled Energy
 
     Description Questionable blend of chemicals

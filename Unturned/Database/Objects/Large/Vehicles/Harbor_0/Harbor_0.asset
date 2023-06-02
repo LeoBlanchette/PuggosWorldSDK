@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Harbor_0
   m_EditorClassIdentifier: 
+  guid: 5fa11a5ad35a43e3bbc192786d75b9ff
+  coreMasterBundlePath: /Objects/Large/Vehicles/Harbor_0/
   modType: 27
   rarity: 0
   id: 321
+  idLock: 0
   nameEnglish: Harbor #1
   cloneFrom: {fileID: 0}
   datFileValues:

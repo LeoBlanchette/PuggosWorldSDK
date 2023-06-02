@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crushed_Russet
   m_EditorClassIdentifier: 
+  guid: 621b8e87b5e84440993b04ebacd9cf84
+  coreMasterBundlePath: /Items/Water/Crushed_Russet/
   modType: 62
   rarity: 0
   id: 400
+  idLock: 0
   nameEnglish: 'Refined Russet Berries
 
     Description Slightly less suspicious

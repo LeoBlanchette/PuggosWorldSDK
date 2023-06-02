@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tunnel_Line_0
   m_EditorClassIdentifier: 
+  guid: 2fa4898742474da59ffcf15c29d7b81c
+  coreMasterBundlePath: /Objects/Large/Roads/Tunnel_Line_0/
   modType: 27
   rarity: 0
   id: 133
+  idLock: 0
   nameEnglish: Tunnel Line #1
   cloneFrom: {fileID: 0}
   datFileValues:

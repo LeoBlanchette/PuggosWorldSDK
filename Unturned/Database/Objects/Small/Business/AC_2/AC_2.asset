@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: AC_2
   m_EditorClassIdentifier: 
+  guid: c3783e8a3c164de1ab4142516203f8aa
+  coreMasterBundlePath: /Objects/Small/Business/AC_2/
   modType: 47
   rarity: 0
   id: 581
+  idLock: 0
   nameEnglish: AC #3
   cloneFrom: {fileID: 0}
   datFileValues:

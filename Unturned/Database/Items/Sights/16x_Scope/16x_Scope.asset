@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: 16x_Scope
   m_EditorClassIdentifier: 
+  guid: cad1829745be410c9a11f4fd8a70efaa
+  coreMasterBundlePath: /Items/Sights/16x_Scope/
   modType: 45
   rarity: 3
   id: 296
+  idLock: 0
   nameEnglish: '16x Scope
 
     Description Rail mounted 16x zoom scope.'

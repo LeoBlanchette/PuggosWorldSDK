@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Leather
   m_EditorClassIdentifier: 
+  guid: c91f713f3510482987e6b322f8633e12
+  coreMasterBundlePath: /Items/Supplies/Leather/
   modType: 51
   rarity: 0
   id: 516
+  idLock: 0
   nameEnglish: 'Leather
 
     Description Durable material perfect for clothing.'

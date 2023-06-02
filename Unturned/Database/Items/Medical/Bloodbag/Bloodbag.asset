@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bloodbag
   m_EditorClassIdentifier: 
+  guid: db27aa55d06747db9071a4f71fe66e2d
+  coreMasterBundlePath: /Items/Medical/Bloodbag/
   modType: 32
   rarity: 3
   id: 395
+  idLock: 0
   nameEnglish: 'Bloodbag
 
     Description Bag of some A, B, AB, and O blood.'

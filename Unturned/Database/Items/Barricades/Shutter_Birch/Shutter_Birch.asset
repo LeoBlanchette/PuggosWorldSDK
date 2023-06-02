@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Shutter_Birch
   m_EditorClassIdentifier: 
+  guid: ad3be025b0f14c1d8183ad4ce3ef0afd
+  coreMasterBundlePath: /Items/Barricades/Shutter_Birch/
   modType: 6
   rarity: 0
   id: 1224
+  idLock: 0
   nameEnglish: 'Birch Shutter
 
     Description Birch shutter ideal for keeping out

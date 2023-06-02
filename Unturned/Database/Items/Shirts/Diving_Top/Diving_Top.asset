@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Diving_Top
   m_EditorClassIdentifier: 
+  guid: 50e3e56dd4384e74b5afbfa960466cb9
+  coreMasterBundlePath: /Items/Shirts/Diving_Top/
   modType: 44
   rarity: 2
   id: 1179
+  idLock: 0
   nameEnglish: 'Wetsuit Top
 
     Description Protection against the underwater environment.'

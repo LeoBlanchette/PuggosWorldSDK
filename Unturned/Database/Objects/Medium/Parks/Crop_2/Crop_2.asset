@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crop_2
   m_EditorClassIdentifier: 
+  guid: 0e20ba9f9ada40e7a29710168dc3c8f1
+  coreMasterBundlePath: /Objects/Medium/Parks/Crop_2/
   modType: 27
   rarity: 0
   id: 514
+  idLock: 0
   nameEnglish: Russia Crop #1
   cloneFrom: {fileID: 0}
   datFileValues:

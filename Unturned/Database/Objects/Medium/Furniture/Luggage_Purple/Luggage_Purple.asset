@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Luggage_Purple
   m_EditorClassIdentifier: 
+  guid: e5e0724f5fc74606887e8bc680d52c02
+  coreMasterBundlePath: /Objects/Medium/Furniture/Luggage_Purple/
   modType: 33
   rarity: 0
   id: 674
+  idLock: 0
   nameEnglish: Purple Luggage
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fortification_Birch
   m_EditorClassIdentifier: 
+  guid: 55117369810c474eb9a64e1f702f0664
+  coreMasterBundlePath: /Items/Barricades/Fortification_Birch/
   modType: 6
   rarity: 0
   id: 47
+  idLock: 0
   nameEnglish: 'Birch Fortification
 
     Description Birch planks ideal for fortifying

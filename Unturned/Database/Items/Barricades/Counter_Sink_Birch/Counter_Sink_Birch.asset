@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Counter_Sink_Birch
   m_EditorClassIdentifier: 
+  guid: 527d6d79eb8d4d609e843ed3f4280476
+  coreMasterBundlePath: /Items/Barricades/Counter_Sink_Birch/
   modType: 49
   rarity: 0
   id: 1252
+  idLock: 0
   nameEnglish: 'Birch Counter Sink
 
     Description Birch counter sink for storing

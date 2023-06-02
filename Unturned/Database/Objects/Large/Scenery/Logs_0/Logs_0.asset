@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Logs_0
   m_EditorClassIdentifier: 
+  guid: 0efd7e199cf545caa77bdf782af5ba09
+  coreMasterBundlePath: /Objects/Large/Scenery/Logs_0/
   modType: 27
   rarity: 0
   id: 297
+  idLock: 0
   nameEnglish: Logs #1
   cloneFrom: {fileID: 0}
   datFileValues:

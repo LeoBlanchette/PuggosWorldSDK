@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Chef_Top
   m_EditorClassIdentifier: 
+  guid: e055ac5843a14477bc9d0ed11dd473d4
+  coreMasterBundlePath: /Items/Shirts/Chef_Top/
   modType: 44
   rarity: 1
   id: 230
+  idLock: 0
   nameEnglish: 'Chef Top
 
     Description Cooking uniform shirt.'

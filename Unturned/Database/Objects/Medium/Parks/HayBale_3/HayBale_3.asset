@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: HayBale_3
   m_EditorClassIdentifier: 
+  guid: 2f0a306eb0de4b1cb8a30d9a36d69bbb
+  coreMasterBundlePath: /Objects/Medium/Parks/HayBale_3/
   modType: 33
   rarity: 0
   id: 516
+  idLock: 0
   nameEnglish: Russia HayBale #2
   cloneFrom: {fileID: 0}
   datFileValues:

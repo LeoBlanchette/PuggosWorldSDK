@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Jerrycan_Birch
   m_EditorClassIdentifier: 
+  guid: 6ab24edd8fc94f9ca0657a98fb9e5fbf
+  coreMasterBundlePath: /Items/Fuels/Jerrycan_Birch/
   modType: 19
   rarity: 0
   id: 1115
+  idLock: 0
   nameEnglish: 'Birch Jerrycan
 
     Description Sizeable jerrycan of gasoline.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tray_00
   m_EditorClassIdentifier: 
+  guid: 7fd75b2128714d8aa419902b7daa7090
+  coreMasterBundlePath: /Objects/Small/Quests/Tray_00/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: Tray #1
   cloneFrom: {fileID: 0}
   datFileValues:

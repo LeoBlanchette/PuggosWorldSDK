@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Lava_0
   m_EditorClassIdentifier: 
+  guid: a47160f0be464d3ea7fb5eb59c29a275
+  coreMasterBundlePath: /Objects/Large/Scenery/Lava_0/
   modType: 27
   rarity: 0
   id: 867
+  idLock: 0
   nameEnglish: Lava #1
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 5aad47a3cdf14151b61bca6df0bae010
+  coreMasterBundlePath: /NPCs/Dialogues/Captain/Captain_Ranks_Query/
   modType: 13
   rarity: 0
   id: 5
+  idLock: 0
   nameEnglish: 'Message_0_Page_0 There are three main ranks to climb:<br><color=epic>Major</color>
     - Leader of a squad<br><color=rare>Lieutenant</color> - Deputy to a <color=epic>Major</color><br><color=uncommon>Ensign</color>
     - Soldier in a squad

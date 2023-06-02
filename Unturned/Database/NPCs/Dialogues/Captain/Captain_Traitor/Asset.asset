@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 18f49c3b9e8e4d86b7f3a73517a57ceb
+  coreMasterBundlePath: /NPCs/Dialogues/Captain/Captain_Traitor/
   modType: 13
   rarity: 0
   id: 193
+  idLock: 0
   nameEnglish: 'Message_0_Page_0 Thank you for bringing this to my attention!<br><i>*she
     pulls you aside*</i>
 

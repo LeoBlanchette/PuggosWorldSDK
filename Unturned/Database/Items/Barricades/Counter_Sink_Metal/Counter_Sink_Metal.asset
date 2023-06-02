@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Counter_Sink_Metal
   m_EditorClassIdentifier: 
+  guid: 9f6dd94886cd4b16af61365452728d76
+  coreMasterBundlePath: /Items/Barricades/Counter_Sink_Metal/
   modType: 49
   rarity: 2
   id: 1254
+  idLock: 0
   nameEnglish: 'Metal Counter Sink
 
     Description Metal counter sink for storing

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bow_Pine
   m_EditorClassIdentifier: 
+  guid: d80c5729a16d4e7da51132bb61be2757
+  coreMasterBundlePath: /Items/Guns/Bow_Pine/
   modType: 24
   rarity: 0
   id: 356
+  idLock: 0
   nameEnglish: 'Pine Bow
 
     Description Pine bow chambered in Arrows.'

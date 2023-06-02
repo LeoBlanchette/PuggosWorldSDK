@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flag_Pine
   m_EditorClassIdentifier: 
+  guid: 4fe9939fe8244de3a636f0470c9c0694
+  coreMasterBundlePath: /Items/Barricades/Flag_Pine/
   modType: 6
   rarity: 2
   id: 1233
+  idLock: 0
   nameEnglish: 'Pine Flag
 
     Description Pine flag coupled with colorful markers.'

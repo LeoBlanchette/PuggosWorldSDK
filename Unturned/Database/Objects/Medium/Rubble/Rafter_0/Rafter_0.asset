@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rafter_0
   m_EditorClassIdentifier: 
+  guid: 8763e7cb8001402db0f5790a874a3b4f
+  coreMasterBundlePath: /Objects/Medium/Rubble/Rafter_0/
   modType: 33
   rarity: 0
   id: 943
+  idLock: 0
   nameEnglish: Rafter #1
   cloneFrom: {fileID: 0}
   datFileValues:

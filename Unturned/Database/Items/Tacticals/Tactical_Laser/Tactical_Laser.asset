@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tactical_Laser
   m_EditorClassIdentifier: 
+  guid: 94ad327a9dd64f1eb0c80e5e29d2631f
+  coreMasterBundlePath: /Items/Tacticals/Tactical_Laser/
   modType: 52
   rarity: 2
   id: 151
+  idLock: 0
   nameEnglish: 'Tactical Laser
 
     Description Side mounted tactical laser. Increases

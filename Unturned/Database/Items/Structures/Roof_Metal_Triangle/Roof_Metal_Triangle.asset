@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Roof_Metal_Triangle
   m_EditorClassIdentifier: 
+  guid: 7f1d61f62aa040a2a95b08f15e20461d
+  coreMasterBundlePath: /Items/Structures/Roof_Metal_Triangle/
   modType: 50
   rarity: 3
   id: 1269
+  idLock: 0
   nameEnglish: 'Triangular Metal Roof
 
     Description Metal triangular roof. Beware

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Campfire
   m_EditorClassIdentifier: 
+  guid: 0d7a9597247f4bbeb5e5d348765a1772
+  coreMasterBundlePath: /Items/Barricades/Campfire/
   modType: 6
   rarity: 1
   id: 362
+  idLock: 0
   nameEnglish: 'Campfire
 
     Description Heat source for cooking and providing

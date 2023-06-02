@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flag_Russian
   m_EditorClassIdentifier: 
+  guid: 4115b5ab08bc4ccf830b983f68a80a41
+  coreMasterBundlePath: /Objects/Medium/Parks/Flag_Russian/
   modType: 33
   rarity: 0
   id: 518
+  idLock: 0
   nameEnglish: Russian Flag
   cloneFrom: {fileID: 0}
   datFileValues:

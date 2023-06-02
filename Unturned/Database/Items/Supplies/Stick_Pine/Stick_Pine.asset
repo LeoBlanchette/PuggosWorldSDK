@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Stick_Pine
   m_EditorClassIdentifier: 
+  guid: 53ffd2dd8e1e4cfabec228bb7ce98c13
+  coreMasterBundlePath: /Items/Supplies/Stick_Pine/
   modType: 51
   rarity: 2
   id: 42
+  idLock: 0
   nameEnglish: 'Pine Stick
 
     Description Recently cut, high quality pine.'

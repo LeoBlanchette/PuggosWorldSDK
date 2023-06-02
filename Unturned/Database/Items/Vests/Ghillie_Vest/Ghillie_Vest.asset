@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ghillie_Vest
   m_EditorClassIdentifier: 
+  guid: fdd547989a764148a845d79a286de37a
+  coreMasterBundlePath: /Items/Vests/Ghillie_Vest/
   modType: 61
   rarity: 3
   id: 238
+  idLock: 0
   nameEnglish: 'Ghillie Vest
 
     Description Military foliage stealth vest.'

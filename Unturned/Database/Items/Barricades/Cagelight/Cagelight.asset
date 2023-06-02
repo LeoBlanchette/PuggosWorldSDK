@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cagelight
   m_EditorClassIdentifier: 
+  guid: 849abfcff19649f881179714a6c33427
+  coreMasterBundlePath: /Items/Barricades/Cagelight/
   modType: 6
   rarity: 2
   id: 1222
+  idLock: 0
   nameEnglish: 'Cagelight
 
     Description Electricity powered large area light.'

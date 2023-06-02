@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Toque_White
   m_EditorClassIdentifier: 
+  guid: 615c3626632741a1b2701b905a8a38a0
+  coreMasterBundlePath: /Items/Hats/Toque_White/
   modType: 25
   rarity: 0
   id: 198
+  idLock: 0
   nameEnglish: 'White Toque
 
     Description Warm Canadian hat for the stormy winters.'

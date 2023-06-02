@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Research_Capsule_0
   m_EditorClassIdentifier: 
+  guid: 8d1e2da7fe544b8caf17ce15f01bd328
+  coreMasterBundlePath: /Objects/Medium/Quests/Research_Capsule/Research_Capsule_0/
   modType: 33
   rarity: 0
   id: 802
+  idLock: 0
   nameEnglish: 'Research Capsule #1
 
     

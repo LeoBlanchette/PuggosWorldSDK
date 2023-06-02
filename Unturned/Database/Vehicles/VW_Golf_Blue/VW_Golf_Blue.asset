@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: VW_Golf_Blue
   m_EditorClassIdentifier: 
+  guid: 4ed45f5faf6f447eb9ddd04065a22268
+  coreMasterBundlePath: /Vehicles/VW_Golf_Blue/
   modType: 58
   rarity: 0
   id: 150
+  idLock: 0
   nameEnglish: 'Blue Rally Car
 
 '

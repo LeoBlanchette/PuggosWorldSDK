@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Canteen
   m_EditorClassIdentifier: 
+  guid: 0ad4169927ab4e9f822adfbfb2cfe08d
+  coreMasterBundlePath: /Items/Refills/Canteen/
   modType: 41
   rarity: 1
   id: 337
+  idLock: 0
   nameEnglish: 'Canteen
 
     Description Sizeable container of liquid.'

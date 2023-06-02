@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Doorframe_Brick
   m_EditorClassIdentifier: 
+  guid: aa21b9fb96e34e1e9425b7503ec4a918
+  coreMasterBundlePath: /Items/Barricades/Doorframe_Brick/
   modType: 6
   rarity: 2
   id: 1217
+  idLock: 0
   nameEnglish: 'Brick Doorframe
 
     Description The zombies can huff and puff,

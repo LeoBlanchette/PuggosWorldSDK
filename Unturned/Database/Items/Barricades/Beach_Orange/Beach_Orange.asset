@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Beach_Orange
   m_EditorClassIdentifier: 
+  guid: c704d8cd8398484ca2bcf672f3a88232
+  coreMasterBundlePath: /Items/Barricades/Beach_Orange/
   modType: 6
   rarity: 0
   id: 1317
+  idLock: 0
   nameEnglish: 'Orange Beach Chair
 
     Description Comfy spot to relax in the shade.'

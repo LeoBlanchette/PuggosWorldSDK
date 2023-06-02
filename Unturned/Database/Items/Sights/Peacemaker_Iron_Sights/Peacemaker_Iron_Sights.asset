@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Peacemaker_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: d918fc8b37a14634befd43eaf0e2df15
+  coreMasterBundlePath: /Items/Sights/Peacemaker_Iron_Sights/
   modType: 45
   rarity: 0
   id: 1025
+  idLock: 0
   nameEnglish: 'Peacemaker Iron Sights
 
     Description Rail mounted iron sights.'

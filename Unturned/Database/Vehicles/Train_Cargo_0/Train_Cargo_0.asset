@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Train_Cargo_0
   m_EditorClassIdentifier: 
+  guid: 2328992185a44ed4a57fc7131717e429
+  coreMasterBundlePath: /Vehicles/Train_Cargo_0/
   modType: 58
   rarity: 3
   id: 186
+  idLock: 0
   nameEnglish: Cargo Train
   cloneFrom: {fileID: 0}
   datFileValues:

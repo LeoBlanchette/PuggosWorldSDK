@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Money_10
   m_EditorClassIdentifier: 
+  guid: c40280caf26e439fb7c3a3a38332b5b5
+  coreMasterBundlePath: /Items/Supplies/Money_10/
   modType: 51
   rarity: 0
   id: 1052
+  idLock: 0
   nameEnglish: '$10 Note
 
     Description Ten dollars of currency.'

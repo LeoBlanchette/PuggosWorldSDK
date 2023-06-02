@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coalition_Top_Major
   m_EditorClassIdentifier: 
+  guid: 6f945fe771f94561b13b8f1a5c9fd24e
+  coreMasterBundlePath: /Items/Shirts/Coalition_Top_Major/
   modType: 44
   rarity: 3
   id: 1422
+  idLock: 0
   nameEnglish: 'Major Coalition Top
 
     Description Coalition Major rank uniform

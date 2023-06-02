@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Spec_Ops_Top
   m_EditorClassIdentifier: 
+  guid: 00a3cd92c165454ea1bd2d322d47e92a
+  coreMasterBundlePath: /Items/Shirts/Spec_Ops_Top/
   modType: 44
   rarity: 4
   id: 1171
+  idLock: 0
   nameEnglish: 'Spec Ops Top
 
     Description Tactical uniform shirt.'

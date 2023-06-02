@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tee_Black
   m_EditorClassIdentifier: 
+  guid: 091a567b8d5e41abb5b81f3c50fa47bd
+  coreMasterBundlePath: /Items/Shirts/Tee_Black/
   modType: 44
   rarity: 0
   id: 184
+  idLock: 0
   nameEnglish: 'Black T-Shirt
 
     Description Warm weather tee.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Corduroy_Shorts
   m_EditorClassIdentifier: 
+  guid: 8bf0eb5aca6747bb97d22d86fab877f6
+  coreMasterBundlePath: /Items/Pants/Corduroy_Shorts/
   modType: 39
   rarity: 0
   id: 228
+  idLock: 0
   nameEnglish: 'Corduroy Shorts
 
     Description Also known for associating with

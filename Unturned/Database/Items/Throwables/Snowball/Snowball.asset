@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Snowball
   m_EditorClassIdentifier: 
+  guid: 1ab83834a99c4d2bb614f67152cec9b0
+  coreMasterBundlePath: /Items/Throwables/Snowball/
   modType: 54
   rarity: 2
   id: 1132
+  idLock: 0
   nameEnglish: 'Snowball
 
     Description Snow grade throwable explosive.'

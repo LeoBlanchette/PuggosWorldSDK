@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Police
   m_EditorClassIdentifier: 
+  guid: 0ba06901b31a42ab96d4e201ca09c9cc
+  coreMasterBundlePath: /Objects/Large/Vehicles/Police/
   modType: 27
   rarity: 0
   id: 169
+  idLock: 0
   nameEnglish: Police Car
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ladder_Metal_0
   m_EditorClassIdentifier: 
+  guid: 6255606c417942d8b5c7c5c5421b4c5e
+  coreMasterBundlePath: /Objects/Medium/Furniture/Ladder_Metal_0/
   modType: 33
   rarity: 0
   id: 144
+  idLock: 0
   nameEnglish: Ladder Metal #1
   cloneFrom: {fileID: 0}
   datFileValues:

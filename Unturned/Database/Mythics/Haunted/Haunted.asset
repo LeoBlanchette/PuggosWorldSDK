@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Haunted
   m_EditorClassIdentifier: 
+  guid: 4e3152aa3aa24fdea502cdf6ab92c39c
+  coreMasterBundlePath: /Mythics/Haunted/
   modType: 35
   rarity: 0
   id: 14
+  idLock: 0
   nameEnglish: Particle_Tag_Name Haunted
   cloneFrom: {fileID: 0}
   datFileValues: []

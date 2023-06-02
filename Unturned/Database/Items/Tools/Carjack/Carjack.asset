@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Carjack
   m_EditorClassIdentifier: 
+  guid: 0f2e7160127d41b5b2dd7a12490b13e7
+  coreMasterBundlePath: /Items/Tools/Carjack/
   modType: 56
   rarity: 1
   id: 277
+  idLock: 0
   nameEnglish: "Carjack \r\nDescription Tool for flipping cars out of stuck places.
     Not to be confused with robbery."
   cloneFrom: {fileID: 0}

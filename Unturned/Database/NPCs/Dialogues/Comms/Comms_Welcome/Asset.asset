@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 6b7f2689273d42968d50e92c7a3be04b
+  coreMasterBundlePath: /NPCs/Dialogues/Comms/Comms_Welcome/
   modType: 13
   rarity: 0
   id: 198
+  idLock: 0
   nameEnglish: 'Message_0_Page_0 Of course you had to put a stop to a good thing.<br>And
     now I''m stuck in here with this troll!<br>*<i>he glares at you</i>*
 

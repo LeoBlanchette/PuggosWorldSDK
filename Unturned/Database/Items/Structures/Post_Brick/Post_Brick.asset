@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Post_Brick
   m_EditorClassIdentifier: 
+  guid: 9438e29df9f8476cbf8b056a6a87bfd0
+  coreMasterBundlePath: /Items/Structures/Post_Brick/
   modType: 50
   rarity: 2
   id: 1213
+  idLock: 0
   nameEnglish: 'Brick Post
 
     Description The zombies can huff and puff, but they

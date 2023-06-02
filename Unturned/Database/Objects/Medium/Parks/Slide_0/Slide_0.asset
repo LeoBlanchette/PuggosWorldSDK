@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Slide_0
   m_EditorClassIdentifier: 
+  guid: 557cd017a9114c55840b36c7a43905ab
+  coreMasterBundlePath: /Objects/Medium/Parks/Slide_0/
   modType: 33
   rarity: 0
   id: 21
+  idLock: 0
   nameEnglish: Slide #1
   cloneFrom: {fileID: 0}
   datFileValues:

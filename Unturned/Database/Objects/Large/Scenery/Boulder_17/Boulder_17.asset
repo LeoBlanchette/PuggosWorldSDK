@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Boulder_17
   m_EditorClassIdentifier: 
+  guid: 790d83f13ef0421fac0c90afc50e34c8
+  coreMasterBundlePath: /Objects/Large/Scenery/Boulder_17/
   modType: 27
   rarity: 0
   id: 983
+  idLock: 0
   nameEnglish: Peaks Boulder #04
   cloneFrom: {fileID: 0}
   datFileValues:

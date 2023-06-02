@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Seed_Russet
   m_EditorClassIdentifier: 
+  guid: d0d78fef6ccc41989c2509733b5d254e
+  coreMasterBundlePath: /Items/Barricades/Seed_Russet/
   modType: 15
   rarity: 0
   id: 1108
+  idLock: 0
   nameEnglish: 'Russet Berry Seed
 
     Description Ready for planting and eating.'

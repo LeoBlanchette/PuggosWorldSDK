@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: XMAS_Castle_01
   m_EditorClassIdentifier: 
+  guid: deb9d548c0194bbfb19b9c217b6a9b24
+  coreMasterBundlePath: /Items/Barricades/XMAS_Castle_01/
   modType: 6
   rarity: 2
   id: 1703
+  idLock: 0
   nameEnglish: 'Large Ice Castle
 
     Description A decorative fortress made of

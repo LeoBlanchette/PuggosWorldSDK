@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Turnstile_0
   m_EditorClassIdentifier: 
+  guid: fa59029e57914a4cb2f86c1afc819379
+  coreMasterBundlePath: /Objects/Medium/Business/Turnstile_0/
   modType: 33
   rarity: 0
   id: 612
+  idLock: 0
   nameEnglish: Turnstile #1
   cloneFrom: {fileID: 0}
   datFileValues:

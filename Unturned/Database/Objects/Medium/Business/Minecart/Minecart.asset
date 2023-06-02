@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Minecart
   m_EditorClassIdentifier: 
+  guid: 413cf8f735d84ae4a5663e2bc60f444a
+  coreMasterBundlePath: /Objects/Medium/Business/Minecart/
   modType: 33
   rarity: 0
   id: 440
+  idLock: 0
   nameEnglish: Minecart
   cloneFrom: {fileID: 0}
   datFileValues:

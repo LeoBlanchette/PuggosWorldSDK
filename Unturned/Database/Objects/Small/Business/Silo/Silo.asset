@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Silo
   m_EditorClassIdentifier: 
+  guid: 7936d1da92c6445fb237b773ba9ce9bc
+  coreMasterBundlePath: /Objects/Small/Business/Silo/
   modType: 47
   rarity: 0
   id: 734
+  idLock: 0
   nameEnglish: Silo
   cloneFrom: {fileID: 0}
   datFileValues:

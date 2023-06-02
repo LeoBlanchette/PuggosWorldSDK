@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Car_Lift_0
   m_EditorClassIdentifier: 
+  guid: fbd8c012244841d991bac0eab39447bf
+  coreMasterBundlePath: /Objects/Medium/Utilities/Car_Lift_0/
   modType: 33
   rarity: 0
   id: 106
+  idLock: 0
   nameEnglish: Car Lift #1
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_Peaks_16
   m_EditorClassIdentifier: 
+  guid: c0029efd738149dcb585a0258d10c265
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_Peaks_16/
   modType: 33
   rarity: 0
   id: 2044
+  idLock: 0
   nameEnglish: 'Peaks Note - Shuttle Load
 
     

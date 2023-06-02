@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Vest_Police
   m_EditorClassIdentifier: 
+  guid: 7ab74ad66bb64faa89775318272434ce
+  coreMasterBundlePath: /Items/Vests/Vest_Police/
   modType: 61
   rarity: 2
   id: 10
+  idLock: 0
   nameEnglish: 'Police Vest
 
     Description Bullet resistant law enforcement gear.'

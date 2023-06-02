@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bowl_00
   m_EditorClassIdentifier: 
+  guid: 74301aba7fce461299550c4db5538111
+  coreMasterBundlePath: /Objects/Small/Quests/Bowl_00/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: Bowl #1
   cloneFrom: {fileID: 0}
   datFileValues:

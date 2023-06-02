@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Beer_Bottle_0
   m_EditorClassIdentifier: 
+  guid: 69e3bdfe128d45ccb4d00c44c874fc35
+  coreMasterBundlePath: /Objects/Small/Rubble/Beer_Bottle_0/
   modType: 47
   rarity: 0
   id: 1000
+  idLock: 0
   nameEnglish: Beer Bottle #1
   cloneFrom: {fileID: 0}
   datFileValues:

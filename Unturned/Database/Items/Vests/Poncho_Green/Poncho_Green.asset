@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Poncho_Green
   m_EditorClassIdentifier: 
+  guid: d18b20b554de402b81dde648198efff7
+  coreMasterBundlePath: /Items/Vests/Poncho_Green/
   modType: 61
   rarity: 0
   id: 412
+  idLock: 0
   nameEnglish: 'Green Poncho
 
     Description Comfortable fuzzy blanket.'

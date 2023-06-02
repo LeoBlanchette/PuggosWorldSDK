@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Matamorez_36
   m_EditorClassIdentifier: 
+  guid: adb3e44d2cdf49fbbcbb590967621b42
+  coreMasterBundlePath: /Items/Magazines/Matamorez_36/
   modType: 29
   rarity: 4
   id: 1005
+  idLock: 0
   nameEnglish: 'Matamorez Box
 
     Description High caliber ranger grade <color=legendary>Matamorez</color>

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Umbrella_Yellow
   m_EditorClassIdentifier: 
+  guid: 36113c77cc7d44028fc7990bacfb3bc9
+  coreMasterBundlePath: /Items/Clouds/Umbrella_Yellow/
   modType: 9
   rarity: 1
   id: 1128
+  idLock: 0
   nameEnglish: 'Yellow Umbrella
 
     Description Drift softly down from the heavens.'

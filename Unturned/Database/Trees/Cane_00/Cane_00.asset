@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cane_00
   m_EditorClassIdentifier: 
+  guid: 7a388a3e80bc4488a1aeedabc75741c8
+  coreMasterBundlePath: /Trees/Cane_00/
   modType: 42
   rarity: 0
   id: 50
+  idLock: 0
   nameEnglish: Cane #1
   cloneFrom: {fileID: 0}
   datFileValues:

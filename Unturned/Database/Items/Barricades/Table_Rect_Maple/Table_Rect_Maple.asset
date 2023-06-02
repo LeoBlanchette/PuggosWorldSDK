@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Table_Rect_Maple
   m_EditorClassIdentifier: 
+  guid: cb1ed27adaba4882ac56e03d74898a07
+  coreMasterBundlePath: /Items/Barricades/Table_Rect_Maple/
   modType: 6
   rarity: 1
   id: 1284
+  idLock: 0
   nameEnglish: 'Maple Rectangular Table
 
     Description Maple table for fine dining.'

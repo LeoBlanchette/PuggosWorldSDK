@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bane
   m_EditorClassIdentifier: 
+  guid: 643e071a122a4643b001354644fd22fd
+  coreMasterBundlePath: /Items/Guns/Bane/
   modType: 24
   rarity: 3
   id: 1484
+  idLock: 0
   nameEnglish: 'Devil''s Bane
 
     Description American shotgun chambered in Devil''s

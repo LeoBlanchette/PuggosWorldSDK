@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Door_Jail
   m_EditorClassIdentifier: 
+  guid: 5da2174e633f4705a46a63142bdc7050
+  coreMasterBundlePath: /Objects/Medium/Utilities/Door_Jail/
   modType: 33
   rarity: 0
   id: 123
+  idLock: 0
   nameEnglish: Jail Door #1
   cloneFrom: {fileID: 0}
   datFileValues:

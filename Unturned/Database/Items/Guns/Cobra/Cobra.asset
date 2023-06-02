@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cobra
   m_EditorClassIdentifier: 
+  guid: db1ee1b1d0174e7ebc29209089cd1a2e
+  coreMasterBundlePath: /Items/Guns/Cobra/
   modType: 24
   rarity: 2
   id: 99
+  idLock: 0
   nameEnglish: 'Cobra
 
     Description Austrian pistol chambered in Cobra ammunition.'

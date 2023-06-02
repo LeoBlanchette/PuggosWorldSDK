@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 5345e748900d4709b599641a9b3f1d6a
+  coreMasterBundlePath: /NPCs/Dialogues/Medic/Medic_Research_Completed/
   modType: 13
   rarity: 0
   id: 126
+  idLock: 0
   nameEnglish: Message_0_Page_0 Fascinating!<pause> The amount of information here
     is overwhelming, I'll certainly be busy for the forseeable future!
   cloneFrom: {fileID: 0}

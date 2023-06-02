@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Khaki_Pants
   m_EditorClassIdentifier: 
+  guid: b618bf0aa55d4a9094100231ca6fc078
+  coreMasterBundlePath: /Items/Pants/Khaki_Pants/
   modType: 39
   rarity: 0
   id: 212
+  idLock: 0
   nameEnglish: 'Khaki Pants
 
     Description British pants for maximum uniform.'

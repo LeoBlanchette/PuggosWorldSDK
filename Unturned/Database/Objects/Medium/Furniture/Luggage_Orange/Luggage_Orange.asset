@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Luggage_Orange
   m_EditorClassIdentifier: 
+  guid: 4c325073893b475e8fd11f693b41b916
+  coreMasterBundlePath: /Objects/Medium/Furniture/Luggage_Orange/
   modType: 33
   rarity: 0
   id: 673
+  idLock: 0
   nameEnglish: Orange Luggage
   cloneFrom: {fileID: 0}
   datFileValues:

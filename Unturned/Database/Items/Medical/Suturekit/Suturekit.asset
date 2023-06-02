@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Suturekit
   m_EditorClassIdentifier: 
+  guid: a10c9e69becb4e058525398936abb950
+  coreMasterBundlePath: /Items/Medical/Suturekit/
   modType: 32
   rarity: 3
   id: 403
+  idLock: 0
   nameEnglish: 'Suturekit
 
     Description A bag of field medical equipment for

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Nailgun_Barrel
   m_EditorClassIdentifier: 
+  guid: c2ad4c9279f14799965c8eb678306437
+  coreMasterBundlePath: /Items/Barrels/Nailgun_Barrel/
   modType: 5
   rarity: 0
   id: 1167
+  idLock: 0
   nameEnglish: 
   cloneFrom: {fileID: 0}
   datFileValues:

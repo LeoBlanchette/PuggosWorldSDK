@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sweatervest_Green
   m_EditorClassIdentifier: 
+  guid: f7e316f260e5475c81192da9f8e26c3f
+  coreMasterBundlePath: /Items/Vests/Sweatervest_Green/
   modType: 61
   rarity: 0
   id: 217
+  idLock: 0
   nameEnglish: 'Green Sweatervest
 
     Description Intellectual outer clothing.'

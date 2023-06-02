@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Door_Jail
   m_EditorClassIdentifier: 
+  guid: 296405b437f549038812a04bf2fa0eca
+  coreMasterBundlePath: /Items/Barricades/Door_Jail/
   modType: 6
   rarity: 3
   id: 284
+  idLock: 0
   nameEnglish: 'Jail Door
 
     Description Jail door ideal for keeping in unwanted

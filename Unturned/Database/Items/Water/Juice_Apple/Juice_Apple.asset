@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Juice_Apple
   m_EditorClassIdentifier: 
+  guid: 9c02a592daa54700b4625228b0c5db1f
+  coreMasterBundlePath: /Items/Water/Juice_Apple/
   modType: 62
   rarity: 0
   id: 91
+  idLock: 0
   nameEnglish: 'Apple Juice
 
     Description Tasty apple juice extract.'

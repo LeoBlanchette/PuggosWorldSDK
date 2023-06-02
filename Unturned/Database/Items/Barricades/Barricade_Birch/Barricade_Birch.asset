@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Barricade_Birch
   m_EditorClassIdentifier: 
+  guid: 2bf02be139774090b4631e52be0a765c
+  coreMasterBundlePath: /Items/Barricades/Barricade_Birch/
   modType: 6
   rarity: 0
   id: 45
+  idLock: 0
   nameEnglish: 'Birch Barricade
 
     Description Birch shield ideal for barricading

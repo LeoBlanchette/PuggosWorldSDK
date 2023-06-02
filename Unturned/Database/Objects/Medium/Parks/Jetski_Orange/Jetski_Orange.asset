@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Jetski_Orange
   m_EditorClassIdentifier: 
+  guid: adff610e763648798ceafbe57d99b62a
+  coreMasterBundlePath: /Objects/Medium/Parks/Jetski_Orange/
   modType: 33
   rarity: 0
   id: 501
+  idLock: 0
   nameEnglish: Orange Jetski
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Civilian_40
   m_EditorClassIdentifier: 
+  guid: 0e4cba15e42b4794b2eeebbeb54568e9
+  coreMasterBundlePath: /Items/Supplies/Civilian_40/
   modType: 51
   rarity: 1
   id: 44
+  idLock: 0
   nameEnglish: 'Low Caliber Civilian Ammunition Box
 
     Description Low caliber

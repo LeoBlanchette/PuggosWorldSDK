@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Couch_0
   m_EditorClassIdentifier: 
+  guid: abf18af7a4c34e43b9107a5fde995ba3
+  coreMasterBundlePath: /Objects/Medium/Furniture/Couch_0/
   modType: 33
   rarity: 0
   id: 19
+  idLock: 0
   nameEnglish: Couch #1
   cloneFrom: {fileID: 0}
   datFileValues:

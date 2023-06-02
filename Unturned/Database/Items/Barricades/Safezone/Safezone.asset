@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Safezone
   m_EditorClassIdentifier: 
+  guid: 71dec7f8e26248a09bbd1ceb7e2517dd
+  coreMasterBundlePath: /Items/Barricades/Safezone/
   modType: 6
   rarity: 4
   id: 1050
+  idLock: 0
   nameEnglish: 'Safezone Radiator
 
     Description Electricity powered item/zombie

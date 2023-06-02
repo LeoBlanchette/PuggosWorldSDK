@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fence_Coalition_1
   m_EditorClassIdentifier: 
+  guid: 59ff8ece61284b3abe5a1dd749c69520
+  coreMasterBundlePath: /Objects/Medium/Fences/Fence_Coalition_1/
   modType: 27
   rarity: 0
   id: 951
+  idLock: 0
   nameEnglish: Coalition Fence #2
   cloneFrom: {fileID: 0}
   datFileValues:

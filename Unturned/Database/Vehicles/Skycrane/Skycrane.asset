@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Skycrane
   m_EditorClassIdentifier: 
+  guid: fc43202764974c69969f73e849e81940
+  coreMasterBundlePath: /Vehicles/Skycrane/
   modType: 58
   rarity: 3
   id: 95
+  idLock: 0
   nameEnglish: Skycrane
   cloneFrom: {fileID: 0}
   datFileValues:

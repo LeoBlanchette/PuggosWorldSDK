@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 9fc9e7706e544236b13e1009ba98f54f
+  coreMasterBundlePath: /NPCs/Quests/Engine_Repair/
   modType: 40
   rarity: 0
   id: 128
+  idLock: 0
   nameEnglish: "The Squeaky Motor Gets the Grease \r\nDescription The ship's engine
     has been rattling quite a bit recently, but Natalie doesn't have the resources
     spare to fix it up. If you can find them for her while looting she'll take care

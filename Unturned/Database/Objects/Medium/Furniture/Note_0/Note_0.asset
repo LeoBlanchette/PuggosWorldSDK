@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_0
   m_EditorClassIdentifier: 
+  guid: 43c6980d46ac478880ae539ea36090a9
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_0/
   modType: 33
   rarity: 0
   id: 2001
+  idLock: 0
   nameEnglish: 'Note - Dr. Behan #1
 
     

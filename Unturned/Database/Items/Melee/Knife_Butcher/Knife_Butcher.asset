@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Knife_Butcher
   m_EditorClassIdentifier: 
+  guid: 9b1d2849181145b3813f004337d664ac
+  coreMasterBundlePath: /Items/Melee/Knife_Butcher/
   modType: 34
   rarity: 0
   id: 137
+  idLock: 0
   nameEnglish: 'Butcher Knife
 
     Description Meat knife for cutting meat.'

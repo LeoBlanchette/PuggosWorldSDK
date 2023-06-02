@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tower_Military_1
   m_EditorClassIdentifier: 
+  guid: 1e60c78681824616b3a83375daa4583a
+  coreMasterBundlePath: /Objects/Large/Buildings/Tower_Military_1/
   modType: 27
   rarity: 0
   id: 288
+  idLock: 0
   nameEnglish: Military Tower #2
   cloneFrom: {fileID: 0}
   datFileValues:

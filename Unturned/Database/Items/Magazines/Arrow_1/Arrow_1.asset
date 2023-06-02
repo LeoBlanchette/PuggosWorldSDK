@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Arrow_1
   m_EditorClassIdentifier: 
+  guid: 7e5b3f79c8e842d7b3427ea6d24a4d1e
+  coreMasterBundlePath: /Items/Magazines/Arrow_1/
   modType: 29
   rarity: 1
   id: 347
+  idLock: 0
   nameEnglish: 'Arrow
 
     Description Hard to snap.'

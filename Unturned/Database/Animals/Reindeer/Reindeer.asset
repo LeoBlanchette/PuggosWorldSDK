@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Reindeer
   m_EditorClassIdentifier: 
+  guid: 1462a5999b6149109d1899d12825cef3
+  coreMasterBundlePath: /Animals/Reindeer/
   modType: 1
   rarity: 0
   id: 7
+  idLock: 0
   nameEnglish: Reindeer
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ranger_Suppressor
   m_EditorClassIdentifier: 
+  guid: dbf09de669eb445bbfa7a1a41d033d35
+  coreMasterBundlePath: /Items/Barrels/Ranger_Suppressor/
   modType: 5
   rarity: 3
   id: 144
+  idLock: 0
   nameEnglish: 'Ranger Suppressor
 
     Description Ranger grade suppressor. Makes

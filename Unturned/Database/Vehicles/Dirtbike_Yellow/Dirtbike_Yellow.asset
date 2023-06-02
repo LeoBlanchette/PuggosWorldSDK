@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dirtbike_Yellow
   m_EditorClassIdentifier: 
+  guid: 4f4a9b4ba835428b96c63fde20a7d807
+  coreMasterBundlePath: /Vehicles/Dirtbike_Yellow/
   modType: 58
   rarity: 0
   id: 183
+  idLock: 0
   nameEnglish: Yellow Dirtbike
   cloneFrom: {fileID: 0}
   datFileValues:

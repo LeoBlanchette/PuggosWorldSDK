@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Lifeguard_1
   m_EditorClassIdentifier: 
+  guid: 17c602e482644788b5a1c4c8b14d0d98
+  coreMasterBundlePath: /Objects/Medium/Parks/Lifeguard_1/
   modType: 33
   rarity: 0
   id: 690
+  idLock: 0
   nameEnglish: Lifeguard #2
   cloneFrom: {fileID: 0}
   datFileValues:

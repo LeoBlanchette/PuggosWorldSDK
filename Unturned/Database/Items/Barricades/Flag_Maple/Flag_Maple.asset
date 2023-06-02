@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flag_Maple
   m_EditorClassIdentifier: 
+  guid: 8c66d8a630e14c9e91d53337f53e0a57
+  coreMasterBundlePath: /Items/Barricades/Flag_Maple/
   modType: 6
   rarity: 1
   id: 1231
+  idLock: 0
   nameEnglish: 'Maple Flag
 
     Description Maple flag coupled with colorful markers.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Landmine
   m_EditorClassIdentifier: 
+  guid: 95fbe3c8459740658ff38c28cb5ad701
+  coreMasterBundlePath: /Items/Barricades/Landmine/
   modType: 57
   rarity: 3
   id: 1101
+  idLock: 0
   nameEnglish: 'Landmine
 
     Description Explosive trap.'

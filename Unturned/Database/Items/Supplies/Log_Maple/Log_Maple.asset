@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Log_Maple
   m_EditorClassIdentifier: 
+  guid: 5d5470a14438411c82217b1b98c1e550
+  coreMasterBundlePath: /Items/Supplies/Log_Maple/
   modType: 51
   rarity: 1
   id: 39
+  idLock: 0
   nameEnglish: 'Maple Log
 
     Description Recently cut, high quality maple.'

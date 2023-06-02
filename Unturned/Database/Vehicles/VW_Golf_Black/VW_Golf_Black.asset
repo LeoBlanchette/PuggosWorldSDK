@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: VW_Golf_Black
   m_EditorClassIdentifier: 
+  guid: 792297a6e21f4445a6a59110ee4ef218
+  coreMasterBundlePath: /Vehicles/VW_Golf_Black/
   modType: 58
   rarity: 0
   id: 149
+  idLock: 0
   nameEnglish: 'Black Rally Car
 
 '

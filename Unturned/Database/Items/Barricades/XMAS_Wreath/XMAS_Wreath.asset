@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: XMAS_Wreath
   m_EditorClassIdentifier: 
+  guid: 2a657851df424a769e0adc0f5134c81b
+  coreMasterBundlePath: /Items/Barricades/XMAS_Wreath/
   modType: 6
   rarity: 2
   id: 1701
+  idLock: 0
   nameEnglish: 'Wreath
 
     Description A varied assortment of leaves constructed

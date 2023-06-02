@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bipod
   m_EditorClassIdentifier: 
+  guid: a697b2ab84e04c24b0e7b2ca9075e328
+  coreMasterBundlePath: /Items/Grips/Bipod/
   modType: 22
   rarity: 3
   id: 143
+  idLock: 0
   nameEnglish: 'Bipod
 
     Description Military grade bipod. Reduces recoil and

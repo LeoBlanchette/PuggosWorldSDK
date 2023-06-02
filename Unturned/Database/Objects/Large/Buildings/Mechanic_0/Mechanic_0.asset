@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Mechanic_0
   m_EditorClassIdentifier: 
+  guid: 189c520969be4345a9e196fd5959300b
+  coreMasterBundlePath: /Objects/Large/Buildings/Mechanic_0/
   modType: 27
   rarity: 0
   id: 90
+  idLock: 0
   nameEnglish: Mechanic #1
   cloneFrom: {fileID: 0}
   datFileValues:

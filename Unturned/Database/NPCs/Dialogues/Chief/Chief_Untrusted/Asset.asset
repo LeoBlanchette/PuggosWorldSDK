@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 420bc52beb3b44d1b39019410ef3e1bf
+  coreMasterBundlePath: /NPCs/Dialogues/Chief/Chief_Untrusted/
   modType: 13
   rarity: 0
   id: 175
+  idLock: 0
   nameEnglish: Message_0_Page_0 Don't believe everything you hear! I'm sure there's
     a reasonable explanation.
   cloneFrom: {fileID: 0}

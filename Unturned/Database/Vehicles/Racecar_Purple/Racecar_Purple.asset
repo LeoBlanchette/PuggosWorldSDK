@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Racecar_Purple
   m_EditorClassIdentifier: 
+  guid: 4bdfba6252aa4c9b9fe9b48eae27adb8
+  coreMasterBundlePath: /Vehicles/Racecar_Purple/
   modType: 58
   rarity: 3
   id: 81
+  idLock: 0
   nameEnglish: Purple Racecar
   cloneFrom: {fileID: 0}
   datFileValues:

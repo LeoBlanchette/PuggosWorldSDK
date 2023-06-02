@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Morphine
   m_EditorClassIdentifier: 
+  guid: 5bea8d40c27c4ed6b20a0a489660e3f4
+  coreMasterBundlePath: /Items/Medical/Morphine/
   modType: 32
   rarity: 2
   id: 388
+  idLock: 0
   nameEnglish: 'Morphine
 
     Description Powerful painkiller capable of forgetting

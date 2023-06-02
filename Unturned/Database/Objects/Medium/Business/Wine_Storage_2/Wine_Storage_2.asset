@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wine_Storage_2
   m_EditorClassIdentifier: 
+  guid: e1d18800fbef4d76844dcbace8c289d5
+  coreMasterBundlePath: /Objects/Medium/Business/Wine_Storage_2/
   modType: 33
   rarity: 0
   id: 906
+  idLock: 0
   nameEnglish: Wine Storage Rack
   cloneFrom: {fileID: 0}
   datFileValues:

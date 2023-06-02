@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Umbrella_Black
   m_EditorClassIdentifier: 
+  guid: 23d3f8a30384485dbc0445b01606a140
+  coreMasterBundlePath: /Items/Clouds/Umbrella_Black/
   modType: 9
   rarity: 1
   id: 1103
+  idLock: 0
   nameEnglish: 'Black Umbrella
 
     Description Drift softly down from the heavens.'

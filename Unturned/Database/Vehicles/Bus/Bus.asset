@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bus
   m_EditorClassIdentifier: 
+  guid: c87455cb89a345aea333cefcb2cf90db
+  coreMasterBundlePath: /Vehicles/Bus/
   modType: 58
   rarity: 1
   id: 86
+  idLock: 0
   nameEnglish: Bus
   cloneFrom: {fileID: 0}
   datFileValues:

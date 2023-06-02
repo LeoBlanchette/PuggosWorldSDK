@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Van_Orange
   m_EditorClassIdentifier: 
+  guid: 1b4a2982db6d43cdb329c8a8062624b5
+  coreMasterBundlePath: /Objects/Large/Vehicles/Van_Orange/
   modType: 27
   rarity: 0
   id: 176
+  idLock: 0
   nameEnglish: Orange Van
   cloneFrom: {fileID: 0}
   datFileValues:

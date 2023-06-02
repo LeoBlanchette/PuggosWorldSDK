@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Confetti
   m_EditorClassIdentifier: 
+  guid: a4cd92b2ad334a7ea9356eb94fb532a2
+  coreMasterBundlePath: /Mythics/Confetti/
   modType: 35
   rarity: 0
   id: 22
+  idLock: 0
   nameEnglish: Particle_Tag_Name Confetti
   cloneFrom: {fileID: 0}
   datFileValues: []

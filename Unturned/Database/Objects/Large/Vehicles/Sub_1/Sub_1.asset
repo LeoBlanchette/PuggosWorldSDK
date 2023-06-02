@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sub_1
   m_EditorClassIdentifier: 
+  guid: 33fab5e216bb4df08e9c813e9865319c
+  coreMasterBundlePath: /Objects/Large/Vehicles/Sub_1/
   modType: 27
   rarity: 0
   id: 597
+  idLock: 0
   nameEnglish: Sub #2
   cloneFrom: {fileID: 0}
   datFileValues:

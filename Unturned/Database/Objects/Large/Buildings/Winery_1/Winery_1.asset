@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Winery_1
   m_EditorClassIdentifier: 
+  guid: 69025ac570f24f898dbe33a8171d0e00
+  coreMasterBundlePath: /Objects/Large/Buildings/Winery_1/
   modType: 27
   rarity: 0
   id: 910
+  idLock: 0
   nameEnglish: Winery #2
   cloneFrom: {fileID: 0}
   datFileValues:

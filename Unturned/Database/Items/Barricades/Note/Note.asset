@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note
   m_EditorClassIdentifier: 
+  guid: bda1a9da509949779de3835697f28f47
+  coreMasterBundlePath: /Items/Barricades/Note/
   modType: 6
   rarity: 0
   id: 1328
+  idLock: 0
   nameEnglish: 'Note
 
     Description Keep track of important information.'

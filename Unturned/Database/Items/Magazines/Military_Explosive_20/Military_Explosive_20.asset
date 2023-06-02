@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Explosive_20
   m_EditorClassIdentifier: 
+  guid: 268f9987039f4303b4daa2a0ab41326d
+  coreMasterBundlePath: /Items/Magazines/Military_Explosive_20/
   modType: 29
   rarity: 4
   id: 1200
+  idLock: 0
   nameEnglish: 'Military Fragmentation Magazine
 
     Description Low caliber military

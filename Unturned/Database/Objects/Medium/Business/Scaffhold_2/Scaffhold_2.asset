@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Scaffhold_2
   m_EditorClassIdentifier: 
+  guid: fd0099d0e94940f682b2c63f3ce5adfb
+  coreMasterBundlePath: /Objects/Medium/Business/Scaffhold_2/
   modType: 33
   rarity: 0
   id: 401
+  idLock: 0
   nameEnglish: Scaffold #3
   cloneFrom: {fileID: 0}
   datFileValues:

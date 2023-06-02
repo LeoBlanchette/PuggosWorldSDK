@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fighter_Jet_Bottom
   m_EditorClassIdentifier: 
+  guid: e0cc38f2af414c2790943214d61d7b8a
+  coreMasterBundlePath: /Items/Pants/Fighter_Jet_Bottom/
   modType: 39
   rarity: 2
   id: 1474
+  idLock: 0
   nameEnglish: 'Fighter Pilot Bottom
 
     Description Standard issue to pilot a

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plate_Large_Maple
   m_EditorClassIdentifier: 
+  guid: f55514c1f38f4ca5b7546df210b8da24
+  coreMasterBundlePath: /Items/Barricades/Plate_Large_Maple/
   modType: 6
   rarity: 1
   id: 1058
+  idLock: 0
   nameEnglish: 'Large Maple Plate
 
     Description Maple plate. Beware of termites.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Machinery_0
   m_EditorClassIdentifier: 
+  guid: 6bba26bbc0db4c07a3a0ebd46e3c4ddc
+  coreMasterBundlePath: /Objects/Large/Business/Machinery_0/
   modType: 27
   rarity: 0
   id: 620
+  idLock: 0
   nameEnglish: Machinery #1
   cloneFrom: {fileID: 0}
   datFileValues:

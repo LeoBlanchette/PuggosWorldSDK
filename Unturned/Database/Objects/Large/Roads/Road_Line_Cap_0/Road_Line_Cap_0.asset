@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Road_Line_Cap_0
   m_EditorClassIdentifier: 
+  guid: 91db0a8e97024d28859f9a7aced377fd
+  coreMasterBundlePath: /Objects/Large/Roads/Road_Line_Cap_0/
   modType: 27
   rarity: 0
   id: 3
+  idLock: 0
   nameEnglish: Road Line Cap #1
   cloneFrom: {fileID: 0}
   datFileValues:

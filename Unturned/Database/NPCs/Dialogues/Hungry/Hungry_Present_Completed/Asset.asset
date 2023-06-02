@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 18af63d64fa1412a86261032ea361a06
+  coreMasterBundlePath: /NPCs/Dialogues/Hungry/Hungry_Present_Completed/
   modType: 13
   rarity: 0
   id: 339
+  idLock: 0
   nameEnglish: Message_0_Page_0 Yay! Good job!
   cloneFrom: {fileID: 0}
   datFileValues:

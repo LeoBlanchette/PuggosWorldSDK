@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plaque_Birch
   m_EditorClassIdentifier: 
+  guid: 6cf598b4bbc94304a44832e6d2efb612
+  coreMasterBundlePath: /Items/Barricades/Plaque_Birch/
   modType: 49
   rarity: 0
   id: 1411
+  idLock: 0
   nameEnglish: 'Birch Plaque
 
     Description Birch plaque for storing trophies.'

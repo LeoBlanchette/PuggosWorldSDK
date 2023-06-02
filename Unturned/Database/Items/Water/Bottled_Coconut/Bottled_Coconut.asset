@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bottled_Coconut
   m_EditorClassIdentifier: 
+  guid: 562d9f5c966a4379b8e434a9a917a913
+  coreMasterBundlePath: /Items/Water/Bottled_Coconut/
   modType: 62
   rarity: 0
   id: 94
+  idLock: 0
   nameEnglish: 'Bottled Coconut
 
     Description Water from the center of the coconut.'

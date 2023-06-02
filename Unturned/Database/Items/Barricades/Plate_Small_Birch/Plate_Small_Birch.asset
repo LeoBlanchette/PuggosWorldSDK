@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plate_Small_Birch
   m_EditorClassIdentifier: 
+  guid: 4e36835bc93c49ee9338931021d6aa6e
+  coreMasterBundlePath: /Items/Barricades/Plate_Small_Birch/
   modType: 6
   rarity: 0
   id: 1065
+  idLock: 0
   nameEnglish: 'Small Birch Plate
 
     Description Birch plate. Beware of termites.'

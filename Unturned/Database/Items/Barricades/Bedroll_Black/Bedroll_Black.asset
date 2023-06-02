@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bedroll_Black
   m_EditorClassIdentifier: 
+  guid: f021f3e5c72241c382e2779dc48e5e69
+  coreMasterBundlePath: /Items/Barricades/Bedroll_Black/
   modType: 6
   rarity: 0
   id: 288
+  idLock: 0
   nameEnglish: 'Black Bedroll
 
     Description Warm bed perfect for a campsite.'

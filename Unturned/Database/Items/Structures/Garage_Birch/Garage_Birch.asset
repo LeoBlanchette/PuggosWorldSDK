@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Garage_Birch
   m_EditorClassIdentifier: 
+  guid: 2948006e3fa14d19bea82fe8cf85feee
+  coreMasterBundlePath: /Items/Structures/Garage_Birch/
   modType: 50
   rarity: 0
   id: 452
+  idLock: 0
   nameEnglish: 'Birch Garage
 
     Description Birch garage. Beware of termites.'

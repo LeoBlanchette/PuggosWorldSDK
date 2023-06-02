@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Road_Quad_Cap_0
   m_EditorClassIdentifier: 
+  guid: c661dba6fb1348fb95985557b3a95c71
+  coreMasterBundlePath: /Objects/Large/Roads/Road_Quad_Cap_0/
   modType: 27
   rarity: 0
   id: 313
+  idLock: 0
   nameEnglish: Road Quad Cap #1
   cloneFrom: {fileID: 0}
   datFileValues:

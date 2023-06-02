@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Parka_Yellow
   m_EditorClassIdentifier: 
+  guid: 6776e9ecfccd4eb9a6e8798aa74fe92a
+  coreMasterBundlePath: /Items/Shirts/Parka_Yellow/
   modType: 44
   rarity: 0
   id: 170
+  idLock: 0
   nameEnglish: 'Yellow Parka
 
     Description Cold weather parka.'

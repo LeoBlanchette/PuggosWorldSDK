@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coalition_Top_Captain
   m_EditorClassIdentifier: 
+  guid: cfc2e48837334043b5471014763be39f
+  coreMasterBundlePath: /Items/Shirts/Coalition_Top_Captain/
   modType: 44
   rarity: 4
   id: 1424
+  idLock: 0
   nameEnglish: 'Captain Coalition Top
 
     Description Coalition Captain rank uniform

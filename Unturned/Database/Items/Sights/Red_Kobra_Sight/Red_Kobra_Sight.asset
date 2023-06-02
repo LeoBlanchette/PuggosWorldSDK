@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Red_Kobra_Sight
   m_EditorClassIdentifier: 
+  guid: 55e1a92b6f274d5cadf1646a76dcf4f9
+  coreMasterBundlePath: /Items/Sights/Red_Kobra_Sight/
   modType: 45
   rarity: 1
   id: 1004
+  idLock: 0
   nameEnglish: 'Kobra Sight
 
     Description Rail mounted sight with electronic

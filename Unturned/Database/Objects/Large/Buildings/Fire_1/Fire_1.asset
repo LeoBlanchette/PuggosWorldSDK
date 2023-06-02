@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fire_1
   m_EditorClassIdentifier: 
+  guid: 31a4d9448361421382907edbe6a28735
+  coreMasterBundlePath: /Objects/Large/Buildings/Fire_1/
   modType: 27
   rarity: 0
   id: 593
+  idLock: 0
   nameEnglish: Fire #2
   cloneFrom: {fileID: 0}
   datFileValues:

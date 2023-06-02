@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tutorial_0
   m_EditorClassIdentifier: 
+  guid: d38fa1da3d8f40e48ce96007d8b333d3
+  coreMasterBundlePath: /Objects/Large/Buildings/Tutorial_0/
   modType: 27
   rarity: 0
   id: 489
+  idLock: 0
   nameEnglish: Tutorial #1
   cloneFrom: {fileID: 0}
   datFileValues:

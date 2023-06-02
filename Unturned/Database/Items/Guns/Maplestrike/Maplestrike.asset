@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Maplestrike
   m_EditorClassIdentifier: 
+  guid: 217869c3d2ae4096b9751bc9c983021a
+  coreMasterBundlePath: /Items/Guns/Maplestrike/
   modType: 24
   rarity: 3
   id: 363
+  idLock: 0
   nameEnglish: 'Maplestrike
 
     Description Canadian assault rifle chambered in

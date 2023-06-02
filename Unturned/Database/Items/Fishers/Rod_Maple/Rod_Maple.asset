@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rod_Maple
   m_EditorClassIdentifier: 
+  guid: 47d016e1c0df41fc91cd7b6d9fcf94eb
+  coreMasterBundlePath: /Items/Fishers/Rod_Maple/
   modType: 17
   rarity: 0
   id: 507
+  idLock: 0
   nameEnglish: 'Maple Rod
 
     Description Long range fish generator.'

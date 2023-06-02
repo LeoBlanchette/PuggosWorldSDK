@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_21
   m_EditorClassIdentifier: 
+  guid: 413a52e1621641b099dec6aff0ee353e
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_21/
   modType: 33
   rarity: 0
   id: 2022
+  idLock: 0
   nameEnglish: 'Russia Note - Submarine
 
     

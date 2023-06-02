@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Suit_Top
   m_EditorClassIdentifier: 
+  guid: aed72435793c40349c4350df8a3d8987
+  coreMasterBundlePath: /Items/Shirts/Suit_Top/
   modType: 44
   rarity: 0
   id: 421
+  idLock: 0
   nameEnglish: 'Suit Top
 
     Description Boring tuxedo shirt.'

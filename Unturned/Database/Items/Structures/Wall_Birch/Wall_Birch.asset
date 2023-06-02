@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wall_Birch
   m_EditorClassIdentifier: 
+  guid: c812887cfe954a2fa622ed6705aa4cc8
+  coreMasterBundlePath: /Items/Structures/Wall_Birch/
   modType: 50
   rarity: 0
   id: 57
+  idLock: 0
   nameEnglish: 'Birch Wall
 
     Description Birch wall. Beware of termites.'

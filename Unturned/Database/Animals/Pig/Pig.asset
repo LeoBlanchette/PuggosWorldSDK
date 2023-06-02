@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pig
   m_EditorClassIdentifier: 
+  guid: aa2886c864144f319f6d1197872f9683
+  coreMasterBundlePath: /Animals/Pig/
   modType: 1
   rarity: 0
   id: 4
+  idLock: 0
   nameEnglish: Pig
   cloneFrom: {fileID: 0}
   datFileValues:

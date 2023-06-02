@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Trophy_Maple
   m_EditorClassIdentifier: 
+  guid: 3dada5e6a1f74579ad9676519e0c1582
+  coreMasterBundlePath: /Items/Barricades/Trophy_Maple/
   modType: 49
   rarity: 1
   id: 1205
+  idLock: 0
   nameEnglish: 'Maple Trophy Case
 
     Description Maple case for storing trophies.'

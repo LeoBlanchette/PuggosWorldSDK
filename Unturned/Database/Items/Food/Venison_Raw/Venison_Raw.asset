@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Venison_Raw
   m_EditorClassIdentifier: 
+  guid: e367860ad419469eae5894f21bcd959a
+  coreMasterBundlePath: /Items/Food/Venison_Raw/
   modType: 18
   rarity: 0
   id: 514
+  idLock: 0
   nameEnglish: 'Raw Venison
 
     Description Fine texture, rich and gamey.'

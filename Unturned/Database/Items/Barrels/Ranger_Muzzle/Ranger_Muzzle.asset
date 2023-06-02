@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ranger_Muzzle
   m_EditorClassIdentifier: 
+  guid: b30e550251b04090801fe90de9aa5314
+  coreMasterBundlePath: /Items/Barrels/Ranger_Muzzle/
   modType: 5
   rarity: 2
   id: 1190
+  idLock: 0
   nameEnglish: 'Ranger Muzzle
 
     Description Ranger grade muzzle. Hides muzzle

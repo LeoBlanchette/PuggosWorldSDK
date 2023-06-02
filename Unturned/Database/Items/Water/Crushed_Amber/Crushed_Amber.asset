@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crushed_Amber
   m_EditorClassIdentifier: 
+  guid: b543fbc17fc94f7ea5216f64604f45c9
+  coreMasterBundlePath: /Items/Water/Crushed_Amber/
   modType: 62
   rarity: 0
   id: 397
+  idLock: 0
   nameEnglish: 'Refined Amber Berries
 
     Description Slightly less suspicious

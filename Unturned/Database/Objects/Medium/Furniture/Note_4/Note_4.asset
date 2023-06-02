@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_4
   m_EditorClassIdentifier: 
+  guid: 2267d727fc814f2582f9ca96710cb3a0
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_4/
   modType: 33
   rarity: 0
   id: 2005
+  idLock: 0
   nameEnglish: "Note - Jane #1\r\n\r\nInteractability_Text_Line_0 Jane's Diary \r\nInteractability_Text_Line_1
     Page 120\r\nInteractability_Text_Line_2 ---\r\nInteractability_Text_Line_3 Laura
     hasn't been to school for over a week now, and according to Mr. Green we shouldn't

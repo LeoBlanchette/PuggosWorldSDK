@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plot
   m_EditorClassIdentifier: 
+  guid: 3b275f81aec640e1bd8b2042685ec9dc
+  coreMasterBundlePath: /Items/Barricades/Plot/
   modType: 6
   rarity: 2
   id: 1345
+  idLock: 0
   nameEnglish: 'Plot
 
     Description Planting area perfect for raising crops of

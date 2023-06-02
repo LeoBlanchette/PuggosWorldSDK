@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Shirt_Blue
   m_EditorClassIdentifier: 
+  guid: 88eca308133842b69f74e1f5360f67c9
+  coreMasterBundlePath: /Items/Shirts/Shirt_Blue/
   modType: 44
   rarity: 0
   id: 175
+  idLock: 0
   nameEnglish: 'Blue Shirt
 
     Description Moderate weather shirt.'

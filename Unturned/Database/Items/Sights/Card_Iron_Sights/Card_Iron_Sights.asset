@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Card_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: a9df20605a8b41ee808ef5fcb9461403
+  coreMasterBundlePath: /Items/Sights/Card_Iron_Sights/
   modType: 45
   rarity: 0
   id: 1380
+  idLock: 0
   nameEnglish: 'Calling Card Iron Sights
 
     Description Rail mounted iron sights.'

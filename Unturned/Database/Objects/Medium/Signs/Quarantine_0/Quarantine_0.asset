@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Quarantine_0
   m_EditorClassIdentifier: 
+  guid: 39c75b6211fa4ef79e67f6b608d38638
+  coreMasterBundlePath: /Objects/Medium/Signs/Quarantine_0/
   modType: 33
   rarity: 0
   id: 975
+  idLock: 0
   nameEnglish: Quarantine Sign #1
   cloneFrom: {fileID: 0}
   datFileValues:

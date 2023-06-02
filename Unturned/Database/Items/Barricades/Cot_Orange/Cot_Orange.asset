@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cot_Orange
   m_EditorClassIdentifier: 
+  guid: 08d7310be8e646329d22e080019cf26f
+  coreMasterBundlePath: /Items/Barricades/Cot_Orange/
   modType: 6
   rarity: 0
   id: 1311
+  idLock: 0
   nameEnglish: 'Orange Cot
 
     Description Warm bed perfect for a home.'

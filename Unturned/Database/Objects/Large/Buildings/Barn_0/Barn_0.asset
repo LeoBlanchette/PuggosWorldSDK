@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Barn_0
   m_EditorClassIdentifier: 
+  guid: a3ea2c99ede7408e8195821ffe28de86
+  coreMasterBundlePath: /Objects/Large/Buildings/Barn_0/
   modType: 27
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: Barn #1
   cloneFrom: {fileID: 0}
   datFileValues:

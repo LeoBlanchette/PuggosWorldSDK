@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Roadster_Purple
   m_EditorClassIdentifier: 
+  guid: db5d34b80f0c47db88c3b25849a1563f
+  coreMasterBundlePath: /Vehicles/Roadster_Purple/
   modType: 58
   rarity: 2
   id: 47
+  idLock: 0
   nameEnglish: Purple Roadster
   cloneFrom: {fileID: 0}
   datFileValues:

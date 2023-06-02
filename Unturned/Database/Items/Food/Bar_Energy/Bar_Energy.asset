@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bar_Energy
   m_EditorClassIdentifier: 
+  guid: 34d9a78f5f7f483c882937247bf28da9
+  coreMasterBundlePath: /Items/Food/Bar_Energy/
   modType: 18
   rarity: 0
   id: 86
+  idLock: 0
   nameEnglish: 'Energy Bar
 
     Description Questionable blend of chemicals and

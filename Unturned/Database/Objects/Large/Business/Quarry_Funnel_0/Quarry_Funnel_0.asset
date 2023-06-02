@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Quarry_Funnel_0
   m_EditorClassIdentifier: 
+  guid: 2264399d626f48178a340a7545070762
+  coreMasterBundlePath: /Objects/Large/Business/Quarry_Funnel_0/
   modType: 27
   rarity: 0
   id: 882
+  idLock: 0
   nameEnglish: Quarry Funnel
   cloneFrom: {fileID: 0}
   datFileValues:

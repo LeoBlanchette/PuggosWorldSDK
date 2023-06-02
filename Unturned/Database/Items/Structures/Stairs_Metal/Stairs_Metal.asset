@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Stairs_Metal
   m_EditorClassIdentifier: 
+  guid: c64e0f533c8649ea9865949e55f92204
+  coreMasterBundlePath: /Items/Structures/Stairs_Metal/
   modType: 50
   rarity: 3
   id: 375
+  idLock: 0
   nameEnglish: 'Metal Stairs
 
     Description Metal stairs. Beware of robotic termites.'

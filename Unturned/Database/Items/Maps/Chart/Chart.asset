@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Chart
   m_EditorClassIdentifier: 
+  guid: c7f347d0bd2f4214832f70af14d0e09a
+  coreMasterBundlePath: /Items/Maps/Chart/
   modType: 30
   rarity: 1
   id: 1175
+  idLock: 0
   nameEnglish: 'Chart
 
     Description Printed map of the surrounding area.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plaque_Maple
   m_EditorClassIdentifier: 
+  guid: 9e31f497658247989bfa73e6a10fb75a
+  coreMasterBundlePath: /Items/Barricades/Plaque_Maple/
   modType: 49
   rarity: 1
   id: 1410
+  idLock: 0
   nameEnglish: 'Maple Plaque
 
     Description Maple plaque for storing trophies.'

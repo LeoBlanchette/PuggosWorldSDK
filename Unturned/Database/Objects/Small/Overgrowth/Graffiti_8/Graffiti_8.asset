@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Graffiti_8
   m_EditorClassIdentifier: 
+  guid: bdb3e459aadb40c0a857e1c56a422808
+  coreMasterBundlePath: /Objects/Small/Overgrowth/Graffiti_8/
   modType: 11
   rarity: 0
   id: 834
+  idLock: 0
   nameEnglish: Graffiti #9
   cloneFrom: {fileID: 0}
   datFileValues:

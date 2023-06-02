@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Leather_Pack
   m_EditorClassIdentifier: 
+  guid: 3e4ce2cd69f8420ab5905d154c869a49
+  coreMasterBundlePath: /Items/Backpacks/Leather_Pack/
   modType: 4
   rarity: 0
   id: 1014
+  idLock: 0
   nameEnglish: 'Leather Pack
 
     Description Durable crafted backpack.'

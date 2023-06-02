@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flag_Birch
   m_EditorClassIdentifier: 
+  guid: 333c759ebce54173a5e722e6812fada9
+  coreMasterBundlePath: /Items/Barricades/Flag_Birch/
   modType: 6
   rarity: 0
   id: 1232
+  idLock: 0
   nameEnglish: 'Birch Flag
 
     Description Birch flag coupled with colorful markers.'

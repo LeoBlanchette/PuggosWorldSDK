@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Vertical_Grip
   m_EditorClassIdentifier: 
+  guid: f7abed5a25c4409298d725c2cfc419d5
+  coreMasterBundlePath: /Items/Grips/Vertical_Grip/
   modType: 22
   rarity: 2
   id: 8
+  idLock: 0
   nameEnglish: 'Vertical Grip
 
     Description Military grade vertical grip. Reduces

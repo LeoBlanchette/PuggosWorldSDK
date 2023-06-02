@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Blossoms
   m_EditorClassIdentifier: 
+  guid: 66ff80a9bcfc41f6b696e087ce558630
+  coreMasterBundlePath: /Mythics/Blossoms/
   modType: 35
   rarity: 0
   id: 30
+  idLock: 0
   nameEnglish: Particle_Tag_Name Blossoming
   cloneFrom: {fileID: 0}
   datFileValues: []

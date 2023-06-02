@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Salmon_Cooked
   m_EditorClassIdentifier: 
+  guid: 7137621742644dbdab9a6eb0df77abde
+  coreMasterBundlePath: /Items/Food/Salmon_Cooked/
   modType: 18
   rarity: 1
   id: 513
+  idLock: 0
   nameEnglish: 'Cooked Salmon
 
     Description Rather smelly and fishy.'

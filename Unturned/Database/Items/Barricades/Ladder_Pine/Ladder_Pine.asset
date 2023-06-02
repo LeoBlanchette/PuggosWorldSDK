@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ladder_Pine
   m_EditorClassIdentifier: 
+  guid: 2c3ceec62dc149a680dbe5972fce4b30
+  coreMasterBundlePath: /Items/Barricades/Ladder_Pine/
   modType: 6
   rarity: 2
   id: 327
+  idLock: 0
   nameEnglish: 'Pine Ladder
 
     Description Pine ladder ideal for keeping out unwanted

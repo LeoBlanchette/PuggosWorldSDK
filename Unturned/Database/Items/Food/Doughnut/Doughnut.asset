@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Doughnut
   m_EditorClassIdentifier: 
+  guid: d28103326f2c473d86a09b5c45e3f0c7
+  coreMasterBundlePath: /Items/Food/Doughnut/
   modType: 18
   rarity: 2
   id: 1163
+  idLock: 0
   nameEnglish: 'Doughnut
 
     Description Warm dough in a torus glazed with maple

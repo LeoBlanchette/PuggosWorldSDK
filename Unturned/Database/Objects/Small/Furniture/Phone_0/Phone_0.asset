@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Phone_0
   m_EditorClassIdentifier: 
+  guid: 9837f9cad7684c808d0f080f0ea389cf
+  coreMasterBundlePath: /Objects/Small/Furniture/Phone_0/
   modType: 47
   rarity: 0
   id: 393
+  idLock: 0
   nameEnglish: Phone #1
   cloneFrom: {fileID: 0}
   datFileValues:

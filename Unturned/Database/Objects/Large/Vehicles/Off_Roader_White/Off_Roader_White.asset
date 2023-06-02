@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Off_Roader_White
   m_EditorClassIdentifier: 
+  guid: 91f15d72f41e451cbcc5f69d87e40f81
+  coreMasterBundlePath: /Objects/Large/Vehicles/Off_Roader_White/
   modType: 27
   rarity: 0
   id: 159
+  idLock: 0
   nameEnglish: White Offroader
   cloneFrom: {fileID: 0}
   datFileValues:

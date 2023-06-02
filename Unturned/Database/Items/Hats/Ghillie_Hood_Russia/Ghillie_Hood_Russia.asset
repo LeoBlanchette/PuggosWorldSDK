@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ghillie_Hood_Russia
   m_EditorClassIdentifier: 
+  guid: ff0c9f716d394efca21fc07d23d5995e
+  coreMasterBundlePath: /Items/Hats/Ghillie_Hood_Russia/
   modType: 25
   rarity: 3
   id: 1356
+  idLock: 0
   nameEnglish: 'Ghillie Hood
 
     Description Military foliage stealth hood.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: APC_France
   m_EditorClassIdentifier: 
+  guid: b7c8dbb4303f4c90b521d0bab3d6e450
+  coreMasterBundlePath: /Vehicles/APC_France/
   modType: 58
   rarity: 4
   id: 172
+  idLock: 0
   nameEnglish: APC
   cloneFrom: {fileID: 0}
   datFileValues:

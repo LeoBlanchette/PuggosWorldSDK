@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fire_Hydrant_0
   m_EditorClassIdentifier: 
+  guid: d8c8455d328841488246d4242c590fb5
+  coreMasterBundlePath: /Objects/Medium/Traffic/Fire_Hydrant_0/
   modType: 33
   rarity: 0
   id: 39
+  idLock: 0
   nameEnglish: Fire Hydrant #1
   cloneFrom: {fileID: 0}
   datFileValues:

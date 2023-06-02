@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Missile_1
   m_EditorClassIdentifier: 
+  guid: 81e2c6dfaccb4e76ab62b44ccfa9a939
+  coreMasterBundlePath: /Objects/Medium/Military/Missile_1/
   modType: 33
   rarity: 0
   id: 595
+  idLock: 0
   nameEnglish: Missile #2
   cloneFrom: {fileID: 0}
   datFileValues:

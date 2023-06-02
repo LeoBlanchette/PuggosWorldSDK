@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: XMAS_Ice
   m_EditorClassIdentifier: 
+  guid: df410fde75ce422590afc45ea9fee883
+  coreMasterBundlePath: /Items/Supplies/XMAS_Ice/
   modType: 51
   rarity: 2
   id: 1707
+  idLock: 0
   nameEnglish: 'Ice Crystal
 
     Description Shiny crystal made of frozen water.'

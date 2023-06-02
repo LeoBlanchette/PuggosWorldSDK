@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plate_Small_Pine_Right
   m_EditorClassIdentifier: 
+  guid: accd36da49984a269a12ac86a5d40f88
+  coreMasterBundlePath: /Items/Barricades/Plate_Small_Pine_Right/
   modType: 6
   rarity: 2
   id: 1155
+  idLock: 0
   nameEnglish: 'Small Pine Plate
 
     Description Pine plate. Beware of termites.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sabertooth_10
   m_EditorClassIdentifier: 
+  guid: 7d7c65b2da164f73aac8d8940a4c93a6
+  coreMasterBundlePath: /Items/Magazines/Sabertooth_10/
   modType: 29
   rarity: 2
   id: 1020
+  idLock: 0
   nameEnglish: 'Sabertooth Magazine
 
     Description Low caliber military grade

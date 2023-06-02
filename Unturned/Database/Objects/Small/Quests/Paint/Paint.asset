@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Paint
   m_EditorClassIdentifier: 
+  guid: 8e30282f5d1e4000a133de2749ccd353
+  coreMasterBundlePath: /Objects/Small/Quests/Paint/
   modType: 47
   rarity: 0
   id: 773
+  idLock: 0
   nameEnglish: 'Paint
 
     

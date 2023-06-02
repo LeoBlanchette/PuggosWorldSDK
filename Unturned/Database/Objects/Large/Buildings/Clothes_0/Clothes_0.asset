@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Clothes_0
   m_EditorClassIdentifier: 
+  guid: d8ccfe49529d426bbcf9aeedbda81177
+  coreMasterBundlePath: /Objects/Large/Buildings/Clothes_0/
   modType: 27
   rarity: 0
   id: 88
+  idLock: 0
   nameEnglish: Clothes #1
   cloneFrom: {fileID: 0}
   datFileValues:

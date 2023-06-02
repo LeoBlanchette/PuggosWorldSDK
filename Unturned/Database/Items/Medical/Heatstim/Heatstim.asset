@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Heatstim
   m_EditorClassIdentifier: 
+  guid: f001f984140b4d5a9796e9ddc10d082d
+  coreMasterBundlePath: /Items/Medical/Heatstim/
   modType: 32
   rarity: 1
   id: 1129
+  idLock: 0
   nameEnglish: 'Heatstim
 
     Description Compounds that when combined produce steady

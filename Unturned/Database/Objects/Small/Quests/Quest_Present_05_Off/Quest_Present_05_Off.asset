@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Quest_Present_05_Off
   m_EditorClassIdentifier: 
+  guid: 8f390dad66e2401285fd575886f384fa
+  coreMasterBundlePath: /Objects/Small/Quests/Quest_Present_05_Off/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: 'Quest Present #6 Off
 
     

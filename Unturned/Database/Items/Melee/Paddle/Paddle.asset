@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Paddle
   m_EditorClassIdentifier: 
+  guid: a90dd3ba73354b8683a9ae540dd97a31
+  coreMasterBundlePath: /Items/Melee/Paddle/
   modType: 34
   rarity: 0
   id: 1033
+  idLock: 0
   nameEnglish: 'Paddle
 
     Description If only one of these boats wasn''t full

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Container_2
   m_EditorClassIdentifier: 
+  guid: f0ac43712be140fcba0a654e6a2c3aff
+  coreMasterBundlePath: /Objects/Large/Business/Container_2/
   modType: 27
   rarity: 0
   id: 247
+  idLock: 0
   nameEnglish: Container #3
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crystal_00_Off
   m_EditorClassIdentifier: 
+  guid: 71c5732976a7488abe7e0931a85f5fdd
+  coreMasterBundlePath: /Objects/Small/Quests/Crystal_00_Off/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: 'Crystal #1 Off
 
     

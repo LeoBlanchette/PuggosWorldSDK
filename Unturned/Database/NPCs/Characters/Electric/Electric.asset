@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Electric
   m_EditorClassIdentifier: 
+  guid: e24375aa63e14fa99976fd59a9b9d5b7
+  coreMasterBundlePath: /NPCs/Characters/Electric/
   modType: 36
   rarity: 0
   id: 826
+  idLock: 0
   nameEnglish: 'Electric Cliff
 
     Character <color=uncommon>Ensign Cliff</color>'

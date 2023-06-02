@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Squid_Vest
   m_EditorClassIdentifier: 
+  guid: 8e114fdf61f048989ad084952247e6da
+  coreMasterBundlePath: /Items/Vests/Squid_Vest/
   modType: 61
   rarity: 2
   id: 792
+  idLock: 0
   nameEnglish: 'Monster Hunter Bandoiler
 
     Description A leather bandoiler worn

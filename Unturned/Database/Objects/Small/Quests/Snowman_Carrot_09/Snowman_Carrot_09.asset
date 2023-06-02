@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Snowman_Carrot_09
   m_EditorClassIdentifier: 
+  guid: 875110b0901743d5b2cc46bc079c9da6
+  coreMasterBundlePath: /Objects/Small/Quests/Snowman_Carrot_09/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: 'Snowman Carrot #10 [Correct #5]
 
     

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ramp_Metal
   m_EditorClassIdentifier: 
+  guid: 7d5f2d11ee2545b7b2efc8ec01533aba
+  coreMasterBundlePath: /Items/Structures/Ramp_Metal/
   modType: 50
   rarity: 3
   id: 377
+  idLock: 0
   nameEnglish: 'Metal Ramp
 
     Description Metal ramp. Beware of robotic termites.'

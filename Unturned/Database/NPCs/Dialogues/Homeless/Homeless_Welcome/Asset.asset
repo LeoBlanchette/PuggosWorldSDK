@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: e2701f17383c47ffb711818ba2260837
+  coreMasterBundlePath: /NPCs/Dialogues/Homeless/Homeless_Welcome/
   modType: 13
   rarity: 0
   id: 131
+  idLock: 0
   nameEnglish: 'Message_0_Page_0 Hi.
 
     

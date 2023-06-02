@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Musical
   m_EditorClassIdentifier: 
+  guid: 3f5ff0e4d2cf455797c155c8fd665650
+  coreMasterBundlePath: /Mythics/Musical/
   modType: 35
   rarity: 0
   id: 4
+  idLock: 0
   nameEnglish: Particle_Tag_Name Musical
   cloneFrom: {fileID: 0}
   datFileValues: []

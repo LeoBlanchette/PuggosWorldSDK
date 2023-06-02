@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Table_Sqr_Pine
   m_EditorClassIdentifier: 
+  guid: b6b3987261df43dcb624a5b1bc00d4cf
+  coreMasterBundlePath: /Items/Barricades/Table_Sqr_Pine/
   modType: 6
   rarity: 2
   id: 1294
+  idLock: 0
   nameEnglish: 'Pine Square Table
 
     Description Pine table for fine dining.'

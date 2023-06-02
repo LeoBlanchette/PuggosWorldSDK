@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Elver2_Frosty
   m_EditorClassIdentifier: 
+  guid: e10501e13a904ebb9b4148a05c439266
+  coreMasterBundlePath: /Mythics/Elver2_Frosty/
   modType: 35
   rarity: 0
   id: 39
+  idLock: 0
   nameEnglish: 'Particle_Tag_Name Frosty
 
 '

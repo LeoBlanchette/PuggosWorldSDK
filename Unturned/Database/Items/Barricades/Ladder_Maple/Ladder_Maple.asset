@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ladder_Maple
   m_EditorClassIdentifier: 
+  guid: 0d062ccc8f4847508ecdadb34c52911c
+  coreMasterBundlePath: /Items/Barricades/Ladder_Maple/
   modType: 6
   rarity: 1
   id: 325
+  idLock: 0
   nameEnglish: 'Maple Ladder
 
     Description Maple ladder ideal for keeping out

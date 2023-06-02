@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bats
   m_EditorClassIdentifier: 
+  guid: 3e58fb37bcf44b3ea68a73a4cab9164a
+  coreMasterBundlePath: /Mythics/Bats/
   modType: 35
   rarity: 0
   id: 25
+  idLock: 0
   nameEnglish: Particle_Tag_Name Blood Sucker
   cloneFrom: {fileID: 0}
   datFileValues: []

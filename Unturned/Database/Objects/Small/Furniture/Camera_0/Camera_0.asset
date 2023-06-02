@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Camera_0
   m_EditorClassIdentifier: 
+  guid: 1159676c4b874affacb67739d8090ae2
+  coreMasterBundlePath: /Objects/Small/Furniture/Camera_0/
   modType: 47
   rarity: 0
   id: 339
+  idLock: 0
   nameEnglish: Camera #1
   cloneFrom: {fileID: 0}
   datFileValues:

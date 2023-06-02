@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coalition_Captain_Hat
   m_EditorClassIdentifier: 
+  guid: 4cb0d14597e34c1881de2e8b6229cce0
+  coreMasterBundlePath: /Items/Hats/Coalition_Captain_Hat/
   modType: 25
   rarity: 4
   id: 1429
+  idLock: 0
   nameEnglish: 'Coalition Captain Hat
 
     Description Coalition Captain rank uniform

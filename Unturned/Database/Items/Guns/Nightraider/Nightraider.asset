@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Nightraider
   m_EditorClassIdentifier: 
+  guid: e76ead66cc744bd4b3e8c1025760c179
+  coreMasterBundlePath: /Items/Guns/Nightraider/
   modType: 24
   rarity: 3
   id: 1377
+  idLock: 0
   nameEnglish: 'Nightraider
 
     Description German assault rifle chambered in Ranger

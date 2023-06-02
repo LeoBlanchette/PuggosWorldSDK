@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Seed_Pumpkin
   m_EditorClassIdentifier: 
+  guid: 623f9a6f9a0e425ca7476e85014a32cf
+  coreMasterBundlePath: /Items/Barricades/Seed_Pumpkin/
   modType: 15
   rarity: 0
   id: 1045
+  idLock: 0
   nameEnglish: 'Pumpkin Seed
 
     Description Ready for planting and eating.'

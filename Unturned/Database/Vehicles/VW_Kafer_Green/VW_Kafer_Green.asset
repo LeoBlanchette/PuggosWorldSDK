@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: VW_Kafer_Green
   m_EditorClassIdentifier: 
+  guid: d6ccf1aaebea402884a339e3d921b48a
+  coreMasterBundlePath: /Vehicles/VW_Kafer_Green/
   modType: 58
   rarity: 0
   id: 160
+  idLock: 0
   nameEnglish: Green Beetle
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Augewehr
   m_EditorClassIdentifier: 
+  guid: a728c8e887d34520b4fbf501778622da
+  coreMasterBundlePath: /Items/Guns/Augewehr/
   modType: 24
   rarity: 3
   id: 1362
+  idLock: 0
   nameEnglish: 'Augewehr
 
     Description Austrian assault rifle chambered in Ranger

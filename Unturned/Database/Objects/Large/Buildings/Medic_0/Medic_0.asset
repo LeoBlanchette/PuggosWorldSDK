@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Medic_0
   m_EditorClassIdentifier: 
+  guid: beea0d4a0822426b9e47e8cff935e3e8
+  coreMasterBundlePath: /Objects/Large/Buildings/Medic_0/
   modType: 27
   rarity: 0
   id: 89
+  idLock: 0
   nameEnglish: Medic #1
   cloneFrom: {fileID: 0}
   datFileValues:

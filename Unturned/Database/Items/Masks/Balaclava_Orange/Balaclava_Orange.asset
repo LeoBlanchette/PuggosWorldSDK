@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Balaclava_Orange
   m_EditorClassIdentifier: 
+  guid: e501dedbe3de4903864eb85a4c6a7030
+  coreMasterBundlePath: /Items/Masks/Balaclava_Orange/
   modType: 31
   rarity: 0
   id: 437
+  idLock: 0
   nameEnglish: 'Orange Balaclava
 
     Description Sneakybeaky ninja hood.'

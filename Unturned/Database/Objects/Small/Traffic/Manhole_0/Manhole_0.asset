@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Manhole_0
   m_EditorClassIdentifier: 
+  guid: f6ce855b3b764723a074deb9ca10faee
+  coreMasterBundlePath: /Objects/Small/Traffic/Manhole_0/
   modType: 47
   rarity: 0
   id: 13
+  idLock: 0
   nameEnglish: Manhole #1
   cloneFrom: {fileID: 0}
   datFileValues:

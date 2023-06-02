@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_Peaks_17
   m_EditorClassIdentifier: 
+  guid: 9568b64836ae4781a1bb71942db966c5
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_Peaks_17/
   modType: 33
   rarity: 0
   id: 2045
+  idLock: 0
   nameEnglish: 'Peaks Note - Castle
 
     

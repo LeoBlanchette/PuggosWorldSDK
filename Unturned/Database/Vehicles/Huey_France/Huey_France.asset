@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Huey_France
   m_EditorClassIdentifier: 
+  guid: ac2487f0fc5d48d9929bcc9fd3a12ad7
+  coreMasterBundlePath: /Vehicles/Huey_France/
   modType: 58
   rarity: 3
   id: 175
+  idLock: 0
   nameEnglish: 'Transport Heli
 
 '

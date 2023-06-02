@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 13161cccebbb41a7b798dbff69773048
+  coreMasterBundlePath: /NPCs/Dialogues/Commander/Commander_Broadcast_Repair_Accepted/
   modType: 13
   rarity: 0
   id: 45
+  idLock: 0
   nameEnglish: Message_0_Page_0 Good luck out there! With your having experience
     in this area already I'm sure there won't be any complications.
   cloneFrom: {fileID: 0}

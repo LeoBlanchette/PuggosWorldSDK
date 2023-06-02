@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rifle_Maple
   m_EditorClassIdentifier: 
+  guid: e54c9b0ff14c4e6fbc3cbac6450e25dd
+  coreMasterBundlePath: /Items/Guns/Rifle_Maple/
   modType: 24
   rarity: 0
   id: 474
+  idLock: 0
   nameEnglish: 'Maple Rifle
 
     Description Maple rifle chambered in Rifle ammunition.'

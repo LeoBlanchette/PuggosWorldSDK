@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Parka_White
   m_EditorClassIdentifier: 
+  guid: 4630247d7fa1476d8b8e7c07c7f963cf
+  coreMasterBundlePath: /Items/Shirts/Parka_White/
   modType: 44
   rarity: 0
   id: 178
+  idLock: 0
   nameEnglish: 'White Parka
 
     Description Cold weather parka.'

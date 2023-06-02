@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Missile_1
   m_EditorClassIdentifier: 
+  guid: b4221de0b9c341588a07986b3623f7ea
+  coreMasterBundlePath: /Items/Magazines/Missile_1/
   modType: 29
   rarity: 4
   id: 1302
+  idLock: 0
   nameEnglish: 'Missile
 
     Description Military grade <color=legendary>Tank</color>

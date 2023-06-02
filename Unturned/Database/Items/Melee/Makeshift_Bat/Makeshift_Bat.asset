@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Makeshift_Bat
   m_EditorClassIdentifier: 
+  guid: c88887e007b443e2a62427846f73f5fc
+  coreMasterBundlePath: /Items/Melee/Makeshift_Bat/
   modType: 34
   rarity: 0
   id: 487
+  idLock: 0
   nameEnglish: 'Makeshift Bat
 
     Description A wicked melee weapon.'

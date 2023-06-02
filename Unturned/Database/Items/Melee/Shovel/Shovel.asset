@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Shovel
   m_EditorClassIdentifier: 
+  guid: 886932def8214b1799fbd4ac956b8cf4
+  coreMasterBundlePath: /Items/Melee/Shovel/
   modType: 34
   rarity: 0
   id: 1031
+  idLock: 0
   nameEnglish: 'Shovel
 
     Description Perfect for whacking zombies.'

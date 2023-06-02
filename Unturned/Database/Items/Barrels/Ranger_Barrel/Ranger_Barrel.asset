@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ranger_Barrel
   m_EditorClassIdentifier: 
+  guid: 993ff3e4c2e3466689ffd0b837a15c4e
+  coreMasterBundlePath: /Items/Barrels/Ranger_Barrel/
   modType: 5
   rarity: 2
   id: 1191
+  idLock: 0
   nameEnglish: 'Ranger Barrel
 
     Description Ranger grade barrel. Increases accuracy.'

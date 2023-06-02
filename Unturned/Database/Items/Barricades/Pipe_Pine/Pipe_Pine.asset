@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pipe_Pine
   m_EditorClassIdentifier: 
+  guid: 316c09bb32df4072b10123381c5e96d3
+  coreMasterBundlePath: /Items/Barricades/Pipe_Pine/
   modType: 6
   rarity: 2
   id: 1075
+  idLock: 0
   nameEnglish: 'Pine Pipe
 
     Description Pine pipe. Beware of termites.'

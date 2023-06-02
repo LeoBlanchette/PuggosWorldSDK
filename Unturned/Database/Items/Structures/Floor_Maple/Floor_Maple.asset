@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Floor_Maple
   m_EditorClassIdentifier: 
+  guid: e746abc4b09b43a4a8af05d797139e4c
+  coreMasterBundlePath: /Items/Structures/Floor_Maple/
   modType: 50
   rarity: 1
   id: 31
+  idLock: 0
   nameEnglish: 'Maple Floor
 
     Description Maple floor. Beware of termites.'

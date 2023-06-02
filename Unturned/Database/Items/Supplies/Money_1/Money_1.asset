@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Money_1
   m_EditorClassIdentifier: 
+  guid: b601c657305d408f81b2c02a6d8a2e34
+  coreMasterBundlePath: /Items/Supplies/Money_1/
   modType: 51
   rarity: 0
   id: 1056
+  idLock: 0
   nameEnglish: 'Loonie
 
     Description One dollar of currency.'

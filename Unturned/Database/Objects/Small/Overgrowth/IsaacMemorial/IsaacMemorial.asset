@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: IsaacMemorial
   m_EditorClassIdentifier: 
+  guid: 575f1e25b58b4622a551ef9d7604d584
+  coreMasterBundlePath: /Objects/Small/Overgrowth/IsaacMemorial/
   modType: 11
   rarity: 0
   id: 0
+  idLock: 0
   nameEnglish: 'Isaac Memorial
 
 '

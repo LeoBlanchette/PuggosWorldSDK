@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Helmet_Russia
   m_EditorClassIdentifier: 
+  guid: b3c4874673524db987acce4388287a6a
+  coreMasterBundlePath: /Items/Hats/Military_Helmet_Russia/
   modType: 25
   rarity: 2
   id: 1335
+  idLock: 0
   nameEnglish: 'Military Helmet
 
     Description Military headwear to prevent injury.'

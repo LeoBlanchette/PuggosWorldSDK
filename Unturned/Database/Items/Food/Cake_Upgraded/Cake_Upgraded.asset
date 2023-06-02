@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cake_Upgraded
   m_EditorClassIdentifier: 
+  guid: 48547f5552294464b4cb68761f6832a2
+  coreMasterBundlePath: /Items/Food/Cake_Upgraded/
   modType: 18
   rarity: 3
   id: 1431
+  idLock: 0
   nameEnglish: 'Upgraded Cake
 
     Description So delicious and moist. There''s

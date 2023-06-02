@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Planter
   m_EditorClassIdentifier: 
+  guid: 063ff085df14409586c9af0cf7896317
+  coreMasterBundlePath: /Items/Barricades/Planter/
   modType: 6
   rarity: 2
   id: 331
+  idLock: 0
   nameEnglish: 'Planter
 
     Description Planting box perfect for raising crops

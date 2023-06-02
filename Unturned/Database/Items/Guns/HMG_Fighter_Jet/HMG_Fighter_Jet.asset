@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: HMG_Fighter_Jet
   m_EditorClassIdentifier: 
+  guid: 9dfd87be4472484f8e5ae726bb800727
+  coreMasterBundlePath: /Items/Guns/HMG_Fighter_Jet/
   modType: 24
   rarity: 3
   id: 1471
+  idLock: 0
   nameEnglish: 'HMG
 
     Description Heavy machine gun chambered in HMG ammunition.'

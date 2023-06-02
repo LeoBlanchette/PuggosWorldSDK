@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Minehole
   m_EditorClassIdentifier: 
+  guid: 3c1c0dc10f8f4c658ea55376aaf3e7a2
+  coreMasterBundlePath: /Objects/Medium/Business/Minehole/
   modType: 33
   rarity: 0
   id: 442
+  idLock: 0
   nameEnglish: Minehole
   cloneFrom: {fileID: 0}
   datFileValues:

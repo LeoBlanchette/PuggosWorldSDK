@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: MP40
   m_EditorClassIdentifier: 
+  guid: 2f1098586c774c4683fc40330c93a1fe
+  coreMasterBundlePath: /Items/Guns/MP40/
   modType: 24
   rarity: 3
   id: 1477
+  idLock: 0
   nameEnglish: 'Maschinengewehr
 
     Description German submachine gun chambered

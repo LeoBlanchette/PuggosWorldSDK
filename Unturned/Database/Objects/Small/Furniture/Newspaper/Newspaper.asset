@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Newspaper
   m_EditorClassIdentifier: 
+  guid: 2c719c87b2974491bdced178f019d7b1
+  coreMasterBundlePath: /Objects/Small/Furniture/Newspaper/
   modType: 47
   rarity: 0
   id: 382
+  idLock: 0
   nameEnglish: Newspaper
   cloneFrom: {fileID: 0}
   datFileValues:

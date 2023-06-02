@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ladder_Wood_0
   m_EditorClassIdentifier: 
+  guid: b23ab7cc1ae04f3fba5061d7ebe80f44
+  coreMasterBundlePath: /Objects/Medium/Furniture/Ladder_Wood_0/
   modType: 33
   rarity: 0
   id: 137
+  idLock: 0
   nameEnglish: Ladder Wood #1
   cloneFrom: {fileID: 0}
   datFileValues:

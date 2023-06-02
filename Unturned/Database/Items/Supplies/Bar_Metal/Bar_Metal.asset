@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bar_Metal
   m_EditorClassIdentifier: 
+  guid: 4fe7b8a25bbe4b6fa14e81f07b1a9ef7
+  coreMasterBundlePath: /Items/Supplies/Bar_Metal/
   modType: 51
   rarity: 2
   id: 285
+  idLock: 0
   nameEnglish: 'Metal Bar
 
     Description Reinforced metal for strong cores.'

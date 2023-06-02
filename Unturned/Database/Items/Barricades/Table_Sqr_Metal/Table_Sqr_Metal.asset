@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Table_Sqr_Metal
   m_EditorClassIdentifier: 
+  guid: 9506ecf9b0f64a07aec137d2a35009bd
+  coreMasterBundlePath: /Items/Barricades/Table_Sqr_Metal/
   modType: 6
   rarity: 3
   id: 1295
+  idLock: 0
   nameEnglish: 'Metal Square Table
 
     Description Metal table for fine dining.'

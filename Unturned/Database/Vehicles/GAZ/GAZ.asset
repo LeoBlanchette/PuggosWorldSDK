@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: GAZ
   m_EditorClassIdentifier: 
+  guid: 2e32d98413c34580b8bb59b71f6355b8
+  coreMasterBundlePath: /Vehicles/GAZ/
   modType: 58
   rarity: 2
   id: 118
+  idLock: 0
   nameEnglish: Toiler
   cloneFrom: {fileID: 0}
   datFileValues:

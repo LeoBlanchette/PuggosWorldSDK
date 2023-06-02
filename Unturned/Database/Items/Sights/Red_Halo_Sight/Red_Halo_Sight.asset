@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Red_Halo_Sight
   m_EditorClassIdentifier: 
+  guid: cd3d0f3f6d3e4fb4bff0eed6bf2548e9
+  coreMasterBundlePath: /Items/Sights/Red_Halo_Sight/
   modType: 45
   rarity: 1
   id: 147
+  idLock: 0
   nameEnglish: 'Halo Sight
 
     Description Rail mounted sight with electronic aiming

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Umbrella_Red
   m_EditorClassIdentifier: 
+  guid: a9972248e63d424aa3a82ae6d8fa0bf3
+  coreMasterBundlePath: /Items/Barricades/Umbrella_Red/
   modType: 6
   rarity: 0
   id: 1325
+  idLock: 0
   nameEnglish: 'Red Patio Umbrella
 
     Description Enjoy a nice day in the shade,

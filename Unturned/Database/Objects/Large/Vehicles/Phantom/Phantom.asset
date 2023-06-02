@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Phantom
   m_EditorClassIdentifier: 
+  guid: 072d0085f68b4b41bae52c1650203784
+  coreMasterBundlePath: /Objects/Large/Vehicles/Phantom/
   modType: 27
   rarity: 0
   id: 662
+  idLock: 0
   nameEnglish: Ghost
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Spikes_Birch
   m_EditorClassIdentifier: 
+  guid: 97d71ffea02d4735b13f234ec709ff53
+  coreMasterBundlePath: /Items/Barricades/Spikes_Birch/
   modType: 57
   rarity: 0
   id: 384
+  idLock: 0
   nameEnglish: 'Birch Spikes
 
     Description Spiky trap.'

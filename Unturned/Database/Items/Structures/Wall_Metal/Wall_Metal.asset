@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wall_Metal
   m_EditorClassIdentifier: 
+  guid: 5e01dcf5d58a4104b1667d9c4e00bd59
+  coreMasterBundlePath: /Items/Structures/Wall_Metal/
   modType: 50
   rarity: 3
   id: 371
+  idLock: 0
   nameEnglish: 'Metal Wall
 
     Description Metal wall. Beware of robotic termites.'

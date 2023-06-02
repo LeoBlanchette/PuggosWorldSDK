@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Chair_Beach_2
   m_EditorClassIdentifier: 
+  guid: 539da0166abc4c6eacce8f77ea032df2
+  coreMasterBundlePath: /Objects/Medium/Parks/Chair_Beach_2/
   modType: 33
   rarity: 0
   id: 306
+  idLock: 0
   nameEnglish: Chair Beach #3
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sledgehammer
   m_EditorClassIdentifier: 
+  guid: f3be989165484e3dbb7f6ed74eb4aa2f
+  coreMasterBundlePath: /Items/Melee/Sledgehammer/
   modType: 34
   rarity: 1
   id: 136
+  idLock: 0
   nameEnglish: 'Sledgehammer
 
     Description Construction tool for heavy duty work.'

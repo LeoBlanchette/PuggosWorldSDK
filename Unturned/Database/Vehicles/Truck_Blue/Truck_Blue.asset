@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Truck_Blue
   m_EditorClassIdentifier: 
+  guid: dee784f5eec648c98a760de0ac86dd2f
+  coreMasterBundlePath: /Vehicles/Truck_Blue/
   modType: 58
   rarity: 0
   id: 18
+  idLock: 0
   nameEnglish: Blue Truck
   cloneFrom: {fileID: 0}
   datFileValues:

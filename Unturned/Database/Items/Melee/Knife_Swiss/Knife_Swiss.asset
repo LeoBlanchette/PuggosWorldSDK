@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Knife_Swiss
   m_EditorClassIdentifier: 
+  guid: 77f008caadc946e3860cc692ffcbeab3
+  coreMasterBundlePath: /Items/Melee/Knife_Swiss/
   modType: 34
   rarity: 1
   id: 139
+  idLock: 0
   nameEnglish: 'Pocketknife
 
     Description Fold out knife equipped with everything

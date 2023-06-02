@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Seed_Tomato
   m_EditorClassIdentifier: 
+  guid: 3c18af4f1a2d46f690ea3a73b84b9ef2
+  coreMasterBundlePath: /Items/Barricades/Seed_Tomato/
   modType: 15
   rarity: 0
   id: 341
+  idLock: 0
   nameEnglish: 'Tomato Seed
 
     Description Ready for planting and eating.'

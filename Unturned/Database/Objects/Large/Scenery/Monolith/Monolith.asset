@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Monolith
   m_EditorClassIdentifier: 
+  guid: b8bb318ee681431382869b011d1783af
+  coreMasterBundlePath: /Objects/Large/Scenery/Monolith/
   modType: 27
   rarity: 0
   id: 490
+  idLock: 0
   nameEnglish: Monolith
   cloneFrom: {fileID: 0}
   datFileValues:

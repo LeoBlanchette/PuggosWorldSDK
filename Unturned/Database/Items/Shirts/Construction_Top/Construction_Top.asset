@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Construction_Top
   m_EditorClassIdentifier: 
+  guid: 7662b3709d51498da70c98eb6e8595c1
+  coreMasterBundlePath: /Items/Shirts/Construction_Top/
   modType: 44
   rarity: 1
   id: 232
+  idLock: 0
   nameEnglish: 'Construction Top
 
     Description Construction uniform shirt.'

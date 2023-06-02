@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Umbrella_Orange
   m_EditorClassIdentifier: 
+  guid: 6eb306fb461d468bb7e05874dcbd48de
+  coreMasterBundlePath: /Items/Barricades/Umbrella_Orange/
   modType: 6
   rarity: 0
   id: 1323
+  idLock: 0
   nameEnglish: 'Orange Patio Umbrella
 
     Description Enjoy a nice day in the shade,

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Roof_Metal
   m_EditorClassIdentifier: 
+  guid: 98795f0b4dd642a095f07d43d93029ab
+  coreMasterBundlePath: /Items/Structures/Roof_Metal/
   modType: 50
   rarity: 3
   id: 373
+  idLock: 0
   nameEnglish: 'Metal Roof
 
     Description Metal roof. Beware of robotic termites.'

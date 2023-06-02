@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rocket_1
   m_EditorClassIdentifier: 
+  guid: bc6b619e2c4a40a7bfd6ea18935df69a
+  coreMasterBundlePath: /Items/Magazines/Rocket_1/
   modType: 29
   rarity: 4
   id: 520
+  idLock: 0
   nameEnglish: 'Rocket
 
     Description Ranger grade <color=legendary>Launcher</color>

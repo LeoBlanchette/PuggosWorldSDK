@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Filter
   m_EditorClassIdentifier: 
+  guid: 4778d16b7c36493084437cb6a382aa3f
+  coreMasterBundlePath: /Items/Filters/Filter/
   modType: 16
   rarity: 2
   id: 1271
+  idLock: 0
   nameEnglish: "Filter \r\nDescription Filters out radiation when attached to a gasmask."
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Scalar
   m_EditorClassIdentifier: 
+  guid: 29638bceccf945e392ac4c44f9df409f
+  coreMasterBundlePath: /Items/Guns/Scalar/
   modType: 24
   rarity: 2
   id: 1447
+  idLock: 0
   nameEnglish: 'Scalar
 
     Description American carbine chambered in Scalar ammunition.'

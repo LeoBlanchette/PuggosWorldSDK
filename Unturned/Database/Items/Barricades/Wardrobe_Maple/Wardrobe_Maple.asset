@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wardrobe_Maple
   m_EditorClassIdentifier: 
+  guid: b72a0ffefeef454fb3c74356b0ab8a97
+  coreMasterBundlePath: /Items/Barricades/Wardrobe_Maple/
   modType: 49
   rarity: 1
   id: 1278
+  idLock: 0
   nameEnglish: 'Maple Wardrobe
 
     Description Maple wardrobe for storing items.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pie_Jade
   m_EditorClassIdentifier: 
+  guid: 620ca00372dc420a997c06cb5fee4e53
+  coreMasterBundlePath: /Items/Food/Pie_Jade/
   modType: 18
   rarity: 3
   id: 1078
+  idLock: 0
   nameEnglish: 'Jade Pie
 
     Description Baked to perfection.'

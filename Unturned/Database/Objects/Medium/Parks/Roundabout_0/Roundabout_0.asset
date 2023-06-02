@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Roundabout_0
   m_EditorClassIdentifier: 
+  guid: 7f187ef8c43f4695a61087e53d12bce4
+  coreMasterBundlePath: /Objects/Medium/Parks/Roundabout_0/
   modType: 33
   rarity: 0
   id: 22
+  idLock: 0
   nameEnglish: Roundabout #1
   cloneFrom: {fileID: 0}
   datFileValues:

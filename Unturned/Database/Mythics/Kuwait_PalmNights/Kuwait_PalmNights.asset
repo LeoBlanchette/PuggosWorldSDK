@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Kuwait_PalmNights
   m_EditorClassIdentifier: 
+  guid: 93763c6bc0b54c8e957e3d926ee4a16a
+  coreMasterBundlePath: /Mythics/Kuwait_PalmNights/
   modType: 35
   rarity: 0
   id: 45
+  idLock: 0
   nameEnglish: 'Particle_Tag_Name Palm Nights
 
 '

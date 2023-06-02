@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_Peaks_4
   m_EditorClassIdentifier: 
+  guid: 8e898b15c7f444c6bd3f0fd271d3183f
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_Peaks_4/
   modType: 33
   rarity: 0
   id: 2033
+  idLock: 0
   nameEnglish: 'Peaks Note - Lost
 
     

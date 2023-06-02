@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 8517a4eef8a942109ff2ebe799b415ed
+  coreMasterBundlePath: /NPCs/Vendors/Uniform_Store/
   modType: 60
   rarity: 0
   id: 71
+  idLock: 0
   nameEnglish: '<color=legendary>Coalition</color> Uniforms
 
     Description Crisp

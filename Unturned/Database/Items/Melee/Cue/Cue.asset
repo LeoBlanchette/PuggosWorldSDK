@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cue
   m_EditorClassIdentifier: 
+  guid: 2dabaf50753f47fa985ecea39bf0bf0b
+  coreMasterBundlePath: /Items/Melee/Cue/
   modType: 34
   rarity: 0
   id: 1390
+  idLock: 0
   nameEnglish: 'Pool Cue
 
     Description Cool off with a game of pool between hits!'

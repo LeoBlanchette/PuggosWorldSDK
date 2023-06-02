@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bat
   m_EditorClassIdentifier: 
+  guid: 71a756748eab441291e656d09d3792aa
+  coreMasterBundlePath: /Items/Melee/Bat/
   modType: 34
   rarity: 0
   id: 105
+  idLock: 0
   nameEnglish: 'Baseball Bat
 
     Description Tool for playing America''s favorite

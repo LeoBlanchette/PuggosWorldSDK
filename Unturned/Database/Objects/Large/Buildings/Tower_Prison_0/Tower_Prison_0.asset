@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tower_Prison_0
   m_EditorClassIdentifier: 
+  guid: 1cdb7452a76c460db4c53ad91994b5c4
+  coreMasterBundlePath: /Objects/Large/Buildings/Tower_Prison_0/
   modType: 27
   rarity: 0
   id: 914
+  idLock: 0
   nameEnglish: Prison Tower #1
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Oxygenator
   m_EditorClassIdentifier: 
+  guid: 239b8d876cee4572b8a8eff530792ddf
+  coreMasterBundlePath: /Items/Barricades/Oxygenator/
   modType: 6
   rarity: 3
   id: 1261
+  idLock: 0
   nameEnglish: 'Oxygenator
 
     Description Electricity powered oxygen converter.'

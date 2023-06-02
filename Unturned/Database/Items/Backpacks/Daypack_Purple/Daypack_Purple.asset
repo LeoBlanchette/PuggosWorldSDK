@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Daypack_Purple
   m_EditorClassIdentifier: 
+  guid: 7f317353284b448a8a3d8fc1b45f96b4
+  coreMasterBundlePath: /Items/Backpacks/Daypack_Purple/
   modType: 4
   rarity: 0
   id: 204
+  idLock: 0
   nameEnglish: 'Purple Daypack
 
     Description Medium sized synthetic backpack.'

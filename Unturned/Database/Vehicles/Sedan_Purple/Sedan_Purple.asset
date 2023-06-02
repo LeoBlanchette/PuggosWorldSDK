@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sedan_Purple
   m_EditorClassIdentifier: 
+  guid: b7f689be3aa148249309f62ac7f944ee
+  coreMasterBundlePath: /Vehicles/Sedan_Purple/
   modType: 58
   rarity: 0
   id: 29
+  idLock: 0
   nameEnglish: Purple Sedan
   cloneFrom: {fileID: 0}
   datFileValues:

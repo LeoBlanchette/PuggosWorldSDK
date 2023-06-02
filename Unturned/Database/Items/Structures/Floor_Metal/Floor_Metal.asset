@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Floor_Metal
   m_EditorClassIdentifier: 
+  guid: 995b5b3256394ad6adff8d66c58aefd8
+  coreMasterBundlePath: /Items/Structures/Floor_Metal/
   modType: 50
   rarity: 3
   id: 369
+  idLock: 0
   nameEnglish: 'Metal Floor
 
     Description Metal floor. Beware of robotic termites.'

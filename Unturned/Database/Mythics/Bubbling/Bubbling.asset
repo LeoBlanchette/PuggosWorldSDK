@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bubbling
   m_EditorClassIdentifier: 
+  guid: cdf1c6f9abdb46af9d67e1b8d2a2fe23
+  coreMasterBundlePath: /Mythics/Bubbling/
   modType: 35
   rarity: 0
   id: 9
+  idLock: 0
   nameEnglish: Particle_Tag_Name Bubbling
   cloneFrom: {fileID: 0}
   datFileValues: []

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sewer_Quad_0
   m_EditorClassIdentifier: 
+  guid: 124bce9b04d44af0a8d633e87039eab4
+  coreMasterBundlePath: /Objects/Large/Roads/Sewer_Quad_0/
   modType: 27
   rarity: 0
   id: 968
+  idLock: 0
   nameEnglish: Sewer Quad #1
   cloneFrom: {fileID: 0}
   datFileValues:

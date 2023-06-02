@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Teklowvka
   m_EditorClassIdentifier: 
+  guid: 220efb25f7c44ceea63be455658c08dd
+  coreMasterBundlePath: /Items/Guns/Teklowvka/
   modType: 24
   rarity: 2
   id: 1360
+  idLock: 0
   nameEnglish: 'Teklowvka
 
     Description Swedish pistol chambered in Teklowvka

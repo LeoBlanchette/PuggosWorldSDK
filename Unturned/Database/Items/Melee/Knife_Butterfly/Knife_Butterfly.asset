@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Knife_Butterfly
   m_EditorClassIdentifier: 
+  guid: ad9ef20b27f04acebad5da32544be764
+  coreMasterBundlePath: /Items/Melee/Knife_Butterfly/
   modType: 34
   rarity: 2
   id: 140
+  idLock: 0
   nameEnglish: 'Butterfly Knife
 
     Description Blade concealed between two rotating

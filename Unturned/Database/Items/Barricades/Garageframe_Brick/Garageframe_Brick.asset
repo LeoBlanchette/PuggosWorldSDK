@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Garageframe_Brick
   m_EditorClassIdentifier: 
+  guid: b86e60ae32f54bb38346cc7a0c6f9e7f
+  coreMasterBundlePath: /Items/Barricades/Garageframe_Brick/
   modType: 6
   rarity: 2
   id: 1218
+  idLock: 0
   nameEnglish: 'Brick Garageframe
 
     Description The zombies can huff and puff,

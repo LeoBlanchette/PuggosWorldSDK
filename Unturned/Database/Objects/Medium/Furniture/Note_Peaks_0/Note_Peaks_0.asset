@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_Peaks_0
   m_EditorClassIdentifier: 
+  guid: 49d466f80b914b089a4336de21b47fd2
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_Peaks_0/
   modType: 33
   rarity: 0
   id: 2029
+  idLock: 0
   nameEnglish: 'Peaks Note - P.Riso
 
     

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Jetski_Purple
   m_EditorClassIdentifier: 
+  guid: 6a9458436fdd4cab84736d7da6d58753
+  coreMasterBundlePath: /Vehicles/Jetski_Purple/
   modType: 58
   rarity: 0
   id: 102
+  idLock: 0
   nameEnglish: Purple Jetski
   cloneFrom: {fileID: 0}
   datFileValues:

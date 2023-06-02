@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bane_21
   m_EditorClassIdentifier: 
+  guid: 609c37accf724380b5d2482c65c3e4a2
+  coreMasterBundlePath: /Items/Magazines/Bane_21/
   modType: 29
   rarity: 3
   id: 1485
+  idLock: 0
   nameEnglish: 'Devil''s Bane Magazine
 
     Description Military grade <color=epic>Bane</color>

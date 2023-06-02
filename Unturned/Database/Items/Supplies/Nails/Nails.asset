@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Nails
   m_EditorClassIdentifier: 
+  guid: 38b9443a5965459bb8d1d27215dac52b
+  coreMasterBundlePath: /Items/Supplies/Nails/
   modType: 51
   rarity: 0
   id: 71
+  idLock: 0
   nameEnglish: 'Nails
 
     Description Bang these into anything and it will stay

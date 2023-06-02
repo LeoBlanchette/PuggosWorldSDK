@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Artifact_2_Off
   m_EditorClassIdentifier: 
+  guid: d4cfa763149f42608d4e9896a558e070
+  coreMasterBundlePath: /Objects/Medium/Quests/Artifacts/Artifact_2_Off/
   modType: 33
   rarity: 0
   id: 852
+  idLock: 0
   nameEnglish: 'Artifact #3 Off
 
     

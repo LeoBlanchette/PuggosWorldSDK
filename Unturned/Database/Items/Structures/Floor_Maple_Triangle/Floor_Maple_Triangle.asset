@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Floor_Maple_Triangle
   m_EditorClassIdentifier: 
+  guid: 038bba6d8a474838a0b12eba305bed18
+  coreMasterBundlePath: /Items/Structures/Floor_Maple_Triangle/
   modType: 50
   rarity: 1
   id: 1262
+  idLock: 0
   nameEnglish: 'Triangular Maple Floor
 
     Description Maple triangular floor.

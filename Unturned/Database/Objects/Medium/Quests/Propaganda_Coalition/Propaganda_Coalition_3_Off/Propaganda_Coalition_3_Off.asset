@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Propaganda_Coalition_3_Off
   m_EditorClassIdentifier: 
+  guid: 53458ad9ff33404ba5daac02317b80f9
+  coreMasterBundlePath: /Objects/Medium/Quests/Propaganda_Coalition/Propaganda_Coalition_3_Off/
   modType: 33
   rarity: 0
   id: 786
+  idLock: 0
   nameEnglish: 'Propaganda #4 Off
 
     

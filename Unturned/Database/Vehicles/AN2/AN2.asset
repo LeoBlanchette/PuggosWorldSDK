@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: AN2
   m_EditorClassIdentifier: 
+  guid: ca697f594be543759c1fc3255b3c3432
+  coreMasterBundlePath: /Vehicles/AN2/
   modType: 58
   rarity: 3
   id: 133
+  idLock: 0
   nameEnglish: Annushka
   cloneFrom: {fileID: 0}
   datFileValues:

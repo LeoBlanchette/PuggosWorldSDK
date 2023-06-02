@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Shed_0
   m_EditorClassIdentifier: 
+  guid: 524bb8af8dc548c4b6388a8cd704dde9
+  coreMasterBundlePath: /Objects/Large/Buildings/Shed_0/
   modType: 27
   rarity: 0
   id: 298
+  idLock: 0
   nameEnglish: Shed #1
   cloneFrom: {fileID: 0}
   datFileValues:

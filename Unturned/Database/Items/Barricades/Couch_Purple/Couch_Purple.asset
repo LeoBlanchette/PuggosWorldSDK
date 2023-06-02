@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Couch_Purple
   m_EditorClassIdentifier: 
+  guid: 3c8e3a7bb2744649992faa45aacdbc64
+  coreMasterBundlePath: /Items/Barricades/Couch_Purple/
   modType: 6
   rarity: 0
   id: 1306
+  idLock: 0
   nameEnglish: 'Purple Couch
 
     Description Comfy spot to hangout and unwind.'

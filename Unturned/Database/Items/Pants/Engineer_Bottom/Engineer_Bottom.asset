@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Engineer_Bottom
   m_EditorClassIdentifier: 
+  guid: 7c32f2a17c7b4da1b49bcb9f9b708274
+  coreMasterBundlePath: /Items/Pants/Engineer_Bottom/
   modType: 39
   rarity: 1
   id: 408
+  idLock: 0
   nameEnglish: 'Engineer Bottom
 
     Description Trusty overalls for driving trains.'

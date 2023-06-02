@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Canned_Soda
   m_EditorClassIdentifier: 
+  guid: 930eb873ff494ad79ba29a0bceaff28d
+  coreMasterBundlePath: /Items/Water/Canned_Soda/
   modType: 62
   rarity: 0
   id: 465
+  idLock: 0
   nameEnglish: 'Canned Soda
 
     Description Water saturated with sugar.'

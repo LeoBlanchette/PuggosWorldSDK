@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fishing_Top
   m_EditorClassIdentifier: 
+  guid: 5856c83cb9b045a9bf6faf753537cad1
+  coreMasterBundlePath: /Items/Shirts/Fishing_Top/
   modType: 44
   rarity: 1
   id: 510
+  idLock: 0
   nameEnglish: 'Fishing Top
 
     Description Naturally waterproof, perfect for fishing

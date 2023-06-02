@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Canned_Beans
   m_EditorClassIdentifier: 
+  guid: 582575daaae44045987e54bdbea17753
+  coreMasterBundlePath: /Items/Food/Canned_Beans/
   modType: 18
   rarity: 0
   id: 13
+  idLock: 0
   nameEnglish: 'Canned Beans
 
     Description Very tactically packed for maximum

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_10
   m_EditorClassIdentifier: 
+  guid: 735b51e7ac294f1299229854ee02680b
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_10/
   modType: 33
   rarity: 0
   id: 2011
+  idLock: 0
   nameEnglish: 'Note - Apology
 
     

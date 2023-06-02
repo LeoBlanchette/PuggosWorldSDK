@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Totem_0
   m_EditorClassIdentifier: 
+  guid: 5cba95d8357849b683b91d1ff0944e05
+  coreMasterBundlePath: /Objects/Medium/Parks/Totem_0/
   modType: 33
   rarity: 0
   id: 324
+  idLock: 0
   nameEnglish: Totem #1
   cloneFrom: {fileID: 0}
   datFileValues:

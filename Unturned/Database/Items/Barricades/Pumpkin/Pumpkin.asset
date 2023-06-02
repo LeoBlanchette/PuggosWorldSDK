@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pumpkin
   m_EditorClassIdentifier: 
+  guid: 92c02668e8f24410a9f40f4905de972d
+  coreMasterBundlePath: /Items/Barricades/Pumpkin/
   modType: 6
   rarity: 2
   id: 1049
+  idLock: 0
   nameEnglish: 'Jack-o-Lantern
 
     Description Halloween torch to provide a little

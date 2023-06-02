@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Barrel_3
   m_EditorClassIdentifier: 
+  guid: eccc25060fa446e7a34e8c67b82057ed
+  coreMasterBundlePath: /Objects/Medium/Business/Barrel_3/
   modType: 33
   rarity: 0
   id: 870
+  idLock: 0
   nameEnglish: Barrel #4
   cloneFrom: {fileID: 0}
   datFileValues:

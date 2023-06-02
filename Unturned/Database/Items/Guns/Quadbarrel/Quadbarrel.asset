@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Quadbarrel
   m_EditorClassIdentifier: 
+  guid: 2c0aeca72a7040a4bd9f4afb316afba1
+  coreMasterBundlePath: /Items/Guns/Quadbarrel/
   modType: 24
   rarity: 3
   id: 1436
+  idLock: 0
   nameEnglish: 'Quadbarrel
 
     Description American shotgun chambered in 12 Gauge

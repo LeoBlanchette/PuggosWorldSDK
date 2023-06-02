@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Maple_1
   m_EditorClassIdentifier: 
+  guid: 42c2147138d44a66b4d75174bfc4b143
+  coreMasterBundlePath: /Trees/Maple_1/
   modType: 42
   rarity: 0
   id: 6
+  idLock: 0
   nameEnglish: Maple #2
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Counter_2
   m_EditorClassIdentifier: 
+  guid: 2580a1f9cc8e42619946a24a3d6d98bc
+  coreMasterBundlePath: /Objects/Medium/Furniture/Counter_2/
   modType: 33
   rarity: 0
   id: 104
+  idLock: 0
   nameEnglish: Counter #3
   cloneFrom: {fileID: 0}
   datFileValues:

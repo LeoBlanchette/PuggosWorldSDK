@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Van_Purple
   m_EditorClassIdentifier: 
+  guid: 62596ea6d12a40a5b0a22e8636118b7c
+  coreMasterBundlePath: /Vehicles/Van_Purple/
   modType: 58
   rarity: 0
   id: 39
+  idLock: 0
   nameEnglish: Purple Van
   cloneFrom: {fileID: 0}
   datFileValues:

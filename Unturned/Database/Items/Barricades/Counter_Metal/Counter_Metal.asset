@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Counter_Metal
   m_EditorClassIdentifier: 
+  guid: 5f7cfb34ba5f4a79ae23eb8d5176677b
+  coreMasterBundlePath: /Items/Barricades/Counter_Metal/
   modType: 49
   rarity: 2
   id: 1248
+  idLock: 0
   nameEnglish: 'Metal Counter
 
     Description Metal counter cupboard for storing

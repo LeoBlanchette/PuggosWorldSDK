@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Nailgun_20
   m_EditorClassIdentifier: 
+  guid: 5b7b8da0ef6b4127ae94bf8fdbff4cfa
+  coreMasterBundlePath: /Items/Magazines/Nailgun_20/
   modType: 29
   rarity: 1
   id: 1166
+  idLock: 0
   nameEnglish: 'Nailgun Magazine
 
     Description Construction grade <color=uncommon>Nailgun</color>

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hockey
   m_EditorClassIdentifier: 
+  guid: 3216fb6da90a4b6bbff4f6b78b624afa
+  coreMasterBundlePath: /Items/Melee/Hockey/
   modType: 34
   rarity: 0
   id: 106
+  idLock: 0
   nameEnglish: 'Hockey Stick
 
     Description Tool for playing Canada''s favorite

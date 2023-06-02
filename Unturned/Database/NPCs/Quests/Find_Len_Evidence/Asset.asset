@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: cead78f3167b4dc9903f78a0ab635d85
+  coreMasterBundlePath: /NPCs/Quests/Find_Len_Evidence/
   modType: 40
   rarity: 0
   id: 180
+  idLock: 0
   nameEnglish: 'Coldcase
 
     Description <color=epic>Chief Brian</color> suggests

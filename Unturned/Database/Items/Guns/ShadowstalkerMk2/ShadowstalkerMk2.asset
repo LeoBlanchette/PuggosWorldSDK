@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: ShadowstalkerMk2
   m_EditorClassIdentifier: 
+  guid: 4047bbaf0a6a4bd08ea2d0dc06aa5067
+  coreMasterBundlePath: /Items/Guns/ShadowstalkerMk2/
   modType: 24
   rarity: 5
   id: 1441
+  idLock: 0
   nameEnglish: 'Shadowstalker Mk. II
 
     Description Prototype railgun chambered

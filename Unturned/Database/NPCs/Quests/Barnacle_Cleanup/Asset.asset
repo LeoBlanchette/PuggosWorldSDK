@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 7055471c400c44719c7d0a63aa6ca91b
+  coreMasterBundlePath: /NPCs/Quests/Barnacle_Cleanup/
   modType: 40
   rarity: 0
   id: 157
+  idLock: 0
   nameEnglish: 'Nautical Nuisance
 
     Description Barnacles are starting to form

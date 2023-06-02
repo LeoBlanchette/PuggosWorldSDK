@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Treasure_Off
   m_EditorClassIdentifier: 
+  guid: 122cf46b33fb4879a304d9c3e2776c8d
+  coreMasterBundlePath: /Objects/Medium/Quests/Treasure/Treasure_Off/
   modType: 33
   rarity: 0
   id: 842
+  idLock: 0
   nameEnglish: 'Treasure Off
 
     

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Frost_Crown_Fire
   m_EditorClassIdentifier: 
+  guid: cc2b5d61f5b244a4a226b6d19ae6642a
+  coreMasterBundlePath: /Mythics/Frost_Crown_Fire/
   modType: 35
   rarity: 0
   id: 47
+  idLock: 0
   nameEnglish: 'Particle_Tag_Name Fire Crown
 
 '

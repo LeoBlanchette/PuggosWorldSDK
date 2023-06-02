@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tank_Cannon
   m_EditorClassIdentifier: 
+  guid: f718028d516d459093a159fce8cef692
+  coreMasterBundlePath: /Items/Guns/Tank_Cannon/
   modType: 24
   rarity: 4
   id: 1300
+  idLock: 0
   nameEnglish: 'Tank Cannon
 
     Description Tank rocket launcher chambered in Missiles.'

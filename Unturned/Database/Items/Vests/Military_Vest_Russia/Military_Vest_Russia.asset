@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Vest_Russia
   m_EditorClassIdentifier: 
+  guid: 88976fe243f34159be2c3d6f8739c999
+  coreMasterBundlePath: /Items/Vests/Military_Vest_Russia/
   modType: 61
   rarity: 2
   id: 1336
+  idLock: 0
   nameEnglish: 'Military Vest
 
     Description Bullet proof military gear.'

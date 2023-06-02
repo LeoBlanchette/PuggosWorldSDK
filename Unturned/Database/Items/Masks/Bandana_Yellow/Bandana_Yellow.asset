@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bandana_Yellow
   m_EditorClassIdentifier: 
+  guid: 8be8f20214db428a80f51c78bc8435b6
+  coreMasterBundlePath: /Items/Masks/Bandana_Yellow/
   modType: 31
   rarity: 0
   id: 191
+  idLock: 0
   nameEnglish: 'Yellow Bandana
 
     Description Tablecloth for your neck.'

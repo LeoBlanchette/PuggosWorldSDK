@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Stairs_Pine
   m_EditorClassIdentifier: 
+  guid: 661b0a9eed164c1da3408a8bbac837ae
+  coreMasterBundlePath: /Items/Structures/Stairs_Pine/
   modType: 50
   rarity: 2
   id: 317
+  idLock: 0
   nameEnglish: 'Pine Stairs
 
     Description Pine stairs. Beware of termites.'

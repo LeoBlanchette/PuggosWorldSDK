@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 83e3c3deb7e942a78ae80935eb1830f5
+  coreMasterBundlePath: /NPCs/Quests/Broadcast_Repair/
   modType: 40
   rarity: 0
   id: 47
+  idLock: 0
   nameEnglish: 'On Air
 
     Description <color=legendary>Commander Laurence</color>

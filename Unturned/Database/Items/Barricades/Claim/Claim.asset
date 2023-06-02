@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Claim
   m_EditorClassIdentifier: 
+  guid: 79551f4444f84d1aa289f13949349573
+  coreMasterBundlePath: /Items/Barricades/Claim/
   modType: 6
   rarity: 4
   id: 1158
+  idLock: 0
   nameEnglish: 'Claim Flag
 
     Description Protect an area from other players building.'

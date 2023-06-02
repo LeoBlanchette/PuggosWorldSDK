@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plate_Small_Glass_Bulletproof
   m_EditorClassIdentifier: 
+  guid: 056ec1637c53488b89a4addfdc576fe2
+  coreMasterBundlePath: /Items/Barricades/Plate_Small_Glass_Bulletproof/
   modType: 6
   rarity: 2
   id: 893
+  idLock: 0
   nameEnglish: 'Small Bulletproof Plate
 
     Description Glass pane ideal for looking

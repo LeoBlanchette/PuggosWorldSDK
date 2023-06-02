@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tractor_1
   m_EditorClassIdentifier: 
+  guid: 654c77ae9ff44adfb23b6c88bf82de2b
+  coreMasterBundlePath: /Vehicles/Tractor_1/
   modType: 58
   rarity: 1
   id: 138
+  idLock: 0
   nameEnglish: Tractor
   cloneFrom: {fileID: 0}
   datFileValues:

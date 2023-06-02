@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: C4
   m_EditorClassIdentifier: 
+  guid: cfb840e4352e4337978ab38653f1676f
+  coreMasterBundlePath: /Items/Throwables/C4/
   modType: 54
   rarity: 3
   id: 1100
+  idLock: 0
   nameEnglish: 'Sticky Grenade
 
     Description Military grade throwable sticky

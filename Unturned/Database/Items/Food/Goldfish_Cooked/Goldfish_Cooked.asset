@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Goldfish_Cooked
   m_EditorClassIdentifier: 
+  guid: 02ff90ae504246eda6e78758f43b764e
+  coreMasterBundlePath: /Items/Food/Goldfish_Cooked/
   modType: 18
   rarity: 0
   id: 1350
+  idLock: 0
   nameEnglish: 'Cooked Goldfish
 
     Description Rather smelly and fishy.'

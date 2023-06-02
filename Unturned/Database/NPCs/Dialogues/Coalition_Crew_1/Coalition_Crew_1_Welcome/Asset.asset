@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: a1368969b56f4c50b3f459ef6d815866
+  coreMasterBundlePath: /NPCs/Dialogues/Coalition_Crew_1/Coalition_Crew_1_Welcome/
   modType: 13
   rarity: 0
   id: 95
+  idLock: 0
   nameEnglish: 'Message_0_Page_0 I''m tracking the long-range radar for planes, helicopters,
     boats, anyone we don''t know about.
 

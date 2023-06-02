@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: ac4f5eaedf9245db9753358fe9e1bfd3
+  coreMasterBundlePath: /NPCs/Dialogues/Captain/Captain_Major/
   modType: 13
   rarity: 0
   id: 32
+  idLock: 0
   nameEnglish: Message_0_Page_0 And I yours. I'm sure we'll have many more adventures
     together! Here are your fatigues, congratulations <color=legendary>Major</color>
     <name_char>!

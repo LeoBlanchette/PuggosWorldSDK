@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Mall_0
   m_EditorClassIdentifier: 
+  guid: 3211bdd8adbc47e6b060858bdced1361
+  coreMasterBundlePath: /Objects/Large/Buildings/Mall_0/
   modType: 27
   rarity: 0
   id: 311
+  idLock: 0
   nameEnglish: Mall #1
   cloneFrom: {fileID: 0}
   datFileValues:

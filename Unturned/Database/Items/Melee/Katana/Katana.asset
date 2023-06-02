@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Katana
   m_EditorClassIdentifier: 
+  guid: 50228f205bf843f09d7042bc816bf0f2
+  coreMasterBundlePath: /Items/Melee/Katana/
   modType: 34
   rarity: 3
   id: 1036
+  idLock: 0
   nameEnglish: 'Katana
 
     Description Incredibly sharp traditional Japanese weapon.'

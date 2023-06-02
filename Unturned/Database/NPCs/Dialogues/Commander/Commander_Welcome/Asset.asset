@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: bc19f556d2ff47b186ca5d89a142896f
+  coreMasterBundlePath: /NPCs/Dialogues/Commander/Commander_Welcome/
   modType: 13
   rarity: 0
   id: 44
+  idLock: 0
   nameEnglish: 'Message_0_Page_0 Good to have you with us! I''ve got a voluntary
     mission for you if you''ll take it.
 

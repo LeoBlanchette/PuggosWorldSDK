@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ornament_0
   m_EditorClassIdentifier: 
+  guid: 42ad990c2043463791fa7aed836c30a2
+  coreMasterBundlePath: /Objects/Small/Overgrowth/Ornament_0/
   modType: 47
   rarity: 0
   id: 487
+  idLock: 0
   nameEnglish: Ornament #1
   cloneFrom: {fileID: 0}
   datFileValues:

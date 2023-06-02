@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tent_8
   m_EditorClassIdentifier: 
+  guid: e79d584b89604a9ba8e6726d559b871d
+  coreMasterBundlePath: /Objects/Large/Buildings/Tent_8/
   modType: 27
   rarity: 0
   id: 955
+  idLock: 0
   nameEnglish: Coalition Tent #2
   cloneFrom: {fileID: 0}
   datFileValues:

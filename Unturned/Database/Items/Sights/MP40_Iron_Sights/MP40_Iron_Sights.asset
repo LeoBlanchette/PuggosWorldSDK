@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: MP40_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: a24cce813a1d434da1bbc049cee08737
+  coreMasterBundlePath: /Items/Sights/MP40_Iron_Sights/
   modType: 45
   rarity: 0
   id: 1478
+  idLock: 0
   nameEnglish: 'Maschinengewehr Iron Sights
 
     Description Rail mounted iron sights.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Volga_Red
   m_EditorClassIdentifier: 
+  guid: 4501270ebcde449f9009db21287a4e62
+  coreMasterBundlePath: /Vehicles/Volga_Red/
   modType: 58
   rarity: 0
   id: 115
+  idLock: 0
   nameEnglish: Red Auto
   cloneFrom: {fileID: 0}
   datFileValues:

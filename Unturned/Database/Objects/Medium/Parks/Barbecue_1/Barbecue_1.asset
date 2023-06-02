@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Barbecue_1
   m_EditorClassIdentifier: 
+  guid: 255f5577406a46a5bccc9a44de593014
+  coreMasterBundlePath: /Objects/Medium/Parks/Barbecue_1/
   modType: 33
   rarity: 0
   id: 237
+  idLock: 0
   nameEnglish: Barbecue #2
   cloneFrom: {fileID: 0}
   datFileValues:

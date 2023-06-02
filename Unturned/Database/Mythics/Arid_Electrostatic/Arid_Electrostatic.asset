@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Arid_Electrostatic
   m_EditorClassIdentifier: 
+  guid: 4e752b58c7d94ef9aac1e504fdfa0123
+  coreMasterBundlePath: /Mythics/Arid_Electrostatic/
   modType: 35
   rarity: 0
   id: 43
+  idLock: 0
   nameEnglish: 'Particle_Tag_Name Electrostatic
 
 '

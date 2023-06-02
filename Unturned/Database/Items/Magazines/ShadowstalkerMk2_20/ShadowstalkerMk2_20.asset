@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: ShadowstalkerMk2_20
   m_EditorClassIdentifier: 
+  guid: 47b91149e9d44fcc95d29682755fc6e0
+  coreMasterBundlePath: /Items/Magazines/ShadowstalkerMk2_20/
   modType: 29
   rarity: 5
   id: 1443
+  idLock: 0
   nameEnglish: 'Shadowstalker Mk. II Drum
 
     Description Prototype grade <color=mythical>Shadowstalker

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coil_0_Placeable
   m_EditorClassIdentifier: 
+  guid: 4e2e72b9abc848e09d3aacbabab6f478
+  coreMasterBundlePath: /Objects/Medium/Quests/Teleporter/Coil_0_Placeable/
   modType: 33
   rarity: 0
   id: 1024
+  idLock: 0
   nameEnglish: 'Teleporter Coil #1 Placeable
 
     

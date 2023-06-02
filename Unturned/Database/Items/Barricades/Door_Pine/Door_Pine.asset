@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Door_Pine
   m_EditorClassIdentifier: 
+  guid: 4010133a5476423ea77b440d5790d424
+  coreMasterBundlePath: /Items/Barricades/Door_Pine/
   modType: 6
   rarity: 2
   id: 283
+  idLock: 0
   nameEnglish: 'Pine Door
 
     Description Pine door ideal for keeping out unwanted

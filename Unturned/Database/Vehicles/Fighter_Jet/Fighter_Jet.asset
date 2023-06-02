@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fighter_Jet
   m_EditorClassIdentifier: 
+  guid: 3a1d0dab56954d399692bf18b7013b74
+  coreMasterBundlePath: /Vehicles/Fighter_Jet/
   modType: 58
   rarity: 4
   id: 140
+  idLock: 0
   nameEnglish: Fighter Jet
   cloneFrom: {fileID: 0}
   datFileValues:

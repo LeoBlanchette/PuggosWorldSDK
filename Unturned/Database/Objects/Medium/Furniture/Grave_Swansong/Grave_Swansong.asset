@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Grave_Swansong
   m_EditorClassIdentifier: 
+  guid: d9977c95bfba4263b98ce23870da3f33
+  coreMasterBundlePath: /Objects/Medium/Furniture/Grave_Swansong/
   modType: 33
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: Swansong
   cloneFrom: {fileID: 0}
   datFileValues:

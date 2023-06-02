@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 62e0ac6c1dd34c6c9b1130b8ba25bf59
+  coreMasterBundlePath: /NPCs/Dialogues/Chief/Chief_Police_Doughnuts_Accepted/
   modType: 13
   rarity: 0
   id: 67
+  idLock: 0
   nameEnglish: Message_0_Page_0 Let's just keep this between the two of us.
   cloneFrom: {fileID: 0}
   datFileValues:

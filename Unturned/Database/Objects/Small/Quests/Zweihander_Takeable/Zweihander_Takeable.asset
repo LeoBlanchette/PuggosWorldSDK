@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Zweihander_Takeable
   m_EditorClassIdentifier: 
+  guid: a596f9df77f74840834ebbc2870e826f
+  coreMasterBundlePath: /Objects/Small/Quests/Zweihander_Takeable/
   modType: 47
   rarity: 0
   id: 1018
+  idLock: 0
   nameEnglish: 'Zweihander Takeable
 
     

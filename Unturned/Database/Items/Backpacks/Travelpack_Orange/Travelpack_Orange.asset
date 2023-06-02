@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Travelpack_Orange
   m_EditorClassIdentifier: 
+  guid: 055a8ff3efc6443c9e8843a62101ecb7
+  coreMasterBundlePath: /Items/Backpacks/Travelpack_Orange/
   modType: 4
   rarity: 0
   id: 248
+  idLock: 0
   nameEnglish: 'Orange Travelpack
 
     Description Medium sized synthetic travel

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Spotlight
   m_EditorClassIdentifier: 
+  guid: 4825e9b1ebb64edda9455f28e90347c3
+  coreMasterBundlePath: /Items/Barricades/Spotlight/
   modType: 6
   rarity: 2
   id: 459
+  idLock: 0
   nameEnglish: 'Spotlight
 
     Description Electricity powered wide angle light.'

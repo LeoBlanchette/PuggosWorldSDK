@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 4627c4dc930442c6936b7b5ef749c84d
+  coreMasterBundlePath: /NPCs/Dialogues/Janitor/Janitor_Welcome/
   modType: 13
   rarity: 0
   id: 10
+  idLock: 0
   nameEnglish: "Message_0_Page_0 Hiya!\r\n\r\nResponse_0 Need any help?\r\nResponse_1
     I finished painting\r\nResponse_2 Need any help?\r\nResponse_3 I scraped off
     those barnacles \r\nResponse_4 I've got this note for you\r\nResponse_5 See ya

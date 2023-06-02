@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Yield_0
   m_EditorClassIdentifier: 
+  guid: 4cfa990afd664483892b76a692502914
+  coreMasterBundlePath: /Objects/Medium/Signs/Yield_0/
   modType: 33
   rarity: 0
   id: 14
+  idLock: 0
   nameEnglish: Yield Sign #1
   cloneFrom: {fileID: 0}
   datFileValues:

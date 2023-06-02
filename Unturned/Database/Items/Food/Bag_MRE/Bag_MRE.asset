@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bag_MRE
   m_EditorClassIdentifier: 
+  guid: c7e67dfc54a743feb6a079624a04fdd9
+  coreMasterBundlePath: /Items/Food/Bag_MRE/
   modType: 18
   rarity: 2
   id: 81
+  idLock: 0
   nameEnglish: 'MRE
 
     Description Meal ready to eat.'

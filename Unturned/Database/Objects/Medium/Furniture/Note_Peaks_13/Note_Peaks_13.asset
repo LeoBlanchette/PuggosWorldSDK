@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_Peaks_13
   m_EditorClassIdentifier: 
+  guid: 5fefe14798204d46a6dfb4f0acf18495
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_Peaks_13/
   modType: 33
   rarity: 0
   id: 2042
+  idLock: 0
   nameEnglish: 'Peaks Note - Shuttle Crash
 
     

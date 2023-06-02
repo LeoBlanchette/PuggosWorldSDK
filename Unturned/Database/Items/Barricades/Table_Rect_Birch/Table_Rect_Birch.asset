@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Table_Rect_Birch
   m_EditorClassIdentifier: 
+  guid: 7eb7d1cd0a4e405caca5eeb30c5da05b
+  coreMasterBundlePath: /Items/Barricades/Table_Rect_Birch/
   modType: 6
   rarity: 0
   id: 1285
+  idLock: 0
   nameEnglish: 'Birch Rectangular Table
 
     Description Birch table for fine dining.'

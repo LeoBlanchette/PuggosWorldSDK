@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Prisoner_Bottom
   m_EditorClassIdentifier: 
+  guid: 2e9d08f5104042ea9641312e580402f4
+  coreMasterBundlePath: /Items/Pants/Prisoner_Bottom/
   modType: 39
   rarity: 1
   id: 304
+  idLock: 0
   nameEnglish: 'Prisoner Bottom
 
     Description Prison uniform pants.'

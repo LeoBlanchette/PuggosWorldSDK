@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Mannequin_1
   m_EditorClassIdentifier: 
+  guid: 772346e471624e2f87b433004fd1caa3
+  coreMasterBundlePath: /Objects/Medium/Business/Mannequin_1/
   modType: 33
   rarity: 0
   id: 326
+  idLock: 0
   nameEnglish: Mannequin #2
   cloneFrom: {fileID: 0}
   datFileValues:

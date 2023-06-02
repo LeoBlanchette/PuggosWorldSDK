@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 5053df340525481091473b69007e002c
+  coreMasterBundlePath: /NPCs/Dialogues/Commander/Commander_Broadcast_Repair_Completed/
   modType: 13
   rarity: 0
   id: 46
+  idLock: 0
   nameEnglish: Message_0_Page_0 Great work! <color=rare>Lieutenant Oswald</color>
     will get started broadcasting right away.
   cloneFrom: {fileID: 0}

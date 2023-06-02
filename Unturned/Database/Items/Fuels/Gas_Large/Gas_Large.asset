@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Gas_Large
   m_EditorClassIdentifier: 
+  guid: 78daca21450549ffbe3ae7aa6b28e0f7
+  coreMasterBundlePath: /Items/Fuels/Gas_Large/
   modType: 19
   rarity: 2
   id: 1440
+  idLock: 0
   nameEnglish: 'Industrial Gas Can
 
     Description Extra large can of gasoline.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pallet_Wood_0
   m_EditorClassIdentifier: 
+  guid: 103da10759354877a0e925242be245f7
+  coreMasterBundlePath: /Objects/Medium/Business/Pallet_Wood_0/
   modType: 33
   rarity: 0
   id: 66
+  idLock: 0
   nameEnglish: Pallet Wood #1
   cloneFrom: {fileID: 0}
   datFileValues:

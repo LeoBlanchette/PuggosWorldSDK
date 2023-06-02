@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fury_250
   m_EditorClassIdentifier: 
+  guid: c2344482d84347e1bffb898d82bdbfec
+  coreMasterBundlePath: /Items/Magazines/Fury_250/
   modType: 29
   rarity: 4
   id: 1365
+  idLock: 0
   nameEnglish: 'Hell''s Fury Drum
 
     Description Low caliber ranger and military

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Quarry_Conveyor_2
   m_EditorClassIdentifier: 
+  guid: 4b44b24ed78d40109e1203586ac4ce6c
+  coreMasterBundlePath: /Objects/Medium/Business/Quarry_Conveyor_2/
   modType: 33
   rarity: 0
   id: 881
+  idLock: 0
   nameEnglish: Quarry Conveyor Cap
   cloneFrom: {fileID: 0}
   datFileValues:

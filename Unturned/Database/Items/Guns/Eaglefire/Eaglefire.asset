@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Eaglefire
   m_EditorClassIdentifier: 
+  guid: ae80fc830edd42e680f14cd0c8412f74
+  coreMasterBundlePath: /Items/Guns/Eaglefire/
   modType: 24
   rarity: 2
   id: 4
+  idLock: 0
   nameEnglish: 'Eaglefire
 
     Description American assault rifle chambered in Military

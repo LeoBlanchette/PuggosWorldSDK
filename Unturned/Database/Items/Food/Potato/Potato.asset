@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Potato
   m_EditorClassIdentifier: 
+  guid: fcb9cd4cf3e74593b8235042403b453e
+  coreMasterBundlePath: /Items/Food/Potato/
   modType: 18
   rarity: 0
   id: 342
+  idLock: 0
   nameEnglish: 'Potato
 
     Description Brown vegetable.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sandwich_Cheesesteak
   m_EditorClassIdentifier: 
+  guid: 69c51ab2f99d41938968a763b66295d5
+  coreMasterBundlePath: /Items/Food/Sandwich_Cheesesteak/
   modType: 18
   rarity: 2
   id: 1405
+  idLock: 0
   nameEnglish: 'Cheese Steak Sandwich
 
     Description Tasty cheese steak in a blanket

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Generator_Large
   m_EditorClassIdentifier: 
+  guid: 13ff4b6e592f4ceca7e20d9209afcc89
+  coreMasterBundlePath: /Items/Barricades/Generator_Large/
   modType: 20
   rarity: 3
   id: 1230
+  idLock: 0
   nameEnglish: 'Industrial Generator
 
     Description Electricity generator covering

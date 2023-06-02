@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wall_Maple
   m_EditorClassIdentifier: 
+  guid: f78bdbe05c404b4eaa250a4817fcf251
+  coreMasterBundlePath: /Items/Structures/Wall_Maple/
   modType: 50
   rarity: 1
   id: 33
+  idLock: 0
   nameEnglish: 'Maple Wall
 
     Description Maple wall. Beware of termites.'

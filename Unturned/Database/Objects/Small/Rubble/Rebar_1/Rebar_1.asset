@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rebar_1
   m_EditorClassIdentifier: 
+  guid: de18e22e41b94150ac74bcb551f6b9f6
+  coreMasterBundlePath: /Objects/Small/Rubble/Rebar_1/
   modType: 47
   rarity: 0
   id: 939
+  idLock: 0
   nameEnglish: Rebar #2
   cloneFrom: {fileID: 0}
   datFileValues:

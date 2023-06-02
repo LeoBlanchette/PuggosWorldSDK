@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: XMAS_Lights
   m_EditorClassIdentifier: 
+  guid: eb3275178f814dad97d9fcc18f6a5833
+  coreMasterBundlePath: /Items/Barricades/XMAS_Lights/
   modType: 6
   rarity: 2
   id: 1700
+  idLock: 0
   nameEnglish: 'Festive Lights
 
     Description Assortment of colorful lights for

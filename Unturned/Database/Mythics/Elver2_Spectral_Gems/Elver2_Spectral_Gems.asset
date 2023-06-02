@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Elver2_Spectral_Gems
   m_EditorClassIdentifier: 
+  guid: b7178b1b82044666bd35ddf1300bbbde
+  coreMasterBundlePath: /Mythics/Elver2_Spectral_Gems/
   modType: 35
   rarity: 0
   id: 40
+  idLock: 0
   nameEnglish: 'Particle_Tag_Name Spectral Gems
 
 '

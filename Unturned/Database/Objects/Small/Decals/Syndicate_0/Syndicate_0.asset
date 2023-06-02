@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Syndicate_0
   m_EditorClassIdentifier: 
+  guid: 24582bd9357f42dea561feba6bfe6d23
+  coreMasterBundlePath: /Objects/Small/Decals/Syndicate_0/
   modType: 11
   rarity: 0
   id: 973
+  idLock: 0
   nameEnglish: Syndicate Decal #1
   cloneFrom: {fileID: 0}
   datFileValues:

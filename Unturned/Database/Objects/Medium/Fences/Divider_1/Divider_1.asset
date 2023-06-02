@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Divider_1
   m_EditorClassIdentifier: 
+  guid: df3d6c94753d4b5293ede12532639f42
+  coreMasterBundlePath: /Objects/Medium/Fences/Divider_1/
   modType: 33
   rarity: 0
   id: 368
+  idLock: 0
   nameEnglish: Divider #2
   cloneFrom: {fileID: 0}
   datFileValues:

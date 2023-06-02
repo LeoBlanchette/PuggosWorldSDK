@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dirtbike_Police
   m_EditorClassIdentifier: 
+  guid: 903588bf61814f30941d742d7f503255
+  coreMasterBundlePath: /Vehicles/Dirtbike_Police/
   modType: 58
   rarity: 0
   id: 188
+  idLock: 0
   nameEnglish: 'Police Motorcycle
 
 '

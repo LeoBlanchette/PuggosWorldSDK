@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bridge_Line_3
   m_EditorClassIdentifier: 
+  guid: 6cc343fa1c2f43eebc93a4201d937c3a
+  coreMasterBundlePath: /Objects/Mooki/Bridge_Line_3/
   modType: 27
   rarity: 0
   id: 522
+  idLock: 0
   nameEnglish: Bridge Line #4
   cloneFrom: {fileID: 0}
   datFileValues:

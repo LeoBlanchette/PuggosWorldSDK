@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Charge_Precision
   m_EditorClassIdentifier: 
+  guid: 5abe4fefd7e144269481dc7b47e18a9c
+  coreMasterBundlePath: /Items/Barricades/Charge_Precision/
   modType: 8
   rarity: 3
   id: 1393
+  idLock: 0
   nameEnglish: 'Precision Charge
 
     Description Remotely detonated precise explosive.'

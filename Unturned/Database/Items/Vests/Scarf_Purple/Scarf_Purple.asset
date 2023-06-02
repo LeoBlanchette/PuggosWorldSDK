@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Scarf_Purple
   m_EditorClassIdentifier: 
+  guid: 4d26b5a04c6249bfa23dd8ecc53335ef
+  coreMasterBundlePath: /Items/Vests/Scarf_Purple/
   modType: 61
   rarity: 0
   id: 1137
+  idLock: 0
   nameEnglish: 'Purple Scarf
 
     Description Warm neck protection.'

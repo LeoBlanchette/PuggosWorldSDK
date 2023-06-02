@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Umbrella_0
   m_EditorClassIdentifier: 
+  guid: 2825ff52e6bf49168f12071882638a64
+  coreMasterBundlePath: /Objects/Medium/Parks/Umbrella_0/
   modType: 33
   rarity: 0
   id: 301
+  idLock: 0
   nameEnglish: Umbrella #1
   cloneFrom: {fileID: 0}
   datFileValues:

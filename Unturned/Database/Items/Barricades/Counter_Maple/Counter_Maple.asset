@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Counter_Maple
   m_EditorClassIdentifier: 
+  guid: cc95773b68834cd5a8544787216a5d32
+  coreMasterBundlePath: /Items/Barricades/Counter_Maple/
   modType: 49
   rarity: 1
   id: 1245
+  idLock: 0
   nameEnglish: 'Maple Counter
 
     Description Maple counter cupboard for storing

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Conveyor_1
   m_EditorClassIdentifier: 
+  guid: 80a523024fa34fc4886f4fc3479cb623
+  coreMasterBundlePath: /Objects/Medium/Business/Conveyor_1/
   modType: 33
   rarity: 0
   id: 684
+  idLock: 0
   nameEnglish: Conveyor #2
   cloneFrom: {fileID: 0}
   datFileValues:

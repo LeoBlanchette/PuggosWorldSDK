@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Paintballs_Green_35
   m_EditorClassIdentifier: 
+  guid: a1ef8b0fc28e4240b8aaf068194f7c63
+  coreMasterBundlePath: /Items/Magazines/Paintballs_Green_35/
   modType: 29
   rarity: 1
   id: 1340
+  idLock: 0
   nameEnglish: 'Green Paintball Hopper
 
     Description Painting grade <color=uncommon>Paintball

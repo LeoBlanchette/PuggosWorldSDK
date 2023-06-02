@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Placard_Metal
   m_EditorClassIdentifier: 
+  guid: ed21dad50fea4ea0a31ca36a3b0c7865
+  coreMasterBundlePath: /Items/Barricades/Placard_Metal/
   modType: 6
   rarity: 3
   id: 1470
+  idLock: 0
   nameEnglish: 'Metal Placard
 
     Description Metal placard coupled with colorful

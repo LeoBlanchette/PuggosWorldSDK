@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Grocer_Top
   m_EditorClassIdentifier: 
+  guid: 6f0540da878d4a32ac279b58c30ca768
+  coreMasterBundlePath: /Items/Shirts/Grocer_Top/
   modType: 44
   rarity: 1
   id: 314
+  idLock: 0
   nameEnglish: 'Grocer Top
 
     Description Trusty overalls for managing groceries.'

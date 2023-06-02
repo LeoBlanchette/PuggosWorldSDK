@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plate_Large_Metal
   m_EditorClassIdentifier: 
+  guid: b6975333725c4dfb820e7e10fbbcb0d9
+  coreMasterBundlePath: /Items/Barricades/Plate_Large_Metal/
   modType: 6
   rarity: 3
   id: 1091
+  idLock: 0
   nameEnglish: 'Large Metal Plate
 
     Description Metal plate. Beware of robotic

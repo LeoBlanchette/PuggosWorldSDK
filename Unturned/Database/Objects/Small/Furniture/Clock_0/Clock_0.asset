@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Clock_0
   m_EditorClassIdentifier: 
+  guid: ddcc5c35b481496dafa0607e0d022765
+  coreMasterBundlePath: /Objects/Small/Furniture/Clock_0/
   modType: 47
   rarity: 0
   id: 394
+  idLock: 0
   nameEnglish: Clock #1
   cloneFrom: {fileID: 0}
   datFileValues:

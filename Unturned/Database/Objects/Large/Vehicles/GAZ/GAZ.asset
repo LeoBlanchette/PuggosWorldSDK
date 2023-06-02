@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: GAZ
   m_EditorClassIdentifier: 
+  guid: 2132ee419d3e4de7802423dfd8ae791f
+  coreMasterBundlePath: /Objects/Large/Vehicles/GAZ/
   modType: 27
   rarity: 0
   id: 663
+  idLock: 0
   nameEnglish: GAZ
   cloneFrom: {fileID: 0}
   datFileValues:

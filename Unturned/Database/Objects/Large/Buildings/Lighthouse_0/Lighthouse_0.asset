@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Lighthouse_0
   m_EditorClassIdentifier: 
+  guid: 134874d70ede4b7f815c38a79b619c07
+  coreMasterBundlePath: /Objects/Large/Buildings/Lighthouse_0/
   modType: 27
   rarity: 0
   id: 207
+  idLock: 0
   nameEnglish: Lighthouse #1
   cloneFrom: {fileID: 0}
   datFileValues:

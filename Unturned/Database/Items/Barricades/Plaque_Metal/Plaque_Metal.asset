@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plaque_Metal
   m_EditorClassIdentifier: 
+  guid: ce58a2447d51432fad1a2779cf09fa94
+  coreMasterBundlePath: /Items/Barricades/Plaque_Metal/
   modType: 49
   rarity: 3
   id: 1413
+  idLock: 0
   nameEnglish: 'Metal Plaque
 
     Description Metal plaque for storing trophies.'

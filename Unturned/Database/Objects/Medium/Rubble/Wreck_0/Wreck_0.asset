@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wreck_0
   m_EditorClassIdentifier: 
+  guid: 00bbd9f97cd84dbd98f1bcb33382e350
+  coreMasterBundlePath: /Objects/Medium/Rubble/Wreck_0/
   modType: 33
   rarity: 0
   id: 508
+  idLock: 0
   nameEnglish: Wreck #1
   cloneFrom: {fileID: 0}
   datFileValues:

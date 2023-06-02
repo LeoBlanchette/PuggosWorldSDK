@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Empire_28
   m_EditorClassIdentifier: 
+  guid: 2f757feb12a54672ae9c40793727b448
+  coreMasterBundlePath: /Items/Magazines/Empire_28/
   modType: 29
   rarity: 2
   id: 1483
+  idLock: 0
   nameEnglish: 'Empire Magazine
 
     Description Low caliber military grade <color=rare>Empire</color>

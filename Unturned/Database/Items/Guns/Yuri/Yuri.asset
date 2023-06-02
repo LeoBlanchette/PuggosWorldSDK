@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Yuri
   m_EditorClassIdentifier: 
+  guid: 029989eb0c9d47e58b63360e402e7d39
+  coreMasterBundlePath: /Items/Guns/Yuri/
   modType: 24
   rarity: 2
   id: 1041
+  idLock: 0
   nameEnglish: 'Yuri
 
     Description Russian carbine chambered in Ranger ammunition.'

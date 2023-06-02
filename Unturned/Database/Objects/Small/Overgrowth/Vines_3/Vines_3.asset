@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Vines_3
   m_EditorClassIdentifier: 
+  guid: b4083fcad8884de5a237d45757504dba
+  coreMasterBundlePath: /Objects/Small/Overgrowth/Vines_3/
   modType: 47
   rarity: 0
   id: 48
+  idLock: 0
   nameEnglish: Vines #4
   cloneFrom: {fileID: 0}
   datFileValues:

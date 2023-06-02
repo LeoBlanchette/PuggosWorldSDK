@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Knife_Military
   m_EditorClassIdentifier: 
+  guid: 3305ad728bb14f48b97676140a1345ac
+  coreMasterBundlePath: /Items/Melee/Knife_Military/
   modType: 34
   rarity: 2
   id: 121
+  idLock: 0
   nameEnglish: 'Military Knife
 
     Description Military grade combat knife with

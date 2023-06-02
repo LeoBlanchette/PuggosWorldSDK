@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hummingbird_Spec_Ops
   m_EditorClassIdentifier: 
+  guid: 200da2f8ee7f4430b5c60269ef1f38ff
+  coreMasterBundlePath: /Vehicles/Hummingbird_Spec_Ops/
   modType: 58
   rarity: 4
   id: 107
+  idLock: 0
   nameEnglish: Hummingbird
   cloneFrom: {fileID: 0}
   datFileValues:

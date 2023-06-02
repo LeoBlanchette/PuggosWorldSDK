@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fire_0
   m_EditorClassIdentifier: 
+  guid: 7984fc43156f4e5c9a5af656b6502b63
+  coreMasterBundlePath: /Objects/Large/Buildings/Fire_0/
   modType: 27
   rarity: 0
   id: 83
+  idLock: 0
   nameEnglish: Fire Station #1
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bag_Chips
   m_EditorClassIdentifier: 
+  guid: 5d6aa63a711f4a10b29434c5f9b55c75
+  coreMasterBundlePath: /Items/Food/Bag_Chips/
   modType: 18
   rarity: 0
   id: 82
+  idLock: 0
   nameEnglish: 'Chips
 
     Description Extra crispy.'

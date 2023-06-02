@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Boat_1
   m_EditorClassIdentifier: 
+  guid: 005e1a48bcf6404f9ae8437a0f00b28f
+  coreMasterBundlePath: /Objects/Medium/Parks/Boat_1/
   modType: 33
   rarity: 0
   id: 240
+  idLock: 0
   nameEnglish: Boat #2
   cloneFrom: {fileID: 0}
   datFileValues:

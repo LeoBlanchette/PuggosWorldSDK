@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: XMAS_Chicken
   m_EditorClassIdentifier: 
+  guid: ba2a65e41a064f5898ffbe63a9542b35
+  coreMasterBundlePath: /Items/Food/XMAS_Chicken/
   modType: 18
   rarity: 2
   id: 1708
+  idLock: 0
   nameEnglish: 'Drumstick
 
     Description Not intended for musical purposes.'

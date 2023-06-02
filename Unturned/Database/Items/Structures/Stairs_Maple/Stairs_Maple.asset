@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Stairs_Maple
   m_EditorClassIdentifier: 
+  guid: 74421ed6050b41f4afa66b727d5c07b0
+  coreMasterBundlePath: /Items/Structures/Stairs_Maple/
   modType: 50
   rarity: 1
   id: 316
+  idLock: 0
   nameEnglish: 'Maple Stairs
 
     Description Maple stairs. Beware of termites.'

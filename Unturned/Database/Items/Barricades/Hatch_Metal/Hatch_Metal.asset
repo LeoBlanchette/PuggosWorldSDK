@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hatch_Metal
   m_EditorClassIdentifier: 
+  guid: 173720e04cdb4c038a7410fcf3aa1c4a
+  coreMasterBundlePath: /Items/Barricades/Hatch_Metal/
   modType: 6
   rarity: 3
   id: 1332
+  idLock: 0
   nameEnglish: 'Metal Hatch
 
     Description Metal trapdoor ideal for keeping out

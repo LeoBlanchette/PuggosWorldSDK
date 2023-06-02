@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bulldog
   m_EditorClassIdentifier: 
+  guid: e5cc65b7079f478bba3a4bda4815746a
+  coreMasterBundlePath: /Items/Guns/Bulldog/
   modType: 24
   rarity: 2
   id: 1369
+  idLock: 0
   nameEnglish: 'Bulldog
 
     Description Israeli carbine chambered in Bulldog ammunition.'

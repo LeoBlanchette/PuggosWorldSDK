@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Corn
   m_EditorClassIdentifier: 
+  guid: 9ed8b6894b1f4cbf91219d377c267f6c
+  coreMasterBundlePath: /Items/Food/Corn/
   modType: 18
   rarity: 0
   id: 335
+  idLock: 0
   nameEnglish: 'Corn
 
     Description Yellow vegetable.'

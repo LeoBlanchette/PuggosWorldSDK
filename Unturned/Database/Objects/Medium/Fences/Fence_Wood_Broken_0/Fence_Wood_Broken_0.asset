@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fence_Wood_Broken_0
   m_EditorClassIdentifier: 
+  guid: 7829e8f89f224a71a2e9a4456f5f3091
+  coreMasterBundlePath: /Objects/Medium/Fences/Fence_Wood_Broken_0/
   modType: 33
   rarity: 0
   id: 34
+  idLock: 0
   nameEnglish: Fence Wood Broken #1
   cloneFrom: {fileID: 0}
   datFileValues:

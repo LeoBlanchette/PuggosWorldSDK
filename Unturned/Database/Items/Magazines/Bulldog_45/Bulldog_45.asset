@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bulldog_45
   m_EditorClassIdentifier: 
+  guid: 5f33acb8e6434f6cac4f1a2c9aa97a81
+  coreMasterBundlePath: /Items/Magazines/Bulldog_45/
   modType: 29
   rarity: 2
   id: 1371
+  idLock: 0
   nameEnglish: 'Bulldog Magazine
 
     Description Low caliber ranger grade <color=rare>Bulldog</color>

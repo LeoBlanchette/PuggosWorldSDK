@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Blimp
   m_EditorClassIdentifier: 
+  guid: 6e378d2876e44ce795fae861b60489b4
+  coreMasterBundlePath: /Vehicles/Blimp/
   modType: 58
   rarity: 3
   id: 189
+  idLock: 0
   nameEnglish: 'Blimp
 
 '

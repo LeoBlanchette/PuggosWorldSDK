@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: fb37691fa4624f70a6c1ff5cd3aaee3a
+  coreMasterBundlePath: /NPCs/Dialogues/Invention_Supply/Invention_Supply_Welcome/
   modType: 13
   rarity: 0
   id: 82
+  idLock: 0
   nameEnglish: 'Message_0_Page_0 Hey dude!
 
     

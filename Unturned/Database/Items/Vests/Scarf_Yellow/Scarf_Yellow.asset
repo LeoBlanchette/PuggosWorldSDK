@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Scarf_Yellow
   m_EditorClassIdentifier: 
+  guid: 85a266aa9e8e41af961ef737cda73347
+  coreMasterBundlePath: /Items/Vests/Scarf_Yellow/
   modType: 61
   rarity: 0
   id: 1140
+  idLock: 0
   nameEnglish: 'Yellow Scarf
 
     Description Warm neck protection.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Toque_Orange
   m_EditorClassIdentifier: 
+  guid: 11b7a9b6bd9c49348e4b6392ed8be34c
+  coreMasterBundlePath: /Items/Hats/Toque_Orange/
   modType: 25
   rarity: 0
   id: 195
+  idLock: 0
   nameEnglish: 'Orange Toque
 
     Description Warm Canadian hat for the stormy winters.'

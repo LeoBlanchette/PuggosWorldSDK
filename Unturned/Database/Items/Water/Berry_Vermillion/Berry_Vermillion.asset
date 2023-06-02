@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Berry_Vermillion
   m_EditorClassIdentifier: 
+  guid: e07a6e0b04874d038e321ce395da60cd
+  coreMasterBundlePath: /Items/Water/Berry_Vermillion/
   modType: 62
   rarity: 0
   id: 275
+  idLock: 0
   nameEnglish: 'Raw Vermillion Berries
 
     Description Very suspicious looking.'

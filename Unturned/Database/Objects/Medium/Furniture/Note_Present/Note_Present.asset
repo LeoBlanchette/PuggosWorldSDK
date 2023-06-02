@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_Present
   m_EditorClassIdentifier: 
+  guid: f6278e28d9b84969abbaa6de38d12983
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_Present/
   modType: 33
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: 'Note - Present Delivery
 
     

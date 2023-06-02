@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Charge
   m_EditorClassIdentifier: 
+  guid: 7394d57171d84bc19975af9a4c803b71
+  coreMasterBundlePath: /Items/Barricades/Charge/
   modType: 8
   rarity: 3
   id: 1241
+  idLock: 0
   nameEnglish: 'Demolition Charge
 
     Description Remotely detonated imprecise

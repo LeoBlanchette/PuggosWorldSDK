@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 3a606f91d617428d98d2354d52f3217d
+  coreMasterBundlePath: /NPCs/Characters/Hungry_1/
   modType: 36
   rarity: 0
   id: 814
+  idLock: 0
   nameEnglish: 'Hungry Isabelle
 
     Character <color=uncommon>Ensign Isabelle</color>'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: d377400e898a43d4b93e1e8b443a7b2e
+  coreMasterBundlePath: /NPCs/Dialogues/Armory/Armory_Help/
   modType: 13
   rarity: 0
   id: 144
+  idLock: 0
   nameEnglish: Message_0_Page_0 I'm in charge of our armory, keeping it stocked and
     ready for combat. We can always use more ammunition, so let me know if you'd
     like to trade!

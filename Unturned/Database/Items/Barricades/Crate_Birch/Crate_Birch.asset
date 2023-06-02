@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crate_Birch
   m_EditorClassIdentifier: 
+  guid: 1574d42f421647fa8cb8566fc3ffe077
+  coreMasterBundlePath: /Items/Barricades/Crate_Birch/
   modType: 49
   rarity: 0
   id: 367
+  idLock: 0
   nameEnglish: 'Birch Crate
 
     Description Birch crate for storing items.'

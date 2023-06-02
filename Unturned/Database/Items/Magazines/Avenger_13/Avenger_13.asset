@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Avenger_13
   m_EditorClassIdentifier: 
+  guid: 59e1b1b2b7d545958a38fb47f90df3d8
+  coreMasterBundlePath: /Items/Magazines/Avenger_13/
   modType: 29
   rarity: 2
   id: 1022
+  idLock: 0
   nameEnglish: 'Avenger Magazine
 
     Description Low caliber military grade <color=rare>Avenger</color>

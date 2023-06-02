@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Frame_Small_Birch
   m_EditorClassIdentifier: 
+  guid: b4d40e70a04b4f6e806e69927c182ab3
+  coreMasterBundlePath: /Items/Barricades/Frame_Small_Birch/
   modType: 6
   rarity: 0
   id: 1067
+  idLock: 0
   nameEnglish: 'Small Birch Frame
 
     Description Birch frame. Beware of termites.'

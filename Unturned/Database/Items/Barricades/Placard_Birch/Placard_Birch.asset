@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Placard_Birch
   m_EditorClassIdentifier: 
+  guid: 823c16b9decd42acad434efab78f32da
+  coreMasterBundlePath: /Items/Barricades/Placard_Birch/
   modType: 6
   rarity: 0
   id: 1468
+  idLock: 0
   nameEnglish: 'Birch Placard
 
     Description Birch placard coupled with colorful

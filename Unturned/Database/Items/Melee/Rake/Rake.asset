@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rake
   m_EditorClassIdentifier: 
+  guid: 269ba4d3a38541a690a1ae7c6a1e789a
+  coreMasterBundlePath: /Items/Melee/Rake/
   modType: 34
   rarity: 0
   id: 142
+  idLock: 0
   nameEnglish: 'Rake
 
     Description Yard tool for cleaning up leaves.'

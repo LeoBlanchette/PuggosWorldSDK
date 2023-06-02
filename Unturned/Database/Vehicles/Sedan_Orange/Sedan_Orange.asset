@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sedan_Orange
   m_EditorClassIdentifier: 
+  guid: 77e9ebb05f7940bf8c5531dc8a74624f
+  coreMasterBundlePath: /Vehicles/Sedan_Orange/
   modType: 58
   rarity: 0
   id: 28
+  idLock: 0
   nameEnglish: Orange Sedan
   cloneFrom: {fileID: 0}
   datFileValues:

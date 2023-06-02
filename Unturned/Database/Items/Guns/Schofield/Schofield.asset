@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Schofield
   m_EditorClassIdentifier: 
+  guid: 73743b66ce7340daa946ef876c45c00a
+  coreMasterBundlePath: /Items/Guns/Schofield/
   modType: 24
   rarity: 1
   id: 101
+  idLock: 0
   nameEnglish: 'Schofield
 
     Description Russian battle rifle chambered in Schofield

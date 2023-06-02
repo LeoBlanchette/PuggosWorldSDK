@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Huey_Desert
   m_EditorClassIdentifier: 
+  guid: a212ae73d6284e61bf56b68d2c4124db
+  coreMasterBundlePath: /Vehicles/Huey_Desert/
   modType: 58
   rarity: 3
   id: 94
+  idLock: 0
   nameEnglish: 'Desert Transport Heli
 
 '

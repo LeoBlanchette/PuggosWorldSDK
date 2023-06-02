@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bandage
   m_EditorClassIdentifier: 
+  guid: 41547bd900d8402db16f7840c7c291e3
+  coreMasterBundlePath: /Items/Medical/Bandage/
   modType: 32
   rarity: 1
   id: 95
+  idLock: 0
   nameEnglish: 'Bandage
 
     Description Medium quality cloth for stopping bleeding,

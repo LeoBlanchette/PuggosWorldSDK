@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fedora
   m_EditorClassIdentifier: 
+  guid: d0707681cf5d47c7a908259183d6240b
+  coreMasterBundlePath: /Items/Hats/Fedora/
   modType: 25
   rarity: 0
   id: 424
+  idLock: 0
   nameEnglish: 'Fedora
 
     Description Hipster head embellishment.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cargo_Shorts
   m_EditorClassIdentifier: 
+  guid: 0944d6edce374c5184cd901494aca9f5
+  coreMasterBundlePath: /Items/Pants/Cargo_Shorts/
   modType: 39
   rarity: 0
   id: 227
+  idLock: 0
   nameEnglish: 'Cargo Shorts
 
     Description High capacity synthetic shorts for

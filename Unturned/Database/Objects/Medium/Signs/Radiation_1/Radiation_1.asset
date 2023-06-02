@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Radiation_1
   m_EditorClassIdentifier: 
+  guid: 8dd3088808574c0c903a64a6919b0077
+  coreMasterBundlePath: /Objects/Medium/Signs/Radiation_1/
   modType: 33
   rarity: 0
   id: 563
+  idLock: 0
   nameEnglish: Radiation Sign #2
   cloneFrom: {fileID: 0}
   datFileValues:

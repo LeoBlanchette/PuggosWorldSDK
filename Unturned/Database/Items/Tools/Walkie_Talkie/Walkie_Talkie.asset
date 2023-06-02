@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Walkie_Talkie
   m_EditorClassIdentifier: 
+  guid: 60776540f61546cd9c51770a40fb2409
+  coreMasterBundlePath: /Items/Tools/Walkie_Talkie/
   modType: 56
   rarity: 2
   id: 1445
+  idLock: 0
   nameEnglish: "Walkie Talkie \r\nDescription Communicate by voice regardless of
     distance."
   cloneFrom: {fileID: 0}

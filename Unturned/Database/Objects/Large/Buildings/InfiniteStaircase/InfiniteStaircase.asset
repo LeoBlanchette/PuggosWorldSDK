@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: InfiniteStaircase
   m_EditorClassIdentifier: 
+  guid: a5c6017b6bb94808b620be34f63b5463
+  coreMasterBundlePath: /Objects/Large/Buildings/InfiniteStaircase/
   modType: 27
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: 'Infinite Staircase Example
 
 '

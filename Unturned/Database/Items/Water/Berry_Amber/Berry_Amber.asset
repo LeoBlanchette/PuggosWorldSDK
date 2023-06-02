@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Berry_Amber
   m_EditorClassIdentifier: 
+  guid: c508fd030a0d494bb687eafd846d1786
+  coreMasterBundlePath: /Items/Water/Berry_Amber/
   modType: 62
   rarity: 0
   id: 270
+  idLock: 0
   nameEnglish: 'Raw Amber Berries
 
     Description Very suspicious looking.'

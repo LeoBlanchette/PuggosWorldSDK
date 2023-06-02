@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Table_Rect_Pine
   m_EditorClassIdentifier: 
+  guid: 989cab7068e44d2aacd780f935aa0e28
+  coreMasterBundlePath: /Items/Barricades/Table_Rect_Pine/
   modType: 6
   rarity: 2
   id: 1286
+  idLock: 0
   nameEnglish: 'Pine Rectangular Table
 
     Description Pine table for fine dining.'

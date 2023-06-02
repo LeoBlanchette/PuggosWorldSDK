@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ornament_0_XMAS
   m_EditorClassIdentifier: 
+  guid: a9186e91f3af4a139a6364815f4382d8
+  coreMasterBundlePath: /Trees/Ornament_0_XMAS/
   modType: 42
   rarity: 0
   id: 49
+  idLock: 0
   nameEnglish: Ornament #1
   cloneFrom: {fileID: 0}
   datFileValues:

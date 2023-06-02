@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Counter_Sink_Maple
   m_EditorClassIdentifier: 
+  guid: 6bd147174efd4590badcb83c20112a23
+  coreMasterBundlePath: /Items/Barricades/Counter_Sink_Maple/
   modType: 49
   rarity: 1
   id: 1251
+  idLock: 0
   nameEnglish: 'Maple Counter Sink
 
     Description Maple counter sink for storing

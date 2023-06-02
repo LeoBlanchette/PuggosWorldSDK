@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Nailgun
   m_EditorClassIdentifier: 
+  guid: 8365c0d5977b4acbb866dbe30092249b
+  coreMasterBundlePath: /Items/Guns/Nailgun/
   modType: 24
   rarity: 1
   id: 1165
+  idLock: 0
   nameEnglish: 'Nailgun
 
     Description Construction tool chambered in Nailgun

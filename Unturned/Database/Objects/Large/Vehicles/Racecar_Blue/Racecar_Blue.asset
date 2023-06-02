@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Racecar_Blue
   m_EditorClassIdentifier: 
+  guid: 3f4bf9acb5ea4ccbbd7befa43f95542d
+  coreMasterBundlePath: /Objects/Large/Vehicles/Racecar_Blue/
   modType: 27
   rarity: 0
   id: 454
+  idLock: 0
   nameEnglish: Blue Racecar
   cloneFrom: {fileID: 0}
   datFileValues:

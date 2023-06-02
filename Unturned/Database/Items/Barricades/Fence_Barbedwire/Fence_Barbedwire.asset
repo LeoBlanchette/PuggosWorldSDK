@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fence_Barbedwire
   m_EditorClassIdentifier: 
+  guid: d672de3f3e9e4043a71aa56d5bf6ad6e
+  coreMasterBundlePath: /Items/Barricades/Fence_Barbedwire/
   modType: 57
   rarity: 3
   id: 1119
+  idLock: 0
   nameEnglish: 'Barbed Wire Fence
 
     Description Spiky trap.'

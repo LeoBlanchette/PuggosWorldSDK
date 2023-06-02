@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Red_Chevron_Scope
   m_EditorClassIdentifier: 
+  guid: 2e27d18c31994056a46d9ef2defa9501
+  coreMasterBundlePath: /Items/Sights/Red_Chevron_Scope/
   modType: 45
   rarity: 1
   id: 148
+  idLock: 0
   nameEnglish: 'Chevron Scope
 
     Description Rail mounted optic with electronic

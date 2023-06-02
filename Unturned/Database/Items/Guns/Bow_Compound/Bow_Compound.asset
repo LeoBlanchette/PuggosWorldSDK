@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bow_Compound
   m_EditorClassIdentifier: 
+  guid: 2ca425b4de3746e1bb26492076f59d55
+  coreMasterBundlePath: /Items/Guns/Bow_Compound/
   modType: 24
   rarity: 1
   id: 357
+  idLock: 0
   nameEnglish: 'Compound Bow
 
     Description Compound bow chambered in Arrows.'

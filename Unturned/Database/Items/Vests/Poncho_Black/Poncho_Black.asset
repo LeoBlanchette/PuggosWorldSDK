@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Poncho_Black
   m_EditorClassIdentifier: 
+  guid: ae52cd0a68c54c0cb1a31d50de5377e8
+  coreMasterBundlePath: /Items/Vests/Poncho_Black/
   modType: 61
   rarity: 0
   id: 410
+  idLock: 0
   nameEnglish: 'Black Poncho
 
     Description Comfortable fuzzy blanket.'

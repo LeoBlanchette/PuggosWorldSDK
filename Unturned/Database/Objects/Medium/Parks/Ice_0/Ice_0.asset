@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ice_0
   m_EditorClassIdentifier: 
+  guid: 8c73ab4c37a74e81be0fe74744afbc0f
+  coreMasterBundlePath: /Objects/Medium/Parks/Ice_0/
   modType: 33
   rarity: 0
   id: 197
+  idLock: 0
   nameEnglish: Ice #1
   cloneFrom: {fileID: 0}
   datFileValues:

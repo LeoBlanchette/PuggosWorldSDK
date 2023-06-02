@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Mailbox_0
   m_EditorClassIdentifier: 
+  guid: 97c317b7f7ad4dcea5616e19b11d7d11
+  coreMasterBundlePath: /Objects/Medium/Furniture/Mailbox_0/
   modType: 33
   rarity: 0
   id: 47
+  idLock: 0
   nameEnglish: Mailbox #1
   cloneFrom: {fileID: 0}
   datFileValues:

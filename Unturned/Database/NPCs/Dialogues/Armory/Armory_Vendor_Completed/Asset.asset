@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: aba2394b4f884feca4ab428a6c1ad82e
+  coreMasterBundlePath: /NPCs/Dialogues/Armory/Armory_Vendor_Completed/
   modType: 13
   rarity: 0
   id: 145
+  idLock: 0
   nameEnglish: Message_0_Page_0 Always a pleasure!
   cloneFrom: {fileID: 0}
   datFileValues:

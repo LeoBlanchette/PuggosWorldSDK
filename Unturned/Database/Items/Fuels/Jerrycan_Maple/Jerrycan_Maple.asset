@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Jerrycan_Maple
   m_EditorClassIdentifier: 
+  guid: 3bde845eb6194ffd9917ea1eccd78e74
+  coreMasterBundlePath: /Items/Fuels/Jerrycan_Maple/
   modType: 19
   rarity: 0
   id: 1114
+  idLock: 0
   nameEnglish: 'Maple Jerrycan
 
     Description Sizeable jerrycan of gasoline.'

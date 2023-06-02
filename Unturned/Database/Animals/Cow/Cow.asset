@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cow
   m_EditorClassIdentifier: 
+  guid: 55622acf44564d02bb5adffafcabfedb
+  coreMasterBundlePath: /Animals/Cow/
   modType: 1
   rarity: 0
   id: 6
+  idLock: 0
   nameEnglish: Cow
   cloneFrom: {fileID: 0}
   datFileValues:

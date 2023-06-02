@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Indicator_1_On
   m_EditorClassIdentifier: 
+  guid: 6ead7c654a8b4800a722cf7a164a970a
+  coreMasterBundlePath: /Objects/Medium/Quests/Teleporter/Indicator_1_On/
   modType: 33
   rarity: 0
   id: 1036
+  idLock: 0
   nameEnglish: Teleporter Indicator #2 On
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Grave_2_HW
   m_EditorClassIdentifier: 
+  guid: 70f1493f18354fb1aaa2bb5a67800ea1
+  coreMasterBundlePath: /Objects/Medium/Furniture/Grave_2_HW/
   modType: 33
   rarity: 0
   id: 861
+  idLock: 0
   nameEnglish: Grave #3
   cloneFrom: {fileID: 0}
   datFileValues:

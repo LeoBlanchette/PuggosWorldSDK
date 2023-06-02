@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plank_Maple
   m_EditorClassIdentifier: 
+  guid: 4eaf36525a814070b39570a1dc135c04
+  coreMasterBundlePath: /Items/Supplies/Plank_Maple/
   modType: 51
   rarity: 1
   id: 61
+  idLock: 0
   nameEnglish: 'Maple Plank
 
     Description Recently cut, high quality maple.'

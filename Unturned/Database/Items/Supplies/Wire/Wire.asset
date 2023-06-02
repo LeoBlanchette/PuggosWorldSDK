@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wire
   m_EditorClassIdentifier: 
+  guid: 8525fa0a7ba24b389ecff06514bf25e9
+  coreMasterBundlePath: /Items/Supplies/Wire/
   modType: 51
   rarity: 0
   id: 65
+  idLock: 0
   nameEnglish: 'Wire
 
     Description Extremely conductive wire, also sharp at the

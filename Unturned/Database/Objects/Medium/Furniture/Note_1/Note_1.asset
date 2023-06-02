@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_1
   m_EditorClassIdentifier: 
+  guid: f929f8d576ba4f9280a71d266cbf4706
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_1/
   modType: 33
   rarity: 0
   id: 2002
+  idLock: 0
   nameEnglish: "Note - Laura #1\r\n\r\nInteractability_Text_Line_0 Laura's Diary
     \r\nInteractability_Text_Line_1 Page 35\r\nInteractability_Text_Line_2 ---\r\nInteractability_Text_Line_3
     They're acting like everything's normal, but I can tell ma and pa noticed it

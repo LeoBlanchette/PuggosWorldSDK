@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Jeans_Work
   m_EditorClassIdentifier: 
+  guid: 65afc26cd153455981f0b5d14fb53548
+  coreMasterBundlePath: /Items/Pants/Jeans_Work/
   modType: 39
   rarity: 0
   id: 2
+  idLock: 0
   nameEnglish: 'Work Jeans
 
     Description Denim construction pants.'

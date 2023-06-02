@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Road_Line_0
   m_EditorClassIdentifier: 
+  guid: 7b608ddcb35646c1aec7fa24b0b19b92
+  coreMasterBundlePath: /Objects/Large/Roads/Road_Line_0/
   modType: 27
   rarity: 0
   id: 5
+  idLock: 0
   nameEnglish: Road Line #1
   cloneFrom: {fileID: 0}
   datFileValues:

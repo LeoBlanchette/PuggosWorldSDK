@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Trunks_Purple
   m_EditorClassIdentifier: 
+  guid: b52e3b4d41b24a2c9056225c4d965f79
+  coreMasterBundlePath: /Items/Pants/Trunks_Purple/
   modType: 39
   rarity: 0
   id: 1458
+  idLock: 0
   nameEnglish: 'Purple Trunks
 
     Description Beach shorts.'

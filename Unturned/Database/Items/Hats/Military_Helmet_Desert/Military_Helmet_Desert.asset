@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Helmet_Desert
   m_EditorClassIdentifier: 
+  guid: 8969dc9a71e8411cb29c6700dbbc256b
+  coreMasterBundlePath: /Items/Hats/Military_Helmet_Desert/
   modType: 25
   rarity: 2
   id: 1010
+  idLock: 0
   nameEnglish: 'Desert Military Helmet
 
     Description Military headwear to prevent

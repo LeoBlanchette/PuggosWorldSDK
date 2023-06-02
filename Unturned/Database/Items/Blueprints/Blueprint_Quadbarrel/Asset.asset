@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 12c8417c84b444349101812d4ed4a5d9
+  coreMasterBundlePath: /Items/Blueprints/Blueprint_Quadbarrel/
   modType: 51
   rarity: 0
   id: 1437
+  idLock: 0
   nameEnglish: 'Quadbarrel Blueprint
 
     Description Guide to converting a <color=uncommon>Masterkey</color>

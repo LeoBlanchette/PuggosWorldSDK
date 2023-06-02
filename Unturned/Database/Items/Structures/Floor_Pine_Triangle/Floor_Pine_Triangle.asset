@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Floor_Pine_Triangle
   m_EditorClassIdentifier: 
+  guid: 51be3343c55b449a8d2866de2acad10e
+  coreMasterBundlePath: /Items/Structures/Floor_Pine_Triangle/
   modType: 50
   rarity: 2
   id: 1264
+  idLock: 0
   nameEnglish: 'Triangular Pine Floor
 
     Description Pine triangular floor. Beware

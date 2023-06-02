@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: fb5b91f74e554a4c94760c8ad43de6dd
+  coreMasterBundlePath: /NPCs/Dialogues/Pirate/Pirate_Rod_Completed/
   modType: 13
   rarity: 0
   id: 36
+  idLock: 0
   nameEnglish: Message_0_Page_0 Hehehe that squid doesn't stand a chance now!<pause>
     You made the rod, I think you deserve to catch it. Let me know if you do! I've
     got just the thing to display it.

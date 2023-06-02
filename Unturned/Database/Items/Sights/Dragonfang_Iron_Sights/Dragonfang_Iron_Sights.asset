@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dragonfang_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: 79c6313e2a0342bf9c15ec7f1a51de8f
+  coreMasterBundlePath: /Items/Sights/Dragonfang_Iron_Sights/
   modType: 45
   rarity: 0
   id: 134
+  idLock: 0
   nameEnglish: 'Dragonfang Iron Sights
 
     Description Rail mounted iron sights.'

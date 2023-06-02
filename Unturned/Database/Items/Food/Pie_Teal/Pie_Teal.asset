@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pie_Teal
   m_EditorClassIdentifier: 
+  guid: 144fbf09fd4b49b78c8ec0bf97265123
+  coreMasterBundlePath: /Items/Food/Pie_Teal/
   modType: 18
   rarity: 3
   id: 1081
+  idLock: 0
   nameEnglish: 'Teal Pie
 
     Description Baked to perfection.'

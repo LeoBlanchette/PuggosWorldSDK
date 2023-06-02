@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Painkillers
   m_EditorClassIdentifier: 
+  guid: f299b00fec514c78b72be48edb581fb9
+  coreMasterBundlePath: /Items/Medical/Painkillers/
   modType: 32
   rarity: 1
   id: 390
+  idLock: 0
   nameEnglish: 'Painkillers
 
     Description Magic pills for eliminating pain.'

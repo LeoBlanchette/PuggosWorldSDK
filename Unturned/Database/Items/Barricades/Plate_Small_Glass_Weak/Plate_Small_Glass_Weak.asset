@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plate_Small_Glass_Weak
   m_EditorClassIdentifier: 
+  guid: 12abf56cd9df4a38b63a9929fb6ca3eb
+  coreMasterBundlePath: /Items/Barricades/Plate_Small_Glass_Weak/
   modType: 6
   rarity: 1
   id: 894
+  idLock: 0
   nameEnglish: 'Small Weak Plate
 
     Description Glass pane ideal for looking at

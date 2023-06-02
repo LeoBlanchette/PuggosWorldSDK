@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wealthy
   m_EditorClassIdentifier: 
+  guid: 6970521719ac4d9da0ee015d0e1f9714
+  coreMasterBundlePath: /Mythics/Wealthy/
   modType: 35
   rarity: 0
   id: 7
+  idLock: 0
   nameEnglish: Particle_Tag_Name Wealthy
   cloneFrom: {fileID: 0}
   datFileValues: []

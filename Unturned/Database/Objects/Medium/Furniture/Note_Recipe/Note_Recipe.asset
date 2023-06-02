@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_Recipe
   m_EditorClassIdentifier: 
+  guid: bc454d0c030b40e8945853c524171a4a
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_Recipe/
   modType: 33
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: "Note - Cookie Recipe\r\n\r\nInteractability_Text_Line_0 Gingerbread
     Cookie Recipe\r\nInteractability_Text_Line_1 ---\r\nInteractability_Text_Line_2
     Ingredients : \r\nInteractability_Text_Line_3 1x Flour\r\nInteractability_Text_Line_4

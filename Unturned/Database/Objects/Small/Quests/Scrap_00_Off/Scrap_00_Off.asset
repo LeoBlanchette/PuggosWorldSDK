@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Scrap_00_Off
   m_EditorClassIdentifier: 
+  guid: b8384bcb309f4d1195c4d71152119a60
+  coreMasterBundlePath: /Objects/Small/Quests/Scrap_00_Off/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: 'Scrap #1 Off
 
     

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pillar_Maple
   m_EditorClassIdentifier: 
+  guid: 23fe752094bc48f5b7f38e8d41b78f1f
+  coreMasterBundlePath: /Items/Structures/Pillar_Maple/
   modType: 50
   rarity: 1
   id: 36
+  idLock: 0
   nameEnglish: 'Maple Pillar
 
     Description Maple pillar. Beware of termites.'

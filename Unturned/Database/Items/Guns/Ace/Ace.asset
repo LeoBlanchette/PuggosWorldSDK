@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ace
   m_EditorClassIdentifier: 
+  guid: e898e927e6f944e6a18cf40da28bea4d
+  coreMasterBundlePath: /Items/Guns/Ace/
   modType: 24
   rarity: 1
   id: 107
+  idLock: 0
   nameEnglish: 'Ace
 
     Description American revolver chambered in Ace ammunition.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fountain_0
   m_EditorClassIdentifier: 
+  guid: 4d77101ee3ba4ccc9a5d55964a5f622f
+  coreMasterBundlePath: /Objects/Medium/Parks/Fountain_0/
   modType: 33
   rarity: 0
   id: 712
+  idLock: 0
   nameEnglish: Fountain #1
   cloneFrom: {fileID: 0}
   datFileValues:

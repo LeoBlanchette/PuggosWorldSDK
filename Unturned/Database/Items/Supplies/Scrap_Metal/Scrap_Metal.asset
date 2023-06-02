@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Scrap_Metal
   m_EditorClassIdentifier: 
+  guid: 3079cd8b895443a6991ef3a61f20d757
+  coreMasterBundlePath: /Items/Supplies/Scrap_Metal/
   modType: 51
   rarity: 0
   id: 67
+  idLock: 0
   nameEnglish: 'Metal Scrap
 
     Description Random assortment of metallic materials.'

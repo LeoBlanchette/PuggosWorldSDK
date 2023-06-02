@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 6e3dac93169b417b97c997da829c4c4e
+  coreMasterBundlePath: /NPCs/Quests/XMAS_Snow/
   modType: 40
   rarity: 0
   id: 316
+  idLock: 0
   nameEnglish: 'Suspicious Snowballs
 
     Description Some mysterious frozen water

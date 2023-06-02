@@ -18,6 +18,10 @@ namespace LB3D.PuggosWorld.Unturned
             {
                 script.CloneFromDatFileObject();
             }
+            if (GUILayout.Button("Clone From .dat as Master Bundle Override", GUILayout.Height(40)))
+            {
+                script.CloneFromDatFileObject(true);
+            }
             if (GUILayout.Button("Test", GUILayout.Height(40)))
             {
                 script.Test();

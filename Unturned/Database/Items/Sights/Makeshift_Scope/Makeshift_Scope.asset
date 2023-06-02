@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Makeshift_Scope
   m_EditorClassIdentifier: 
+  guid: 73465a494385454989717a97eaf23f18
+  coreMasterBundlePath: /Items/Sights/Makeshift_Scope/
   modType: 45
   rarity: 0
   id: 476
+  idLock: 0
   nameEnglish: 'Makeshift Scope
 
     Description Rail mounted 6x zoom scope.'

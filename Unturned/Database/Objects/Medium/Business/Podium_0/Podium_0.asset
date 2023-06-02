@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Podium_0
   m_EditorClassIdentifier: 
+  guid: c1e8b01606cd46a1b81df2605aa0c8e3
+  coreMasterBundlePath: /Objects/Medium/Business/Podium_0/
   modType: 33
   rarity: 0
   id: 997
+  idLock: 0
   nameEnglish: Podium #1
   cloneFrom: {fileID: 0}
   datFileValues:

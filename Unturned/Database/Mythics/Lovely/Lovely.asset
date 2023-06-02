@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Lovely
   m_EditorClassIdentifier: 
+  guid: a9ca35bae312478ea3d1f2e3331991af
+  coreMasterBundlePath: /Mythics/Lovely/
   modType: 35
   rarity: 0
   id: 3
+  idLock: 0
   nameEnglish: Particle_Tag_Name Lovely
   cloneFrom: {fileID: 0}
   datFileValues: []

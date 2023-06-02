@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cap_Blue
   m_EditorClassIdentifier: 
+  guid: b75ece44e39e48fb88c3a91ebb121327
+  coreMasterBundlePath: /Items/Hats/Cap_Blue/
   modType: 25
   rarity: 0
   id: 426
+  idLock: 0
   nameEnglish: 'Blue Cap
 
     Description Shade providing American hat for watching

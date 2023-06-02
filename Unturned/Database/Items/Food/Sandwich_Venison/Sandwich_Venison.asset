@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sandwich_Venison
   m_EditorClassIdentifier: 
+  guid: 555b987eca6c4301a9e345c85ebd3108
+  coreMasterBundlePath: /Items/Food/Sandwich_Venison/
   modType: 18
   rarity: 2
   id: 1402
+  idLock: 0
   nameEnglish: 'Venison Sandwich
 
     Description Tasty venison in a blanket of

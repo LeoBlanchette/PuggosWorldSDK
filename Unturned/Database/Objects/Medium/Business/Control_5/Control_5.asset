@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Control_5
   m_EditorClassIdentifier: 
+  guid: 26355d311f1647ba83a81a1c79251852
+  coreMasterBundlePath: /Objects/Medium/Business/Control_5/
   modType: 33
   rarity: 0
   id: 626
+  idLock: 0
   nameEnglish: Control #6
   cloneFrom: {fileID: 0}
   datFileValues:

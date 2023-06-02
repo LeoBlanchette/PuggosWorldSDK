@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Doubledoor_Maple
   m_EditorClassIdentifier: 
+  guid: f72897ce8206433eb28a23bc956dd93b
+  coreMasterBundlePath: /Items/Barricades/Doubledoor_Maple/
   modType: 6
   rarity: 1
   id: 1235
+  idLock: 0
   nameEnglish: 'Maple Doubledoor
 
     Description Maple doubledoor ideal for keeping

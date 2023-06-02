@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: XMAS_Snow_Shovel
   m_EditorClassIdentifier: 
+  guid: a94c764acfef4247965c5d17b6a4b796
+  coreMasterBundlePath: /Items/Melee/XMAS_Snow_Shovel/
   modType: 34
   rarity: 0
   id: 1693
+  idLock: 0
   nameEnglish: 'Snow Shovel
 
     Description Perfect for scooping up snow piles.'

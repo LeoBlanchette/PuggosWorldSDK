@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Explosives
   m_EditorClassIdentifier: 
+  guid: 29c025242d2b43e2817c2f8980cbe3d7
+  coreMasterBundlePath: /Items/Supplies/Explosives/
   modType: 51
   rarity: 1
   id: 73
+  idLock: 0
   nameEnglish: 'Raw Explosives
 
     Description Highly explosive materials for use

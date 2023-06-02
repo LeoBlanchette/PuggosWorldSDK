@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Garage_Metal
   m_EditorClassIdentifier: 
+  guid: c5c88f9b10464933b41cd91d5dc0c478
+  coreMasterBundlePath: /Items/Structures/Garage_Metal/
   modType: 50
   rarity: 3
   id: 454
+  idLock: 0
   nameEnglish: 'Metal Garage
 
     Description Metal garage. Beware of robotic termites.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Stereo
   m_EditorClassIdentifier: 
+  guid: 7f4e8e3695c94d2bb4c732c811aa6793
+  coreMasterBundlePath: /Items/Barricades/Stereo/
   modType: 6
   rarity: 0
   id: 1466
+  idLock: 0
   nameEnglish: 'Boombox
 
     Description Play tunes to keep up morale.

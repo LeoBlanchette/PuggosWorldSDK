@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tuxedo_Top_Mafia
   m_EditorClassIdentifier: 
+  guid: fd2f090c085b4ab3b8634f5f8dd138ea
+  coreMasterBundlePath: /Items/Shirts/Tuxedo_Top_Mafia/
   modType: 44
   rarity: 1
   id: 1386
+  idLock: 0
   nameEnglish: 'Mafia Tuxedo Top
 
     Description Mobster tuxedo, very few bloodstains.'

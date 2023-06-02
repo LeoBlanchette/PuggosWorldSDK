@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Moose
   m_EditorClassIdentifier: 
+  guid: d6d459d72b894a58ac3ae231615f9e54
+  coreMasterBundlePath: /Animals/Moose/
   modType: 1
   rarity: 0
   id: 2
+  idLock: 0
   nameEnglish: Moose
   cloneFrom: {fileID: 0}
   datFileValues:

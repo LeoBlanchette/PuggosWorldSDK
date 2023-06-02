@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Gas_Cover_0
   m_EditorClassIdentifier: 
+  guid: 484295d81c7d4520b2ed1738ad1c4fb8
+  coreMasterBundlePath: /Objects/Large/Utilities/Gas_Cover_0/
   modType: 27
   rarity: 0
   id: 62
+  idLock: 0
   nameEnglish: Gas Cover #1
   cloneFrom: {fileID: 0}
   datFileValues:

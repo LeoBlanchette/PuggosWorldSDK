@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plane_2
   m_EditorClassIdentifier: 
+  guid: b43a3c2014084336b74f9a5a7b1e98f5
+  coreMasterBundlePath: /Objects/Large/Vehicles/Plane_2/
   modType: 27
   rarity: 0
   id: 260
+  idLock: 0
   nameEnglish: Plane #3
   cloneFrom: {fileID: 0}
   datFileValues:

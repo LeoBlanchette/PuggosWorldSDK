@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rod_Fishing
   m_EditorClassIdentifier: 
+  guid: 53104db4a31547a8ad8de2c4b43e0fc8
+  coreMasterBundlePath: /Items/Fishers/Rod_Fishing/
   modType: 17
   rarity: 1
   id: 503
+  idLock: 0
   nameEnglish: 'Fishing Rod
 
     Description Long range fish generator.'

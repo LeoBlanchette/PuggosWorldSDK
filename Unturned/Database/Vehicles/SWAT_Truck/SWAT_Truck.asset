@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: SWAT_Truck
   m_EditorClassIdentifier: 
+  guid: 08631a22023a4db1be0a22756667f38c
+  coreMasterBundlePath: /Vehicles/SWAT_Truck/
   modType: 58
   rarity: 3
   id: 142
+  idLock: 0
   nameEnglish: Prison Truck
   cloneFrom: {fileID: 0}
   datFileValues:

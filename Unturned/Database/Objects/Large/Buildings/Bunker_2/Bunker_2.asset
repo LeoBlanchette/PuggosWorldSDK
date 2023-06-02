@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bunker_2
   m_EditorClassIdentifier: 
+  guid: 7ccc176d1fa84c6fbd310a0f15a8713e
+  coreMasterBundlePath: /Objects/Large/Buildings/Bunker_2/
   modType: 27
   rarity: 0
   id: 601
+  idLock: 0
   nameEnglish: Bunker #3
   cloneFrom: {fileID: 0}
   datFileValues:

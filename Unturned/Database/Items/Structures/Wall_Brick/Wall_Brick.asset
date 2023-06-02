@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wall_Brick
   m_EditorClassIdentifier: 
+  guid: 1aff17c1e8164ec19612ab8d3b9db4aa
+  coreMasterBundlePath: /Items/Structures/Wall_Brick/
   modType: 50
   rarity: 2
   id: 1215
+  idLock: 0
   nameEnglish: 'Brick Wall
 
     Description The zombies can huff and puff, but they

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Library_0
   m_EditorClassIdentifier: 
+  guid: 0d9d81761b25482d881f06d26e0c6ee3
+  coreMasterBundlePath: /Objects/Large/Buildings/Library_0/
   modType: 27
   rarity: 0
   id: 309
+  idLock: 0
   nameEnglish: Library #1
   cloneFrom: {fileID: 0}
   datFileValues:

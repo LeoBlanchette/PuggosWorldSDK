@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Arrow_Pine_1
   m_EditorClassIdentifier: 
+  guid: 598eca2371b5419b9a0057c33e47d9d2
+  coreMasterBundlePath: /Items/Magazines/Arrow_Pine_1/
   modType: 29
   rarity: 0
   id: 352
+  idLock: 0
   nameEnglish: 'Pine Arrow
 
     Description Easy to snap.'

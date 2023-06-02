@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Taxi
   m_EditorClassIdentifier: 
+  guid: 66b22b5f56b3400f9ebe24a64b97372d
+  coreMasterBundlePath: /Objects/Large/Vehicles/Taxi/
   modType: 27
   rarity: 0
   id: 452
+  idLock: 0
   nameEnglish: Taxi
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Balaclava_Yellow
   m_EditorClassIdentifier: 
+  guid: 8fa8e3afb721419caeccc5682882f21f
+  coreMasterBundlePath: /Items/Masks/Balaclava_Yellow/
   modType: 31
   rarity: 0
   id: 441
+  idLock: 0
   nameEnglish: 'Yellow Balaclava
 
     Description Sneakybeaky ninja hood.'

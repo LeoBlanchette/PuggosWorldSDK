@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bone_3
   m_EditorClassIdentifier: 
+  guid: 8813ce188bc4496f9d89d276de831399
+  coreMasterBundlePath: /Objects/Small/Quests/Bones/Bone_3/
   modType: 47
   rarity: 0
   id: 840
+  idLock: 0
   nameEnglish: 'Bone #4
 
     

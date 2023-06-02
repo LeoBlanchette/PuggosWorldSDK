@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Paintballs_Orange_35
   m_EditorClassIdentifier: 
+  guid: 55b7bb8bd4354f32acf2e961cedda815
+  coreMasterBundlePath: /Items/Magazines/Paintballs_Orange_35/
   modType: 29
   rarity: 1
   id: 1341
+  idLock: 0
   nameEnglish: 'Orange Paintball Hopper
 
     Description Painting grade <color=uncommon>Paintball

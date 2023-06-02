@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Spikes_Maple
   m_EditorClassIdentifier: 
+  guid: e5a3fadcdc2c454592ae70f36b4696ea
+  coreMasterBundlePath: /Items/Barricades/Spikes_Maple/
   modType: 57
   rarity: 1
   id: 383
+  idLock: 0
   nameEnglish: 'Maple Spikes
 
     Description Spiky trap.'

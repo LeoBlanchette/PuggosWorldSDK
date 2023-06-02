@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Engine_On
   m_EditorClassIdentifier: 
+  guid: 78e66fd2de324446aa45b0e75aae1c26
+  coreMasterBundlePath: /Objects/Medium/Quests/Engine/Engine_On/
   modType: 33
   rarity: 0
   id: 806
+  idLock: 0
   nameEnglish: Engine #1 On
   cloneFrom: {fileID: 0}
   datFileValues:

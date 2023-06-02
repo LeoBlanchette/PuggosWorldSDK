@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Police_Cap
   m_EditorClassIdentifier: 
+  guid: 1ce529741e6f45108d59cb8abd2bf61a
+  coreMasterBundlePath: /Items/Hats/Police_Cap/
   modType: 25
   rarity: 1
   id: 225
+  idLock: 0
   nameEnglish: 'Police Cap
 
     Description Law enforcement uniform cap.'

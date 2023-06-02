@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Quad_Orange
   m_EditorClassIdentifier: 
+  guid: 7941c67c9e8c4d578895268a42106654
+  coreMasterBundlePath: /Objects/Large/Vehicles/Quad_Orange/
   modType: 27
   rarity: 0
   id: 446
+  idLock: 0
   nameEnglish: Orange Quad
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sentry_Hostile
   m_EditorClassIdentifier: 
+  guid: 9d7710e02823497b972c6e19cf5fffd8
+  coreMasterBundlePath: /Items/Barricades/Sentry_Hostile/
   modType: 43
   rarity: 3
   id: 1373
+  idLock: 0
   nameEnglish: 'Hostile Sentry
 
     Description Covers an area by automatically

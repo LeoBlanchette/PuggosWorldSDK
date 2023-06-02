@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dam_1
   m_EditorClassIdentifier: 
+  guid: 508de98fa171423fb2938ed35587a4d5
+  coreMasterBundlePath: /Objects/Large/Utilities/Dam_1/
   modType: 27
   rarity: 0
   id: 916
+  idLock: 0
   nameEnglish: Dam #2
   cloneFrom: {fileID: 0}
   datFileValues:

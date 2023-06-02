@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crossbow
   m_EditorClassIdentifier: 
+  guid: eeb8ce17707647a0b132873e2ee9890f
+  coreMasterBundlePath: /Items/Guns/Crossbow/
   modType: 24
   rarity: 1
   id: 346
+  idLock: 0
   nameEnglish: 'Crossbow
 
     Description Crossbow chambered in Arrows.'

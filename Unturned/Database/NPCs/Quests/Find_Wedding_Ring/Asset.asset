@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: dd8006664e204b80a7e1e000e711ac99
+  coreMasterBundlePath: /NPCs/Quests/Find_Wedding_Ring/
   modType: 40
   rarity: 0
   id: 136
+  idLock: 0
   nameEnglish: 'Memoir
 
     Description Gwen accidentally lost her wedding ring

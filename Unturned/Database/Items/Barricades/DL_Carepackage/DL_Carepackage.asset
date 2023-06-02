@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: DL_Carepackage
   m_EditorClassIdentifier: 
+  guid: c923cfdfb18444b59e461d43c40ed52e
+  coreMasterBundlePath: /Items/Barricades/DL_Carepackage/
   modType: 49
   rarity: 3
   id: 1596
+  idLock: 0
   nameEnglish: 
   cloneFrom: {fileID: 0}
   datFileValues:

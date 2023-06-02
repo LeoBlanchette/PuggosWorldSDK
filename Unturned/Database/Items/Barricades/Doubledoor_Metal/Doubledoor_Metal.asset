@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Doubledoor_Metal
   m_EditorClassIdentifier: 
+  guid: 992cf98a028441eab613eb931e9c702c
+  coreMasterBundlePath: /Items/Barricades/Doubledoor_Metal/
   modType: 6
   rarity: 3
   id: 1238
+  idLock: 0
   nameEnglish: 'Metal Doubledoor
 
     Description Metal doubledoor ideal for keeping

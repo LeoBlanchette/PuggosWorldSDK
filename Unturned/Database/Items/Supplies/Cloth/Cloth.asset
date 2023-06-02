@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cloth
   m_EditorClassIdentifier: 
+  guid: 5564868444ab411081fc1e057213446d
+  coreMasterBundlePath: /Items/Supplies/Cloth/
   modType: 51
   rarity: 0
   id: 66
+  idLock: 0
   nameEnglish: 'Cloth
 
     Description Thick, warm fabric and thread.'

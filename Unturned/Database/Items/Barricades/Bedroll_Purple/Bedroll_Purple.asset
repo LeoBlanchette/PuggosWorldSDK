@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bedroll_Purple
   m_EditorClassIdentifier: 
+  guid: 1cb4e9b1ca5d49d2a6a2e7214ee1c6c7
+  coreMasterBundlePath: /Items/Barricades/Bedroll_Purple/
   modType: 6
   rarity: 0
   id: 292
+  idLock: 0
   nameEnglish: 'Purple Bedroll
 
     Description Warm bed perfect for a campsite.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coalition_Beret
   m_EditorClassIdentifier: 
+  guid: 633f8162852b48ceb119cc563cf84eb6
+  coreMasterBundlePath: /Items/Hats/Coalition_Beret/
   modType: 25
   rarity: 3
   id: 1428
+  idLock: 0
   nameEnglish: 'Coalition Beret
 
     Description Coalition Major rank uniform hat.'

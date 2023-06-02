@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sign_Metal
   m_EditorClassIdentifier: 
+  guid: 75c13f3ec20c4203a6f463326bd44843
+  coreMasterBundlePath: /Items/Barricades/Sign_Metal/
   modType: 6
   rarity: 3
   id: 1098
+  idLock: 0
   nameEnglish: 'Metal Sign
 
     Description Metal sign coupled with colorful markers.'

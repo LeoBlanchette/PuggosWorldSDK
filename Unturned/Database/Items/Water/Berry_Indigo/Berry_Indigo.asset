@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Berry_Indigo
   m_EditorClassIdentifier: 
+  guid: 98c2b1dc7ea142fd98b421000d9cfff4
+  coreMasterBundlePath: /Items/Water/Berry_Indigo/
   modType: 62
   rarity: 0
   id: 271
+  idLock: 0
   nameEnglish: 'Raw Indigo Berries
 
     Description Very suspicious looking.'

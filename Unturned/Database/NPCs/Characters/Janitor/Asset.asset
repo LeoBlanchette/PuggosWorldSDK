@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 41775c4733134833b469279a6be3dbb2
+  coreMasterBundlePath: /NPCs/Characters/Janitor/
   modType: 36
   rarity: 0
   id: 757
+  idLock: 0
   nameEnglish: 'Janitor Rusty
 
     Character Rusty'

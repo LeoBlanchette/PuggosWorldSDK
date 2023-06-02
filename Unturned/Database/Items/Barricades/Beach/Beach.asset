@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Beach
   m_EditorClassIdentifier: 
+  guid: 06d54864cad1484eacea8ef3788c658e
+  coreMasterBundlePath: /Items/Barricades/Beach/
   modType: 6
   rarity: 0
   id: 1296
+  idLock: 0
   nameEnglish: 'Beach Chair
 
     Description Comfy spot to relax in the shade.'

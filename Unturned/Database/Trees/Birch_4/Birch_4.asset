@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Birch_4
   m_EditorClassIdentifier: 
+  guid: eb66e82421234fcba4f3c904bcd0b919
+  coreMasterBundlePath: /Trees/Birch_4/
   modType: 42
   rarity: 0
   id: 34
+  idLock: 0
   nameEnglish: Russia Birch #3
   cloneFrom: {fileID: 0}
   datFileValues:

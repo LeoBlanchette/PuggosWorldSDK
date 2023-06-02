@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bottled_Cola
   m_EditorClassIdentifier: 
+  guid: c0f17ad837c944e5a77a1ec7f59b06f3
+  coreMasterBundlePath: /Items/Water/Bottled_Cola/
   modType: 62
   rarity: 0
   id: 472
+  idLock: 0
   nameEnglish: 'Bottled Cola
 
     Description Water saturated with sugar.'

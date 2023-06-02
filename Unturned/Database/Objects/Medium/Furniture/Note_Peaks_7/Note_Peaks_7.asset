@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_Peaks_7
   m_EditorClassIdentifier: 
+  guid: 6e046cf79f2e48728ba8f03f83a37c39
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_Peaks_7/
   modType: 33
   rarity: 0
   id: 2036
+  idLock: 0
   nameEnglish: 'Peaks Note - Bodies
 
     

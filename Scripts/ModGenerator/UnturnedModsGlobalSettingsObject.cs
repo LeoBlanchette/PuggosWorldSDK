@@ -37,11 +37,11 @@ namespace LB3D.PuggosWorld.Unturned
                 Debug.LogWarning("Please set the path to the Unturned installation directory.");
                 return;
             }
-        
+          
             string[] datFiles = Directory.GetFiles(Path.Combine(unturnedInstallationPath, "Bundles"), "*.dat", SearchOption.AllDirectories);
             foreach (string datFile in datFiles)
-            {
-                CreateDatFileDatabaseEntry(datFile);
+            {       
+                CreateDatFileDatabaseEntry(datFile);    
             }
 
             #if UNITY_EDITOR
@@ -60,11 +60,14 @@ namespace LB3D.PuggosWorld.Unturned
             
             //The extended path beneath Database folder. Example: Database/Vehicles/SomeVehicle/
             string extendedDatabasePath = datFilePath.Replace(Path.Combine(unturnedInstallationPath, "Bundles"), "").Replace(fileName, "");
+            string coreMasterBundlePath = Path.Combine(extendedDatabasePath.Replace("\\", "/"));
+            
             extendedDatabasePath = extendedDatabasePath.TrimStart(new Char[] { '\\', '/' });
             extendedDatabasePath = extendedDatabasePath.TrimEnd(new Char[] { '\\', '/' });
             //Create the scriptable object 
             UnturnedDatFileScriptableObject datFileObject = ScriptableObject.CreateInstance<UnturnedDatFileScriptableObject>();
             datFileObject.AddFromTextFile(datFilePath);
+            datFileObject.SetCoreMasterBundlePath(coreMasterBundlePath);
             string localDatabasePath = Path.Combine(GetDatabasePathLocal());
             string extendedPath = Path.Combine(localDatabasePath, extendedDatabasePath);
             string assetFileName = fileName.Replace(".dat", ".asset");

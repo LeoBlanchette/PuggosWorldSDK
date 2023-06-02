@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hatchback_Rainbow
   m_EditorClassIdentifier: 
+  guid: 764bb3f3276e4f69ae8df7142048d582
+  coreMasterBundlePath: /Vehicles/Hatchback_Rainbow/
   modType: 58
   rarity: 4
   id: 109
+  idLock: 0
   nameEnglish: Rainbow Hatchback
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Propaganda_Coalition_0_On
   m_EditorClassIdentifier: 
+  guid: 9a43cf8717c74cbba59ae19767b205b9
+  coreMasterBundlePath: /Objects/Medium/Quests/Propaganda_Coalition/Propaganda_Coalition_0_On/
   modType: 33
   rarity: 0
   id: 781
+  idLock: 0
   nameEnglish: Propaganda #1 On
   cloneFrom: {fileID: 0}
   datFileValues:

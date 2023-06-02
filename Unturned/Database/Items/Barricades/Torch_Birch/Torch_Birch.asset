@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Torch_Birch
   m_EditorClassIdentifier: 
+  guid: 66ba34295f85473cb8da5c3921130261
+  coreMasterBundlePath: /Items/Barricades/Torch_Birch/
   modType: 6
   rarity: 0
   id: 360
+  idLock: 0
   nameEnglish: 'Birch Torch
 
     Description Birch torch to provide a little bit

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: UFO
   m_EditorClassIdentifier: 
+  guid: 4249f9f4914c4dce9b52d2d364762f0f
+  coreMasterBundlePath: /Objects/Large/Vehicles/UFO/
   modType: 27
   rarity: 0
   id: 477
+  idLock: 0
   nameEnglish: UFO
   cloneFrom: {fileID: 0}
   datFileValues:

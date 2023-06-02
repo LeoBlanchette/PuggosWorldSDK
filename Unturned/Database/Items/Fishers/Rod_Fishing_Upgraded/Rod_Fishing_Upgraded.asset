@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rod_Fishing_Upgraded
   m_EditorClassIdentifier: 
+  guid: 97ef6a45831f4cdabacc7f18ff303a59
+  coreMasterBundlePath: /Items/Fishers/Rod_Fishing_Upgraded/
   modType: 17
   rarity: 3
   id: 1432
+  idLock: 0
   nameEnglish: 'Upgraded Fishing Rod
 
     Description Long range fish generator.

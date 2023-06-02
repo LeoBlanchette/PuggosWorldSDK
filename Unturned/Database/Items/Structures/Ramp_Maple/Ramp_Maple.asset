@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ramp_Maple
   m_EditorClassIdentifier: 
+  guid: 81540b208d54484a8d712246f1c3afc3
+  coreMasterBundlePath: /Items/Structures/Ramp_Maple/
   modType: 50
   rarity: 1
   id: 322
+  idLock: 0
   nameEnglish: 'Maple Ramp
 
     Description Maple ramp. Beware of termites.'

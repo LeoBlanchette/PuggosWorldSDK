@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Construction_0
   m_EditorClassIdentifier: 
+  guid: 6cb1a1f76be04aa88569dcac815ddc29
+  coreMasterBundlePath: /Objects/Large/Buildings/Construction_0/
   modType: 27
   rarity: 0
   id: 251
+  idLock: 0
   nameEnglish: Construction #1
   cloneFrom: {fileID: 0}
   datFileValues:

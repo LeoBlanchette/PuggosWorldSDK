@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Maple_Syrup
   m_EditorClassIdentifier: 
+  guid: a63fba04e49a424989594b2b7f617e0c
+  coreMasterBundlePath: /Items/Water/Maple_Syrup/
   modType: 62
   rarity: 1
   id: 1159
+  idLock: 0
   nameEnglish: 'Maple Syrup
 
     Description Sap from the maple tree.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Spec_Ops_Bottom
   m_EditorClassIdentifier: 
+  guid: 292d2c17cd4d4e4da60a1587b5800ad1
+  coreMasterBundlePath: /Items/Pants/Spec_Ops_Bottom/
   modType: 39
   rarity: 4
   id: 1172
+  idLock: 0
   nameEnglish: 'Spec Ops Bottom
 
     Description Tactical uniform pants.'

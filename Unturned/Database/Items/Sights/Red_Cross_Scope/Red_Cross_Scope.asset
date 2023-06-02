@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Red_Cross_Scope
   m_EditorClassIdentifier: 
+  guid: 6be9707e7f9d4b8f855f379eed3cda85
+  coreMasterBundlePath: /Items/Sights/Red_Cross_Scope/
   modType: 45
   rarity: 1
   id: 22
+  idLock: 0
   nameEnglish: 'Cross Scope
 
     Description Rail mounted optic with electronic

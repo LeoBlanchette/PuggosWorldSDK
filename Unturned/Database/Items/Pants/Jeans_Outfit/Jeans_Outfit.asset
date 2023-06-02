@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Jeans_Outfit
   m_EditorClassIdentifier: 
+  guid: e74fbefa4ca6422baf2a66c3b14fa31e
+  coreMasterBundlePath: /Items/Pants/Jeans_Outfit/
   modType: 39
   rarity: 0
   id: 207
+  idLock: 0
   nameEnglish: 'Outfit Jeans
 
     Description Denim day-to-day pants.'

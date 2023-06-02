@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wheat
   m_EditorClassIdentifier: 
+  guid: 28684e31f6314b0d93035dc4b9138e98
+  coreMasterBundlePath: /Items/Food/Wheat/
   modType: 18
   rarity: 0
   id: 344
+  idLock: 0
   nameEnglish: 'Wheat
 
     Description Golden vegetable.'

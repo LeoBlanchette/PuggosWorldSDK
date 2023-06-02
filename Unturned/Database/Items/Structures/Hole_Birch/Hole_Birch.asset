@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hole_Birch
   m_EditorClassIdentifier: 
+  guid: c19ed30267204725b190ee5965d87a5c
+  coreMasterBundlePath: /Items/Structures/Hole_Birch/
   modType: 50
   rarity: 0
   id: 321
+  idLock: 0
   nameEnglish: 'Birch Hole
 
     Description Birch hole. Beware of termites.'

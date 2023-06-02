@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wrecked_Space_Shuttle_0
   m_EditorClassIdentifier: 
+  guid: 9039a5e744d54b3d8d9b1809ab59cd3e
+  coreMasterBundlePath: /Objects/Large/Vehicles/Wrecked_Space_Shuttle_0/
   modType: 27
   rarity: 0
   id: 976
+  idLock: 0
   nameEnglish: Wrecked Space Shuttle #1
   cloneFrom: {fileID: 0}
   datFileValues:

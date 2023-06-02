@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Socketwrench
   m_EditorClassIdentifier: 
+  guid: b7e86e3600fa402c920c02a90005b578
+  coreMasterBundlePath: /Items/Tools/Socketwrench/
   modType: 55
   rarity: 1
   id: 1507
+  idLock: 0
   nameEnglish: "Socketwrench \r\nDescription Tool for removing tires."
   cloneFrom: {fileID: 0}
   datFileValues:

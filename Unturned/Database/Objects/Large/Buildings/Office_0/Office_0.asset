@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Office_0
   m_EditorClassIdentifier: 
+  guid: f0a51538995b43d8b50662bab87cacf4
+  coreMasterBundlePath: /Objects/Large/Buildings/Office_0/
   modType: 27
   rarity: 0
   id: 263
+  idLock: 0
   nameEnglish: Office #1
   cloneFrom: {fileID: 0}
   datFileValues:

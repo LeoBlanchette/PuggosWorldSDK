@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Door_Maple
   m_EditorClassIdentifier: 
+  guid: 238e888ad39d41338a9afedac8a16d2b
+  coreMasterBundlePath: /Items/Barricades/Door_Maple/
   modType: 6
   rarity: 1
   id: 281
+  idLock: 0
   nameEnglish: 'Maple Door
 
     Description Maple door ideal for keeping out unwanted

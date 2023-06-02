@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Metal_0
   m_EditorClassIdentifier: 
+  guid: 3bc8ae98c2944e2cb5c41433a178b552
+  coreMasterBundlePath: /Trees/Metal_0/
   modType: 42
   rarity: 0
   id: 21
+  idLock: 0
   nameEnglish: Metal #1
   cloneFrom: {fileID: 0}
   datFileValues:

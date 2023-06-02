@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hatch_Maple
   m_EditorClassIdentifier: 
+  guid: b0edc45fe8174568a3844e3f7a16a248
+  coreMasterBundlePath: /Items/Barricades/Hatch_Maple/
   modType: 6
   rarity: 1
   id: 1329
+  idLock: 0
   nameEnglish: 'Maple Hatch
 
     Description Maple trapdoor ideal for keeping out

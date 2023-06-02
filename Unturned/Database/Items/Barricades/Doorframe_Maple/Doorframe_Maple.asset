@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Doorframe_Maple
   m_EditorClassIdentifier: 
+  guid: adcfd04619a94b1e823575ca60e32afc
+  coreMasterBundlePath: /Items/Barricades/Doorframe_Maple/
   modType: 6
   rarity: 1
   id: 1083
+  idLock: 0
   nameEnglish: 'Maple Doorframe
 
     Description Maple doorframe. Beware of termites.'

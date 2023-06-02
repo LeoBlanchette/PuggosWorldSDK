@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Nykorev_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: a1f79d89ab084517bd23c4f5e604f7b7
+  coreMasterBundlePath: /Items/Sights/Nykorev_Iron_Sights/
   modType: 45
   rarity: 0
   id: 128
+  idLock: 0
   nameEnglish: 'Nykorev Iron Sights
 
     Description Rail mounted iron sights.'

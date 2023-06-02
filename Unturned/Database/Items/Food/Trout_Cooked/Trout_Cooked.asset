@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Trout_Cooked
   m_EditorClassIdentifier: 
+  guid: d0da22e08a8d4f6ba7eb77d63209bcc6
+  coreMasterBundlePath: /Items/Food/Trout_Cooked/
   modType: 18
   rarity: 0
   id: 512
+  idLock: 0
   nameEnglish: 'Cooked Trout
 
     Description Rather smelly and fishy.'

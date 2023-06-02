@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Table_Cir_Metal
   m_EditorClassIdentifier: 
+  guid: 23ec2f61a7cc41fba475602d387139d3
+  coreMasterBundlePath: /Items/Barricades/Table_Cir_Metal/
   modType: 6
   rarity: 3
   id: 1291
+  idLock: 0
   nameEnglish: 'Metal Circular Table
 
     Description Metal table for fine dining.'

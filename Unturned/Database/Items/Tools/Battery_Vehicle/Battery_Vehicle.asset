@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Battery_Vehicle
   m_EditorClassIdentifier: 
+  guid: 16d5aee55d97407fbea6a256cede4508
+  coreMasterBundlePath: /Items/Tools/Battery_Vehicle/
   modType: 59
   rarity: 1
   id: 1450
+  idLock: 0
   nameEnglish: "Vehicle Battery \r\nDescription Vehicle electrical power source."
   cloneFrom: {fileID: 0}
   datFileValues:

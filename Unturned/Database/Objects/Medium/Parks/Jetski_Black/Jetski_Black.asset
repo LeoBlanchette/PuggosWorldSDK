@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Jetski_Black
   m_EditorClassIdentifier: 
+  guid: 8330b7d724f34c4189a8787517a8dbbe
+  coreMasterBundlePath: /Objects/Medium/Parks/Jetski_Black/
   modType: 33
   rarity: 0
   id: 498
+  idLock: 0
   nameEnglish: Black Jetski
   cloneFrom: {fileID: 0}
   datFileValues:

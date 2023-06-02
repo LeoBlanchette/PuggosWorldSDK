@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pillar_Brick
   m_EditorClassIdentifier: 
+  guid: fbad80d70ab5481685587fea432789d2
+  coreMasterBundlePath: /Items/Structures/Pillar_Brick/
   modType: 50
   rarity: 2
   id: 1212
+  idLock: 0
   nameEnglish: 'Brick Pillar
 
     Description The zombies can huff and puff, but

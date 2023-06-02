@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dino_Skull
   m_EditorClassIdentifier: 
+  guid: 146732f7170c42a2853d191575c3477c
+  coreMasterBundlePath: /Objects/Small/Parks/Dino_Skull/
   modType: 47
   rarity: 0
   id: 883
+  idLock: 0
   nameEnglish: Dino Skull
   cloneFrom: {fileID: 0}
   datFileValues:

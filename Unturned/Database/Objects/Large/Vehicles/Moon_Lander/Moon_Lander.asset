@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Moon_Lander
   m_EditorClassIdentifier: 
+  guid: 96fd0c8b0c6944e0b3de7dce6adc2a2e
+  coreMasterBundlePath: /Objects/Large/Vehicles/Moon_Lander/
   modType: 27
   rarity: 0
   id: 871
+  idLock: 0
   nameEnglish: Moon Lander
   cloneFrom: {fileID: 0}
   datFileValues:

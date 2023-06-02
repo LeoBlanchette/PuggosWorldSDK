@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sabertooth
   m_EditorClassIdentifier: 
+  guid: 6b7435b0b5f7428e92702e7cb189c4d4
+  coreMasterBundlePath: /Items/Guns/Sabertooth/
   modType: 24
   rarity: 2
   id: 1018
+  idLock: 0
   nameEnglish: 'Sabertooth
 
     Description American sharpshooter rifle chambered

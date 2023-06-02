@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hockey_1
   m_EditorClassIdentifier: 
+  guid: 06bace570a544abb86ede0fa4eb58f94
+  coreMasterBundlePath: /Objects/Medium/Parks/Hockey_1/
   modType: 33
   rarity: 0
   id: 346
+  idLock: 0
   nameEnglish: Hockey #2
   cloneFrom: {fileID: 0}
   datFileValues:

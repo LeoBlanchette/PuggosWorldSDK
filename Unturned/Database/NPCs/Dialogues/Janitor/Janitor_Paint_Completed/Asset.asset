@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 0d2be6ce455341e8831b8d0f09e17ea2
+  coreMasterBundlePath: /NPCs/Dialogues/Janitor/Janitor_Paint_Completed/
   modType: 13
   rarity: 0
   id: 12
+  idLock: 0
   nameEnglish: Message_0_Page_0 Thanks for your help. I caught a peek while cleaning
     and I must say it looks much nicer now!
   cloneFrom: {fileID: 0}

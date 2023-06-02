@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Desert_Falcon_7
   m_EditorClassIdentifier: 
+  guid: 1f76f4c67624422ea12ac87a05ea6e37
+  coreMasterBundlePath: /Items/Magazines/Desert_Falcon_7/
   modType: 29
   rarity: 3
   id: 489
+  idLock: 0
   nameEnglish: 'Desert Falcon Magazine
 
     Description High caliber military grade

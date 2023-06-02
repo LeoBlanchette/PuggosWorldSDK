@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Power_Line_0
   m_EditorClassIdentifier: 
+  guid: 4ab061e9374d41359c124da845db1e2c
+  coreMasterBundlePath: /Objects/Medium/Traffic/Power_Line_0/
   modType: 33
   rarity: 0
   id: 27
+  idLock: 0
   nameEnglish: Power Line #1
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Toaster_0
   m_EditorClassIdentifier: 
+  guid: ebdbec01dd8c46f48aa4bffd5183da1a
+  coreMasterBundlePath: /Objects/Small/Furniture/Toaster_0/
   modType: 47
   rarity: 0
   id: 54
+  idLock: 0
   nameEnglish: Toaster #1
   cloneFrom: {fileID: 0}
   datFileValues:

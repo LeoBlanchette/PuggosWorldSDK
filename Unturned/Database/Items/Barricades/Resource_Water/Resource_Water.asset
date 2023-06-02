@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Resource_Water
   m_EditorClassIdentifier: 
+  guid: 2ba6d65ac30f4ff6b4d735e10bf2b32e
+  coreMasterBundlePath: /Items/Barricades/Resource_Water/
   modType: 53
   rarity: 3
   id: 1228
+  idLock: 0
   nameEnglish: 'Water Tank
 
     Description Safely stores water.'

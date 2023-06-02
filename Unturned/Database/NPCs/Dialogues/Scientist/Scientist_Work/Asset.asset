@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 83cb4ec1907c4c8da0b00ee918d801c4
+  coreMasterBundlePath: /NPCs/Dialogues/Scientist/Scientist_Work/
   modType: 13
   rarity: 0
   id: 80
+  idLock: 0
   nameEnglish: Message_0_Page_0 Hrmm? Err oh <pause>- yes, if this works out I think
     it'll be very useful. If you pop back here once it's ready you can be the first
     to test it!

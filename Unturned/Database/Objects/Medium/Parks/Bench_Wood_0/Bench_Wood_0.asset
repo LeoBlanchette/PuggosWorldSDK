@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bench_Wood_0
   m_EditorClassIdentifier: 
+  guid: a2931f88e2ca46e88414a11dcc1bc21f
+  coreMasterBundlePath: /Objects/Medium/Parks/Bench_Wood_0/
   modType: 33
   rarity: 0
   id: 68
+  idLock: 0
   nameEnglish: Bench Wood #1
   cloneFrom: {fileID: 0}
   datFileValues:

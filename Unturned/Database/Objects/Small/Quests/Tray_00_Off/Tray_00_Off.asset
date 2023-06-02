@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tray_00_Off
   m_EditorClassIdentifier: 
+  guid: 2feacc92734c4ff5aea58b92a6283730
+  coreMasterBundlePath: /Objects/Small/Quests/Tray_00_Off/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: 'Tray #1 Off
 
     

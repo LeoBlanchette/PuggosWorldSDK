@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Toque_Green
   m_EditorClassIdentifier: 
+  guid: 5e46be3e25a044dcbb27d97f65de6837
+  coreMasterBundlePath: /Items/Hats/Toque_Green/
   modType: 25
   rarity: 0
   id: 194
+  idLock: 0
   nameEnglish: 'Green Toque
 
     Description Warm Canadian hat for the stormy winters.'

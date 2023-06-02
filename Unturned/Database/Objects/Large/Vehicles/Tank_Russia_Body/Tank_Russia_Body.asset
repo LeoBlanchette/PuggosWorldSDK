@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tank_Russia_Body
   m_EditorClassIdentifier: 
+  guid: 6d67194028bb42f8a7b27f4859ca40e9
+  coreMasterBundlePath: /Objects/Large/Vehicles/Tank_Russia_Body/
   modType: 27
   rarity: 0
   id: 641
+  idLock: 0
   nameEnglish: Russia Tank Body
   cloneFrom: {fileID: 0}
   datFileValues:

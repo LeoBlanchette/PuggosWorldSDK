@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Saw
   m_EditorClassIdentifier: 
+  guid: 43e72f72b87548acbf312efde920830b
+  coreMasterBundlePath: /Items/Melee/Saw/
   modType: 34
   rarity: 0
   id: 141
+  idLock: 0
   nameEnglish: 'Saw
 
     Description Construction tool for cutting lumber.'

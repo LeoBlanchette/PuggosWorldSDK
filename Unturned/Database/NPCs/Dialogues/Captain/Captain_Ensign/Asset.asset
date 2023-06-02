@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: f5c9943664604b2ead31a1be256a5720
+  coreMasterBundlePath: /NPCs/Dialogues/Captain/Captain_Ensign/
   modType: 13
   rarity: 0
   id: 30
+  idLock: 0
   nameEnglish: Message_0_Page_0 Glad to hear it! Here are your <color=uncommon>Ensign</color>
     fatigues.
   cloneFrom: {fileID: 0}

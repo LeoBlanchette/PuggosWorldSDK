@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Trailer_3
   m_EditorClassIdentifier: 
+  guid: 2866ff06fc8f43b0b7393df8cba47b8b
+  coreMasterBundlePath: /Objects/Large/Buildings/Trailer_3/
   modType: 27
   rarity: 0
   id: 898
+  idLock: 0
   nameEnglish: Trailer #4
   cloneFrom: {fileID: 0}
   datFileValues:

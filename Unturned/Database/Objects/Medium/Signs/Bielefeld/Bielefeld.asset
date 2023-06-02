@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bielefeld
   m_EditorClassIdentifier: 
+  guid: 42dfca0f8cd94aa89a28bf62c87a3d79
+  coreMasterBundlePath: /Objects/Medium/Signs/Bielefeld/
   modType: 33
   rarity: 0
   id: 1013
+  idLock: 0
   nameEnglish: Bielefeld Sign
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Trunks_Yellow
   m_EditorClassIdentifier: 
+  guid: 6e79a37400844fe18b676dbe89c5a253
+  coreMasterBundlePath: /Items/Pants/Trunks_Yellow/
   modType: 39
   rarity: 0
   id: 1461
+  idLock: 0
   nameEnglish: 'Yellow Trunks
 
     Description Beach shorts.'

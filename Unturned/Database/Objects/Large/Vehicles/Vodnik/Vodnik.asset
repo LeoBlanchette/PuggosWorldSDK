@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Vodnik
   m_EditorClassIdentifier: 
+  guid: dc21350c7bc64080beb9beaa2edd42cb
+  coreMasterBundlePath: /Objects/Large/Vehicles/Vodnik/
   modType: 27
   rarity: 0
   id: 664
+  idLock: 0
   nameEnglish: APC
   cloneFrom: {fileID: 0}
   datFileValues:

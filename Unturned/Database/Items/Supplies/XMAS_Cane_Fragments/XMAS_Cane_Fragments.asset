@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: XMAS_Cane_Fragments
   m_EditorClassIdentifier: 
+  guid: 747ad3079cbf45f6812bed912d57bc75
+  coreMasterBundlePath: /Items/Supplies/XMAS_Cane_Fragments/
   modType: 51
   rarity: 2
   id: 1694
+  idLock: 0
   nameEnglish: 'Candy Cane Fragments
 
     Description Festive fragments for decorations.'

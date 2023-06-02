@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Construction_Helmet
   m_EditorClassIdentifier: 
+  guid: 7b39ac740b95491e9e28eb837ab71553
+  coreMasterBundlePath: /Items/Hats/Construction_Helmet/
   modType: 25
   rarity: 0
   id: 240
+  idLock: 0
   nameEnglish: 'Construction Helmet
 
     Description Construction headwear to prevent

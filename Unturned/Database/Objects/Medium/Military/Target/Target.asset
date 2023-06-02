@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Target
   m_EditorClassIdentifier: 
+  guid: 34fdeced525e4d258a24c3f844244240
+  coreMasterBundlePath: /Objects/Medium/Military/Target/
   modType: 33
   rarity: 0
   id: 229
+  idLock: 0
   nameEnglish: Target
   cloneFrom: {fileID: 0}
   datFileValues:

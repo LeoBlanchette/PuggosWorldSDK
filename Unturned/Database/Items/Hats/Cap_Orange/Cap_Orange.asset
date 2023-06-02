@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cap_Orange
   m_EditorClassIdentifier: 
+  guid: 46a4c133eea1483299dd96f7594d72e6
+  coreMasterBundlePath: /Items/Hats/Cap_Orange/
   modType: 25
   rarity: 0
   id: 428
+  idLock: 0
   nameEnglish: 'Orange Cap
 
     Description Shade providing American hat for watching

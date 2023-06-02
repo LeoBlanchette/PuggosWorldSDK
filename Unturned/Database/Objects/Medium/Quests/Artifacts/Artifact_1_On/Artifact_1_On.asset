@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Artifact_1_On
   m_EditorClassIdentifier: 
+  guid: 4007421840f14a73b055c36d0e24315b
+  coreMasterBundlePath: /Objects/Medium/Quests/Artifacts/Artifact_1_On/
   modType: 33
   rarity: 0
   id: 851
+  idLock: 0
   nameEnglish: Artifact #2 On
   cloneFrom: {fileID: 0}
   datFileValues:

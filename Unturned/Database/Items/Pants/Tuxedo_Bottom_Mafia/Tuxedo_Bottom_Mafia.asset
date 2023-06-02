@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tuxedo_Bottom_Mafia
   m_EditorClassIdentifier: 
+  guid: 9bbca81197fd4fd1b47646f3ada53936
+  coreMasterBundlePath: /Items/Pants/Tuxedo_Bottom_Mafia/
   modType: 39
   rarity: 1
   id: 1387
+  idLock: 0
   nameEnglish: 'Mafia Tuxedo Bottom
 
     Description Mobster tuxedo, very few bloodstains.'

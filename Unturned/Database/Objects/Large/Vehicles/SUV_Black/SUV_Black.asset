@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: SUV_Black
   m_EditorClassIdentifier: 
+  guid: 1082978912c54efdb67e6ac19bc71c46
+  coreMasterBundlePath: /Objects/Large/Vehicles/SUV_Black/
   modType: 27
   rarity: 0
   id: 654
+  idLock: 0
   nameEnglish: Black Rover
   cloneFrom: {fileID: 0}
   datFileValues:

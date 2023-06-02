@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ghillie_Top_Peaks
   m_EditorClassIdentifier: 
+  guid: 7da8b72c8ab34f41ad76d8a9e23bd9a4
+  coreMasterBundlePath: /Items/Shirts/Ghillie_Top_Peaks/
   modType: 44
   rarity: 3
   id: 1492
+  idLock: 0
   nameEnglish: 'Ghillie Top
 
     Description Military foliage stealth shirt.'

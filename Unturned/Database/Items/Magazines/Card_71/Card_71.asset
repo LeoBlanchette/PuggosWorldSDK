@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Card_71
   m_EditorClassIdentifier: 
+  guid: 10ef99be07fe476699877e644efaded8
+  coreMasterBundlePath: /Items/Magazines/Card_71/
   modType: 29
   rarity: 2
   id: 1381
+  idLock: 0
   nameEnglish: 'Calling Card Magazine
 
     Description Low caliber ranger grade

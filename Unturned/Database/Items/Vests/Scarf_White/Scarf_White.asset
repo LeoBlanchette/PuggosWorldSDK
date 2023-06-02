@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Scarf_White
   m_EditorClassIdentifier: 
+  guid: c71b12f8f22f4a26a9d2d147b9371f5c
+  coreMasterBundlePath: /Items/Vests/Scarf_White/
   modType: 61
   rarity: 0
   id: 1139
+  idLock: 0
   nameEnglish: 'White Scarf
 
     Description Warm neck protection.'

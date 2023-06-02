@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wardrobe_Pine
   m_EditorClassIdentifier: 
+  guid: a613b9751a3d4c2396f12884883cec52
+  coreMasterBundlePath: /Items/Barricades/Wardrobe_Pine/
   modType: 49
   rarity: 2
   id: 1280
+  idLock: 0
   nameEnglish: 'Pine Wardrobe
 
     Description Pine wardrobe for storing items.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Vaccine
   m_EditorClassIdentifier: 
+  guid: d99f1269d1c34bbc96b6aeb0f6719619
+  coreMasterBundlePath: /Items/Medical/Vaccine/
   modType: 32
   rarity: 2
   id: 269
+  idLock: 0
   nameEnglish: 'Vaccine
 
     Description Mixture of formulas to cure any illness.'

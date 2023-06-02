@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Counter_Sink_Pine
   m_EditorClassIdentifier: 
+  guid: b64b2c66102b4de9acf7ba0cdbfd083a
+  coreMasterBundlePath: /Items/Barricades/Counter_Sink_Pine/
   modType: 49
   rarity: 2
   id: 1253
+  idLock: 0
   nameEnglish: 'Pine Counter Sink
 
     Description Pine counter sink for storing

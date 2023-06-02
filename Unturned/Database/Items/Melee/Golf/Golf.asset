@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Golf
   m_EditorClassIdentifier: 
+  guid: 5ba102cda9244b9fb19d4afc1eb277e7
+  coreMasterBundlePath: /Items/Melee/Golf/
   modType: 34
   rarity: 0
   id: 135
+  idLock: 0
   nameEnglish: 'Golf Club
 
     Description Versatile iron used for striking golf

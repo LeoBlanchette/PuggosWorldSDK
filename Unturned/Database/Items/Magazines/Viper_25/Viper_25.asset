@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Viper_25
   m_EditorClassIdentifier: 
+  guid: f2625ca9bb1a4bac81aa0b44ba52e43b
+  coreMasterBundlePath: /Items/Magazines/Viper_25/
   modType: 29
   rarity: 2
   id: 1029
+  idLock: 0
   nameEnglish: 'Viper Magazine
 
     Description Low caliber civilian grade <color=rare>Viper</color>

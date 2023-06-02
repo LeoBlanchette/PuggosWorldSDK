@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Window_Brick
   m_EditorClassIdentifier: 
+  guid: 033232830b6f468b937e7cfa25d34a60
+  coreMasterBundlePath: /Items/Structures/Window_Brick/
   modType: 50
   rarity: 2
   id: 1216
+  idLock: 0
   nameEnglish: 'Brick Window
 
     Description The zombies can huff and puff, but

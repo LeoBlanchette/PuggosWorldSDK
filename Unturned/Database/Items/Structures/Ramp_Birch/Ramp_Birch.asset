@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ramp_Birch
   m_EditorClassIdentifier: 
+  guid: 7b91de40c42c4bb287b21e3842ad0a0b
+  coreMasterBundlePath: /Items/Structures/Ramp_Birch/
   modType: 50
   rarity: 0
   id: 323
+  idLock: 0
   nameEnglish: 'Birch Ramp
 
     Description Birch ramp. Beware of termites.'

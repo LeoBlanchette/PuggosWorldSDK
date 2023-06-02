@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: House_05_Burned
   m_EditorClassIdentifier: 
+  guid: 621ec6baf0a54e7a83aa67a183b633f7
+  coreMasterBundlePath: /Objects/Large/Buildings/House_05_Burned/
   modType: 27
   rarity: 0
   id: 927
+  idLock: 0
   nameEnglish: House #06 Burned
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bottle_Birch
   m_EditorClassIdentifier: 
+  guid: bfd2a1efdaa44ee58584976f12dd4577
+  coreMasterBundlePath: /Items/Refills/Bottle_Birch/
   modType: 41
   rarity: 0
   id: 482
+  idLock: 0
   nameEnglish: "Birch Bottle \r\nDescription Sizeable container of liquid."
   cloneFrom: {fileID: 0}
   datFileValues:

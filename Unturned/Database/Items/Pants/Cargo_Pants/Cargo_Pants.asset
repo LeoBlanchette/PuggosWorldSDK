@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cargo_Pants
   m_EditorClassIdentifier: 
+  guid: be815aa42a164ce78734b391901c28eb
+  coreMasterBundlePath: /Items/Pants/Cargo_Pants/
   modType: 39
   rarity: 0
   id: 209
+  idLock: 0
   nameEnglish: 'Cargo Pants
 
     Description High capacity synthetic pants for all

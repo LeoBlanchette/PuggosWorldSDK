@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tee_Orange
   m_EditorClassIdentifier: 
+  guid: 6d7b105694214207a0443a6f1ee0e534
+  coreMasterBundlePath: /Items/Shirts/Tee_Orange/
   modType: 44
   rarity: 0
   id: 155
+  idLock: 0
   nameEnglish: 'Orange T-Shirt
 
     Description Warm weather tee.'

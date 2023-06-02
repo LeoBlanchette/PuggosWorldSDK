@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coalition_Top_Lieutenant
   m_EditorClassIdentifier: 
+  guid: dfd276f7d6f34de298a24b6bef9a1d43
+  coreMasterBundlePath: /Items/Shirts/Coalition_Top_Lieutenant/
   modType: 44
   rarity: 2
   id: 1421
+  idLock: 0
   nameEnglish: 'Lieutenant Coalition Top
 
     Description Coalition Lieutenant rank

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Peacemaker
   m_EditorClassIdentifier: 
+  guid: bfe5d1212db14f579c35183c145b77c5
+  coreMasterBundlePath: /Items/Guns/Peacemaker/
   modType: 24
   rarity: 2
   id: 1024
+  idLock: 0
   nameEnglish: 'Peacemaker
 
     Description Belgian carbine chambered in Peacemaker

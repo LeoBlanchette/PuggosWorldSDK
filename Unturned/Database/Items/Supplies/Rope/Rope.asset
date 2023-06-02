@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rope
   m_EditorClassIdentifier: 
+  guid: 7f9e362ca72540f1ab2a8a787e4d4c69
+  coreMasterBundlePath: /Items/Supplies/Rope/
   modType: 51
   rarity: 0
   id: 64
+  idLock: 0
   nameEnglish: 'Rope
 
     Description Tough, strong hemp.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dufflebag_Black
   m_EditorClassIdentifier: 
+  guid: eb328b70044b48cf84c94d97c1d73441
+  coreMasterBundlePath: /Items/Backpacks/Dufflebag_Black/
   modType: 4
   rarity: 0
   id: 1182
+  idLock: 0
   nameEnglish: 'Black Dufflebag
 
     Description Medium sized synthetic gym bag.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Eagle_Germany
   m_EditorClassIdentifier: 
+  guid: 04aa8d28e50e471cae1b68e556b058ec
+  coreMasterBundlePath: /Vehicles/Eagle_Germany/
   modType: 58
   rarity: 2
   id: 157
+  idLock: 0
   nameEnglish: Eagle
   cloneFrom: {fileID: 0}
   datFileValues:

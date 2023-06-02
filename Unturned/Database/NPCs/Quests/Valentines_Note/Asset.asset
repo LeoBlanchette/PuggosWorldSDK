@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 3cafc43b7ed343169a786c052c04823a
+  coreMasterBundlePath: /NPCs/Quests/Valentines_Note/
   modType: 40
   rarity: 0
   id: 230
+  idLock: 0
   nameEnglish: 'Mysterious Papertrail
 
     Description <color=legendary>Commander

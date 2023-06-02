@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Lodge_3
   m_EditorClassIdentifier: 
+  guid: 7ff385e381434f86a419fd0c04f5ff98
+  coreMasterBundlePath: /Objects/Large/Buildings/Lodge_3/
   modType: 27
   rarity: 0
   id: 441
+  idLock: 0
   nameEnglish: Lodge #4
   cloneFrom: {fileID: 0}
   datFileValues:

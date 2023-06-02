@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 6943cf7214fd43b28a41067e8eef3e1f
+  coreMasterBundlePath: /NPCs/Characters/Chef/
   modType: 36
   rarity: 0
   id: 756
+  idLock: 0
   nameEnglish: 'Chef Leonard
 
     Character Chef Leonard'

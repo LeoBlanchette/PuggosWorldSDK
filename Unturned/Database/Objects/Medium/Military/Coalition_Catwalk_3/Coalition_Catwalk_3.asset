@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coalition_Catwalk_3
   m_EditorClassIdentifier: 
+  guid: ad061d77a72a44aeb7b607c4f61cdc49
+  coreMasterBundlePath: /Objects/Medium/Military/Coalition_Catwalk_3/
   modType: 33
   rarity: 0
   id: 971
+  idLock: 0
   nameEnglish: Coalition Catwalk Bridge Up
   cloneFrom: {fileID: 0}
   datFileValues:

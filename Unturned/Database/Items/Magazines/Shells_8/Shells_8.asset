@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Shells_8
   m_EditorClassIdentifier: 
+  guid: 24ea72df459e4a34902bdbed2a0bc9fa
+  coreMasterBundlePath: /Items/Magazines/Shells_8/
   modType: 29
   rarity: 2
   id: 113
+  idLock: 0
   nameEnglish: '12 Gauge Shells
 
     Description Civilian grade <color=rare>Bluntforce</color>

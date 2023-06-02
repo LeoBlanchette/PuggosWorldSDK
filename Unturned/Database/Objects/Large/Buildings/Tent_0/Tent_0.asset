@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tent_0
   m_EditorClassIdentifier: 
+  guid: 2a5a81790144444294832384a594e15a
+  coreMasterBundlePath: /Objects/Large/Buildings/Tent_0/
   modType: 27
   rarity: 0
   id: 230
+  idLock: 0
   nameEnglish: Tent #1
   cloneFrom: {fileID: 0}
   datFileValues:

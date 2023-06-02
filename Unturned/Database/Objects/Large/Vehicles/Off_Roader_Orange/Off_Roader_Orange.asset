@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Off_Roader_Orange
   m_EditorClassIdentifier: 
+  guid: 801a7fd3da2342e6924331282283fdf8
+  coreMasterBundlePath: /Objects/Large/Vehicles/Off_Roader_Orange/
   modType: 27
   rarity: 0
   id: 156
+  idLock: 0
   nameEnglish: Orange Offroader
   cloneFrom: {fileID: 0}
   datFileValues:

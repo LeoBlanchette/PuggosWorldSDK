@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 7c776d02085846a4bebca51a98981fe0
+  coreMasterBundlePath: /NPCs/Quests/Scout_Factory/
   modType: 40
   rarity: 0
   id: 100
+  idLock: 0
   nameEnglish: 'Mass Production
 
     Description Russia has many warehouses filled

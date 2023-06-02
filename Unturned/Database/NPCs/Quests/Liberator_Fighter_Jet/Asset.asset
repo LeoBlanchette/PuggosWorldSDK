@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 9dfa0687ccdb4b5dbc9f9b3d0f423675
+  coreMasterBundlePath: /NPCs/Quests/Liberator_Fighter_Jet/
   modType: 40
   rarity: 0
   id: 240
+  idLock: 0
   nameEnglish: 'Top Gun
 
     Description Before taking to the skies you''ll need

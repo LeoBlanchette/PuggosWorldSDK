@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Makeshift_Vehicle_4_Seats
   m_EditorClassIdentifier: 
+  guid: f2740d237bee40f98010bef6b951826b
+  coreMasterBundlePath: /Vehicles/Makeshift_Vehicle_4_Seats/
   modType: 58
   rarity: 2
   id: 89
+  idLock: 0
   nameEnglish: Makeshift Vehicle
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crate_7
   m_EditorClassIdentifier: 
+  guid: e6527054930d4139b61a50bb384869c7
+  coreMasterBundlePath: /Objects/Medium/Military/Crate_7/
   modType: 33
   rarity: 0
   id: 577
+  idLock: 0
   nameEnglish: Russia Crate #2
   cloneFrom: {fileID: 0}
   datFileValues:

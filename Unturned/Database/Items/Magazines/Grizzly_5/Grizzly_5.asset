@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Grizzly_5
   m_EditorClassIdentifier: 
+  guid: 37c7ade888f14297a16e4f17e3dc21e8
+  coreMasterBundlePath: /Items/Magazines/Grizzly_5/
   modType: 29
   rarity: 4
   id: 298
+  idLock: 0
   nameEnglish: 'Grizzly Magazine
 
     Description High caliber military grade <color=legendary>Grizzly</color>

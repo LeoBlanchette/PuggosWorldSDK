@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Luggage_White
   m_EditorClassIdentifier: 
+  guid: 60c78f2d30144e95a1b88cc1d971cffe
+  coreMasterBundlePath: /Objects/Medium/Furniture/Luggage_White/
   modType: 33
   rarity: 0
   id: 676
+  idLock: 0
   nameEnglish: White Luggage
   cloneFrom: {fileID: 0}
   datFileValues:

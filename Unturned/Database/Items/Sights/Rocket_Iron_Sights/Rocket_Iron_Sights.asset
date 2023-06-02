@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rocket_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: c36da79af9d04c8692a33b75f590597d
+  coreMasterBundlePath: /Items/Sights/Rocket_Iron_Sights/
   modType: 45
   rarity: 0
   id: 521
+  idLock: 0
   nameEnglish: 'Rocket Iron Sights
 
     Description Rail mounted iron sights.'

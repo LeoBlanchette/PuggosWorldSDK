@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: 8x_Scope
   m_EditorClassIdentifier: 
+  guid: d0ee46fb3c2f4d9ab00c104fc86766ae
+  coreMasterBundlePath: /Items/Sights/8x_Scope/
   modType: 45
   rarity: 2
   id: 21
+  idLock: 0
   nameEnglish: '8x Scope
 
     Description Rail mounted 8x zoom scope.'

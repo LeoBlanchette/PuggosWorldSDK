@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Trout_Raw
   m_EditorClassIdentifier: 
+  guid: 36e716c25b7e4a398b4595d889464238
+  coreMasterBundlePath: /Items/Food/Trout_Raw/
   modType: 18
   rarity: 0
   id: 504
+  idLock: 0
   nameEnglish: 'Raw Trout
 
     Description Rather smelly and fishy.'

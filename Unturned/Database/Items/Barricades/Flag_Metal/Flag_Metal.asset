@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flag_Metal
   m_EditorClassIdentifier: 
+  guid: 470b3f6980e14d36919f3158436f942f
+  coreMasterBundlePath: /Items/Barricades/Flag_Metal/
   modType: 6
   rarity: 3
   id: 1234
+  idLock: 0
   nameEnglish: 'Metal Flag
 
     Description Metal flag coupled with colorful markers.'

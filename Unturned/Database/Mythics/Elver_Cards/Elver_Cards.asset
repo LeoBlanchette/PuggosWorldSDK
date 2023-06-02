@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Elver_Cards
   m_EditorClassIdentifier: 
+  guid: e60e2d0fafa64528a1ddd0aa5120f416
+  coreMasterBundlePath: /Mythics/Elver_Cards/
   modType: 35
   rarity: 0
   id: 33
+  idLock: 0
   nameEnglish: 'Particle_Tag_Name Decked Out
 
 '

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: RCMP_Hat
   m_EditorClassIdentifier: 
+  guid: 83bd04fff0654f0a8bbcffef4e819442
+  coreMasterBundlePath: /Items/Hats/RCMP_Hat/
   modType: 25
   rarity: 1
   id: 313
+  idLock: 0
   nameEnglish: 'RCMP Hat
 
     Description Royal Canadian mountain police uniform

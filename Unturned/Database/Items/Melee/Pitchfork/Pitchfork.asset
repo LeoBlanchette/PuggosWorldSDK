@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pitchfork
   m_EditorClassIdentifier: 
+  guid: a9e8d2fa42c24d7aad105e3e1d55b6b4
+  coreMasterBundlePath: /Items/Melee/Pitchfork/
   modType: 34
   rarity: 0
   id: 1034
+  idLock: 0
   nameEnglish: 'Pitchfork
 
     Description Battered from years of stacking hay,

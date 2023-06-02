@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pilot_Top
   m_EditorClassIdentifier: 
+  guid: 6a63697c55104405970964fe56cd430f
+  coreMasterBundlePath: /Items/Shirts/Pilot_Top/
   modType: 44
   rarity: 1
   id: 1358
+  idLock: 0
   nameEnglish: 'Pilot Top
 
     Description Airliner pilot uniform shirt.'

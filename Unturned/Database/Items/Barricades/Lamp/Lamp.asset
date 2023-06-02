@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Lamp
   m_EditorClassIdentifier: 
+  guid: 9c17e0d4c27c4675b864c2786200cc8f
+  coreMasterBundlePath: /Items/Barricades/Lamp/
   modType: 6
   rarity: 2
   id: 1255
+  idLock: 0
   nameEnglish: 'Lamp
 
     Description Electricity powered wide angle light.'

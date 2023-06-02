@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Grass_France_0
   m_EditorClassIdentifier: 
+  guid: e0f4c94d036c44fdbc1d07206e62b18d
+  coreMasterBundlePath: /Objects/Large/Scenery/Grass_France_0/
   modType: 27
   rarity: 0
   id: 571
+  idLock: 0
   nameEnglish: France Grass #1
   cloneFrom: {fileID: 0}
   datFileValues:

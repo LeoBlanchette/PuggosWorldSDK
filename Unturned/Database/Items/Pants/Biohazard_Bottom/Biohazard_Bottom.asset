@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Biohazard_Bottom
   m_EditorClassIdentifier: 
+  guid: 903a13f4b4b14c4aae39ddba4b3f580c
+  coreMasterBundlePath: /Items/Pants/Biohazard_Bottom/
   modType: 39
   rarity: 2
   id: 1016
+  idLock: 0
   nameEnglish: 'Biohazard Bottom
 
     Description Protection against scientific

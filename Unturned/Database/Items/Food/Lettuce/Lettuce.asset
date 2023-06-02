@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Lettuce
   m_EditorClassIdentifier: 
+  guid: edec1eb4c3e04300957652bd087fe15e
+  coreMasterBundlePath: /Items/Food/Lettuce/
   modType: 18
   rarity: 0
   id: 338
+  idLock: 0
   nameEnglish: 'Lettuce
 
     Description Green vegetable.'

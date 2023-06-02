@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rag
   m_EditorClassIdentifier: 
+  guid: 1f55b855a43f497fbfb3650273b9fc5d
+  coreMasterBundlePath: /Items/Medical/Rag/
   modType: 32
   rarity: 0
   id: 393
+  idLock: 0
   nameEnglish: 'Rag
 
     Description Low quality cloth for stopping bleeding.'

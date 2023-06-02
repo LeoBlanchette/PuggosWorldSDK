@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Road_Tee_0
   m_EditorClassIdentifier: 
+  guid: 85ef71dd85cc4099951cc259019b165c
+  coreMasterBundlePath: /Objects/Large/Roads/Road_Tee_0/
   modType: 27
   rarity: 0
   id: 7
+  idLock: 0
   nameEnglish: Road Tee #1
   cloneFrom: {fileID: 0}
   datFileValues:

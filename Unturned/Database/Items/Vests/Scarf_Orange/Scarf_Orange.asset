@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Scarf_Orange
   m_EditorClassIdentifier: 
+  guid: c60e00b3950d49f6a090bb5465c6a935
+  coreMasterBundlePath: /Items/Vests/Scarf_Orange/
   modType: 61
   rarity: 0
   id: 1136
+  idLock: 0
   nameEnglish: 'Orange Scarf
 
     Description Warm neck protection.'

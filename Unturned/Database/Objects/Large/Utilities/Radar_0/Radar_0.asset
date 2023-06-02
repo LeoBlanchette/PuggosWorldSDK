@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Radar_0
   m_EditorClassIdentifier: 
+  guid: d3ec4d5c59374f44af607a622b736ac3
+  coreMasterBundlePath: /Objects/Large/Utilities/Radar_0/
   modType: 27
   rarity: 0
   id: 277
+  idLock: 0
   nameEnglish: Radar #1
   cloneFrom: {fileID: 0}
   datFileValues:

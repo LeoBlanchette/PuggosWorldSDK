@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fighter_Jet_Hat
   m_EditorClassIdentifier: 
+  guid: 12fc80e356924ff49e49676aaf00da5f
+  coreMasterBundlePath: /Items/Hats/Fighter_Jet_Hat/
   modType: 25
   rarity: 2
   id: 1472
+  idLock: 0
   nameEnglish: 'Fighter Pilot Helmet
 
     Description Standard issue to pilot a

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Chainsaw
   m_EditorClassIdentifier: 
+  guid: b396179d9e9c4be88b1f0d0953be5649
+  coreMasterBundlePath: /Items/Melee/Chainsaw/
   modType: 34
   rarity: 1
   id: 490
+  idLock: 0
   nameEnglish: 'Chainsaw
 
     Description Tree chewing machine of death.'

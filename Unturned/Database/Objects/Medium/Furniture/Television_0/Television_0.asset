@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Television_0
   m_EditorClassIdentifier: 
+  guid: 079a701ea0924b5699ed7e05c900ff25
+  coreMasterBundlePath: /Objects/Medium/Furniture/Television_0/
   modType: 33
   rarity: 0
   id: 122
+  idLock: 0
   nameEnglish: Television #1
   cloneFrom: {fileID: 0}
   datFileValues:

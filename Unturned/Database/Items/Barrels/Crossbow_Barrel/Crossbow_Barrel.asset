@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crossbow_Barrel
   m_EditorClassIdentifier: 
+  guid: 0bbb49eb72d8482ebe2e2a3223f5a07a
+  coreMasterBundlePath: /Items/Barrels/Crossbow_Barrel/
   modType: 5
   rarity: 0
   id: 350
+  idLock: 0
   nameEnglish: 
   cloneFrom: {fileID: 0}
   datFileValues:

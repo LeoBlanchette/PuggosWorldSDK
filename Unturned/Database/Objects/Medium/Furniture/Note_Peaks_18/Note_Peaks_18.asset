@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_Peaks_18
   m_EditorClassIdentifier: 
+  guid: 4d5bbc813c7544aa906fb38d7ee53c82
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_Peaks_18/
   modType: 33
   rarity: 0
   id: 2046
+  idLock: 0
   nameEnglish: 'Peaks Note - Bielefeld
 
     

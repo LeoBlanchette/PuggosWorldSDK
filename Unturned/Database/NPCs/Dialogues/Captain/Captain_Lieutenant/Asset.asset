@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 42c2040338594997afe93f5ca9c3893b
+  coreMasterBundlePath: /NPCs/Dialogues/Captain/Captain_Lieutenant/
   modType: 13
   rarity: 0
   id: 31
+  idLock: 0
   nameEnglish: Message_0_Page_0 I'm sure you won't. Here are your <color=rare>Lieutenant</color>
     fatigues.
   cloneFrom: {fileID: 0}

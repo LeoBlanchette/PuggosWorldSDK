@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tomato
   m_EditorClassIdentifier: 
+  guid: 4299a37f239f49e587ae5df039b5f150
+  coreMasterBundlePath: /Items/Food/Tomato/
   modType: 18
   rarity: 0
   id: 340
+  idLock: 0
   nameEnglish: 'Tomato
 
     Description Red vegetable.'

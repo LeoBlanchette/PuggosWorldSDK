@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Biohazard_Top
   m_EditorClassIdentifier: 
+  guid: d863ac1c3c8d44ac9c812c9769430575
+  coreMasterBundlePath: /Items/Shirts/Biohazard_Top/
   modType: 44
   rarity: 2
   id: 1015
+  idLock: 0
   nameEnglish: 'Biohazard Top
 
     Description Protection against scientific research.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coil_1_Used
   m_EditorClassIdentifier: 
+  guid: d62b22bb37524d9b88a8fe04f382c7a7
+  coreMasterBundlePath: /Objects/Medium/Quests/Teleporter/Coil_1_Used/
   modType: 33
   rarity: 0
   id: 1029
+  idLock: 0
   nameEnglish: Teleporter Coil #2 Used
   cloneFrom: {fileID: 0}
   datFileValues:

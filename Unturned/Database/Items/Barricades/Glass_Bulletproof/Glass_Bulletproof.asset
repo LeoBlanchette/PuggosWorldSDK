@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Glass_Bulletproof
   m_EditorClassIdentifier: 
+  guid: 75eeb9c0000743acbe96b9ed46e6a579
+  coreMasterBundlePath: /Items/Barricades/Glass_Bulletproof/
   modType: 6
   rarity: 2
   id: 1298
+  idLock: 0
   nameEnglish: 'Bulletproof Glass
 
     Description Glass pane ideal for looking

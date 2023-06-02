@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Paintballgun
   m_EditorClassIdentifier: 
+  guid: eeba28a862c443dd91eaddba9394a2aa
+  coreMasterBundlePath: /Items/Guns/Paintballgun/
   modType: 24
   rarity: 1
   id: 1337
+  idLock: 0
   nameEnglish: 'Paintball Gun
 
     Description Painting tool chambered in Paintballs.'

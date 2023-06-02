@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cheese
   m_EditorClassIdentifier: 
+  guid: 23a7998572ea4071885f44f32627fa3d
+  coreMasterBundlePath: /Items/Food/Cheese/
   modType: 18
   rarity: 0
   id: 464
+  idLock: 0
   nameEnglish: 'Cheese
 
     Description Fills you with determination!'

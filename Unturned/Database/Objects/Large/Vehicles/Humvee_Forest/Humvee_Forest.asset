@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Humvee_Forest
   m_EditorClassIdentifier: 
+  guid: 540e096ca49e46b489dd1143f5941f60
+  coreMasterBundlePath: /Objects/Large/Vehicles/Humvee_Forest/
   modType: 27
   rarity: 0
   id: 375
+  idLock: 0
   nameEnglish: Forest Humvee
   cloneFrom: {fileID: 0}
   datFileValues:

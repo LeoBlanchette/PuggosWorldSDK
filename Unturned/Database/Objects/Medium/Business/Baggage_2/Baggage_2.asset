@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Baggage_2
   m_EditorClassIdentifier: 
+  guid: e7113cab4d154f7c9ba54d77487dd29a
+  coreMasterBundlePath: /Objects/Medium/Business/Baggage_2/
   modType: 33
   rarity: 0
   id: 688
+  idLock: 0
   nameEnglish: Baggage #3
   cloneFrom: {fileID: 0}
   datFileValues:

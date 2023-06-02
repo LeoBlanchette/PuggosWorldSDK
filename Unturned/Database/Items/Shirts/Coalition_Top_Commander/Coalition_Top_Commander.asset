@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coalition_Top_Commander
   m_EditorClassIdentifier: 
+  guid: 02d4279f1ccc4d66b2620772ab8fb717
+  coreMasterBundlePath: /Items/Shirts/Coalition_Top_Commander/
   modType: 44
   rarity: 4
   id: 1423
+  idLock: 0
   nameEnglish: 'Commander Coalition Top
 
     Description Coalition Commander rank

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flare_Orange
   m_EditorClassIdentifier: 
+  guid: 60025f4cdf344d1db3c054eb96924387
+  coreMasterBundlePath: /Items/Barricades/Flare_Orange/
   modType: 6
   rarity: 0
   id: 1274
+  idLock: 0
   nameEnglish: 'Orange Flare Sconce
 
     Description Mounted road flare to provide

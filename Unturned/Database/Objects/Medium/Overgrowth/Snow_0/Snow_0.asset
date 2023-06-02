@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Snow_0
   m_EditorClassIdentifier: 
+  guid: 6be55d23907d4fb2b6fe4269ea727b0c
+  coreMasterBundlePath: /Objects/Medium/Overgrowth/Snow_0/
   modType: 33
   rarity: 0
   id: 200
+  idLock: 0
   nameEnglish: Snow #1
   cloneFrom: {fileID: 0}
   datFileValues:

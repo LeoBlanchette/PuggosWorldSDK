@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cap_Black
   m_EditorClassIdentifier: 
+  guid: 14f5fec8c32b493a9176de158d112725
+  coreMasterBundlePath: /Items/Hats/Cap_Black/
   modType: 25
   rarity: 0
   id: 425
+  idLock: 0
   nameEnglish: 'Black Cap
 
     Description Shade providing American hat for watching

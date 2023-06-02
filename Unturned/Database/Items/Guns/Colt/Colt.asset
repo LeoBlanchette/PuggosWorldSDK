@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Colt
   m_EditorClassIdentifier: 
+  guid: 33746dcda0a7438480a3620f08f5be18
+  coreMasterBundlePath: /Items/Guns/Colt/
   modType: 24
   rarity: 1
   id: 97
+  idLock: 0
   nameEnglish: '1911
 
     Description American pistol chambered in 1911 ammunition.'

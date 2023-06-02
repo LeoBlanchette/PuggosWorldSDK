@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ghillie_Hood_Arctic
   m_EditorClassIdentifier: 
+  guid: 4fc5a6fcec124f37b21bd36958b18ebf
+  coreMasterBundlePath: /Items/Hats/Ghillie_Hood_Arctic/
   modType: 25
   rarity: 3
   id: 1515
+  idLock: 0
   nameEnglish: 'Arctic Ghillie Hood
 
     Description Military snow stealth hood.

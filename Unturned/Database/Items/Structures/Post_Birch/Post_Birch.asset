@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Post_Birch
   m_EditorClassIdentifier: 
+  guid: e255d2fb4a174d0791c34970e0747399
+  coreMasterBundlePath: /Items/Structures/Post_Birch/
   modType: 50
   rarity: 0
   id: 447
+  idLock: 0
   nameEnglish: 'Birch Post
 
     Description Birch post. Beware of termites.'

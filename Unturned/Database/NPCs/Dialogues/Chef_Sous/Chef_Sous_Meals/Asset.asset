@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 89de7471573d40a2bb5464d0c35a7f76
+  coreMasterBundlePath: /NPCs/Dialogues/Chef_Sous/Chef_Sous_Meals/
   modType: 13
   rarity: 0
   id: 93
+  idLock: 0
   nameEnglish: Message_0_Page_0 We serve breakfast 0500-0800, lunch 11-13, and dinner
     17-19. If you have a swing shift your eating schedule will be a bit different
     than usual.

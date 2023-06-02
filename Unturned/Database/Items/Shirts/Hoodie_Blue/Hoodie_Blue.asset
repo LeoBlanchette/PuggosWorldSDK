@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hoodie_Blue
   m_EditorClassIdentifier: 
+  guid: aee6c88099ae40db8af4ee363d0438f5
+  coreMasterBundlePath: /Items/Shirts/Hoodie_Blue/
   modType: 44
   rarity: 0
   id: 173
+  idLock: 0
   nameEnglish: 'Blue Hoodie
 
     Description Chilly weather hoodie.'

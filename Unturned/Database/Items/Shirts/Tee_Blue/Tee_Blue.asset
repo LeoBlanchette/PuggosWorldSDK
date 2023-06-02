@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tee_Blue
   m_EditorClassIdentifier: 
+  guid: f0f5c5ca6dff48d3906d8f61cea7dce3
+  coreMasterBundlePath: /Items/Shirts/Tee_Blue/
   modType: 44
   rarity: 0
   id: 176
+  idLock: 0
   nameEnglish: 'Blue T-Shirt
 
     Description Warm weather tee.'

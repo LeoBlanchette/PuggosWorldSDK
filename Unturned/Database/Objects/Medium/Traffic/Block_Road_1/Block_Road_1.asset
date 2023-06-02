@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Block_Road_1
   m_EditorClassIdentifier: 
+  guid: 378851c06d154f438d11bcd0f0003bb9
+  coreMasterBundlePath: /Objects/Medium/Traffic/Block_Road_1/
   modType: 33
   rarity: 0
   id: 464
+  idLock: 0
   nameEnglish: Block Road #2
   cloneFrom: {fileID: 0}
   datFileValues:

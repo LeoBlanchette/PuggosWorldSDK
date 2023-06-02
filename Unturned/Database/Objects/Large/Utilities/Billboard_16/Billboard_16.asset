@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Billboard_16
   m_EditorClassIdentifier: 
+  guid: 52495adfee18494cae6ce2753be765ef
+  coreMasterBundlePath: /Objects/Large/Utilities/Billboard_16/
   modType: 27
   rarity: 0
   id: 993
+  idLock: 0
   nameEnglish: Billboard #17
   cloneFrom: {fileID: 0}
   datFileValues:

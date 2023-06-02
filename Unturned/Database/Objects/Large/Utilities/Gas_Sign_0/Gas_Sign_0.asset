@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Gas_Sign_0
   m_EditorClassIdentifier: 
+  guid: 24906b240bfc4dbb94d3ac62821e70cc
+  coreMasterBundlePath: /Objects/Large/Utilities/Gas_Sign_0/
   modType: 27
   rarity: 0
   id: 64
+  idLock: 0
   nameEnglish: Gas Sign #1
   cloneFrom: {fileID: 0}
   datFileValues:

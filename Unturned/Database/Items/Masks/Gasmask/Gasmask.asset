@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Gasmask
   m_EditorClassIdentifier: 
+  guid: 9c9b033bd624433eb3399cfd3714cb5e
+  coreMasterBundlePath: /Items/Masks/Gasmask/
   modType: 31
   rarity: 2
   id: 1270
+  idLock: 0
   nameEnglish: 'Gasmask
 
     Description Blocks out dangerous radiation when fitted

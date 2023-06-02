@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pickelhaube
   m_EditorClassIdentifier: 
+  guid: 3671b0260e3c49cdafafa673d063fbb9
+  coreMasterBundlePath: /Items/Hats/Pickelhaube/
   modType: 25
   rarity: 2
   id: 1504
+  idLock: 0
   nameEnglish: 'Pickelhaube
 
     Description Vintage German military headwear to

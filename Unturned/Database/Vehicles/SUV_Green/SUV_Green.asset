@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: SUV_Green
   m_EditorClassIdentifier: 
+  guid: 9b0994679a1c489795d93ad7e0b2d1ca
+  coreMasterBundlePath: /Vehicles/SUV_Green/
   modType: 58
   rarity: 0
   id: 127
+  idLock: 0
   nameEnglish: Green Rover
   cloneFrom: {fileID: 0}
   datFileValues:

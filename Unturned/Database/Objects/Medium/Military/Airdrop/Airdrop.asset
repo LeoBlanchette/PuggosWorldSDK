@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Airdrop
   m_EditorClassIdentifier: 
+  guid: 6926e2141c904b009b07bb504c4d67af
+  coreMasterBundlePath: /Objects/Medium/Military/Airdrop/
   modType: 33
   rarity: 0
   id: 746
+  idLock: 0
   nameEnglish: Airdrop
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Masterkey
   m_EditorClassIdentifier: 
+  guid: 9f7c01194b2d418daedaa2434358dd2f
+  coreMasterBundlePath: /Items/Guns/Masterkey/
   modType: 24
   rarity: 1
   id: 380
+  idLock: 0
   nameEnglish: 'Masterkey
 
     Description American shotgun chambered in 20 Gauge

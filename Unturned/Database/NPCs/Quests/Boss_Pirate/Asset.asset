@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: d2b751f6eb654a0eaf57b40747e30d53
+  coreMasterBundlePath: /NPCs/Quests/Boss_Pirate/
   modType: 40
   rarity: 0
   id: 213
+  idLock: 0
   nameEnglish: '<color=mythical>Skull & Crossbones</color>
 
     Description ???

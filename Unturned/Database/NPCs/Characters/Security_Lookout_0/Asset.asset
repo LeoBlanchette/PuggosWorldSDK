@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: ce29fdb117084af5a6dc502c6442b419
+  coreMasterBundlePath: /NPCs/Characters/Security_Lookout_0/
   modType: 36
   rarity: 0
   id: 796
+  idLock: 0
   nameEnglish: 'Security Lookout Keith
 
     Character Keith'

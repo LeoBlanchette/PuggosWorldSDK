@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Yuri_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: 2348e494d43f42418a9ca16d1b5259a0
+  coreMasterBundlePath: /Items/Sights/Yuri_Iron_Sights/
   modType: 45
   rarity: 0
   id: 1043
+  idLock: 0
   nameEnglish: 'Yuri Iron Sights
 
     Description Rail mounted iron sights.'

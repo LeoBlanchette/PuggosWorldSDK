@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Quad_White
   m_EditorClassIdentifier: 
+  guid: 14ac49b6a8dc4f819c60a088d78e7e9f
+  coreMasterBundlePath: /Vehicles/Quad_White/
   modType: 58
   rarity: 0
   id: 73
+  idLock: 0
   nameEnglish: White Quad
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Quest_Present_04
   m_EditorClassIdentifier: 
+  guid: 8cad3100b9cc49eb96943b69fce869be
+  coreMasterBundlePath: /Objects/Small/Quests/Quest_Present_04/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: 'Quest Present #5 Pickup
 
     

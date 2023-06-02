@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Counter_Birch
   m_EditorClassIdentifier: 
+  guid: 29ed99afa9f64ec39f18e238d95f1c05
+  coreMasterBundlePath: /Items/Barricades/Counter_Birch/
   modType: 49
   rarity: 0
   id: 1246
+  idLock: 0
   nameEnglish: 'Birch Counter
 
     Description Birch counter cupboard for storing

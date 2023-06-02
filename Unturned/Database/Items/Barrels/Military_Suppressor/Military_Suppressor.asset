@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Suppressor
   m_EditorClassIdentifier: 
+  guid: a33211b31655440593b49191b14eed20
+  coreMasterBundlePath: /Items/Barrels/Military_Suppressor/
   modType: 5
   rarity: 3
   id: 7
+  idLock: 0
   nameEnglish: 'Military Suppressor
 
     Description Military grade suppressor.

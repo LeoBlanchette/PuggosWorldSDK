@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coastguard_Top
   m_EditorClassIdentifier: 
+  guid: 002b62805aae4564b68a62fae7b3f18f
+  coreMasterBundlePath: /Items/Shirts/Coastguard_Top/
   modType: 44
   rarity: 1
   id: 1462
+  idLock: 0
   nameEnglish: 'Coastguard Top
 
     Description Coastguard uniform shirt.'

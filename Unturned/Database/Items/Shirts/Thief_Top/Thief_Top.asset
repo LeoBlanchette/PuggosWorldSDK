@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Thief_Top
   m_EditorClassIdentifier: 
+  guid: dfe5b8d40b4a4ed1873f96032cee3c86
+  coreMasterBundlePath: /Items/Shirts/Thief_Top/
   modType: 44
   rarity: 1
   id: 1156
+  idLock: 0
   nameEnglish: 'Thief Top
 
     Description Thieves guild shirt.'

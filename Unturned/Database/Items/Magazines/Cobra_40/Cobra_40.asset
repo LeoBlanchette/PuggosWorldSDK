@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cobra_40
   m_EditorClassIdentifier: 
+  guid: b9ed5a6011c1484ba289680d5ea77d99
+  coreMasterBundlePath: /Items/Magazines/Cobra_40/
   modType: 29
   rarity: 3
   id: 1006
+  idLock: 0
   nameEnglish: 'Cobra Box
 
     Description Low caliber civilian grade <color=rare>Cobra</color>

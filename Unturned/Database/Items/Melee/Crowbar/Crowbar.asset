@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crowbar
   m_EditorClassIdentifier: 
+  guid: 66b2ec6d5300432d9b98dd5367461555
+  coreMasterBundlePath: /Items/Melee/Crowbar/
   modType: 34
   rarity: 0
   id: 1032
+  idLock: 0
   nameEnglish: 'Crowbar
 
     Description Construction tool for prying apart objects

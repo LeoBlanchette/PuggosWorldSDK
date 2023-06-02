@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Makeshift_Vest
   m_EditorClassIdentifier: 
+  guid: 0d8b8d9d9a3844e7959cf3882af417e1
+  coreMasterBundlePath: /Items/Vests/Makeshift_Vest/
   modType: 61
   rarity: 0
   id: 1173
+  idLock: 0
   nameEnglish: 'Makeshift Armor
 
     Description Bullet proof crafted vest.'

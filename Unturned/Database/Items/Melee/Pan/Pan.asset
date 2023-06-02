@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pan
   m_EditorClassIdentifier: 
+  guid: c6d77db7d01e4a24b8e72f90f6bddeed
+  coreMasterBundlePath: /Items/Melee/Pan/
   modType: 34
   rarity: 0
   id: 1030
+  idLock: 0
   nameEnglish: 'Frying Pan
 
     Description Cooking implement, also used as a weapon

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Travelpack_Black
   m_EditorClassIdentifier: 
+  guid: 2c2e5144df1b461eb3b73f35c4ec1907
+  coreMasterBundlePath: /Items/Backpacks/Travelpack_Black/
   modType: 4
   rarity: 0
   id: 245
+  idLock: 0
   nameEnglish: 'Black Travelpack
 
     Description Medium sized synthetic travel

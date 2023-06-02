@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Makeshift_Muffler
   m_EditorClassIdentifier: 
+  guid: adea570c33c5489bab86c645b073bd44
+  coreMasterBundlePath: /Items/Barrels/Makeshift_Muffler/
   modType: 5
   rarity: 0
   id: 477
+  idLock: 0
   nameEnglish: 'Makeshift Muffler
 
     Description Makeshift suppressor. Makes gunshots

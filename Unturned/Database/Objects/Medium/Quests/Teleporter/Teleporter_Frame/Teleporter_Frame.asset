@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Teleporter_Frame
   m_EditorClassIdentifier: 
+  guid: 1827b584f2754b58bb3800060f8cbbdf
+  coreMasterBundlePath: /Objects/Medium/Quests/Teleporter/Teleporter_Frame/
   modType: 33
   rarity: 0
   id: 1040
+  idLock: 0
   nameEnglish: Teleporter Frame
   cloneFrom: {fileID: 0}
   datFileValues:

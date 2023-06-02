@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wall_Ramp_Brick
   m_EditorClassIdentifier: 
+  guid: b7299c7a587f41868c10e96ef96cb6f1
+  coreMasterBundlePath: /Items/Structures/Wall_Ramp_Brick/
   modType: 50
   rarity: 2
   id: 1418
+  idLock: 0
   nameEnglish: 'Brick Ramp Wall
 
     Description The zombies can huff and puff,

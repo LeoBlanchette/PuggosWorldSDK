@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bottled_Soda
   m_EditorClassIdentifier: 
+  guid: 3478dcffa2f747c184ecdb2b63b06add
+  coreMasterBundlePath: /Items/Water/Bottled_Soda/
   modType: 62
   rarity: 0
   id: 473
+  idLock: 0
   nameEnglish: 'Bottled Soda
 
     Description Water saturated with sugar.'

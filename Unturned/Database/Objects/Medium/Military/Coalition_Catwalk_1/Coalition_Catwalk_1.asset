@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coalition_Catwalk_1
   m_EditorClassIdentifier: 
+  guid: 3974a8e55c3e47058c6d6c206f593612
+  coreMasterBundlePath: /Objects/Medium/Military/Coalition_Catwalk_1/
   modType: 33
   rarity: 0
   id: 960
+  idLock: 0
   nameEnglish: Coalition Catwalk Support
   cloneFrom: {fileID: 0}
   datFileValues:

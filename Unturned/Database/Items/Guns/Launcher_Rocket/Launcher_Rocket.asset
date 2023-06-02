@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Launcher_Rocket
   m_EditorClassIdentifier: 
+  guid: 905361256caa42c785bc1ac4c72600c0
+  coreMasterBundlePath: /Items/Guns/Launcher_Rocket/
   modType: 24
   rarity: 4
   id: 519
+  idLock: 0
   nameEnglish: 'Rocket Launcher
 
     Description Russian rocket launcher chambered

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Steampunk
   m_EditorClassIdentifier: 
+  guid: 1dd08eefd7b44ea2978e6b35d7a1025b
+  coreMasterBundlePath: /Mythics/Steampunk/
   modType: 35
   rarity: 0
   id: 24
+  idLock: 0
   nameEnglish: Particle_Tag_Name Steampunk
   cloneFrom: {fileID: 0}
   datFileValues: []

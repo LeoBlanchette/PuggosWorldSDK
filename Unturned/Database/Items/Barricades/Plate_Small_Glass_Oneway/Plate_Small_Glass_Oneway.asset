@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plate_Small_Glass_Oneway
   m_EditorClassIdentifier: 
+  guid: 5327d3629e2f4bdf97e4f3687a176581
+  coreMasterBundlePath: /Items/Barricades/Plate_Small_Glass_Oneway/
   modType: 6
   rarity: 2
   id: 892
+  idLock: 0
   nameEnglish: 'Small One Way Plate
 
     Description Glass pane ideal for spying

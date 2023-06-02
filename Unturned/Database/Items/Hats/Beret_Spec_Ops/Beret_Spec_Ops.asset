@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Beret_Spec_Ops
   m_EditorClassIdentifier: 
+  guid: 3c70aab3ea9849349a7f18539f0ede6b
+  coreMasterBundlePath: /Items/Hats/Beret_Spec_Ops/
   modType: 25
   rarity: 4
   id: 1389
+  idLock: 0
   nameEnglish: 'Spec Ops Beret
 
     Description Bill''s.'

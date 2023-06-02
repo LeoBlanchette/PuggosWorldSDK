@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: EI_Bananza
   m_EditorClassIdentifier: 
+  guid: 744ea33f512a47d7b650eb06c45b6fb0
+  coreMasterBundlePath: /Mythics/EI_Bananza/
   modType: 35
   rarity: 0
   id: 31
+  idLock: 0
   nameEnglish: 'Particle_Tag_Name Bananza
 
 '

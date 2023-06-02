@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Broadcast_0_On
   m_EditorClassIdentifier: 
+  guid: c7196951cd73420abdcb3fdbb236dea8
+  coreMasterBundlePath: /Objects/Large/Quests/Broadcast/Broadcast_0_On/
   modType: 27
   rarity: 0
   id: 775
+  idLock: 0
   nameEnglish: 'Broadcast #1 On
 
     

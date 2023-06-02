@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dufflebag_Orange
   m_EditorClassIdentifier: 
+  guid: f5c79bdc96584790a09e21b4e1ee0b60
+  coreMasterBundlePath: /Items/Backpacks/Dufflebag_Orange/
   modType: 4
   rarity: 0
   id: 1185
+  idLock: 0
   nameEnglish: 'Orange Dufflebag
 
     Description Medium sized synthetic gym bag.'

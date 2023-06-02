@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Placard_Pine
   m_EditorClassIdentifier: 
+  guid: e6521158494648908d1db48d8367feee
+  coreMasterBundlePath: /Items/Barricades/Placard_Pine/
   modType: 6
   rarity: 2
   id: 1469
+  idLock: 0
   nameEnglish: 'Pine Placard
 
     Description Pine placard coupled with colorful

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Shirt_Orange
   m_EditorClassIdentifier: 
+  guid: 53160349bb164e4aa705acf3fe22e3e2
+  coreMasterBundlePath: /Items/Shirts/Shirt_Orange/
   modType: 44
   rarity: 0
   id: 154
+  idLock: 0
   nameEnglish: 'Orange Shirt
 
     Description Moderate weather shirt.'

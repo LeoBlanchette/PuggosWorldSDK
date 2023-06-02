@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 2322000b59934e298ca07f824f30b436
+  coreMasterBundlePath: /Items/Blueprints/Blueprint_Cake/
   modType: 51
   rarity: 0
   id: 1430
+  idLock: 0
   nameEnglish: 'Upgraded Cake Blueprint
 
     Description Guide to hiding a <color=uncommon>Stealy

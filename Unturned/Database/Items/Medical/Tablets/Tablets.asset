@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tablets
   m_EditorClassIdentifier: 
+  guid: abce631d116c4f3eaa290df23a1dc746
+  coreMasterBundlePath: /Items/Medical/Tablets/
   modType: 32
   rarity: 0
   id: 392
+  idLock: 0
   nameEnglish: 'Purification Tablets
 
     Description Various purifying rocks and

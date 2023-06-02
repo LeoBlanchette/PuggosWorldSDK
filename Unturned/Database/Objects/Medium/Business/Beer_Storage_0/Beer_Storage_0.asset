@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Beer_Storage_0
   m_EditorClassIdentifier: 
+  guid: 2088a3317e294e5fb948ac2af97f06de
+  coreMasterBundlePath: /Objects/Medium/Business/Beer_Storage_0/
   modType: 33
   rarity: 0
   id: 1001
+  idLock: 0
   nameEnglish: Beer Storage #1
   cloneFrom: {fileID: 0}
   datFileValues:

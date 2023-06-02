@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 37cd055d92db47069025e5e28e5fa1a7
+  coreMasterBundlePath: /NPCs/Dialogues/Fire/Boss_Fire_Completed/
   modType: 13
   rarity: 0
   id: 174
+  idLock: 0
   nameEnglish: Message_0_Page_0 Seriously?! Thanks! We'll be able to scavenge Novobirsk
     now.
   cloneFrom: {fileID: 0}

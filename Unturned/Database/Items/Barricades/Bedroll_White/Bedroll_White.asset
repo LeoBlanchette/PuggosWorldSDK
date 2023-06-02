@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bedroll_White
   m_EditorClassIdentifier: 
+  guid: 852d3115de5c4179907310195277cf95
+  coreMasterBundlePath: /Items/Barricades/Bedroll_White/
   modType: 6
   rarity: 0
   id: 294
+  idLock: 0
   nameEnglish: 'White Bedroll
 
     Description Warm bed perfect for a campsite.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bench_Metal_0
   m_EditorClassIdentifier: 
+  guid: 6b74522bf37c4dcbb5b79b2382fea9c7
+  coreMasterBundlePath: /Objects/Medium/Parks/Bench_Metal_0/
   modType: 33
   rarity: 0
   id: 768
+  idLock: 0
   nameEnglish: Bench Metal #1
   cloneFrom: {fileID: 0}
   datFileValues:

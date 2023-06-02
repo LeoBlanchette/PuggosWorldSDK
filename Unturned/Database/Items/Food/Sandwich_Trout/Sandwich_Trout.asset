@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sandwich_Trout
   m_EditorClassIdentifier: 
+  guid: e1372f4ca1bd4fe2be37463b842b6a8c
+  coreMasterBundlePath: /Items/Food/Sandwich_Trout/
   modType: 18
   rarity: 2
   id: 1398
+  idLock: 0
   nameEnglish: 'Trout Sandwich
 
     Description Tasty trout in a blanket of bread.'

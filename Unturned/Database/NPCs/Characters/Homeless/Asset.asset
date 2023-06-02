@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 25da2c4a99614e5cb864a17fd7c8fe50
+  coreMasterBundlePath: /NPCs/Characters/Homeless/
   modType: 36
   rarity: 0
   id: 761
+  idLock: 0
   nameEnglish: 'Homeless ???
 
     Character ???'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dock_1
   m_EditorClassIdentifier: 
+  guid: e285cae14b794f33b00c6d5f24e00d04
+  coreMasterBundlePath: /Objects/Large/Roads/Dock_1/
   modType: 27
   rarity: 0
   id: 312
+  idLock: 0
   nameEnglish: Dock #2
   cloneFrom: {fileID: 0}
   datFileValues:

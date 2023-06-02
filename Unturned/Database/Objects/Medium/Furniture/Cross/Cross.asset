@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cross
   m_EditorClassIdentifier: 
+  guid: 08323e592419432a88cfd153672a9ede
+  coreMasterBundlePath: /Objects/Medium/Furniture/Cross/
   modType: 33
   rarity: 0
   id: 344
+  idLock: 0
   nameEnglish: Cross
   cloneFrom: {fileID: 0}
   datFileValues:

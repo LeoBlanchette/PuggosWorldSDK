@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Snowmobile_Red
   m_EditorClassIdentifier: 
+  guid: 23a9f018f5e74c52878607c87d69663b
+  coreMasterBundlePath: /Vehicles/Snowmobile_Red/
   modType: 58
   rarity: 0
   id: 64
+  idLock: 0
   nameEnglish: Red Snowmobile
   cloneFrom: {fileID: 0}
   datFileValues:

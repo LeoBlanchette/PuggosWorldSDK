@@ -86,6 +86,10 @@ namespace LB3D.PuggosWorld.Unturned
         [HideInInspector]
         [SerializeField]
         public string guid;
+        
+        [HideInInspector]
+        [SerializeField]
+        public string coreMasterBundlePath = "";
 
         public ModType modType;
         public Rarity rarity;
@@ -135,7 +139,7 @@ namespace LB3D.PuggosWorld.Unturned
             return newText;
         }
 
-        public void CloneFromDatFileObject() {
+        public void CloneFromDatFileObject(bool masterBundleOverRide = false) {
             if (cloneFrom == null) {
                 Debug.LogWarning("Please fill in the Clone From field above to clone a dat file.");
             }
@@ -156,7 +160,29 @@ namespace LB3D.PuggosWorld.Unturned
                     datFileValues.Add(keyValEntry);
                 }
             }
+            if (masterBundleOverRide) {
+                KeyValEntry masterBundleOverRideDirective = new KeyValEntry();
+                masterBundleOverRideDirective.key = "Master_Bundle_Override";
+                masterBundleOverRideDirective.val = "core.masterbundle";
+
+                KeyValEntry masterBundleOverRidePath = new KeyValEntry();
+                masterBundleOverRidePath.key = "Bundle_Override_Path";
+                masterBundleOverRidePath.val = cloneFrom.coreMasterBundlePath.TrimEnd(new Char[] { '\\', '/' });
+
+                KeyValEntry masterBundleOverRideId = new KeyValEntry();
+                masterBundleOverRideId.key = "Shared_Skin_Lookup_ID";
+                masterBundleOverRideId.val = cloneFrom.id.ToString();
+
+                datFileValues.Add(masterBundleOverRideDirective);
+                datFileValues.Add(masterBundleOverRidePath);
+                datFileValues.Add(masterBundleOverRideId);
+
+            }
             cloneFrom = null;
+        }
+
+        public void SetCoreMasterBundlePath(string path) {
+            coreMasterBundlePath = path.Trim();
         }
 
         public void AddFromTextFile(string datFile = null)

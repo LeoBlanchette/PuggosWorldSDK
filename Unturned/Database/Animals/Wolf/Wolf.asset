@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wolf
   m_EditorClassIdentifier: 
+  guid: b1a6f5f814a748e9834a255a0b6552e3
+  coreMasterBundlePath: /Animals/Wolf/
   modType: 1
   rarity: 0
   id: 3
+  idLock: 0
   nameEnglish: Wolf
   cloneFrom: {fileID: 0}
   datFileValues:

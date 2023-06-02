@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_8
   m_EditorClassIdentifier: 
+  guid: fb05447948614b889043b938c6fdebd1
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_8/
   modType: 33
   rarity: 0
   id: 2009
+  idLock: 0
   nameEnglish: 'Note - Military #3
 
     

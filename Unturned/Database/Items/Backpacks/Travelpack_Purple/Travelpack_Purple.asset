@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Travelpack_Purple
   m_EditorClassIdentifier: 
+  guid: 56e538633a3e486caecfc1b34ddeebe7
+  coreMasterBundlePath: /Items/Backpacks/Travelpack_Purple/
   modType: 4
   rarity: 0
   id: 249
+  idLock: 0
   nameEnglish: 'Purple Travelpack
 
     Description Medium sized synthetic travel

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sentry
   m_EditorClassIdentifier: 
+  guid: 38d4d107537c4b9f998ffe2863451e31
+  coreMasterBundlePath: /Items/Barricades/Sentry/
   modType: 43
   rarity: 3
   id: 1244
+  idLock: 0
   nameEnglish: 'Neutral Sentry
 
     Description Covers an area by automatically

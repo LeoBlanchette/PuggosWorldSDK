@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Volga_Green
   m_EditorClassIdentifier: 
+  guid: 9ad6faf12eeb4842a53b6cc4a2948b6c
+  coreMasterBundlePath: /Objects/Large/Vehicles/Volga_Green/
   modType: 27
   rarity: 0
   id: 648
+  idLock: 0
   nameEnglish: Green Auto
   cloneFrom: {fileID: 0}
   datFileValues:

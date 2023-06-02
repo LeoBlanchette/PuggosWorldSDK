@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Matamorez_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: ad68650a39274d44bae7cdac7e3e26ac
+  coreMasterBundlePath: /Items/Sights/Matamorez_Iron_Sights/
   modType: 45
   rarity: 0
   id: 1001
+  idLock: 0
   nameEnglish: 'Matamorez Iron Sights
 
     Description Rail mounted iron sights.'

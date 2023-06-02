@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Swissgewehr_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: 46ed6bf87fe74e229adc74fdf4ca01e8
+  coreMasterBundlePath: /Items/Sights/Swissgewehr_Iron_Sights/
   modType: 45
   rarity: 0
   id: 1489
+  idLock: 0
   nameEnglish: 'Swissgewehr Iron Sights
 
     Description Rail mounted iron sights.'

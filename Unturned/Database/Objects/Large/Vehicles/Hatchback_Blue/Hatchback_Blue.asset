@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hatchback_Blue
   m_EditorClassIdentifier: 
+  guid: 5ba15465527a4222b9c73d545a8a7848
+  coreMasterBundlePath: /Objects/Large/Vehicles/Hatchback_Blue/
   modType: 27
   rarity: 0
   id: 147
+  idLock: 0
   nameEnglish: Blue Hatchback
   cloneFrom: {fileID: 0}
   datFileValues:

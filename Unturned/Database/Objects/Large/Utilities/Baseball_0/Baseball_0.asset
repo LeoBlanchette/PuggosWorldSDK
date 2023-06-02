@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Baseball_0
   m_EditorClassIdentifier: 
+  guid: 71a663dfa15d436dae798ccf1341d5af
+  coreMasterBundlePath: /Objects/Large/Utilities/Baseball_0/
   modType: 27
   rarity: 0
   id: 570
+  idLock: 0
   nameEnglish: Baseball #1
   cloneFrom: {fileID: 0}
   datFileValues:

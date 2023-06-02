@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Jeep_Desert
   m_EditorClassIdentifier: 
+  guid: dc859f98cbd34a9e8cf3bf99a3932510
+  coreMasterBundlePath: /Objects/Large/Vehicles/Jeep_Desert/
   modType: 27
   rarity: 0
   id: 468
+  idLock: 0
   nameEnglish: Desert Jeep
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Barracks_5
   m_EditorClassIdentifier: 
+  guid: 21db4a858d664f489cbbed845a78ae44
+  coreMasterBundlePath: /Objects/Large/Buildings/Barracks_5/
   modType: 27
   rarity: 0
   id: 579
+  idLock: 0
   nameEnglish: Russia Barracks #2
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Snow_Pile_00
   m_EditorClassIdentifier: 
+  guid: fc19a9bdc25d4862a40ac09c1f79fab8
+  coreMasterBundlePath: /Trees/Snow_Pile_00/
   modType: 42
   rarity: 0
   id: 51
+  idLock: 0
   nameEnglish: Snow Pile #1
   cloneFrom: {fileID: 0}
   datFileValues:

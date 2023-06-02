@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Glass_Oneway
   m_EditorClassIdentifier: 
+  guid: 198d1990d01c434985ad2356e4626a5a
+  coreMasterBundlePath: /Items/Barricades/Glass_Oneway/
   modType: 6
   rarity: 2
   id: 1299
+  idLock: 0
   nameEnglish: 'One Way Glass
 
     Description Glass pane ideal for spying on suspicious

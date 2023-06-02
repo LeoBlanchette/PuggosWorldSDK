@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ladder_Metal
   m_EditorClassIdentifier: 
+  guid: 135b10309bd64d8c8a0ced067f767834
+  coreMasterBundlePath: /Items/Barricades/Ladder_Metal/
   modType: 6
   rarity: 3
   id: 379
+  idLock: 0
   nameEnglish: 'Metal Ladder
 
     Description Metal ladder ideal for keeping out

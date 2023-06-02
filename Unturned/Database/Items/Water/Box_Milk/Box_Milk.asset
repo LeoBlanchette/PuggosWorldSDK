@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Box_Milk
   m_EditorClassIdentifier: 
+  guid: a156d84bfbc741548292a1981c47b465
+  coreMasterBundlePath: /Items/Water/Box_Milk/
   modType: 62
   rarity: 0
   id: 462
+  idLock: 0
   nameEnglish: 'Milk Box
 
     Description Cow milk perfect for cookies.'

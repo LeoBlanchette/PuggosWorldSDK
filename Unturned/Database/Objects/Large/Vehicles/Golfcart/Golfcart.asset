@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Golfcart
   m_EditorClassIdentifier: 
+  guid: ad79081ddc6e44bf9d4a1cb31d824200
+  coreMasterBundlePath: /Objects/Large/Vehicles/Golfcart/
   modType: 27
   rarity: 0
   id: 451
+  idLock: 0
   nameEnglish: Golfcart
   cloneFrom: {fileID: 0}
   datFileValues:

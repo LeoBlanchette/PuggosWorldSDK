@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bush_Indigo
   m_EditorClassIdentifier: 
+  guid: 824f0713346c433cafa07929506a4b0a
+  coreMasterBundlePath: /Trees/Bush_Indigo/
   modType: 42
   rarity: 0
   id: 13
+  idLock: 0
   nameEnglish: Bush Indigo
   cloneFrom: {fileID: 0}
   datFileValues:

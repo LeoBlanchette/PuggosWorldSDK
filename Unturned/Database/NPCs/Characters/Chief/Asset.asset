@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 951ae837747a47ee94c57fd83ba3197f
+  coreMasterBundlePath: /NPCs/Characters/Chief/
   modType: 36
   rarity: 0
   id: 764
+  idLock: 0
   nameEnglish: 'Chief Brian
 
     Character <color=epic>Chief Brian</color>'

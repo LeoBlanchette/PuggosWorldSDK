@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Door_Metal
   m_EditorClassIdentifier: 
+  guid: 43c1f61927064981bdc3ac657741875d
+  coreMasterBundlePath: /Items/Barricades/Door_Metal/
   modType: 6
   rarity: 3
   id: 378
+  idLock: 0
   nameEnglish: 'Metal Door
 
     Description Metal door ideal for keeping out unwanted

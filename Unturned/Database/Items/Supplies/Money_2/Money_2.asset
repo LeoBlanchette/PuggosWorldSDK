@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Money_2
   m_EditorClassIdentifier: 
+  guid: 5c4e1350fb1d41659d3922b1a85b9924
+  coreMasterBundlePath: /Items/Supplies/Money_2/
   modType: 51
   rarity: 0
   id: 1057
+  idLock: 0
   nameEnglish: 'Toonie
 
     Description Two dollars of currency.'

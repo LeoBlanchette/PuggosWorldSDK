@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Window_Birch
   m_EditorClassIdentifier: 
+  guid: 2163a1d5dcd5442abde1c0246ed6d0a3
+  coreMasterBundlePath: /Items/Structures/Window_Birch/
   modType: 50
   rarity: 0
   id: 59
+  idLock: 0
   nameEnglish: 'Birch Window
 
     Description Birch window. Beware of termites.'

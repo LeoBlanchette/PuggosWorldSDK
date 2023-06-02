@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: HMG_50
   m_EditorClassIdentifier: 
+  guid: bf95f60bb02d4c888abc15116b782fd2
+  coreMasterBundlePath: /Items/Magazines/HMG_50/
   modType: 29
   rarity: 3
   id: 1395
+  idLock: 0
   nameEnglish: 'HMG Box
 
     Description Low caliber military grade <color=epic>HMG</color>

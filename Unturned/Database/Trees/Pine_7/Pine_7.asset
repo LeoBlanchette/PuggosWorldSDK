@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pine_7
   m_EditorClassIdentifier: 
+  guid: 7fa72329fbe04f1e9023f723e96dd166
+  coreMasterBundlePath: /Trees/Pine_7/
   modType: 42
   rarity: 0
   id: 44
+  idLock: 0
   nameEnglish: Pine #8
   cloneFrom: {fileID: 0}
   datFileValues:

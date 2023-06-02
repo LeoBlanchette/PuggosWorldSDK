@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Tracer_20
   m_EditorClassIdentifier: 
+  guid: 62d6546a351140b290080d2e4c6c0488
+  coreMasterBundlePath: /Items/Magazines/Military_Tracer_20/
   modType: 29
   rarity: 3
   id: 1177
+  idLock: 0
   nameEnglish: 'Military Tracer Magazine
 
     Description Low caliber military grade

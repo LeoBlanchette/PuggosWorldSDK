@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Helmet_Arctic
   m_EditorClassIdentifier: 
+  guid: 53a0463be8ba4ac2a90b1ffae899c32d
+  coreMasterBundlePath: /Items/Hats/Military_Helmet_Arctic/
   modType: 25
   rarity: 2
   id: 1519
+  idLock: 0
   nameEnglish: 'Arctic Military Helmet
 
     Description Military headwear to prevent

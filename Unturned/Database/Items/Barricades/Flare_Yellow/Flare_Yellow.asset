@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flare_Yellow
   m_EditorClassIdentifier: 
+  guid: 7b16f68743614ea29c3eb22e9ad6002d
+  coreMasterBundlePath: /Items/Barricades/Flare_Yellow/
   modType: 6
   rarity: 0
   id: 1277
+  idLock: 0
   nameEnglish: 'Yellow Flare Sconce
 
     Description Mounted road flare to provide

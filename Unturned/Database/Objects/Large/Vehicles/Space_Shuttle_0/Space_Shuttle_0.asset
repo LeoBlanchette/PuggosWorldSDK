@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Space_Shuttle_0
   m_EditorClassIdentifier: 
+  guid: 958ff34b2d564421ad89e2e3c5bfb1d5
+  coreMasterBundlePath: /Objects/Large/Vehicles/Space_Shuttle_0/
   modType: 27
   rarity: 0
   id: 885
+  idLock: 0
   nameEnglish: Space Shuttle #1
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flare_Blue
   m_EditorClassIdentifier: 
+  guid: b78bf235ea1e40afb7cfa09c98babf07
+  coreMasterBundlePath: /Items/Throwables/Flare_Blue/
   modType: 54
   rarity: 0
   id: 255
+  idLock: 0
   nameEnglish: 'Blue Flare
 
     Description Road flare for quickly lighting up an

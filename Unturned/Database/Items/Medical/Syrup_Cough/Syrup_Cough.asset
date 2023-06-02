@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Syrup_Cough
   m_EditorClassIdentifier: 
+  guid: e5be32fffc1c431fb0567f1136f06cc2
+  coreMasterBundlePath: /Items/Medical/Syrup_Cough/
   modType: 32
   rarity: 0
   id: 404
+  idLock: 0
   nameEnglish: 'Cough Syrup
 
     Description Foul tasting slop.'

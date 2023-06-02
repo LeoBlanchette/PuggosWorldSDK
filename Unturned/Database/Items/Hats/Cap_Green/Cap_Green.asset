@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cap_Green
   m_EditorClassIdentifier: 
+  guid: e3a85a79902c4d9280ef2e4e2caff44b
+  coreMasterBundlePath: /Items/Hats/Cap_Green/
   modType: 25
   rarity: 0
   id: 427
+  idLock: 0
   nameEnglish: 'Green Cap
 
     Description Shade providing American hat for watching

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pie
   m_EditorClassIdentifier: 
+  guid: 7321dc761640478aa92d2222d56a98e4
+  coreMasterBundlePath: /Items/Food/Pie/
   modType: 18
   rarity: 3
   id: 1047
+  idLock: 0
   nameEnglish: 'Pumpkin Pie
 
     Description Various PI/3.14 related jokes go here.'

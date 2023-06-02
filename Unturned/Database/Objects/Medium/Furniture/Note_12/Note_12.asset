@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_12
   m_EditorClassIdentifier: 
+  guid: 83c21cef6aaf4fc2be81a348af09b2c8
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_12/
   modType: 33
   rarity: 0
   id: 2013
+  idLock: 0
   nameEnglish: "Note - Polysol #1\r\n\r\nInteractability_Text_Line_0 Resources Report\r\nInteractability_Text_Line_1
     Universal ID: 73-5816 \r\nInteractability_Text_Line_2 Local ID: \"Earth\"\r\nInteractability_Text_Line_3
     Universal Time: 18510975918\r\nInteractability_Text_Line_4 Local Time: 7/3/1947\r\nInteractability_Text_Line_5

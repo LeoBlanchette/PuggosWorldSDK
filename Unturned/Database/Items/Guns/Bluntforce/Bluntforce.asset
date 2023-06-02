@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bluntforce
   m_EditorClassIdentifier: 
+  guid: 84acf58f4dec4d55bb7b4ab4edca9d98
+  coreMasterBundlePath: /Items/Guns/Bluntforce/
   modType: 24
   rarity: 2
   id: 112
+  idLock: 0
   nameEnglish: 'Bluntforce
 
     Description American shotgun chambered in 12 Gauge

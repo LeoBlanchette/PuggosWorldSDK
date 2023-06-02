@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rainbow
   m_EditorClassIdentifier: 
+  guid: 7bdf69c10e5f401fae3f0af0abc23e3f
+  coreMasterBundlePath: /Mythics/Rainbow/
   modType: 35
   rarity: 0
   id: 12
+  idLock: 0
   nameEnglish: Particle_Tag_Name Rainbow
   cloneFrom: {fileID: 0}
   datFileValues: []

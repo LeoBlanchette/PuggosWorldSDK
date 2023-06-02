@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Vonya_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: f34f4aa021564dc69bd104359b92624e
+  coreMasterBundlePath: /Items/Sights/Vonya_Iron_Sights/
   modType: 45
   rarity: 0
   id: 1367
+  idLock: 0
   nameEnglish: 'Vonya Iron Sights
 
     Description Rail mounted iron sights.'

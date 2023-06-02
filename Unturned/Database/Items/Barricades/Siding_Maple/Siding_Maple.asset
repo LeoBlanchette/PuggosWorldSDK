@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Siding_Maple
   m_EditorClassIdentifier: 
+  guid: a6e98d783b9b456883d9c3aadef41745
+  coreMasterBundlePath: /Items/Barricades/Siding_Maple/
   modType: 6
   rarity: 1
   id: 1062
+  idLock: 0
   nameEnglish: 'Maple Siding
 
     Description Maple siding. Beware of termites.'

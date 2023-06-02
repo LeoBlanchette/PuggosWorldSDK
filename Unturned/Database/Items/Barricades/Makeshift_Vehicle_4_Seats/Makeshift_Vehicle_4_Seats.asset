@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Makeshift_Vehicle_4_Seats
   m_EditorClassIdentifier: 
+  guid: 10a0529c45264d93a3e77fb9d2e5a3f8
+  coreMasterBundlePath: /Items/Barricades/Makeshift_Vehicle_4_Seats/
   modType: 6
   rarity: 2
   id: 1099
+  idLock: 0
   nameEnglish: '4 Seater Makeshift Vehicle
 
     Description Empty frame ready to

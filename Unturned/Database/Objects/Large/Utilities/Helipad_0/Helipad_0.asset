@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Helipad_0
   m_EditorClassIdentifier: 
+  guid: ba2d561e9d7c4e0283b0f81cd801dfe2
+  coreMasterBundlePath: /Objects/Large/Utilities/Helipad_0/
   modType: 27
   rarity: 0
   id: 271
+  idLock: 0
   nameEnglish: Helipad #1
   cloneFrom: {fileID: 0}
   datFileValues:

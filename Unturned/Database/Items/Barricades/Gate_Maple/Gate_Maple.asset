@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Gate_Maple
   m_EditorClassIdentifier: 
+  guid: f389231e2a504d2b93dcbb67f66e953f
+  coreMasterBundlePath: /Items/Barricades/Gate_Maple/
   modType: 6
   rarity: 1
   id: 451
+  idLock: 0
   nameEnglish: 'Maple Gate
 
     Description Maple gate ideal for keeping out unwanted

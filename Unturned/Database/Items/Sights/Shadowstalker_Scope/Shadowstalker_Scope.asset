@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Shadowstalker_Scope
   m_EditorClassIdentifier: 
+  guid: 55b19ff730eb4a5d83440d79a5a0432f
+  coreMasterBundlePath: /Items/Sights/Shadowstalker_Scope/
   modType: 45
   rarity: 4
   id: 302
+  idLock: 0
   nameEnglish: 'Shadowstalker Scope
 
     Description Rail mounted Shadowstalker

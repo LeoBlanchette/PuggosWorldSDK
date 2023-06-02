@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ekho
   m_EditorClassIdentifier: 
+  guid: 41fec21172e249cc823bec21ca1d140d
+  coreMasterBundlePath: /Items/Guns/Ekho/
   modType: 24
   rarity: 4
   id: 1382
+  idLock: 0
   nameEnglish: 'Ekho
 
     Description Russian sniper rifle chambered in Ekho ammunition.'

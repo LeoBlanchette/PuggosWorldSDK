@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Orca_France
   m_EditorClassIdentifier: 
+  guid: ff60b22396ed43e6835aedbc2d6f6016
+  coreMasterBundlePath: /Vehicles/Orca_France/
   modType: 58
   rarity: 3
   id: 184
+  idLock: 0
   nameEnglish: Orca
   cloneFrom: {fileID: 0}
   datFileValues:

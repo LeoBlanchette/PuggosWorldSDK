@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tape
   m_EditorClassIdentifier: 
+  guid: 93cc36b86963467fbccbe8c4e0ad32b5
+  coreMasterBundlePath: /Items/Supplies/Tape/
   modType: 51
   rarity: 0
   id: 69
+  idLock: 0
   nameEnglish: 'Tape
 
     Description Sticky combination of ducts and ducks.'

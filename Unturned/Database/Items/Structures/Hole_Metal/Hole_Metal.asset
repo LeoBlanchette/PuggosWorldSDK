@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hole_Metal
   m_EditorClassIdentifier: 
+  guid: bc49600faab749009ec4e1e3504ff126
+  coreMasterBundlePath: /Items/Structures/Hole_Metal/
   modType: 50
   rarity: 3
   id: 376
+  idLock: 0
   nameEnglish: 'Metal Hole
 
     Description Metal hole. Beware of robotic termites.'

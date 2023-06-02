@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Top_Desert
   m_EditorClassIdentifier: 
+  guid: 9dee3dff05b24014ae3c66d19ff2a507
+  coreMasterBundlePath: /Items/Shirts/Military_Top_Desert/
   modType: 44
   rarity: 2
   id: 1011
+  idLock: 0
   nameEnglish: 'Desert Military Top
 
     Description Military uniform shirt.'

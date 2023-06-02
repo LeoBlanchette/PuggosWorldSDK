@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plate_Large_Maple_Equilateral
   m_EditorClassIdentifier: 
+  guid: 395ccd8f2bde47fa8cfcd934ccbc173b
+  coreMasterBundlePath: /Items/Barricades/Plate_Large_Maple_Equilateral/
   modType: 6
   rarity: 1
   id: 1146
+  idLock: 0
   nameEnglish: 'Large Maple Plate
 
     Description Maple plate. Beware of termites.'

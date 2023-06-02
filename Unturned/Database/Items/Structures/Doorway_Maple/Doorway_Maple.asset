@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Doorway_Maple
   m_EditorClassIdentifier: 
+  guid: d249aa1ae9e5485580be69ec89e1c24b
+  coreMasterBundlePath: /Items/Structures/Doorway_Maple/
   modType: 50
   rarity: 1
   id: 32
+  idLock: 0
   nameEnglish: 'Maple Doorway
 
     Description Maple doorway. Beware of termites.'

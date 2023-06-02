@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rack_Pine
   m_EditorClassIdentifier: 
+  guid: 184d6285bb09403bb2df2bd3497b728a
+  coreMasterBundlePath: /Items/Barricades/Rack_Pine/
   modType: 49
   rarity: 2
   id: 1204
+  idLock: 0
   nameEnglish: 'Pine Rifle Rack
 
     Description Pine rack for storing rifles.'

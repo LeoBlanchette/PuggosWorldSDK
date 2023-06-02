@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coil_2_Takeable
   m_EditorClassIdentifier: 
+  guid: 55e23f582d58406293d8044f36630a36
+  coreMasterBundlePath: /Objects/Medium/Quests/Teleporter/Coil_2_Takeable/
   modType: 33
   rarity: 0
   id: 1031
+  idLock: 0
   nameEnglish: 'Teleporter Coil #3 Takeable
 
     

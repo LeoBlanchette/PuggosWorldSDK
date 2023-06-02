@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Mannequin_Metal
   m_EditorClassIdentifier: 
+  guid: 459f55ead3c24ecdb74c032df29c0b81
+  coreMasterBundlePath: /Items/Barricades/Mannequin_Metal/
   modType: 6
   rarity: 3
   id: 1409
+  idLock: 0
   nameEnglish: 'Metal Mannequin
 
     Description Metal mannequin for storing clothes.'

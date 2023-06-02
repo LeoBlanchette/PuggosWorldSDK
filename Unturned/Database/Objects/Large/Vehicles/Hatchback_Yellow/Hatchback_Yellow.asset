@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hatchback_Yellow
   m_EditorClassIdentifier: 
+  guid: 0f43f144bfd4404799f949ebfcfb1769
+  coreMasterBundlePath: /Objects/Large/Vehicles/Hatchback_Yellow/
   modType: 27
   rarity: 0
   id: 153
+  idLock: 0
   nameEnglish: Yellow Hatchback
   cloneFrom: {fileID: 0}
   datFileValues:

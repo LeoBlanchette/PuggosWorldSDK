@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Roadster_Yellow
   m_EditorClassIdentifier: 
+  guid: 5dd04559ca4448e5aa99e257b61ce7d4
+  coreMasterBundlePath: /Vehicles/Roadster_Yellow/
   modType: 58
   rarity: 2
   id: 50
+  idLock: 0
   nameEnglish: Yellow Roadster
   cloneFrom: {fileID: 0}
   datFileValues:

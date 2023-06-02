@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Steer_1
   m_EditorClassIdentifier: 
+  guid: 3e1f7ff880ea4bb68a136621b3b39859
+  coreMasterBundlePath: /Objects/Small/Business/Steer_1/
   modType: 47
   rarity: 0
   id: 172
+  idLock: 0
   nameEnglish: Steer #2
   cloneFrom: {fileID: 0}
   datFileValues:

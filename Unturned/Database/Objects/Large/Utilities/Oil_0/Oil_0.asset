@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Oil_0
   m_EditorClassIdentifier: 
+  guid: 715b1a10b6d342fea226236094c39e23
+  coreMasterBundlePath: /Objects/Large/Utilities/Oil_0/
   modType: 27
   rarity: 0
   id: 284
+  idLock: 0
   nameEnglish: Oil #1
   cloneFrom: {fileID: 0}
   datFileValues:

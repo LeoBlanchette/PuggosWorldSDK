@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Toque_Purple
   m_EditorClassIdentifier: 
+  guid: b480330a87654190bb3ba9cc4bd4a269
+  coreMasterBundlePath: /Items/Hats/Toque_Purple/
   modType: 25
   rarity: 0
   id: 196
+  idLock: 0
   nameEnglish: 'Purple Toque
 
     Description Warm Canadian hat for the stormy winters.'

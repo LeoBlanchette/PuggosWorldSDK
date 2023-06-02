@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Shirt_Black
   m_EditorClassIdentifier: 
+  guid: 36a49dc354d1434c8f5cc65727216231
+  coreMasterBundlePath: /Items/Shirts/Shirt_Black/
   modType: 44
   rarity: 0
   id: 183
+  idLock: 0
   nameEnglish: 'Black Shirt
 
     Description Moderate weather shirt.'

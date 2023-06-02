@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Train_Car_3
   m_EditorClassIdentifier: 
+  guid: 7c3900126f1e438baef10435423700f0
+  coreMasterBundlePath: /Objects/Large/Vehicles/Train_Car_3/
   modType: 27
   rarity: 0
   id: 615
+  idLock: 0
   nameEnglish: Train Car #4
   cloneFrom: {fileID: 0}
   datFileValues:

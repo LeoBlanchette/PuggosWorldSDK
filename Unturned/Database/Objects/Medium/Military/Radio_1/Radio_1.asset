@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Radio_1
   m_EditorClassIdentifier: 
+  guid: 8ccd8f6408d54edb853599740ed60771
+  coreMasterBundlePath: /Objects/Medium/Military/Radio_1/
   modType: 33
   rarity: 0
   id: 680
+  idLock: 0
   nameEnglish: Radio #2
   cloneFrom: {fileID: 0}
   datFileValues:

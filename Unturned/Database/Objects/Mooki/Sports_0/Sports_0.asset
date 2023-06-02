@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sports_0
   m_EditorClassIdentifier: 
+  guid: c1888b787cc243239481698f3c1ba88d
+  coreMasterBundlePath: /Objects/Mooki/Sports_0/
   modType: 27
   rarity: 0
   id: 591
+  idLock: 0
   nameEnglish: Sports #1
   cloneFrom: {fileID: 0}
   datFileValues:

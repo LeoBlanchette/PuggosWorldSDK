@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Volga_Yellow
   m_EditorClassIdentifier: 
+  guid: bbb205759a9743fb8a44f50738cdcaad
+  coreMasterBundlePath: /Objects/Large/Vehicles/Volga_Yellow/
   modType: 27
   rarity: 0
   id: 653
+  idLock: 0
   nameEnglish: Yellow Auto
   cloneFrom: {fileID: 0}
   datFileValues:

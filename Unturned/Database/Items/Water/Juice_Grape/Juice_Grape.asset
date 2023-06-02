@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Juice_Grape
   m_EditorClassIdentifier: 
+  guid: 732cc082dd5542418394fc731e7fb392
+  coreMasterBundlePath: /Items/Water/Juice_Grape/
   modType: 62
   rarity: 0
   id: 92
+  idLock: 0
   nameEnglish: 'Grape Juice
 
     Description Tasty grape juice extract.'

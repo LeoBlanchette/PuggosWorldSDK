@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Doorframe_Birch
   m_EditorClassIdentifier: 
+  guid: 77a1f33ba5fa4cb4a968633e383f9fcc
+  coreMasterBundlePath: /Items/Barricades/Doorframe_Birch/
   modType: 6
   rarity: 0
   id: 1085
+  idLock: 0
   nameEnglish: 'Birch Doorframe
 
     Description Birch doorframe. Beware of termites.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_14
   m_EditorClassIdentifier: 
+  guid: 7eae53803ffd47df84f34188cbbc9c75
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_14/
   modType: 33
   rarity: 0
   id: 2015
+  idLock: 0
   nameEnglish: "Note - News #1\r\n\r\nInteractability_Text_Line_0 \"Big J Exposed!\"
     Rough Draft\r\nInteractability_Text_Line_1 think of a better title maybe \"Is
     Big J poisoning your food?\" or \"Is Big J making their food more addicting?\"\r\nInteractability_Text_Line_2

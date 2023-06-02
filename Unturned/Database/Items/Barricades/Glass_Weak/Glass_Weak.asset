@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Glass_Weak
   m_EditorClassIdentifier: 
+  guid: dfe0cc634f73459580bf48288020121b
+  coreMasterBundlePath: /Items/Barricades/Glass_Weak/
   modType: 6
   rarity: 1
   id: 1297
+  idLock: 0
   nameEnglish: 'Weak Glass
 
     Description Glass pane ideal for looking at unwanted

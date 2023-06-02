@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Shelf_4
   m_EditorClassIdentifier: 
+  guid: b0d4f669c1b64c699f11e1c3376ee9ed
+  coreMasterBundlePath: /Objects/Medium/Business/Shelf_4/
   modType: 33
   rarity: 0
   id: 766
+  idLock: 0
   nameEnglish: Shelf #5
   cloneFrom: {fileID: 0}
   datFileValues:

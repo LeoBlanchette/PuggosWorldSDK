@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pipe_Maple
   m_EditorClassIdentifier: 
+  guid: 6d9589e9dcd247618281dbc7eb8ee11b
+  coreMasterBundlePath: /Items/Barricades/Pipe_Maple/
   modType: 6
   rarity: 1
   id: 1063
+  idLock: 0
   nameEnglish: 'Maple Pipe
 
     Description Maple pipe. Beware of termites.'

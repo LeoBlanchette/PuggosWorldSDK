@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Post_0
   m_EditorClassIdentifier: 
+  guid: 0af0e6fed2b74bffaa4d54d06dd4ee83
+  coreMasterBundlePath: /Objects/Large/Buildings/Post_0/
   modType: 27
   rarity: 0
   id: 84
+  idLock: 0
   nameEnglish: Post #1
   cloneFrom: {fileID: 0}
   datFileValues:

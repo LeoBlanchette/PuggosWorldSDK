@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Viper
   m_EditorClassIdentifier: 
+  guid: 7fb74be069d24997954055bafed63a4e
+  coreMasterBundlePath: /Items/Guns/Viper/
   modType: 24
   rarity: 2
   id: 1027
+  idLock: 0
   nameEnglish: 'Viper
 
     Description German carbine chambered in Viper ammunition.'

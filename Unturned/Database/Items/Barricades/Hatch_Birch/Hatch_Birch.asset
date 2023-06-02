@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hatch_Birch
   m_EditorClassIdentifier: 
+  guid: 27243679d17942358c10dad841f157cc
+  coreMasterBundlePath: /Items/Barricades/Hatch_Birch/
   modType: 6
   rarity: 0
   id: 1330
+  idLock: 0
   nameEnglish: 'Birch Hatch
 
     Description Birch trapdoor ideal for keeping out

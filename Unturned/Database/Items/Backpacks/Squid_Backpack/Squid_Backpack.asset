@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Squid_Backpack
   m_EditorClassIdentifier: 
+  guid: 3516a0dd9e6d4567b20743e33cbb95f4
+  coreMasterBundlePath: /Items/Backpacks/Squid_Backpack/
   modType: 4
   rarity: 3
   id: 787
+  idLock: 0
   nameEnglish: 'Davy Jones Locker
 
     Description Legend says it contains Davy''s

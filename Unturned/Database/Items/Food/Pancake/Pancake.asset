@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Pancake
   m_EditorClassIdentifier: 
+  guid: bcbb2f50c6e34e0180d35c2a3c83e247
+  coreMasterBundlePath: /Items/Food/Pancake/
   modType: 18
   rarity: 2
   id: 1160
+  idLock: 0
   nameEnglish: 'Pancake
 
     Description Warm batter cake coated in maple syrup.'

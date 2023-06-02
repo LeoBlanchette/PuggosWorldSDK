@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tower_Airport_0
   m_EditorClassIdentifier: 
+  guid: 4f737c04baa14905a5b8b3f3aa57c6ae
+  coreMasterBundlePath: /Objects/Large/Buildings/Tower_Airport_0/
   modType: 27
   rarity: 0
   id: 267
+  idLock: 0
   nameEnglish: Airport Tower #1
   cloneFrom: {fileID: 0}
   datFileValues:

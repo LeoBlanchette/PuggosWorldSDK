@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Nykorev
   m_EditorClassIdentifier: 
+  guid: 25a28f9d277b452ea3aeb8a3bfa57e3a
+  coreMasterBundlePath: /Items/Guns/Nykorev/
   modType: 24
   rarity: 3
   id: 126
+  idLock: 0
   nameEnglish: 'Nykorev
 
     Description Russian machine gun chambered in Nykorev

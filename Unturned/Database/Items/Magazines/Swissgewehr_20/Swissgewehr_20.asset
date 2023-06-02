@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Swissgewehr_20
   m_EditorClassIdentifier: 
+  guid: cd1b60eea9484ea8b9f60e4a20401a1a
+  coreMasterBundlePath: /Items/Magazines/Swissgewehr_20/
   modType: 29
   rarity: 2
   id: 1490
+  idLock: 0
   nameEnglish: 'Swissgewehr Magazine
 
     Description Low caliber military grade

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cargo_Evidence
   m_EditorClassIdentifier: 
+  guid: 6e80c335f5314e78a6b53dfbc8e6e87b
+  coreMasterBundlePath: /Objects/Small/Quests/Cargo_Evidence/
   modType: 47
   rarity: 0
   id: 827
+  idLock: 0
   nameEnglish: 'Cargo Evidence
 
     

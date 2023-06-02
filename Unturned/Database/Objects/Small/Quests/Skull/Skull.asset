@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Skull
   m_EditorClassIdentifier: 
+  guid: de848085f6b74e4fa83e3f6d01437c6d
+  coreMasterBundlePath: /Objects/Small/Quests/Skull/
   modType: 47
   rarity: 0
   id: 836
+  idLock: 0
   nameEnglish: 'Skull
 
     

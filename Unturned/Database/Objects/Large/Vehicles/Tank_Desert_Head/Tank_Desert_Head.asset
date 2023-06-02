@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tank_Desert_Head
   m_EditorClassIdentifier: 
+  guid: 6b6e74d781684ec599a469f05a73332d
+  coreMasterBundlePath: /Objects/Large/Vehicles/Tank_Desert_Head/
   modType: 27
   rarity: 0
   id: 640
+  idLock: 0
   nameEnglish: Desert Tank Head
   cloneFrom: {fileID: 0}
   datFileValues:

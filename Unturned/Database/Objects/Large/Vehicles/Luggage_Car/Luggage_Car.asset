@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Luggage_Car
   m_EditorClassIdentifier: 
+  guid: 4753634d75e645e0b99b35590214dd3f
+  coreMasterBundlePath: /Objects/Large/Vehicles/Luggage_Car/
   modType: 27
   rarity: 0
   id: 665
+  idLock: 0
   nameEnglish: Luggage Car
   cloneFrom: {fileID: 0}
   datFileValues:

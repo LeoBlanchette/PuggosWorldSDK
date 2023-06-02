@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Makeshift_Vehicle_1_Seat
   m_EditorClassIdentifier: 
+  guid: 50acc6ee053e42a29cda5612648e6026
+  coreMasterBundlePath: /Items/Barricades/Makeshift_Vehicle_1_Seat/
   modType: 6
   rarity: 1
   id: 1112
+  idLock: 0
   nameEnglish: '1 Seater Makeshift Vehicle
 
     Description Empty frame ready to

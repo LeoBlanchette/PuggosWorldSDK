@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: HMG
   m_EditorClassIdentifier: 
+  guid: c3544f116c104c5099f8dc18503275b9
+  coreMasterBundlePath: /Items/Guns/HMG/
   modType: 24
   rarity: 3
   id: 1394
+  idLock: 0
   nameEnglish: 'HMG
 
     Description Heavy machine gun chambered in HMG ammunition.'

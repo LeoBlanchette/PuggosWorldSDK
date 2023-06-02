@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Clock
   m_EditorClassIdentifier: 
+  guid: d418bf3117e14b71ad29a5ff6a79f5d7
+  coreMasterBundlePath: /Items/Barricades/Clock/
   modType: 6
   rarity: 2
   id: 1509
+  idLock: 0
   nameEnglish: 'Clock
 
     Description Displays the current time.'

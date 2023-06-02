@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: de3c563e6af74c13830034859623a39a
+  coreMasterBundlePath: /NPCs/Characters/Coalition_Soldier_1/
   modType: 36
   rarity: 0
   id: 810
+  idLock: 0
   nameEnglish: 'Coalition Soldier Vicky
 
     Character <color=uncommon>Ensign Vicky</color>'

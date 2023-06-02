@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Peacemaker_50
   m_EditorClassIdentifier: 
+  guid: fbe3819f3da54c198eaff3e5c1cfcd89
+  coreMasterBundlePath: /Items/Magazines/Peacemaker_50/
   modType: 29
   rarity: 2
   id: 1026
+  idLock: 0
   nameEnglish: 'Peacemaker Magazine
 
     Description Low caliber military grade

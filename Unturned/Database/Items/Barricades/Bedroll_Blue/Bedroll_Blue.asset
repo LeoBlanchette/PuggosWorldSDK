@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bedroll_Blue
   m_EditorClassIdentifier: 
+  guid: c70fc07c70534bf29aa8509a7a7c94a2
+  coreMasterBundlePath: /Items/Barricades/Bedroll_Blue/
   modType: 6
   rarity: 0
   id: 289
+  idLock: 0
   nameEnglish: 'Blue Bedroll
 
     Description Warm bed perfect for a campsite.'

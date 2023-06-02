@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Post_Metal
   m_EditorClassIdentifier: 
+  guid: 1e3bba5a92d446d0aa7d7dacd9a47691
+  coreMasterBundlePath: /Items/Structures/Post_Metal/
   modType: 50
   rarity: 3
   id: 449
+  idLock: 0
   nameEnglish: 'Metal Post
 
     Description Metal post. Beware of robotic termites.'

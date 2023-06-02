@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Canned_Ham
   m_EditorClassIdentifier: 
+  guid: 13a55c7688e7488e8955b900d7da1d1f
+  coreMasterBundlePath: /Items/Food/Canned_Ham/
   modType: 18
   rarity: 0
   id: 469
+  idLock: 0
   nameEnglish: 'Canned Ham
 
     Description Pink and somehow cooked.'

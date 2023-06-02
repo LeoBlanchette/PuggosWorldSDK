@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sandwich_Cheese
   m_EditorClassIdentifier: 
+  guid: 91e0c5059e7e4a36ab28eb1ceac42ea8
+  coreMasterBundlePath: /Items/Food/Sandwich_Cheese/
   modType: 18
   rarity: 2
   id: 466
+  idLock: 0
   nameEnglish: 'Grilled Cheese Sandwich
 
     Description Tasty grilled cheese in

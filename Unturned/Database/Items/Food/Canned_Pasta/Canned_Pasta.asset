@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Canned_Pasta
   m_EditorClassIdentifier: 
+  guid: 7c6dbe8f6d9a4424ad68e708462df996
+  coreMasterBundlePath: /Items/Food/Canned_Pasta/
   modType: 18
   rarity: 0
   id: 87
+  idLock: 0
   nameEnglish: 'Canned Pasta
 
     Description All kinds of noodles and tubes ready

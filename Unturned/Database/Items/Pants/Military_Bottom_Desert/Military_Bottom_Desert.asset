@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Military_Bottom_Desert
   m_EditorClassIdentifier: 
+  guid: 76069b6a5d5a495d912c007b4e8d9a0a
+  coreMasterBundlePath: /Items/Pants/Military_Bottom_Desert/
   modType: 39
   rarity: 2
   id: 1012
+  idLock: 0
   nameEnglish: 'Desert Military Bottom
 
     Description Military uniform pants.'

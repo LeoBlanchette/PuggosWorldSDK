@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Oktoberfest_0
   m_EditorClassIdentifier: 
+  guid: 113e55fec6d04e97ae9ae7bb20eb95c6
+  coreMasterBundlePath: /Objects/Large/Buildings/Oktoberfest_0/
   modType: 27
   rarity: 0
   id: 1011
+  idLock: 0
   nameEnglish: Oktoberfest #1
   cloneFrom: {fileID: 0}
   datFileValues:

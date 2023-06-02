@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Biohazard_Hood
   m_EditorClassIdentifier: 
+  guid: e80bc3f5fe384ec3b0dd53fb58de7936
+  coreMasterBundlePath: /Items/Masks/Biohazard_Hood/
   modType: 31
   rarity: 2
   id: 1017
+  idLock: 0
   nameEnglish: 'Biohazard Hood
 
     Description Yeah science!'

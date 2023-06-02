@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wall_Ramp_Metal
   m_EditorClassIdentifier: 
+  guid: b2fbf015af6940589a891aa82842407c
+  coreMasterBundlePath: /Items/Structures/Wall_Ramp_Metal/
   modType: 50
   rarity: 3
   id: 1417
+  idLock: 0
   nameEnglish: 'Metal Ramp Wall
 
     Description Metal ramp wall. Beware of robotic

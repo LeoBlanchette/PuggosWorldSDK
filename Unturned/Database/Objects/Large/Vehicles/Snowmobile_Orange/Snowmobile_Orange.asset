@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Snowmobile_Orange
   m_EditorClassIdentifier: 
+  guid: 97b23fd3a16e4661b89bbfdc7ae8d832
+  coreMasterBundlePath: /Objects/Large/Vehicles/Snowmobile_Orange/
   modType: 27
   rarity: 0
   id: 435
+  idLock: 0
   nameEnglish: Orange Snowmobile
   cloneFrom: {fileID: 0}
   datFileValues:

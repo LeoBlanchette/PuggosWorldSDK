@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sign_Maple
   m_EditorClassIdentifier: 
+  guid: 62397f7b6d8d40e0aec4d9e06595cbe5
+  coreMasterBundlePath: /Items/Barricades/Sign_Maple/
   modType: 6
   rarity: 1
   id: 1095
+  idLock: 0
   nameEnglish: 'Maple Sign
 
     Description Maple sign coupled with colorful markers.'

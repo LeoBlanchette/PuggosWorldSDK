@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Zweihander_Returnable
   m_EditorClassIdentifier: 
+  guid: dcacc3a8f48945d7aa8c8d71db300a87
+  coreMasterBundlePath: /Objects/Small/Quests/Zweihander_Returnable/
   modType: 47
   rarity: 0
   id: 1019
+  idLock: 0
   nameEnglish: 'Zweihander Returnable
 
     

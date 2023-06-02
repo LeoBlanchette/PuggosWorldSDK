@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hangar_0
   m_EditorClassIdentifier: 
+  guid: 689ac81e5497464394bd32cde0c407a8
+  coreMasterBundlePath: /Objects/Large/Buildings/Hangar_0/
   modType: 27
   rarity: 0
   id: 266
+  idLock: 0
   nameEnglish: Hangar #1
   cloneFrom: {fileID: 0}
   datFileValues:

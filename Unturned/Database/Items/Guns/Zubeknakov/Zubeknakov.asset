@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Zubeknakov
   m_EditorClassIdentifier: 
+  guid: 4a59579e42bf4666b668285ba71494d3
+  coreMasterBundlePath: /Items/Guns/Zubeknakov/
   modType: 24
   rarity: 3
   id: 122
+  idLock: 0
   nameEnglish: 'Zubeknakov
 
     Description Russian assault rifle chambered in Ranger

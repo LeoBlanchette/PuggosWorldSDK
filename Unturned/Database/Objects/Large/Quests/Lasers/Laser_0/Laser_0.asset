@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Laser_0
   m_EditorClassIdentifier: 
+  guid: 48e020ef0a2842e0a5d393d70b387e4f
+  coreMasterBundlePath: /Objects/Large/Quests/Lasers/Laser_0/
   modType: 27
   rarity: 0
   id: 856
+  idLock: 0
   nameEnglish: Laser #1
   cloneFrom: {fileID: 0}
   datFileValues:

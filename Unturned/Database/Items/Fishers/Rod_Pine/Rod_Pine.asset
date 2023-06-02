@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Rod_Pine
   m_EditorClassIdentifier: 
+  guid: f1da3d31fdfd4551be84bba442866f23
+  coreMasterBundlePath: /Items/Fishers/Rod_Pine/
   modType: 17
   rarity: 0
   id: 508
+  idLock: 0
   nameEnglish: 'Pine Rod
 
     Description Long range fish generator.'

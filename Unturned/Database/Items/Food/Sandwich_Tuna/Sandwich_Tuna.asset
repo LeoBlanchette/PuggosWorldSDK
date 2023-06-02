@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Sandwich_Tuna
   m_EditorClassIdentifier: 
+  guid: bed45c2677c840f796c0f9ff16dbd9f9
+  coreMasterBundlePath: /Items/Food/Sandwich_Tuna/
   modType: 18
   rarity: 2
   id: 461
+  idLock: 0
   nameEnglish: 'Tuna Sandwich
 
     Description Tasty tuna in a blanket of bread.'

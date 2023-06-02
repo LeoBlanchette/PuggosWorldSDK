@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Beret_Russia
   m_EditorClassIdentifier: 
+  guid: d4c6e137a5ac4c5dabe0aba187330b2b
+  coreMasterBundlePath: /Items/Hats/Beret_Russia/
   modType: 25
   rarity: 1
   id: 1388
+  idLock: 0
   nameEnglish: 'Beret
 
     Description Bill''s.'

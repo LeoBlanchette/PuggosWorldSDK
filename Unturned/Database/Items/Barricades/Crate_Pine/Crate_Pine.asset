@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Crate_Pine
   m_EditorClassIdentifier: 
+  guid: 68bb0d3ff65a487fa99a2445ce4ce7e0
+  coreMasterBundlePath: /Items/Barricades/Crate_Pine/
   modType: 49
   rarity: 2
   id: 368
+  idLock: 0
   nameEnglish: 'Pine Crate
 
     Description Pine crate for storing items.'

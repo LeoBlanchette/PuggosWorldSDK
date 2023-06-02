@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Beach_Blue
   m_EditorClassIdentifier: 
+  guid: 5739b11ea6904faf803bbda6521dd1a3
+  coreMasterBundlePath: /Items/Barricades/Beach_Blue/
   modType: 6
   rarity: 0
   id: 1315
+  idLock: 0
   nameEnglish: 'Blue Beach Chair
 
     Description Comfy spot to relax in the shade.'

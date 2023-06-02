@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Headlamp
   m_EditorClassIdentifier: 
+  guid: e6c17c67e7be4d0ea67fc483717c756e
+  coreMasterBundlePath: /Items/Glasses/Headlamp/
   modType: 21
   rarity: 1
   id: 1199
+  idLock: 0
   nameEnglish: 'Headlamp
 
     Description Head mounted flashlight.'

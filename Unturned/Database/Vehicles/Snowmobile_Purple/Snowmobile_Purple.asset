@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Snowmobile_Purple
   m_EditorClassIdentifier: 
+  guid: da2622a0a2ac49ee99d0f44be756b866
+  coreMasterBundlePath: /Vehicles/Snowmobile_Purple/
   modType: 58
   rarity: 0
   id: 63
+  idLock: 0
   nameEnglish: Purple Snowmobile
   cloneFrom: {fileID: 0}
   datFileValues:

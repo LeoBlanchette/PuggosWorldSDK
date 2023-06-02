@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fertilizer
   m_EditorClassIdentifier: 
+  guid: ab135222fd3f457fb147d424ddf8e400
+  coreMasterBundlePath: /Items/Growers/Fertilizer/
   modType: 23
   rarity: 1
   id: 332
+  idLock: 0
   nameEnglish: "Fertilizer \r\nDescription Carefully disguised cow poop."
   cloneFrom: {fileID: 0}
   datFileValues:

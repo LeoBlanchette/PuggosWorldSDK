@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: GPS
   m_EditorClassIdentifier: 
+  guid: 00a98139275e48cea0c6c1d3194dee3c
+  coreMasterBundlePath: /Items/Maps/GPS/
   modType: 30
   rarity: 3
   id: 1176
+  idLock: 0
   nameEnglish: 'GPS
 
     Description Satellite view of the surrounding area.'

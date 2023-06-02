@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Impact_Grenade
   m_EditorClassIdentifier: 
+  guid: 650d9ec49b454e16bfc370f00d131dd7
+  coreMasterBundlePath: /Items/Throwables/Impact_Grenade/
   modType: 54
   rarity: 3
   id: 1520
+  idLock: 0
   nameEnglish: 'Impact Grenade
 
     Description Military grade throwable impact

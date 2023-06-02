@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Resource_Fuel
   m_EditorClassIdentifier: 
+  guid: 9b6a2ffd4f4045649143005e2fc6f067
+  coreMasterBundlePath: /Items/Barricades/Resource_Fuel/
   modType: 53
   rarity: 3
   id: 1229
+  idLock: 0
   nameEnglish: 'Fuel Tank
 
     Description Safely stores gas.'

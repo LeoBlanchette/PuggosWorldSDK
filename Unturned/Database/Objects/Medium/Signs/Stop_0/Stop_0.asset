@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Stop_0
   m_EditorClassIdentifier: 
+  guid: 76b8d7f328664ef8be3a437e6fa82399
+  coreMasterBundlePath: /Objects/Medium/Signs/Stop_0/
   modType: 33
   rarity: 0
   id: 9
+  idLock: 0
   nameEnglish: Stop Sign #1
   cloneFrom: {fileID: 0}
   datFileValues:

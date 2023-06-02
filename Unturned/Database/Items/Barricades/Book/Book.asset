@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Book
   m_EditorClassIdentifier: 
+  guid: 6b9769ed9d194cf4a5c2b90b782f52bb
+  coreMasterBundlePath: /Items/Barricades/Book/
   modType: 6
   rarity: 0
   id: 1327
+  idLock: 0
   nameEnglish: 'Book
 
     Description Keep track of important information.'

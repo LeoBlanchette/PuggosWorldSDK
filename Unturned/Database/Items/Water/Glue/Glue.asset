@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Glue
   m_EditorClassIdentifier: 
+  guid: c3499d92604744f091de585ab9e11c56
+  coreMasterBundlePath: /Items/Water/Glue/
   modType: 62
   rarity: 0
   id: 70
+  idLock: 0
   nameEnglish: 'Glue
 
     Description Super strong liquidy binding substance.'

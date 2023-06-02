@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Door_Stable_Bottom
   m_EditorClassIdentifier: 
+  guid: 33e6882a7dac47c4a95fd4fb336f1025
+  coreMasterBundlePath: /Objects/Medium/Utilities/Door_Stable_Bottom/
   modType: 33
   rarity: 0
   id: 610
+  idLock: 0
   nameEnglish: Stable Door Bottom
   cloneFrom: {fileID: 0}
   datFileValues:

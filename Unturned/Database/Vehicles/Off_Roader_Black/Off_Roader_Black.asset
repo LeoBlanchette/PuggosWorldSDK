@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Off_Roader_Black
   m_EditorClassIdentifier: 
+  guid: f8c0b4c65ed5413f844642255d211f81
+  coreMasterBundlePath: /Vehicles/Off_Roader_Black/
   modType: 58
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: Black Offroader
   cloneFrom: {fileID: 0}
   datFileValues:

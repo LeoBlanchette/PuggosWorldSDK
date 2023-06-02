@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: SUV_Yellow
   m_EditorClassIdentifier: 
+  guid: eb845ed0900544f5905b7b88bb32d9a4
+  coreMasterBundlePath: /Vehicles/SUV_Yellow/
   modType: 58
   rarity: 0
   id: 132
+  idLock: 0
   nameEnglish: Yellow Rover
   cloneFrom: {fileID: 0}
   datFileValues:

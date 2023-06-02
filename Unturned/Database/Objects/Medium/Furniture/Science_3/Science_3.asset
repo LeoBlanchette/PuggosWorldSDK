@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Science_3
   m_EditorClassIdentifier: 
+  guid: bc82ba3f65dc4ecebd90c143a3997e61
+  coreMasterBundlePath: /Objects/Medium/Furniture/Science_3/
   modType: 33
   rarity: 0
   id: 369
+  idLock: 0
   nameEnglish: Science #4
   cloneFrom: {fileID: 0}
   datFileValues:

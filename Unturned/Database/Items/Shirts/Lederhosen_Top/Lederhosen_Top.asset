@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Lederhosen_Top
   m_EditorClassIdentifier: 
+  guid: b183aaf45e234c3b8e5f09e12aa0e1b4
+  coreMasterBundlePath: /Items/Shirts/Lederhosen_Top/
   modType: 44
   rarity: 1
   id: 1498
+  idLock: 0
   nameEnglish: 'Lederhosen Top
 
     Description Ready for a great Oktoberfest!'

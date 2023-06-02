@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dirtbike_Orange
   m_EditorClassIdentifier: 
+  guid: ee9401f3dac745c79a5373b6af763e72
+  coreMasterBundlePath: /Vehicles/Dirtbike_Orange/
   modType: 58
   rarity: 0
   id: 179
+  idLock: 0
   nameEnglish: Orange Dirtbike
   cloneFrom: {fileID: 0}
   datFileValues:

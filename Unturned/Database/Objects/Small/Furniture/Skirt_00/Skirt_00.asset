@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Skirt_00
   m_EditorClassIdentifier: 
+  guid: c185d1439de34bdda09ae79038154069
+  coreMasterBundlePath: /Objects/Small/Furniture/Skirt_00/
   modType: 47
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: Skirt #1
   cloneFrom: {fileID: 0}
   datFileValues:

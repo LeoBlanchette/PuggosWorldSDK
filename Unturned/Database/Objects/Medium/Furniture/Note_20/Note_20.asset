@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_20
   m_EditorClassIdentifier: 
+  guid: 035f7cc10c2441398157cea95c2c5806
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_20/
   modType: 33
   rarity: 0
   id: 2021
+  idLock: 0
   nameEnglish: 'Russia Note - Military
 
     

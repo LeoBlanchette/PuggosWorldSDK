@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ranger_40
   m_EditorClassIdentifier: 
+  guid: 08b534e6599a489ea0a215e838b69b41
+  coreMasterBundlePath: /Items/Supplies/Ranger_40/
   modType: 51
   rarity: 2
   id: 119
+  idLock: 0
   nameEnglish: 'Low Caliber Ranger Ammunition Box
 
     Description Low caliber ranger

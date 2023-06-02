@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Jeep_Forest
   m_EditorClassIdentifier: 
+  guid: 6ca0a10d425243faad2f6a1bb9158c5b
+  coreMasterBundlePath: /Vehicles/Jeep_Forest/
   modType: 58
   rarity: 2
   id: 87
+  idLock: 0
   nameEnglish: 'Forest Offroader
 
 '

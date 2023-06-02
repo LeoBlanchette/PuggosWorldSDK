@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Cooler
   m_EditorClassIdentifier: 
+  guid: 836f1f86f33041a292c7b55d92ffb59c
+  coreMasterBundlePath: /Items/Barricades/Cooler/
   modType: 49
   rarity: 2
   id: 1283
+  idLock: 0
   nameEnglish: 'Cooler
 
     Description Metal storage for cold drinks.'

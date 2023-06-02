@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Log_Pine
   m_EditorClassIdentifier: 
+  guid: addb90d481c949758894a0a3c1ec479f
+  coreMasterBundlePath: /Items/Supplies/Log_Pine/
   modType: 51
   rarity: 2
   id: 41
+  idLock: 0
   nameEnglish: 'Pine Log
 
     Description Recently cut, high quality pine.'

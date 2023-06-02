@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flare_Blue
   m_EditorClassIdentifier: 
+  guid: 8d576af936a84afab323129d819c2f61
+  coreMasterBundlePath: /Items/Barricades/Flare_Blue/
   modType: 6
   rarity: 0
   id: 1272
+  idLock: 0
   nameEnglish: 'Blue Flare Sconce
 
     Description Mounted road flare to provide

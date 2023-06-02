@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Demo_Building
   m_EditorClassIdentifier: 
+  guid: ed0d3713578942b4a0b55d0804725e9c
+  coreMasterBundlePath: /Objects/Large/Buildings/Demo_Building/
   modType: 27
   rarity: 0
   id: 735
+  idLock: 0
   nameEnglish: Demo Building
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Monument_Decorations_00
   m_EditorClassIdentifier: 
+  guid: 03ed6a0198d0413e8674afdd0c0a5db4
+  coreMasterBundlePath: /Objects/Large/Buildings/Monument_Decorations_00/
   modType: 27
   rarity: 0
   id: 1
+  idLock: 0
   nameEnglish: Monument Decorations #1
   cloneFrom: {fileID: 0}
   datFileValues:

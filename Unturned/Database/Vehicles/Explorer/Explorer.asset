@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Explorer
   m_EditorClassIdentifier: 
+  guid: d46da333137446938f39f1331953314a
+  coreMasterBundlePath: /Vehicles/Explorer/
   modType: 58
   rarity: 1
   id: 58
+  idLock: 0
   nameEnglish: Explorer
   cloneFrom: {fileID: 0}
   datFileValues:

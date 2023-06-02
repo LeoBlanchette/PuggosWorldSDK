@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Tee_Purple
   m_EditorClassIdentifier: 
+  guid: b3b03cb255d74b3f9ead6b4577f00978
+  coreMasterBundlePath: /Items/Shirts/Tee_Purple/
   modType: 44
   rarity: 0
   id: 159
+  idLock: 0
   nameEnglish: 'Purple T-Shirt
 
     Description Warm weather tee.'

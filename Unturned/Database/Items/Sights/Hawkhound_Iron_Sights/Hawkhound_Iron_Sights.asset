@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Hawkhound_Iron_Sights
   m_EditorClassIdentifier: 
+  guid: 6e86aba029b9477bb37206d06c46bb9b
+  coreMasterBundlePath: /Items/Sights/Hawkhound_Iron_Sights/
   modType: 45
   rarity: 0
   id: 110
+  idLock: 0
   nameEnglish: 'Hawkhound Iron Sights
 
     Description Rail mounted iron sights.'

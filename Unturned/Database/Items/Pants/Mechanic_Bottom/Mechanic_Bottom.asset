@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Mechanic_Bottom
   m_EditorClassIdentifier: 
+  guid: 9031ccc8a0c1464ba0ea7acafd352228
+  coreMasterBundlePath: /Items/Pants/Mechanic_Bottom/
   modType: 39
   rarity: 1
   id: 406
+  idLock: 0
   nameEnglish: 'Mechanic Bottom
 
     Description Repairing uniform pants.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bricks_2
   m_EditorClassIdentifier: 
+  guid: 9a6999282dbb42f4b87a745864e83f12
+  coreMasterBundlePath: /Objects/Small/Rubble/Bricks_2/
   modType: 47
   rarity: 0
   id: 937
+  idLock: 0
   nameEnglish: Bricks #3
   cloneFrom: {fileID: 0}
   datFileValues:

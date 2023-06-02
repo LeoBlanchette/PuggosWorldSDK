@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: c475b5758080482583b70b9816235346
+  coreMasterBundlePath: /NPCs/Dialogues/Coalition_Soldier/Coalition_Soldier/
   modType: 13
   rarity: 0
   id: 90
+  idLock: 0
   nameEnglish: "Message_0_Page_0 Welcome aboard! You should probably go talk to <color=legendary>Captain
     Sydney</color> on the bridge for orientation.\r\nMessage_1_Page_0 Good to see
     you <color=uncommon>Ensign <name_char></color>!\r\nMessage_2_Page_0 Good to see

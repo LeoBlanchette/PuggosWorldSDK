@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Chewing_Gum
   m_EditorClassIdentifier: 
+  guid: 757d7b6ff6634c1b8f338ba7bed31787
+  coreMasterBundlePath: /Items/Food/Chewing_Gum/
   modType: 18
   rarity: 0
   id: 1510
+  idLock: 0
   nameEnglish: 'Chewing Gum
 
     Description Minty fresh! Will leave your breath

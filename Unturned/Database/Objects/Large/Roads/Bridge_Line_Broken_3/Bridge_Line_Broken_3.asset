@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bridge_Line_Broken_3
   m_EditorClassIdentifier: 
+  guid: f251713465bd4bffb4ce5318e752ab72
+  coreMasterBundlePath: /Objects/Large/Roads/Bridge_Line_Broken_3/
   modType: 27
   rarity: 0
   id: 319
+  idLock: 0
   nameEnglish: Bridge Line Broken #2 Europe
   cloneFrom: {fileID: 0}
   datFileValues:

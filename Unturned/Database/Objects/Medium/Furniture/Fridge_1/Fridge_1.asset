@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Fridge_1
   m_EditorClassIdentifier: 
+  guid: 5b3c719440084c37963c654c0b578ed8
+  coreMasterBundlePath: /Objects/Medium/Furniture/Fridge_1/
   modType: 33
   rarity: 0
   id: 360
+  idLock: 0
   nameEnglish: Fridge #2
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 3058dd03db7b4c139c5fdd1707c4d083
+  coreMasterBundlePath: /NPCs/Quests/Upgrade_Rod/
   modType: 40
   rarity: 0
   id: 37
+  idLock: 0
   nameEnglish: 'The Ultimate Fishing Rod
 
     Description Wallace needs a reinforced

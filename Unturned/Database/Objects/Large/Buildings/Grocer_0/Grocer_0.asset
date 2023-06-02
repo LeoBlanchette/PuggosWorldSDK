@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Grocer_0
   m_EditorClassIdentifier: 
+  guid: fd6b8ea318d247b183edf088bd4fc520
+  coreMasterBundlePath: /Objects/Large/Buildings/Grocer_0/
   modType: 27
   rarity: 0
   id: 86
+  idLock: 0
   nameEnglish: Grocer #1
   cloneFrom: {fileID: 0}
   datFileValues:

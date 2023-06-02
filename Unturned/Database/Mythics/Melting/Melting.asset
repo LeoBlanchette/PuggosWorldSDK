@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Melting
   m_EditorClassIdentifier: 
+  guid: 9aa74c8c9a15406d90705225d07db1d0
+  coreMasterBundlePath: /Mythics/Melting/
   modType: 35
   rarity: 0
   id: 21
+  idLock: 0
   nameEnglish: Particle_Tag_Name Melting
   cloneFrom: {fileID: 0}
   datFileValues: []

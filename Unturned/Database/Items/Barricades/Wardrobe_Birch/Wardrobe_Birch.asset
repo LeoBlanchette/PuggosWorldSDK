@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Wardrobe_Birch
   m_EditorClassIdentifier: 
+  guid: 3fd85ada2f5448b4a978db39989251e3
+  coreMasterBundlePath: /Items/Barricades/Wardrobe_Birch/
   modType: 49
   rarity: 0
   id: 1279
+  idLock: 0
   nameEnglish: 'Birch Wardrobe
 
     Description Birch wardrobe for storing items.'

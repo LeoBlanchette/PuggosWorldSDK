@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Candle_0
   m_EditorClassIdentifier: 
+  guid: 7344d5c07c254fffb72996b791cde7af
+  coreMasterBundlePath: /Objects/Small/Furniture/Candle_0/
   modType: 47
   rarity: 0
   id: 736
+  idLock: 0
   nameEnglish: Candle #1
   cloneFrom: {fileID: 0}
   datFileValues:

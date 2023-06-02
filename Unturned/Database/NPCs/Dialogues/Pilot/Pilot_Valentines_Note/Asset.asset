@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 8d725e2938a74450a89e3693e395ed40
+  coreMasterBundlePath: /NPCs/Dialogues/Pilot/Pilot_Valentines_Note/
   modType: 13
   rarity: 0
   id: 235
+  idLock: 0
   nameEnglish: Message_0_Page_0 Oh interesting let's see...<pause> There's another
     note in here addressed to <color=legendary>Captain Sydney</color>!
   cloneFrom: {fileID: 0}

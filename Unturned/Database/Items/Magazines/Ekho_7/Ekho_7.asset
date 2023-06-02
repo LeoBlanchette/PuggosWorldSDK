@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ekho_7
   m_EditorClassIdentifier: 
+  guid: dde17f03c2fc4585accba16d8c4696fa
+  coreMasterBundlePath: /Items/Magazines/Ekho_7/
   modType: 29
   rarity: 4
   id: 1384
+  idLock: 0
   nameEnglish: 'Ekho Magazine
 
     Description High caliber ranger grade <color=legendary>Ekho</color>

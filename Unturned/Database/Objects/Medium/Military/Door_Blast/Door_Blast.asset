@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Door_Blast
   m_EditorClassIdentifier: 
+  guid: 585b56e0aea748558e21f0b2400904e1
+  coreMasterBundlePath: /Objects/Medium/Military/Door_Blast/
   modType: 33
   rarity: 0
   id: 617
+  idLock: 0
   nameEnglish: Blast Door
   cloneFrom: {fileID: 0}
   datFileValues:

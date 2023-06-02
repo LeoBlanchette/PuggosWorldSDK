@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flare_Yellow
   m_EditorClassIdentifier: 
+  guid: 2c5b4542be544e5db137c7d15c36d176
+  coreMasterBundlePath: /Items/Throwables/Flare_Yellow/
   modType: 54
   rarity: 0
   id: 260
+  idLock: 0
   nameEnglish: 'Yellow Flare
 
     Description Road flare for quickly lighting up

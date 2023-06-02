@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bridge_Ramp_0
   m_EditorClassIdentifier: 
+  guid: 86111c57a52d4bb4a80b39f150d9d33c
+  coreMasterBundlePath: /Objects/Large/Roads/Bridge_Ramp_0/
   modType: 27
   rarity: 0
   id: 918
+  idLock: 0
   nameEnglish: Bridge Ramp #1
   cloneFrom: {fileID: 0}
   datFileValues:

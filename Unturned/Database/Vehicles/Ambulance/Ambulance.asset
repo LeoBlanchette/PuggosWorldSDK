@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Ambulance
   m_EditorClassIdentifier: 
+  guid: 5b4b867b803b4cdb9dd08e1adea9273d
+  coreMasterBundlePath: /Vehicles/Ambulance/
   modType: 58
   rarity: 1
   id: 54
+  idLock: 0
   nameEnglish: Ambulance
   cloneFrom: {fileID: 0}
   datFileValues:

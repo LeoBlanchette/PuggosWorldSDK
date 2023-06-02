@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coat_0
   m_EditorClassIdentifier: 
+  guid: a97693882ae543549ae2eba9cc836a28
+  coreMasterBundlePath: /Objects/Medium/Furniture/Coat_0/
   modType: 33
   rarity: 0
   id: 356
+  idLock: 0
   nameEnglish: Coat #1
   cloneFrom: {fileID: 0}
   datFileValues:

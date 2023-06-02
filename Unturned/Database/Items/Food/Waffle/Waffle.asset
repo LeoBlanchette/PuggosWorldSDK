@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Waffle
   m_EditorClassIdentifier: 
+  guid: 124adc0e41c74113a1c1458256a290ca
+  coreMasterBundlePath: /Items/Food/Waffle/
   modType: 18
   rarity: 2
   id: 1161
+  idLock: 0
   nameEnglish: 'Waffle
 
     Description Warm dough in a pattern coated with maple

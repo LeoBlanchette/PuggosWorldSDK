@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Flashlight
   m_EditorClassIdentifier: 
+  guid: 82985046bac6469bb6665a99d690be1a
+  coreMasterBundlePath: /Items/Melee/Flashlight/
   modType: 34
   rarity: 0
   id: 276
+  idLock: 0
   nameEnglish: 'Flashlight
 
     Description Portable handheld lamp for nighttime

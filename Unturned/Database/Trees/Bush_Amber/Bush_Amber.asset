@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Bush_Amber
   m_EditorClassIdentifier: 
+  guid: 9967f8e9b95a49e7abb3edcfc48b3f36
+  coreMasterBundlePath: /Trees/Bush_Amber/
   modType: 42
   rarity: 0
   id: 12
+  idLock: 0
   nameEnglish: Bush Amber
   cloneFrom: {fileID: 0}
   datFileValues:

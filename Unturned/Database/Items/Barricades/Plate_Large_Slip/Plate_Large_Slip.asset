@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Plate_Large_Slip
   m_EditorClassIdentifier: 
+  guid: 5530e5def57d468da296d0dbe8389e97
+  coreMasterBundlePath: /Items/Barricades/Plate_Large_Slip/
   modType: 6
   rarity: 3
   id: 1239
+  idLock: 0
   nameEnglish: 'Large Slippery Plate
 
     Description Slippery plate. Beware of

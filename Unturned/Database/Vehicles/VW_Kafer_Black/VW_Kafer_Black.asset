@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: VW_Kafer_Black
   m_EditorClassIdentifier: 
+  guid: af6b4633e72c4e9cb56a43266e04f281
+  coreMasterBundlePath: /Vehicles/VW_Kafer_Black/
   modType: 58
   rarity: 0
   id: 158
+  idLock: 0
   nameEnglish: Black Beetle
   cloneFrom: {fileID: 0}
   datFileValues:

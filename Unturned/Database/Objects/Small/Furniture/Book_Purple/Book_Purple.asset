@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Book_Purple
   m_EditorClassIdentifier: 
+  guid: 47aee44865144afdbdbff81cd9f321ef
+  coreMasterBundlePath: /Objects/Small/Furniture/Book_Purple/
   modType: 47
   rarity: 0
   id: 352
+  idLock: 0
   nameEnglish: Purple Book
   cloneFrom: {fileID: 0}
   datFileValues:

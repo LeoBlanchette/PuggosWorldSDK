@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Eggs
   m_EditorClassIdentifier: 
+  guid: 9e472f9a52094151943099d40743f3d7
+  coreMasterBundlePath: /Items/Food/Eggs/
   modType: 18
   rarity: 0
   id: 470
+  idLock: 0
   nameEnglish: 'Eggs
 
     Description Chicken eggs ready for the frying pan.'

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Note_Peaks_19
   m_EditorClassIdentifier: 
+  guid: e76e429100c5404ebeb2a29edc2897f4
+  coreMasterBundlePath: /Objects/Medium/Furniture/Note_Peaks_19/
   modType: 33
   rarity: 0
   id: 2047
+  idLock: 0
   nameEnglish: 'Peaks Note - National Redoubt
 
     

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Stick_Birch
   m_EditorClassIdentifier: 
+  guid: 26a54fd07e144060ac8678fbf2f69722
+  coreMasterBundlePath: /Items/Supplies/Stick_Birch/
   modType: 51
   rarity: 0
   id: 38
+  idLock: 0
   nameEnglish: 'Birch Stick
 
     Description Recently cut, high quality birch.'

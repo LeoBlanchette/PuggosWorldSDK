@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Coconut_Half
   m_EditorClassIdentifier: 
+  guid: 45ad10671bd14fb8ac4aa96952d082ac
+  coreMasterBundlePath: /Items/Food/Coconut_Half/
   modType: 18
   rarity: 0
   id: 1453
+  idLock: 0
   nameEnglish: 'Split Coconut
 
     Description Brown drupe.'

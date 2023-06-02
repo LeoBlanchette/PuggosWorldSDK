@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Frame_Small_Maple
   m_EditorClassIdentifier: 
+  guid: fcd274efa4f9496c8a20f1025e917434
+  coreMasterBundlePath: /Items/Barricades/Frame_Small_Maple/
   modType: 6
   rarity: 1
   id: 1061
+  idLock: 0
   nameEnglish: 'Small Maple Frame
 
     Description Maple frame. Beware of termites.'

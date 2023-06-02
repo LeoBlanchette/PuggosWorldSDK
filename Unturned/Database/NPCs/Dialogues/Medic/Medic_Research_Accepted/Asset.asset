@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: eabae2c0f8f146ac935a5bc2dcd33052
+  coreMasterBundlePath: /NPCs/Dialogues/Medic/Medic_Research_Accepted/
   modType: 13
   rarity: 0
   id: 125
+  idLock: 0
   nameEnglish: Message_0_Page_0 Good luck! Anything you find will be helpful.
   cloneFrom: {fileID: 0}
   datFileValues:

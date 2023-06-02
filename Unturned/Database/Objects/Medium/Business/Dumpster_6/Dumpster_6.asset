@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Dumpster_6
   m_EditorClassIdentifier: 
+  guid: 2fc6976ed1034735be163e4296d331d3
+  coreMasterBundlePath: /Objects/Medium/Business/Dumpster_6/
   modType: 33
   rarity: 0
   id: 696
+  idLock: 0
   nameEnglish: Dumpster #7
   cloneFrom: {fileID: 0}
   datFileValues:

@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a50680b6592bd4aad3da1741bfb7ea, type: 3}
   m_Name: Asset
   m_EditorClassIdentifier: 
+  guid: 4de6d6e4e5444d30af8d2dd1c1988a82
+  coreMasterBundlePath: /NPCs/Characters/Coalition_Crew_0/
   modType: 36
   rarity: 0
   id: 800
+  idLock: 0
   nameEnglish: 'Coalition Crew Zoe
 
     Character <color=uncommon>Ensign Zoe</color>'
