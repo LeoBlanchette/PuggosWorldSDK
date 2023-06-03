@@ -339,6 +339,9 @@ namespace LB3D.PuggosWorld.Unturned
             if (string.IsNullOrEmpty(guid) || regenerate) { 
                 guid = Guid.NewGuid().ToString("N");                
             }
+            if (regenerate) {
+                Debug.Log("Guid Regenerated. Now: " + guid);
+            }
         }
 
         public string GetGuid() {

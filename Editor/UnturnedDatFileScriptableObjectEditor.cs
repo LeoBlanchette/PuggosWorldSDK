@@ -22,6 +22,11 @@ namespace LB3D.PuggosWorld.Unturned
             {
                 script.CloneFromDatFileObject(true);
             }
+            if (GUILayout.Button("Regenerate GUID", GUILayout.Height(40)))
+            {
+                script.GenerateGuid(true);
+                EditorUtility.SetDirty(script);
+            }
             if (GUILayout.Button("Test", GUILayout.Height(40)))
             {
                 script.Test();
