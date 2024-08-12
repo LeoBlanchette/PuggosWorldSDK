@@ -83,7 +83,8 @@ namespace LB3D.PuggosWorld.Unturned
             Vest,
             Water
         }
-        [HideInInspector]
+        //[HideInInspector]
+        //Removed to let users assign a custom GUID. Useful when transitioning to using this toolkit, with keeping the already used GUIDs.
         [SerializeField]
         public string guid;
         
@@ -92,11 +93,21 @@ namespace LB3D.PuggosWorld.Unturned
         public string coreMasterBundlePath = "";
 
         public ModType modType;
+        [Header("Rarity")]
+        [Tooltip("Only items and vehicles require rarity.")]
+        public bool hasRarity = false;
         public Rarity rarity;
+        [Header("ID")]
+        [Tooltip("Many asset types only require a GUID to work.")]
+        public bool hasId = true;
         public int id;
         [Tooltip("Protect ID from being changed.")]
         public bool idLock = false;
+        [Header("Localization")]
         public string nameEnglish;
+        [Tooltip("Only items need descriptions.")]
+        public bool hasDescription = false;
+        public string descriptionEnglish;
         public UnturnedDatFileScriptableObject cloneFrom;
 
         private string[] newlines = new string[] { "\r\n", "\r", "\n" };
@@ -148,6 +159,7 @@ namespace LB3D.PuggosWorld.Unturned
             modType = ModType.None;
             rarity = Rarity.Common; 
             nameEnglish = null;
+            descriptionEnglish = null;
 
             id = cloneFrom.id;
             modType = cloneFrom.modType;
@@ -233,6 +245,7 @@ namespace LB3D.PuggosWorld.Unturned
             if (key == "guid") return true;
             if (key == "type") return true;
             if (key == "rarity") return true;
+            if (key == "descriptionEnglish") return true;
             return false;
         }
 
@@ -267,6 +280,7 @@ namespace LB3D.PuggosWorld.Unturned
             modType = ModType.None;
             rarity = Rarity.Common;
             nameEnglish = null;
+            descriptionEnglish = null;
         }
 
         public void LockId(bool lockId = true) {
@@ -287,8 +301,14 @@ namespace LB3D.PuggosWorld.Unturned
             string datText = "";
             datText += "GUID " + GetGuid() + "\n";
             datText += "Type " + modType.ToString() + "\n";
+            //Added option to disable rarity as it is only required for items and vehicles.
+            if (hasRarity) {
             datText += "Rarity " + rarity.ToString() + "\n";
+            }
+            //Added option to disable ID as it is not required for assets like objects and vehicles.
+            if (hasId) {
             datText += "ID " + id.ToString() + "\n";
+            }
 
             foreach (KeyValEntry keyValEntry in datFileValues)
             {
@@ -328,6 +348,11 @@ namespace LB3D.PuggosWorld.Unturned
         public string GetNameEnglish()
         {
             return nameEnglish;
+        }
+
+        public string GetDescriptionEnglish()
+        {
+            return descriptionEnglish;
         }
 
         public string GetFolderName()

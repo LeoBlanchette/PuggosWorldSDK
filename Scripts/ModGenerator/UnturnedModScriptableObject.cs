@@ -12,10 +12,11 @@ namespace LB3D.PuggosWorld.Unturned
 
         public enum Asset_Bundle_Version
         {
+            Asset_Bundle_Version_5,
             Asset_Bundle_Version_4,
             Asset_Bundle_Version_3,
             Asset_Bundle_Version_2,
-            Asset_Bundle_Version_1,
+            Asset_Bundle_Version_1
         }
                 
         [Header("Mod Name (no spaces)")]
@@ -55,6 +56,7 @@ namespace LB3D.PuggosWorld.Unturned
             #if UNITY_EDITOR
             string text = datFile.GetText();
             string nameEnglish = datFile.GetNameEnglish();
+            string descriptionEnglish = datFile.GetDescriptionEnglish(); // Added the option to add a description
             string folderName = datFile.GetFolderName();
 
             string unturnedSandBox = Path.Combine(UnturnedModsGlobalSettingsObject.Instance.unturnedInstallationPath, "Sandbox", "Bundles");
@@ -65,7 +67,8 @@ namespace LB3D.PuggosWorld.Unturned
                 Directory.CreateDirectory(destinationFolder);
             }
             File.WriteAllText(Path.Combine(destinationFolder, folderName + ".dat"), text);
-            File.WriteAllText(Path.Combine(destinationFolder, "English.dat"), "Name " + nameEnglish);
+            if(descriptionEnglish != "") File.WriteAllText(Path.Combine(destinationFolder, "English.dat"), "Name " + nameEnglish + "\nDescription " + descriptionEnglish);
+            else File.WriteAllText(Path.Combine(destinationFolder, "English.dat"), "Name " + nameEnglish); // Conditionally write description to English.dat
             #endif
         }
 
@@ -135,6 +138,8 @@ namespace LB3D.PuggosWorld.Unturned
         {
             switch (assetBundleVersion)
             {
+                case Asset_Bundle_Version.Asset_Bundle_Version_5: // Added for Unity 2021 LTS
+                    return 5;
                 case Asset_Bundle_Version.Asset_Bundle_Version_4:
                     return 4;
                 case Asset_Bundle_Version.Asset_Bundle_Version_3:
