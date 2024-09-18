@@ -8,6 +8,13 @@ namespace LB3D.PuggosWorld.Unturned
     public class UnturnedVehicleConfigurationObject : ScriptableObject
     {
         [System.Serializable]
+        public class PaintableSections
+        {
+            public string path;
+            public int materialIndex;
+        }
+
+        [System.Serializable]
         public class DefaultPaintColors
         {
             public string paintColor;
@@ -57,7 +64,7 @@ namespace LB3D.PuggosWorld.Unturned
 
         // Properties
         public bool useVehiclePaint = false;
-        public string[] paintableSection;
+        public PaintableSections[] paintableSection;
         public DefaultPaintColorMode defaultPaintColorMode = DefaultPaintColorMode.List;
         public DefaultPaintColors[] defaultPaintColors;
         public DefaultPaintColorsRandom defaultPaintColorsRandom;
@@ -89,14 +96,17 @@ namespace LB3D.PuggosWorld.Unturned
         public string GetPaintableSections()
         {
             if (paintableSection == null || paintableSection.Length == 0 || !useVehiclePaint) return "";
+            
             string text = "PaintableSections" + Newline() + "[" + Newline();
-            for (int i = 0; i < paintableSection.Length; i++)
+            
+            foreach (var section in paintableSection)
             {
                 text += "\t{" + Newline();
-                text += $"\t\tPath {paintableSection[i]}" + Newline();
-                text += $"\t\tMaterialIndex {i}" + Newline();
+                text += $"\t\tPath {section.path}" + Newline();
+                text += $"\t\tMaterialIndex {section.materialIndex}" + Newline();
                 text += "\t}" + Newline();
             }
+            
             text += "]" + Newline();
             return text;
         }
