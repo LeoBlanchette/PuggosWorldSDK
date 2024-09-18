@@ -83,8 +83,6 @@ namespace LB3D.PuggosWorld.Unturned
             Vest,
             Water
         }
-        //[HideInInspector]
-        //Removed to let users assign a custom GUID. Useful when transitioning to using this toolkit, with keeping the already used GUIDs.
         [SerializeField]
         public string guid;
         
@@ -122,6 +120,8 @@ namespace LB3D.PuggosWorld.Unturned
         public List<KeyValEntry> datFileValues = new List<KeyValEntry>();
 
         public List<UnturnedCraftingRecipeObject> craftingRecipies = new List<UnturnedCraftingRecipeObject>();
+
+        public List<UnturnedVehicleConfigurationObject> vehicleConfiguration = new List<UnturnedVehicleConfigurationObject>();
 
         private void Awake()
         {
@@ -316,10 +316,21 @@ namespace LB3D.PuggosWorld.Unturned
                 if (keyValEntry.key.ToLower() == "rarity") continue;
                 if (keyValEntry.key.ToLower() == "guid") continue;
                 if (keyValEntry.key.ToLower() == "id") continue;
+                
+                if (keyValEntry.key.ToLower() == "speed_min") datText += "\n";
+                if (keyValEntry.key.ToLower() == "steer_min") datText += "\n";
+                if (keyValEntry.key.ToLower() == "brake") datText += "\n";
+                if (keyValEntry.key.ToLower() == "fuel_min") datText += "\n";
+                if (keyValEntry.key.ToLower() == "health_min") datText += "\n";
+                if (keyValEntry.key.ToLower() == "trunk_storage_x") datText += "\n";
+                if (keyValEntry.key.ToLower() == "explosion") datText += "\n";
+
                 datText += keyValEntry.key + " " + keyValEntry.val + "\n";
             }
 
             datText += GetBlueprintsText();
+
+            datText += GetVehicleConfigurationsText();
 
             return datText;
         }
@@ -330,7 +341,6 @@ namespace LB3D.PuggosWorld.Unturned
         /// I don't know why I write comments. Maybe its because 
         /// writing can be fun some times. 
         /// </summary>
-        /// <returns></returns>
         public string GetBlueprintsText() {
             if (craftingRecipies == null) return "";
             if (craftingRecipies.Count == 0) return "";
@@ -342,6 +352,18 @@ namespace LB3D.PuggosWorld.Unturned
                 text += recipeText;
                 i++;
             }
+            return text;
+        }
+
+        public string GetVehicleConfigurationsText() {
+            if (vehicleConfiguration == null || vehicleConfiguration.Count == 0) return "";
+
+            string text = "\n";
+            foreach (UnturnedVehicleConfigurationObject vehicleConfig in vehicleConfiguration)
+            {
+                text += vehicleConfig.GetConfigurationText() + "\n";
+            }
+
             return text;
         }
 
